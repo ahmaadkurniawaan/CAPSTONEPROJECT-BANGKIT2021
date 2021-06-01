@@ -43,7 +43,7 @@
          "rating" : 4.6,
          "reference" : "ChIJWaptGiRYei4RYLkVWxq6yGI",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi"],
          "user_ratings_total" : 152,
          "vicinity" : "Jalan Gandekan No.69, Pringgokusuman"
       },
@@ -88,7 +88,7 @@
          "rating" : 4.8,
          "reference" : "ChIJSSjC4CNYei4RNQ881fh6cjA",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 3064,
          "vicinity" : "Jalan I Dewa Nyoman Oka No.13, Kotabaru"
       },
@@ -130,7 +130,7 @@
          "rating" : 4.8,
          "reference" : "ChIJFcpoyTdYei4RODZEDwNSk5s",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 43,
          "vicinity" : "Cokrodiningratan"
       },
@@ -175,7 +175,7 @@
          "rating" : 5,
          "reference" : "ChIJg2LAEEhYei4RtjI4MDS_rQ0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 6,
          "vicinity" : "Jalan A.M. Sangaji No.68 B, Cokrodiningratan"
       },
@@ -220,7 +220,7 @@
          "rating" : 4.7,
          "reference" : "ChIJw4I2vTpYei4RxqScW6OAn_U",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 75,
          "vicinity" : "Jalan Gowongan Lor, Gowongan"
       },
@@ -251,7 +251,7 @@
          },
          "reference" : "ChIJtd1d2l5Zei4RRTC_FOk1LDM",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Pangeran Diponegoro No.22 B, Gowongan"
       },
       {
@@ -282,7 +282,7 @@
          "rating" : 4,
          "reference" : "ChIJG400vTBYei4R5P0HQfx8VxA",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan A.M. Sangaji No.14, Cokrodiningratan"
       },
@@ -324,7 +324,7 @@
          "rating" : 5,
          "reference" : "ChIJDY1alDBYei4RvPHcp2rPLn8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Unnamed Road, Cokrodiningratan"
       },
@@ -356,7 +356,7 @@
          "rating" : 4.5,
          "reference" : "ChIJizqv6jpYei4R53flHs_RkU4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 6,
          "vicinity" : "Jogoyudan, Gowongan, Kotagede, Gowongan"
       },
@@ -388,7 +388,7 @@
          "rating" : 5,
          "reference" : "ChIJQV4WwDpYei4RNfktFo15HOo",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jogoyudan, Kotagede, Gowongan"
       },
@@ -430,7 +430,7 @@
          "rating" : 4.7,
          "reference" : "ChIJU-oH-zpYei4RqQn1Lwji3ak",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 14,
          "vicinity" : "Jalan Penumping No.241, Gowongan"
       },
@@ -475,7 +475,7 @@
          "rating" : 4.4,
          "reference" : "ChIJq7kQ4i9Yei4RoP8YkpaU4Zw",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 17,
          "vicinity" : "Jl. Kp. Jogoyudan JT III/768, Gowongan"
       },
@@ -507,7 +507,7 @@
          "rating" : 4,
          "reference" : "ChIJq88E3y9Yei4RR87qmOARwHM",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan Kampung Jogoyudan No.605, Gowongan"
       },
@@ -539,7 +539,7 @@
          "rating" : 4,
          "reference" : "ChIJYc2XVTpYei4RURSNXKNEidQ",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jalan Poncowinatan No.33, Gowongan"
       },
@@ -570,7 +570,7 @@
          },
          "reference" : "ChIJSdGGAjtYei4RjlK-YrNeLPI",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Pangeran Diponegoro No.58, Gowongan"
       },
       {
@@ -600,7 +600,7 @@
          },
          "reference" : "ChIJN4Mw_jpYei4RS-riqNmnE5E",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "JL Gendeng, Gk IV/252, Jetis, Gowongan"
       },
       {
@@ -630,7 +630,7 @@
          },
          "reference" : "ChIJdWP6_zpYei4R3-enblwN1KU",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Prawirodirjan GM II, No. 322, RT. 22, RW. 08, Jetis, Gowongan"
       },
       {
@@ -674,7 +674,7 @@
          "rating" : 4.7,
          "reference" : "ChIJMbIRVzBYei4R4n9WsHer_8c",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 54,
          "vicinity" : "Jalan Gondolayu Lor, Cokrodiningratan"
       },
@@ -716,7 +716,7 @@
          "rating" : 4.7,
          "reference" : "ChIJrQrXNDdYei4R36BydC01hAY",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 21,
          "vicinity" : "Jalan A.M. Sangaji No.22, Cokrodiningratan"
       },
@@ -748,7 +748,7 @@
          "rating" : 4.2,
          "reference" : "ChIJe9dI9C9Yei4R42JkhC4wEAc",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 5,
          "vicinity" : "Jalan Gowongan Kidul, Gowongan"
       }

@@ -43,7 +43,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ____PzdYei4REL2p2P_Vsv8",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah"],
          "user_ratings_total" : 3771,
          "vicinity" : "Cokrodiningratan"
       },
@@ -88,7 +88,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 1187,
          "vicinity" : "Jalan Faridan M Noto No.21, Kotabaru"
       },
@@ -133,7 +133,7 @@
          "rating" : 4.2,
          "reference" : "ChIJ9zq8ziVYei4Rp-pMmOuI_sI",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 795,
          "vicinity" : "Jalan Pasar Kembang, Sosromenduran"
       },
@@ -179,10 +179,7 @@
          "reference" : "ChIJv6nZziVYei4ReNJyvHXBCHc",
          "scope" : "GOOGLE",
          "types" : [
-            "travel_agency",
-            "tourist_attraction",
-            "point_of_interest",
-            "establishment"
+            "budaya", "sejarah"
          ],
          "user_ratings_total" : 19,
          "vicinity" : "Jalan Kampung Sosromenduran, Sosromenduran"
@@ -228,7 +225,7 @@
          "rating" : 4.5,
          "reference" : "ChIJlaFGdTRYei4RiQSq2gaVOrI",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 79,
          "vicinity" : "Jalan Cik Di Tiro No.5, Terban"
       },
@@ -273,7 +270,7 @@
          "rating" : 4.7,
          "reference" : "ChIJfU6GqTNYei4RtM56PmctyoU",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 485,
          "vicinity" : "Jalan Jendral Sudirman No.75, Terban"
       },
@@ -318,7 +315,7 @@
          "rating" : 4.6,
          "reference" : "ChIJTSR_DepZei4Re0edCbN-LUY",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 19,
          "vicinity" : "Gowongan"
       },
@@ -361,7 +358,7 @@
          "rating" : 4.2,
          "reference" : "ChIJ9xnFYjpYei4RQCW1SEqq310",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 25,
          "vicinity" : "Jalan Pangeran Diponegoro No.19, Gowongan"
       },
@@ -404,10 +401,7 @@
          "reference" : "ChIJJ1CzbTpYei4RzMIb0qnQ2o8",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "budaya", "sejarah"
          ],
          "user_ratings_total" : 217,
          "vicinity" : "Jalan Poncowinatan No.12-18, Gowongan"
@@ -453,7 +447,7 @@
          "rating" : 4.7,
          "reference" : "ChIJgdGW_YVXei4RogxwAZbHORk",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 6,
          "vicinity" : "Jalan Gowongan Lor No.6, Gowongan"
       },
@@ -495,7 +489,7 @@
          "rating" : 4.8,
          "reference" : "ChIJ45XEWiVYei4R_JMsBDKWga4",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 45,
          "vicinity" : "JL. P Mangkubumi, No. 133, Gowongan Jetis, 55232, Gowongan"
       },
@@ -526,7 +520,7 @@
          },
          "reference" : "ChIJu34T04dZei4RpsxvNj4B6Wc",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah", "maritim" ],
          "vicinity" : "Jalan A.M. Sangaji No.30, Cokrodiningratan"
       },
       {
@@ -570,7 +564,7 @@
          "rating" : 5,
          "reference" : "ChIJIZm59pRZei4R6zTnATi2ypI",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan Cokrokusuman, Cokrodiningratan"
       },
@@ -611,7 +605,7 @@
          },
          "reference" : "ChIJ6VfVRBRZei4RallmMsfW3Zk",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "vicinity" : "Jalan Margo Utomo No.20, Gowongan"
       },
       {
@@ -655,7 +649,7 @@
          "rating" : 5,
          "reference" : "ChIJqfRltI5Zei4RVrwze4cG1lA",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah", "cagar_alam" ],
          "user_ratings_total" : 2,
          "vicinity" : "001, Jalan Ahmad Jazuli No.69, Kotabaru"
       },
@@ -700,7 +694,7 @@
          "rating" : 4.1,
          "reference" : "ChIJeeZjpjFYei4RMrtjDLoD2t0",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 17,
          "vicinity" : "Code Utara, RT.01/RW.01, Kotabaru"
       },
@@ -741,7 +735,7 @@
          },
          "reference" : "ChIJETuBe6BZei4RnUn7iO8e-78",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "vicinity" : "Jalan Doctor Sardjito No.2b, Cokrodiningratan"
       },
       {
@@ -785,54 +779,9 @@
          "rating" : 4.6,
          "reference" : "ChIJbR8l8yVYei4R3jnFCWZlNu0",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah" ],
          "user_ratings_total" : 473,
          "vicinity" : "Sosromenduran"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -7.786849899999999,
-               "lng" : 110.3721881
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -7.785517219708496,
-                  "lng" : 110.3735283802915
-               },
-               "southwest" : {
-                  "lat" : -7.788215180291501,
-                  "lng" : 110.3708304197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Babon Aniem Kotabaru",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4032,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109119956321077862465\"\u003eMalikush jr\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwI0J-YZ1c1S7brDko2k1eriZkgo3O2wjanYPi2muGWGbeg4iTgTP9ZmK9S-lcqrEwvm6jNnI3F56IXvuXuwJhR6lRC1zeKiv-i2Fi1HVmElGZB7R03p-ClPEF4uF4DDXPIfzKGARkxuAGgcWyyUEWrb3Dh4OiRRXqUMrE2docRZH6Cb",
-               "width" : 3024
-            }
-         ],
-         "place_id" : "ChIJi4DAMZVZei4RoG0kX8ux3dA",
-         "plus_code" : {
-            "compound_code" : "697C+7V Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
-            "global_code" : "6P4G697C+7V"
-         },
-         "rating" : 4.8,
-         "reference" : "ChIJi4DAMZVZei4RoG0kX8ux3dA",
-         "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 5,
-         "vicinity" : "Kotabaru"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -872,7 +821,7 @@
          "rating" : 4.3,
          "reference" : "ChIJi4PLPC9Yei4R7jrvcl73UYM",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya", "sejarah"],
          "user_ratings_total" : 296,
          "vicinity" : "Kali Code, Tegal Panggung"
       }

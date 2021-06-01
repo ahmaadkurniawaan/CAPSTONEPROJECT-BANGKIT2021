@@ -1,0 +1,36 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.785155700000001,
+               "lng" : 110.3673793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783805069708496,
+                  "lng" : 110.3687932302915
+               },
+               "southwest" : {
+                  "lat" : -7.786503030291501,
+                  "lng" : 110.3660952697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "VARIASI RUMAH AQUARIUM PAK BAWOR",
+         "place_id" : "ChIJ3wQ42phZei4R0ktyHIT-HYc",
+         "plus_code" : {
+            "compound_code" : "6978+WX Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6978+WX"
+         },
+         "reference" : "ChIJ3wQ42phZei4R0ktyHIT-HYc",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya", "cagar_alam"],
+         "vicinity" : "JOGOYUDAN JT 3/865, RT.45/RW.11, Gowongan"
+      }
+   ],
+   "status" : "OK"
+}
