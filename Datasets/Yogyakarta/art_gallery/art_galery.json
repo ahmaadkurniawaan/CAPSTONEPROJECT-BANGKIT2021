@@ -1,0 +1,291 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7864496,
+               "lng" : 110.3698969
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785112869708497,
+                  "lng" : 110.3710924302915
+               },
+               "southwest" : {
+                  "lat" : -7.787810830291502,
+                  "lng" : 110.3683944697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sanggar Sastra Indonesia Yogyakarta",
+         "place_id" : "ChIJbffqMy5Yei4RpsQ71wpIbrk",
+         "plus_code" : {
+            "compound_code" : "6979+CX Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6979+CX"
+         },
+         "reference" : "ChIJbffqMy5Yei4RpsQ71wpIbrk",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan I Dewa Nyoman Oka No.34, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.787789999999999,
+               "lng" : 110.3655399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.786328069708498,
+                  "lng" : 110.3669027302915
+               },
+               "southwest" : {
+                  "lat" : -7.789026030291502,
+                  "lng" : 110.3642047697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Teater Masa Yogyakarta",
+         "place_id" : "ChIJbRWNcSVYei4Rwy6XHpY8pwQ",
+         "plus_code" : {
+            "compound_code" : "6968+V6 Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6968+V6"
+         },
+         "rating" : 1,
+         "reference" : "ChIJbRWNcSVYei4Rwy6XHpY8pwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan P. Mangkubumi No.15, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7869352,
+               "lng" : 110.3653465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785551369708497,
+                  "lng" : 110.3667003802915
+               },
+               "southwest" : {
+                  "lat" : -7.788249330291502,
+                  "lng" : 110.3640024197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wet Hands Art Studio",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 351,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113774850558157428614\"\u003eHaidar Gallagher\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9V90lugr_Ql_DB0VPcPYjUrHZxSZ7mUaVxGubxmGeI9Rm82apHsgLGcCaiNBhMTX-HcFXqkXJ6pbwlYbH4kk-ttzYZCBpn-Wm5-3Z_ESufOf3W-4-qmZEGgvkAebZpWti-pWnrsLNTFkE-aGVxbbn-TxtHNmE3UUGK61ZxuR1sHL6",
+               "width" : 527
+            }
+         ],
+         "place_id" : "ChIJvSh-999Zei4Rf84ZbjAZm0U",
+         "plus_code" : {
+            "compound_code" : "6978+64 Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6978+64"
+         },
+         "rating" : 5,
+         "reference" : "ChIJvSh-999Zei4Rf84ZbjAZm0U",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Gowongan Kidul, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.778689999999999,
+               "lng" : 110.3629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.777399469708497,
+                  "lng" : 110.3642810302915
+               },
+               "southwest" : {
+                  "lat" : -7.780097430291502,
+                  "lng" : 110.3615830697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bagus Enterprise",
+         "place_id" : "ChIJnaTUGjlYei4RUul16UkPsDc",
+         "plus_code" : {
+            "compound_code" : "69C7+G5 Karangwaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G69C7+G5"
+         },
+         "reference" : "ChIJnaTUGjlYei4RUul16UkPsDc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "vicinity" : "JL Wolter Monginsidi, KW I No.154, Karangwaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.780783099999999,
+               "lng" : 110.3592452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.779434869708497,
+                  "lng" : 110.3606007302915
+               },
+               "southwest" : {
+                  "lat" : -7.782132830291502,
+                  "lng" : 110.3579027697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Efto Wayang Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112811400631413461107\"\u003eDwijakangka Alfatih Wk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIzxcykXXQUFe0b3vi0ZWXWfaIZkYng_mRqbnQ2MtJrSCAQqQpH93_ad4fE5pmuQrrptXzzte9h3dcvgYMe9J0YsxUZ3EWiY-3oSLK3f0sZVTZPIZwXc1Fql8hyIRDcQr-et2fLQ83kNjJDN5SbJ-I03eIPnNx-PONyZPgJf_3RJE0m",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ0XgtsE9Zei4R96s40KiDJWg",
+         "plus_code" : {
+            "compound_code" : "6995+MM Bumijo, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6995+MM"
+         },
+         "reference" : "ChIJ0XgtsE9Zei4R96s40KiDJWg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Bumijo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7852173,
+               "lng" : 110.3585726
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783865469708498,
+                  "lng" : 110.3599595802915
+               },
+               "southwest" : {
+                  "lat" : -7.786563430291503,
+                  "lng" : 110.3572616197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gung' Helm Retro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJgfeRxDxYei4RJcoPnG_Ugiw",
+         "plus_code" : {
+            "compound_code" : "6975+WC Bumijo, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6975+WC"
+         },
+         "rating" : 3,
+         "reference" : "ChIJgfeRxDxYei4RJcoPnG_Ugiw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Tentara Zeni Pelajar, Bumijo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7919024,
+               "lng" : 110.3642442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.790550469708498,
+                  "lng" : 110.3656565302915
+               },
+               "southwest" : {
+                  "lat" : -7.793248430291502,
+                  "lng" : 110.3629585697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Setia Kawan Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJxZDPZSZYei4Rq4FGinHY_QQ",
+         "plus_code" : {
+            "compound_code" : "6957+6M Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6957+6M"
+         },
+         "reference" : "ChIJxZDPZSZYei4Rq4FGinHY_QQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Sosrowijayan Wetan GT.l/127, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.776011,
+               "lng" : 110.3614822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.774652319708498,
+                  "lng" : 110.3626694802915
+               },
+               "southwest" : {
+                  "lat" : -7.777350280291501,
+                  "lng" : 110.3599715197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sandra Gallery",
+         "place_id" : "ChIJ3QXipThYei4RdzhrpD5Qa4M",
+         "plus_code" : {
+            "compound_code" : "69F6+HH Karangwaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G69F6+HH"
+         },
+         "reference" : "ChIJ3QXipThYei4RdzhrpD5Qa4M",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "JL. Magelang, Km. 1 TR I/977, Kricak Kidul, Karangwaru"
+      }
+   ],
+   "status" : "OK"
+}

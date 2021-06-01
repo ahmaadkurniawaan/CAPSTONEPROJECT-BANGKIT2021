@@ -1,0 +1,881 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLbyLraE_M1ib5BaCGSjl_xQK2Ixv9ZJztNzu3S6DyE5HHDHj61bM0mYPxT4-t9D0Q2Uza1La0MH-3uKctBiZVxg4ekAWLiSKaMbIGppBM7AgSQ0ER6_o3daOZUQYgbrnyOqr0eAgvsUPWOX6cTGLhrub_3pMFWjCFzvOuvlvdq7HsX6cG-FE_ZmzHBbypWyaRcfL47_EYCtIiXOFWusdT63SCMTB1OXKyZy3IYDDOeIc56blIayfCL3V5pO1dLfMidx2QWgKvpe3jfB8oGJPFE5pFIGrz3MR93wK3ewswfvFrtfP7F07pMweOykTGV589UtIilz7wGMGU9xBFYmmhcT2f35RMZJDyMq7jCWbLDbj_ko9pi_uMTuSbJ86PX_qlpGqpForaMr7APxc7OfNWAd7-xZFwwR4KwSFhAXXchqS8ENONnErPlc-3-1fBEMbObtIY",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.782943699999998,
+               "lng" : 110.3670548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781573519708497,
+                  "lng" : 110.3684040802915
+               },
+               "southwest" : {
+                  "lat" : -7.784271480291501,
+                  "lng" : 110.3657061197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu Pal Putih",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118088897305249376621\"\u003eFathur Rohman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLr6E0SAPKSzVRqAug3sFJtr7pWZ-5jeK-WgQG4gAh65-da6c6Ob65wky0Glcw4q2kgfBSpxWoe6eNtHeL6Uhq3yyZ-W0MUSJd4Qg1lJo5ThpIXO90Y2PmuNIHONtmT1xYNGjcUsuOkDC7MsCm5B4XiFLz0Hi9ylrj9vPHsbCSGsy-W",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ____PzdYei4REL2p2P_Vsv8",
+         "plus_code" : {
+            "compound_code" : "6988+RR Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+RR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ____PzdYei4REL2p2P_Vsv8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3771,
+         "vicinity" : "Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784554900000001,
+               "lng" : 110.3711548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783147569708498,
+                  "lng" : 110.3725188302915
+               },
+               "southwest" : {
+                  "lat" : -7.785845530291502,
+                  "lng" : 110.3698208697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Sandi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102221469639550260081\"\u003eQonita Aulia R\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIpfnpWlT-VKfLtwPWU8dVJtq8wlBBQ3ZKy0OjMzReoljZLnv3DBoRt2P27IM-tdUudpCaPWgA06rqrC76aT8KiNZ0Pf7StAHRHrbkicIfx1Csxtlrk9NEqcTvJyYGqYs6dTFM5rmEUPHtohHgOhbN7mcekHVPc1hujQJhejPag7W1h",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
+         "plus_code" : {
+            "compound_code" : "698C+5F Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G698C+5F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1187,
+         "vicinity" : "Jalan Faridan M Noto No.21, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7900594,
+               "lng" : 110.3660593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.788673869708497,
+                  "lng" : 110.3674141802915
+               },
+               "southwest" : {
+                  "lat" : -7.791371830291501,
+                  "lng" : 110.3647162197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pasar Kembang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101033636059741077479\"\u003eBudi Soda\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJgul8NkYED9uZWXhKFGdo1c1bI757kVeACXm80fzIiYrK9OSXFW5Cd0Zvz1Fv_aoDJ-le0V1Z0Ol69ru6gWVO51H7jUljFwg5IkBIcEAwyLBp7q4F0cdQni-I1Q1Im9a8gsIWbagiVIBbzZQtgkSfVZaiypF3vGDn6Pnh6Disxa7BD",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ9zq8ziVYei4Rp-pMmOuI_sI",
+         "plus_code" : {
+            "compound_code" : "6958+XC Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6958+XC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9zq8ziVYei4Rp-pMmOuI_sI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 795,
+         "vicinity" : "Jalan Pasar Kembang, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.790072499999999,
+               "lng" : 110.3641941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.788724319708497,
+                  "lng" : 110.3655486802915
+               },
+               "southwest" : {
+                  "lat" : -7.791422280291502,
+                  "lng" : 110.3628507197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Dion Jogja Driver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 917,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103300941382886944472\"\u003eJava Tourism Yogyakarta - Wisata Jogja - Paket Tour Jogja\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJZWyoyOY8vIKgElDNBysRHyXa8NSA0BwEmR6-UFXfw8lx612v2wGi_VJBFU9Iofan4GcNqwZ_LM9vBzHe7TJZEcZx_qak-3mcX4uQdBITC8h0jIrxAvvYpCtBYI81PPAdEVgMv_r9XdIgx_tONxPc70Q_Pz1PxpNlzDn0a00BUGIt1",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJv6nZziVYei4ReNJyvHXBCHc",
+         "plus_code" : {
+            "compound_code" : "6957+XM Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6957+XM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv6nZziVYei4ReNJyvHXBCHc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Jalan Kampung Sosromenduran, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.780141,
+               "lng" : 110.3741398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.778709569708496,
+                  "lng" : 110.3755017302915
+               },
+               "southwest" : {
+                  "lat" : -7.781407530291501,
+                  "lng" : 110.3728037697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Rs Mata Dr Yap",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116293706723631826443\"\u003eIRSYADI M.S.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI85J3uT475BCaTPeWnsNjXiNPkOiWlwbYO7e5cVW2V3ycDc_SsTRSQpij65vXb3orndAma7sH2nNrFBcyJM9B2wO1O-AdPuizRU-yAt_n38BhRPTVKg9tx9pe_Y0wedMGr9H0kbeCVsZQoLakoQ6Ic1-b2evJ9hJuYgMm0T53OrOeM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJlaFGdTRYei4RiQSq2gaVOrI",
+         "plus_code" : {
+            "compound_code" : "699F+WM Terban, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G699F+WM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJlaFGdTRYei4RiQSq2gaVOrI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79,
+         "vicinity" : "Jalan Cik Di Tiro No.5, Terban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7823778,
+               "lng" : 110.3754172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781337169708496,
+                  "lng" : 110.3768483802915
+               },
+               "southwest" : {
+                  "lat" : -7.784035130291501,
+                  "lng" : 110.3741504197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum TNI AD Dharma Wiratama",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103526826162901299963\"\u003eMuseum Pusat TNI AD Dharma Wiratama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLNx0FUxyRZTmR3qtlRC3xNsIlR_O1oAOUzJprC56EPsu9vRf5LtGxxTz8M3NjRqr2z9tPqRqZK4OJc_unCjY7RXoNB1bc6aooM4Bo_dsxaLp0amA0Yeh_Dj9TnmtAcRjX3cDVx7mNTqJbCYNxqaOOPmFdDA0DzPXqyVXl2rdmiMQVs",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJfU6GqTNYei4RtM56PmctyoU",
+         "plus_code" : {
+            "compound_code" : "699G+25 Terban, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G699G+25"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJfU6GqTNYei4RtM56PmctyoU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 485,
+         "vicinity" : "Jalan Jendral Sudirman No.75, Terban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7831679,
+               "lng" : 110.3672673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781818919708497,
+                  "lng" : 110.3686162802915
+               },
+               "southwest" : {
+                  "lat" : -7.784516880291502,
+                  "lng" : 110.3659183197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Miniatur Tugu Golong Gilig",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108178952340860897296\"\u003eJunaidi Achmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJNFHv5wGCq9498_kdZn15eBhEGp8SivMKG_lg9ndUXCHy4YH8ld2_mGmu5vZDhxsbp0hZmoWYhC0dCLzHujB3S8kjToZrgjCxbTlJjyTPwl8YXsCJ6GtIu2VefhkZJ_4hz0v9vjsM29Nk2FLSCbsddOihMvWM8dx5GTpwFNXHlPzCi",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJTSR_DepZei4Re0edCbN-LUY",
+         "plus_code" : {
+            "compound_code" : "6988+PW Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+PW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJTSR_DepZei4Re0edCbN-LUY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Gowongan"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.783214500000001,
+               "lng" : 110.3658164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781717269708499,
+                  "lng" : 110.3672191302915
+               },
+               "southwest" : {
+                  "lat" : -7.784415230291503,
+                  "lng" : 110.3645211697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gedung Jefferson",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105060693743260619474\"\u003eAlbertus Didi Setiawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKWYnUOW1VstivifcFe7HJ8885ql1CxtNx43Zjb7XsOtyXajT6QUcUnse4FhSvRAoZ-a5pilhuIOxpxlZGoT66ET29HCvWuBVbbqMlf-WmGc7Df_BUyEMqLfH34HKISawFFc1trZhlBKiZ2Q12jiyyTCmKMtkStvFdEWj30YWJftbpq",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJ9xnFYjpYei4RQCW1SEqq310",
+         "plus_code" : {
+            "compound_code" : "6988+P8 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+P8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9xnFYjpYei4RQCW1SEqq310",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Jalan Pangeran Diponegoro No.19, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.781956399999999,
+               "lng" : 110.3656838
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.780712969708498,
+                  "lng" : 110.3670299302915
+               },
+               "southwest" : {
+                  "lat" : -7.783410930291502,
+                  "lng" : 110.3643319697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+         "name" : "Klenteng Poncowinatan",
+         "photos" : [
+            {
+               "height" : 1606,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100831828801758216483\"\u003ekristianto kristianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI-ZQIZ6rVarEFnInLzOC5VrQoNgHupZu5Ym4r4UYbbHgd7xSJLZUeUTwR-v-453JTOhDuw3cAbB5lOtuK1kLTDnqY9S28vn0GjJHkyr63y8c3aSA6-1wIywWmfYugfQ0Qol7c1qoKIpXzdEsbMVhDOICpR5mpOkFBiCghFO9n3CNXD",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJJ1CzbTpYei4RzMIb0qnQ2o8",
+         "plus_code" : {
+            "compound_code" : "6998+67 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6998+67"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJJ1CzbTpYei4RzMIb0qnQ2o8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 217,
+         "vicinity" : "Jalan Poncowinatan No.12-18, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.785338699999999,
+               "lng" : 110.3660188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.784022269708497,
+                  "lng" : 110.3673638302915
+               },
+               "southwest" : {
+                  "lat" : -7.786720230291501,
+                  "lng" : 110.3646658697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "ada kawan transport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109150107363974725584\"\u003eada kawan transport\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLGZJZadmSlbGfDaMsntNi9_t2XsnPHcuiAK7FZBeIA-sx5xXTj98OhPekTZWHRF2V4-QknNt3v46D3Zus9S8GUCxpLYYE8aCjPkR4gjvo_pSuvazPkeIAgTU1LM2HdLR4Ow_OSEcTU4d86B3fdWpb3uUE-xIAgYupSUMkd0H6q1OFH",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJgdGW_YVXei4RogxwAZbHORk",
+         "plus_code" : {
+            "compound_code" : "6978+VC Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6978+VC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJgdGW_YVXei4RogxwAZbHORk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Gowongan Lor No.6, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.786513299999999,
+               "lng" : 110.3659487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785172069708497,
+                  "lng" : 110.3673721302915
+               },
+               "southwest" : {
+                  "lat" : -7.787870030291502,
+                  "lng" : 110.3646741697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tugu Jogja Grafika:",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115656733729164443822\"\u003ePrasetya Edi Angkasa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKkyd4o-8F0OCNb28jlbWZJ8OI4Tu9DX6DhUhtS3sykHoJ5wwzTnAzTJqdiy8z5xWCl2E64WzHhWWYK2nLyCqo5mLnY7OL1sXO8SKqBMmk33EIB0ijOlT0QBKuLZRIn8AtZdRyCqf5BlANzriIVClgi6IFLXC-nHpLGiG6Hyal_-q0Q",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ45XEWiVYei4R_JMsBDKWga4",
+         "plus_code" : {
+            "compound_code" : "6978+99 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6978+99"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ45XEWiVYei4R_JMsBDKWga4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "JL. P Mangkubumi, No. 133, Gowongan Jetis, 55232, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.780134999999999,
+               "lng" : 110.3674567
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.778783419708497,
+                  "lng" : 110.3687851302915
+               },
+               "southwest" : {
+                  "lat" : -7.781481380291502,
+                  "lng" : 110.3660871697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai sadranan",
+         "place_id" : "ChIJu34T04dZei4RpsxvNj4B6Wc",
+         "plus_code" : {
+            "compound_code" : "6998+WX Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6998+WX"
+         },
+         "reference" : "ChIJu34T04dZei4RpsxvNj4B6Wc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan A.M. Sangaji No.30, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.780516700000001,
+               "lng" : 110.3689767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.779266119708499,
+                  "lng" : 110.3703142802915
+               },
+               "southwest" : {
+                  "lat" : -7.781964080291503,
+                  "lng" : 110.3676163197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Vania rent car jogja",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2877,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109241149744090501069\"\u003eDwi Kusdiyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJoEOHzzjE7bte1FtbDek8BvMY8vhIyZYa40w5hNheK64CPWqi6v0Jv_0Od37-qFv4cwCg64NMzRt38W1HL3iPtmiF-rlwsR5BSfnqGe9If-HS54B-X6RupsmejctVT-sQcEpDo0rU2tK_1uKsin0QBL3vTx_RqLHPwZKMeL0dDSEXs",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJIZm59pRZei4R6zTnATi2ypI",
+         "plus_code" : {
+            "compound_code" : "6999+QH Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6999+QH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJIZm59pRZei4R6zTnATi2ypI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Cokrokusuman, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.787078200000001,
+               "lng" : 110.3665761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785729219708498,
+                  "lng" : 110.3679250802915
+               },
+               "southwest" : {
+                  "lat" : -7.788427180291503,
+                  "lng" : 110.3652271197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "eks De Showroom van Naessens & Co te Djocja",
+         "photos" : [
+            {
+               "height" : 1026,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118067576373687751260\"\u003eDatuk Kalu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLY7jrOn-dAlZu8mZej8PJ6qhpPJ6mA-7FbpPqylxBNzWp2cIzOVC_l5LWtK0Ek_aPhUgc_1xS_KbIqPsW61jgBQ6krvAEUxTx_TwAYxT2vKXGcORwkNBMb1UBX7Np5XFy5R7xDeEcTxXdUh9GMk3f1LUSQtIb5m_cKPR0pV0suj_cK",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ6VfVRBRZei4RallmMsfW3Zk",
+         "plus_code" : {
+            "compound_code" : "6978+5J Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6978+5J"
+         },
+         "reference" : "ChIJ6VfVRBRZei4RallmMsfW3Zk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Margo Utomo No.20, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.787127199999999,
+               "lng" : 110.3683992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785781719708496,
+                  "lng" : 110.3698157302915
+               },
+               "southwest" : {
+                  "lat" : -7.788479680291501,
+                  "lng" : 110.3671177697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kampung Lampion Code 18",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 774,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114708901395609039471\"\u003eMuhammad Luqman Chakim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIf-eWtI-q8y0r7gZLDjUDmujwjhd-gdD1y110WEOzHAMRYbxMuTqJIByAdtRkC71HAg27thDzrA5SoZswkwGvcfvCIkbXljUMuuZ3-T4YsdMDWxiLDU3dCuJxGc363NZeEdICxyXuycMIYVh42b34se3cmIQCf9iFnsaoWhpc9V5NF",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJqfRltI5Zei4RVrwze4cG1lA",
+         "plus_code" : {
+            "compound_code" : "6979+49 Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6979+49"
+         },
+         "rating" : 5,
+         "reference" : "ChIJqfRltI5Zei4RVrwze4cG1lA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "001, Jalan Ahmad Jazuli No.69, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784117200000001,
+               "lng" : 110.3709179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.782875319708498,
+                  "lng" : 110.3723544802915
+               },
+               "southwest" : {
+                  "lat" : -7.785573280291502,
+                  "lng" : 110.3696565197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Romo Mangun Museum",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104549793233024605637\"\u003eimajika architect\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIHsf3ti8bhbUjVbYZ9uzeVKBfa3NJXmVk-h0wtnON5xbKGqPeGnC2doORbf4rBeyA9B-S_PAC4l58-QacJcC8KjwQqVRvA8zdD-jIXW_tbJFZGtNQy3E19HzvOawHGy0iw2CVup7-46CxiXyRjPnI5SLKU1eE1i85v71uEV3YvELTw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJeeZjpjFYei4RMrtjDLoD2t0",
+         "plus_code" : {
+            "compound_code" : "698C+99 Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G698C+99"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJeeZjpjFYei4RMrtjDLoD2t0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Code Utara, RT.01/RW.01, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.778238699999998,
+               "lng" : 110.3681827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.776889719708497,
+                  "lng" : 110.3695316802915
+               },
+               "southwest" : {
+                  "lat" : -7.779587680291501,
+                  "lng" : 110.3668337197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "SANGGAR PENANTIAN",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103818530961226998783\"\u003eMashudi S.Pd.I\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIqCU3zDMMWCvYlL8_57S6dLfjI1_XejQRmjTTe3iB6dwJW7kz6_hwb86vt57rTDdsUrRCkXlL6qroyo8HFwTe5-FqeJhRT9Xiqxtety-HWlwsGIpW4pGJVavoFoZt3rP0sM84dt37En230JjNXIaIX7kbIs3eOG9xzLiSJLX1uUVym",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJETuBe6BZei4RnUn7iO8e-78",
+         "plus_code" : {
+            "compound_code" : "69C9+P7 Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G69C9+P7"
+         },
+         "reference" : "ChIJETuBe6BZei4RnUn7iO8e-78",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Doctor Sardjito No.2b, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.789654999999999,
+               "lng" : 110.3661098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.788306019708497,
+                  "lng" : 110.3674587802915
+               },
+               "southwest" : {
+                  "lat" : -7.791003980291501,
+                  "lng" : 110.3647608197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "PJL Geser",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118369725251156641931\"\u003eIkhsan Martadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK4oge0bXU_RRqe26KMdiiWC0oe5h4cChTWKfiavjComlgfo_zbtR-plGTzIFzph7YVU5sEzesDfkRq--0J6HVJ4FFGCr9hUWpthDPT7-V9fy8fRg1erjADAju311QDgbC70lkZ-pL8PipSETpyYVXPumteYdTCLYwXEEh3C2O96AQI",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJbR8l8yVYei4R3jnFCWZlNu0",
+         "plus_code" : {
+            "compound_code" : "6968+4C Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6968+4C"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJbR8l8yVYei4R3jnFCWZlNu0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473,
+         "vicinity" : "Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.786849899999999,
+               "lng" : 110.3721881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785517219708496,
+                  "lng" : 110.3735283802915
+               },
+               "southwest" : {
+                  "lat" : -7.788215180291501,
+                  "lng" : 110.3708304197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Babon Aniem Kotabaru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109119956321077862465\"\u003eMalikush jr\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI0J-YZ1c1S7brDko2k1eriZkgo3O2wjanYPi2muGWGbeg4iTgTP9ZmK9S-lcqrEwvm6jNnI3F56IXvuXuwJhR6lRC1zeKiv-i2Fi1HVmElGZB7R03p-ClPEF4uF4DDXPIfzKGARkxuAGgcWyyUEWrb3Dh4OiRRXqUMrE2docRZH6Cb",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJi4DAMZVZei4RoG0kX8ux3dA",
+         "plus_code" : {
+            "compound_code" : "697C+7V Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G697C+7V"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJi4DAMZVZei4RoG0kX8ux3dA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.789725600000001,
+               "lng" : 110.3688371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.788348869708497,
+                  "lng" : 110.3701411302915
+               },
+               "southwest" : {
+                  "lat" : -7.791046830291501,
+                  "lng" : 110.3674431697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Jembatan Kleringan Kewek",
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101950618530576726277\"\u003eHadi Prabowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLoXZQMKI7WlGB68lwjv39_EwCiD-1fG4ditawyZbIODiq7QaDHmfyRi1Wac8ycfkygWf5aExrjOsJSkP4lb9Arks2MBcziGkIsH5lZYUVpG_NrpVgq7x0lTS-EdwYhtTbYeEszMGI4Qr8RS4QTexA0fiDcR7qjQyDBPLCtMp_qt2LJ",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJi4PLPC9Yei4R7jrvcl73UYM",
+         "plus_code" : {
+            "compound_code" : "6969+4G Tegal Panggung, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6969+4G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJi4PLPC9Yei4R7jrvcl73UYM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 296,
+         "vicinity" : "Kali Code, Tegal Panggung"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,757 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJ5MeTgB0pGrUXsM1CoftP7wvltMDBKdb-Z6c9vZ56h_Xq2tYfKV3RRu_OsXjrdwQ7v_y9ztNUEGVcR8MZtJu8Lm3txm5VF1O9seg9W3jtMpibhkQv5Jx7l9gTy1FF0JXhPmrPDTzYSViq8E9S58zg4w6OfSql02FIwJw7JrVbq7n61UtL_Rz4ZaXngCbvi0lQ1WD9M2z8diez4vHMq3TIe8dUYxUYmhmm3yotn4jr4X2SOXm2aBYx5eANFPgTG0anLg4L3AnuVbG-U6XjCn187OJxqjq7nzrUjTO2XgNrViUtB97q46xOZ_9VfnI5FNOce0r2eAo-zjMss4_XsUpLDyl5_PvZB98gcphcB2dSs-PzIGwoHoFPEbY9TlIjgznFDtZr7gn_RGupFZr5mZmkC20lu5i_pBORQWwPxWzaejKnihHNFksM",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7903863,
+               "lng" : 110.3618647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.789050119708498,
+                  "lng" : 110.3632785802915
+               },
+               "southwest" : {
+                  "lat" : -7.791748080291502,
+                  "lng" : 110.3605806197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid An-Nadzar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116034125387384658448\"\u003eSri Dwi Ratnasari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLFtdA86g40GTL3YdyanAaWioYjdSXx0orsZe_2wb2uT4m2ZphdPkiL7eKkm6XCSlkHR9HJYaxI4NpZAdAl-LIu94T2AKVXRuGfDjnYFJInLod0kgimU4W1X87YVsq8KKuyzU_8UdR7jekIKS01kaBqiJFrIQV2wTjmV-L3ZiDrEsQE",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJWaptGiRYei4RYLkVWxq6yGI",
+         "plus_code" : {
+            "compound_code" : "6956+RP Pringgokusuman, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6956+RP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJWaptGiRYei4RYLkVWxq6yGI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 152,
+         "vicinity" : "Jalan Gandekan No.69, Pringgokusuman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.786258599999999,
+               "lng" : 110.3691867
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785088819708498,
+                  "lng" : 110.3705352302915
+               },
+               "southwest" : {
+                  "lat" : -7.787786780291501,
+                  "lng" : 110.3678372697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Syuhada Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103662755049317479626\"\u003eSinung Baskoro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIStk8QQsb7S61G5NhaV0sSDZN1o5MZHJ5DQMrxdFHDLXZyhQV6oajkzNGG7LlawPzz-pC_H_y5veI3UVeeBVqge2PX3Zrv_7Se7CVUGAbYQZcJVKKiON3Y7eb58ENNwj-JojK2fWUtktZHT4yyvHiLqHn_-0Vo8e96q9wLVnmuy3Ae",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSSjC4CNYei4RNQ881fh6cjA",
+         "plus_code" : {
+            "compound_code" : "6979+FM Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6979+FM"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJSSjC4CNYei4RNQ881fh6cjA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3064,
+         "vicinity" : "Jalan I Dewa Nyoman Oka No.13, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7762574,
+               "lng" : 110.3690196
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.774943669708499,
+                  "lng" : 110.3703611302915
+               },
+               "southwest" : {
+                  "lat" : -7.777641630291503,
+                  "lng" : 110.3676631697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Iman Jetisharjo",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105026252039498066510\"\u003eSteve\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKa_qSHmizuFer5Hz5_Ay7EFqa9S1dsUqHFCXvjEqFM7Cg5Rc0RmyFOmAcjUD-n4qobAz4pjZVvImyDTCFFewezd186eC2E9cYmHGsKP5Upj9_gQwqoNC75YMCHe8oxWc7uizVUQ80GorUDh6JFKOVidBbINi2V4lq7b2k0kcHtd9zV",
+               "width" : 1153
+            }
+         ],
+         "place_id" : "ChIJFcpoyTdYei4RODZEDwNSk5s",
+         "plus_code" : {
+            "compound_code" : "69F9+FJ Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G69F9+FJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJFcpoyTdYei4RODZEDwNSk5s",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7745921,
+               "lng" : 110.3683114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.773231669708498,
+                  "lng" : 110.3695387802915
+               },
+               "southwest" : {
+                  "lat" : -7.775929630291502,
+                  "lng" : 110.3668408197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Mu'min Kompleks MAKODIM 0734",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100069893155792908859\"\u003eAhmad Prabowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKBkuvwo3CWcnu1VNiocCUN8oSC6WPndCjLz9CuT-2UE9ZhDRpxhRB9hCFEJzqinlFaphdLFR2eCeZpulR6Nl25tpLqbgl0hbgesgZ3Bu2TxhofyM3qb1M1szluBmSokRWEEfqQ4hm-N8fzWoVsxrHwE2V93oTieINHnvaIy7f8_IGL",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJg2LAEEhYei4RtjI4MDS_rQ0",
+         "plus_code" : {
+            "compound_code" : "69G9+58 Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G69G9+58"
+         },
+         "rating" : 5,
+         "reference" : "ChIJg2LAEEhYei4RtjI4MDS_rQ0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan A.M. Sangaji No.68 B, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784565700000001,
+               "lng" : 110.3658595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783223269708496,
+                  "lng" : 110.3672928302915
+               },
+               "southwest" : {
+                  "lat" : -7.785921230291501,
+                  "lng" : 110.3645948697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid At Tauhid",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115891273468218114617\"\u003eSupri Yatno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIJDqyjLqNi5IceuDL5zvMh4VVHUp3E4LORxQ0yXmPNd4kCrtf5Dt80SPlc7QR7WmLJcDNCB6zo6kILbMWlG84uaGIwok_t4umyUMnWbYndsUwBgtqopZs1KfTmUbhl4POSHbAMXVsAndill-cipoFp4Mt9gWe1N5MWQm1Q0e5PfA4B",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJw4I2vTpYei4RxqScW6OAn_U",
+         "plus_code" : {
+            "compound_code" : "6988+58 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+58"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJw4I2vTpYei4RxqScW6OAn_U",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75,
+         "vicinity" : "Jalan Gowongan Lor, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.782743799999999,
+               "lng" : 110.3651305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781451619708497,
+                  "lng" : 110.3664794802915
+               },
+               "southwest" : {
+                  "lat" : -7.784149580291501,
+                  "lng" : 110.3637815197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baiturahman pasar kranggan",
+         "place_id" : "ChIJtd1d2l5Zei4RRTC_FOk1LDM",
+         "plus_code" : {
+            "compound_code" : "6988+W3 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+W3"
+         },
+         "reference" : "ChIJtd1d2l5Zei4RRTC_FOk1LDM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Pangeran Diponegoro No.22 B, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7817309,
+               "lng" : 110.3674046
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.780372969708497,
+                  "lng" : 110.3686609802915
+               },
+               "southwest" : {
+                  "lat" : -7.783070930291502,
+                  "lng" : 110.3659630197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Musholla Spbu Cokrodiningratan",
+         "place_id" : "ChIJG400vTBYei4R5P0HQfx8VxA",
+         "plus_code" : {
+            "compound_code" : "6998+8X Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6998+8X"
+         },
+         "rating" : 4,
+         "reference" : "ChIJG400vTBYei4R5P0HQfx8VxA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan A.M. Sangaji No.14, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.781866699999999,
+               "lng" : 110.3679154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.780497519708497,
+                  "lng" : 110.3692405302915
+               },
+               "southwest" : {
+                  "lat" : -7.783195480291502,
+                  "lng" : 110.3665425697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola An-Nur Hotel Phoenix",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115379839041668077334\"\u003eHudi Yanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLF8WqMmUl4r3d7fqZUJcZmfPO9lyAFO68XvY3zFTUioRJf_ffE33TaCx8-rZ9tQZJQg86BAl_3V4GV7YdHlnh8il3L67Uk1WukRHHb_zwryU99VEJGypjKapKaYmIm6V00jEdUzzSGrpriB7__yUbd-HpwRmydor4r1ua6NisH4QcS",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJDY1alDBYei4RvPHcp2rPLn8",
+         "plus_code" : {
+            "compound_code" : "6999+75 Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6999+75"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDY1alDBYei4RvPHcp2rPLn8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Unnamed Road, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784487999999999,
+               "lng" : 110.3651
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783135519708495,
+                  "lng" : 110.3663787802915
+               },
+               "southwest" : {
+                  "lat" : -7.7858334802915,
+                  "lng" : 110.3636808197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darussalam",
+         "place_id" : "ChIJizqv6jpYei4R53flHs_RkU4",
+         "plus_code" : {
+            "compound_code" : "6988+62 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+62"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJizqv6jpYei4R53flHs_RkU4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jogoyudan, Gowongan, Kotagede, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784567999999997,
+               "lng" : 110.365056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783216519708496,
+                  "lng" : 110.3663546802915
+               },
+               "southwest" : {
+                  "lat" : -7.785914480291501,
+                  "lng" : 110.3636567197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Mda Baitul Makmur",
+         "place_id" : "ChIJQV4WwDpYei4RNfktFo15HOo",
+         "plus_code" : {
+            "compound_code" : "6988+52 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6988+52"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQV4WwDpYei4RNfktFo15HOo",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jogoyudan, Kotagede, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.783757999999999,
+               "lng" : 110.364166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.782403369708497,
+                  "lng" : 110.3654538802915
+               },
+               "southwest" : {
+                  "lat" : -7.785101330291502,
+                  "lng" : 110.3627559197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid At Tauhid",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107252838649808235619\"\u003eFay Irvanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK97TRp4JJgtAoL57QxvQJx2cNDasAWNO8onqSLr1dmSQjwXtgYlJzRUVSwBVxa44-Zv_KuNDIwKFKHB5lWhdjm80pHoZzpNbUGq-XN_RIOEvHAhohRDjpODJuuAQMwQVvVTDWHMCdzdDMqp2vlWNd5qtoIUSJ7TFR6kZhtLjwhO63U",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJU-oH-zpYei4RqQn1Lwji3ak",
+         "plus_code" : {
+            "compound_code" : "6987+FM Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6987+FM"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJU-oH-zpYei4RqQn1Lwji3ak",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Jalan Penumping No.241, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.785749999999999,
+               "lng" : 110.3675158
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.784430169708497,
+                  "lng" : 110.3689298302915
+               },
+               "southwest" : {
+                  "lat" : -7.787128130291501,
+                  "lng" : 110.3662318697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darussalam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106900048781671724947\"\u003eNunung Pujianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ3QeN2gY39QtFW7galYHjQnl5C4FAmHxF1ZbxtLrcNiNvwI-7XGPZ_vJbJmfyYO4VE6jQK3-2Hnuk3gFHKm_SU5gW_yNc8OeFiQiUqJGeLhKnl6sdpFQ9uxxX1Bt7PiPxsvWOgdhc3iO736XU5AqwM350OTPAf_3DAGRkRU4GjDPFu",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJq7kQ4i9Yei4RoP8YkpaU4Zw",
+         "plus_code" : {
+            "compound_code" : "6979+P2 Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6979+P2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJq7kQ4i9Yei4RoP8YkpaU4Zw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Jl. Kp. Jogoyudan JT III/768, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784766000000001,
+               "lng" : 110.3688461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.7831825197085,
+                  "lng" : 110.3701249802915
+               },
+               "southwest" : {
+                  "lat" : -7.785880480291505,
+                  "lng" : 110.3674270197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Muttaqien",
+         "place_id" : "ChIJq88E3y9Yei4RR87qmOARwHM",
+         "plus_code" : {
+            "compound_code" : "6989+3G Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6989+3G"
+         },
+         "rating" : 4,
+         "reference" : "ChIJq88E3y9Yei4RR87qmOARwHM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Kampung Jogoyudan No.605, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.783207000000001,
+               "lng" : 110.363893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781914769708497,
+                  "lng" : 110.3652394302915
+               },
+               "southwest" : {
+                  "lat" : -7.784612730291501,
+                  "lng" : 110.3625414697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Maksum",
+         "place_id" : "ChIJYc2XVTpYei4RURSNXKNEidQ",
+         "plus_code" : {
+            "compound_code" : "6987+PH Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6987+PH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJYc2XVTpYei4RURSNXKNEidQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Poncowinatan No.33, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.782637500000001,
+               "lng" : 110.3639066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781390069708498,
+                  "lng" : 110.3652529802915
+               },
+               "southwest" : {
+                  "lat" : -7.784088030291502,
+                  "lng" : 110.3625550197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Mukmin",
+         "place_id" : "ChIJSdGGAjtYei4RjlK-YrNeLPI",
+         "plus_code" : {
+            "compound_code" : "6987+WH Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6987+WH"
+         },
+         "reference" : "ChIJSdGGAjtYei4RjlK-YrNeLPI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Pangeran Diponegoro No.58, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.783494,
+               "lng" : 110.36371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.782056469708499,
+                  "lng" : 110.3651071802915
+               },
+               "southwest" : {
+                  "lat" : -7.784754430291503,
+                  "lng" : 110.3624092197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Iman",
+         "place_id" : "ChIJN4Mw_jpYei4RS-riqNmnE5E",
+         "plus_code" : {
+            "compound_code" : "6987+JF Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6987+JF"
+         },
+         "reference" : "ChIJN4Mw_jpYei4RS-riqNmnE5E",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "JL Gendeng, Gk IV/252, Jetis, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.783323999999999,
+               "lng" : 110.363692
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781999369708498,
+                  "lng" : 110.3650981802915
+               },
+               "southwest" : {
+                  "lat" : -7.784697330291503,
+                  "lng" : 110.3624002197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Adiyat",
+         "place_id" : "ChIJdWP6_zpYei4R3-enblwN1KU",
+         "plus_code" : {
+            "compound_code" : "6987+MF Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6987+MF"
+         },
+         "reference" : "ChIJdWP6_zpYei4R3-enblwN1KU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Prawirodirjan GM II, No. 322, RT. 22, RW. 08, Jetis, Gowongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.781501599999999,
+               "lng" : 110.3693021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.780153169708496,
+                  "lng" : 110.3706126302915
+               },
+               "southwest" : {
+                  "lat" : -7.782851130291501,
+                  "lng" : 110.3679146697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Al Hidayah Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113518006748509771677\"\u003eMuhammad Ibaad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKIMhGpy4BoB5uXY73WMf4BB1QQv8Qn6j-Ur46qV3vO5U8UJo3oiAkmeegD2iylk9VCSBZyadw2q6i6egwlnhBRvm_SlLG9UZJryqWbIr6Yrk9rBAqHzUvX0Z8BHQ8WMeplamSj7Zf_WQkhql1aKnVFvU5MXdnhyHu_yi_KCfjho5Mz",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJMbIRVzBYei4R4n9WsHer_8c",
+         "plus_code" : {
+            "compound_code" : "6999+9P Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6999+9P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJMbIRVzBYei4R4n9WsHer_8c",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "Jalan Gondolayu Lor, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.780457200000001,
+               "lng" : 110.3683154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.779159069708499,
+                  "lng" : 110.3696583802915
+               },
+               "southwest" : {
+                  "lat" : -7.781857030291504,
+                  "lng" : 110.3669604197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Cokrokusuman",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103450022964674818195\"\u003eAna Balqis Aliifah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIzj9cVHWNYHZA8l8RiWLKDX3MErFT-XlqVYI_4B03Uvk_uJEAcBk1hp2Y6wwhLBkYn_XJGMgSggTnnlrBfZZqpXQrrHNf7vwPBkMPpkJ_TRqT7qBepgiZZpomquNkjRZnMxYpBuMi0igavygcREACjeflRhQSnOudW6JLHIS75uHXM",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJrQrXNDdYei4R36BydC01hAY",
+         "plus_code" : {
+            "compound_code" : "6999+R8 Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6999+R8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJrQrXNDdYei4R36BydC01hAY",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Jalan A.M. Sangaji No.22, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7867727,
+               "lng" : 110.3668499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.785411119708498,
+                  "lng" : 110.3680799302915
+               },
+               "southwest" : {
+                  "lat" : -7.788109080291503,
+                  "lng" : 110.3653819697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Amien",
+         "place_id" : "ChIJe9dI9C9Yei4R42JkhC4wEAc",
+         "plus_code" : {
+            "compound_code" : "6978+7P Gowongan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6978+7P"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJe9dI9C9Yei4R42JkhC4wEAc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Jalan Gowongan Kidul, Gowongan"
+      }
+   ],
+   "status" : "OK"
+}

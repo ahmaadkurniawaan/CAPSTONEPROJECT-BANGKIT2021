@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784554900000001,
+               "lng" : 110.3711548
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.783147569708498,
+                  "lng" : 110.3725188302915
+               },
+               "southwest" : {
+                  "lat" : -7.785845530291502,
+                  "lng" : 110.3698208697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Sandi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102221469639550260081\"\u003eQonita Aulia R\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLUflOoD5Hhu1xRtwAfu2LLVrYX9aY3U0fcq6Y-su9vUqkbQ0quKc_6cORMnk2rkcCxKR2vC6WVpYei8vVp4ZMtpHsXuMTEN80AeH-YSpnyczAoEz0op3ZPe1RmOk5gJSTJHlMC9dFjhfJVmh-KPkEuWgkPlbWgDqRIF8LFz24btzj4",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
+         "plus_code" : {
+            "compound_code" : "698C+5F Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G698C+5F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-7GOdS5Yei4RXUIxES4UmhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1187,
+         "vicinity" : "Jalan Faridan M Noto No.21, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.780141,
+               "lng" : 110.3741398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.778709569708496,
+                  "lng" : 110.3755017302915
+               },
+               "southwest" : {
+                  "lat" : -7.781407530291501,
+                  "lng" : 110.3728037697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Rs Mata Dr Yap",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116293706723631826443\"\u003eIRSYADI M.S.\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL6pn_JvxlSYGYiOm1dZSJt2fDeYjKth_McmUDRnpaBe_egcEMnyhgEpkzKmEcgvBXIUzr5Mq7TRPk9wiLXIWUCzxlS0RIbQ3zMc3t3aLAL-snQxBCSGocWvEofsoOcQGckVThEXbk4QDE3iDmYXEDmN417EswICRz56yzmG9Oyixm3",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJlaFGdTRYei4RiQSq2gaVOrI",
+         "plus_code" : {
+            "compound_code" : "699F+WM Terban, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G699F+WM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJlaFGdTRYei4RiQSq2gaVOrI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79,
+         "vicinity" : "Jalan Cik Di Tiro No.5, Terban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7823778,
+               "lng" : 110.3754172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.781337169708496,
+                  "lng" : 110.3768483802915
+               },
+               "southwest" : {
+                  "lat" : -7.784035130291501,
+                  "lng" : 110.3741504197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum TNI AD Dharma Wiratama",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103526826162901299963\"\u003eMuseum Pusat TNI AD Dharma Wiratama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJHXJgmu8_r4hDVXjIPxZqeMi6L8SyvAO1C_qGomIgZq85jKfjVmEuXCNtLh4uGDLDTbvs0qxoyJDfeYYZTE5WYjLhuwlM5dEEe9pkgtcgjx8A28MrLhMOB0GW5jsKaQGbFPwUi9OjbUpm6C2GAb8xIWj26Skqq81dZrK-MLvGU2YbV",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJfU6GqTNYei4RtM56PmctyoU",
+         "plus_code" : {
+            "compound_code" : "699G+25 Terban, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G699G+25"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJfU6GqTNYei4RtM56PmctyoU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 485,
+         "vicinity" : "Jalan Jendral Sudirman No.75, Terban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.781768599999999,
+               "lng" : 110.367631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.780395719708497,
+                  "lng" : 110.3687737302915
+               },
+               "southwest" : {
+                  "lat" : -7.783093680291501,
+                  "lng" : 110.3660757697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pintu Coklat",
+         "place_id" : "ChIJqbUdvjBYei4RtwuluEboet0",
+         "plus_code" : {
+            "compound_code" : "6999+73 Cokrodiningratan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6999+73"
+         },
+         "reference" : "ChIJqbUdvjBYei4RtwuluEboet0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan A.M. Sangaji No.14, Cokrodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.784117200000001,
+               "lng" : 110.3709179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.782875319708498,
+                  "lng" : 110.3723544802915
+               },
+               "southwest" : {
+                  "lat" : -7.785573280291502,
+                  "lng" : 110.3696565197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Romo Mangun Museum",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104549793233024605637\"\u003eimajika architect\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKAA2CicIaySuUuyo3ERh0ODx_BLYQ-oHK3PXvRFSR_3Ssbl0BnH1W0EnAY70MTgZ9YeQTtNTjn9qi2A26-4NbdxfFNPe1PfqRwmjrJ56Qlj_pAkX13-NpMMneqskY9W05ZuytR8CWnNnYH-jWRIF9JTim8MtJEJkru9hiRC-vaWAJw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJeeZjpjFYei4RMrtjDLoD2t0",
+         "plus_code" : {
+            "compound_code" : "698C+99 Kotabaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G698C+99"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJeeZjpjFYei4RMrtjDLoD2t0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Code Utara, RT.01/RW.01, Kotabaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7900451,
+               "lng" : 110.3661217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.788695719708498,
+                  "lng" : 110.3674835302915
+               },
+               "southwest" : {
+                  "lat" : -7.791393680291502,
+                  "lng" : 110.3647855697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Plang Malioboro",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112897948143114333351\"\u003eDwi Pracaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwILN6CblmnCOP3gsdLXDKmv6xT_kHsY3O3EShglovRFhmpORs_WKzgVDLd9WrVGOyLr2ZLYEWAqwi0Er0HfTaAr2OSy_mMQlaJScYldYuLIBZ-OKDp9P7_JY_UOKDDCrTqcA75nis1ijiz3ZD0Pf1hFlQ3Gm6aRhdEKLaJtUxanelVD",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-Z_NC9BZei4RNMzEmjTMrD8",
+         "plus_code" : {
+            "compound_code" : "6958+XC Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6958+XC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ-Z_NC9BZei4RNMzEmjTMrD8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Malioboro, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7903255,
+               "lng" : 110.3677481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.789031769708497,
+                  "lng" : 110.3691084802915
+               },
+               "southwest" : {
+                  "lat" : -7.791729730291502,
+                  "lng" : 110.3664105197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Gardu PLN Malioboro",
+         "photos" : [
+            {
+               "height" : 3088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108521357986657643662\"\u003eDarmawan Joko Prasetyo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJOHWICxrW6mcXbB6O0otid2uxTsniERpotKF8V246LaKWiDhB3dnY3sGj4gCsvmacrq1x-_4-Nq00uhUZcIrthXxFCTEm7EA9Wkrbuq_YdaTFYYlMlfrgzCR-BcwTiR8o70iB9KbBqCDNTfvW2oXc2i1u4Lv9QTzuc3bDXuuCHOHX6",
+               "width" : 3088
+            }
+         ],
+         "place_id" : "ChIJ6_WnwLZZei4RSfHkJMABRlA",
+         "plus_code" : {
+            "compound_code" : "6959+V3 Suryatmajan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6959+V3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6_WnwLZZei4RSfHkJMABRlA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Abu Bakar Ali, Suryatmajan"
+      }
+   ],
+   "status" : "OK"
+}

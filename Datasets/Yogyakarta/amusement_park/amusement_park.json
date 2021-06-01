@@ -1,0 +1,223 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.792189999999999,
+               "lng" : 110.362151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.790827919708499,
+                  "lng" : 110.3634184802915
+               },
+               "southwest" : {
+                  "lat" : -7.793525880291503,
+                  "lng" : 110.3607205197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kampung Wisata Sosromenduran",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106117915476169485980\"\u003ePasim Sim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJCWVUBCilvug-yI0NHZ2degVHk2g8vrnccm1prpoMaDeJHMjmLlsdCfdrS90nK5R-mn8Zx5gxWNFBveQnJDYDWV0yJPqlsZBNyYt_TZew4LdjqSotefiIkA9QHmMbg_8Tq6CH4d3NQB3PMswQkV2lQXzTVpPsVvq4jH9-X3OLlJUGa",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJjZcpviZYei4Rx7hYbZVWGuQ",
+         "plus_code" : {
+            "compound_code" : "6956+4V Sosromenduran, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6956+4V"
+         },
+         "rating" : 4,
+         "reference" : "ChIJjZcpviZYei4Rx7hYbZVWGuQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "amusement_park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 36,
+         "vicinity" : "001, Jalan Sosrowijayan No.69, Sosromenduran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.798015799999999,
+               "lng" : 110.3688532
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.796678819708497,
+                  "lng" : 110.3703086802915
+               },
+               "southwest" : {
+                  "lat" : -7.799376780291501,
+                  "lng" : 110.3676107197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kids Fun Toko Progo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116758790934492214107\"\u003eAbdul Alief\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK4NG5tpKIqS6H4mSLq9n_Fuv8iwBjIi_N7A7TQsvq759HE1j2TFhbbLnrPerV9OGQqc2Hk-3PeMdI_8EhtBrGt-LyozEwkdE9rK1XoOShtlnodDAzHS0xel35WCp1vqDOf7WxD28Dr8qJDA5mDxumyOX2zjJshJ8Q1708yT75uwuHC",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJa9r_XIZXei4RlJ8Sduc8uFw",
+         "plus_code" : {
+            "compound_code" : "6929+QG Ngupasan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6929+QG"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJa9r_XIZXei4RlJ8Sduc8uFw",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 266,
+         "vicinity" : "Toko Progo, Jalan Mayor Suryotomo No.15, Ngupasan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.80094,
+               "lng" : 110.367805
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.799833919708499,
+                  "lng" : 110.3691326802915
+               },
+               "southwest" : {
+                  "lat" : -7.802531880291503,
+                  "lng" : 110.3664347197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Air Menari",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107172520769855103118\"\u003eJanuariansyah Arfaizar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJiypv4JW2WsK-YtR_TE-zaIlOVPlnrrlckW0gp3Ybhayg7EDrE-7bbT6HuOImO45xcm6BgAPddeP9O_sgoL5KzREwM8vf0tNHO0QFkEQwn2XzDpzQt99eBazbXwf1AYmA7kPbFp_cg8v8A7hk-k73V-uVVZq88Zl7ewCRKzNXOG0GN",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQy8zCoZXei4RnHCpes3O2Qo",
+         "plus_code" : {
+            "compound_code" : "59X9+J4 Ngupasan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G59X9+J4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQy8zCoZXei4RnHCpes3O2Qo",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 245,
+         "vicinity" : "Taman Pintar Yogyakarta, Jalan Panembahan Senopati No.1-3, Ngupasan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.774406,
+               "lng" : 110.3645362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.773053519708497,
+                  "lng" : 110.3658738802915
+               },
+               "southwest" : {
+                  "lat" : -7.775751480291501,
+                  "lng" : 110.3631759197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kampung MARKISA Blunyahrejo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 808,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116938289321468299865\"\u003eKampung MARKISA Blunyahrejo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK9d8om6DN34dNTBSgjOkb-h-8ovjHL1KIE_X4aAbC9TM_6DzujdTTwsbM5XRke-pt5tAbGFrm3MdED6FI6vCMKHthqb16T_NXjtvWSuiUc32bECFX8n22fEUBZlwtLLJ7ZiUGNziay0cPVtByDvOabLWBIN9Py158lluJvViNgDEAB",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJP_tEKVJZei4RwO7S-hKtVGo",
+         "plus_code" : {
+            "compound_code" : "69G7+6R Karangwaru, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G69G7+6R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJP_tEKVJZei4RwO7S-hKtVGo",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "Jalan Blunyah Rejo, Karangwaru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.796931000000001,
+               "lng" : 110.368087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.795588119708498,
+                  "lng" : 110.3694841302915
+               },
+               "southwest" : {
+                  "lat" : -7.798286080291502,
+                  "lng" : 110.3667861697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Cemerlang Abadi. CV",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJBRJR64dXei4RrKXFOU4gbX4",
+         "plus_code" : {
+            "compound_code" : "6939+66 Ngupasan, Yogyakarta City, Special Region of Yogyakarta, Indonesia",
+            "global_code" : "6P4G6939+66"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJBRJR64dXei4RrKXFOU4gbX4",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kampung Serangan Ng II No.202, Ngupasan"
+      }
+   ],
+   "status" : "OK"
+}
