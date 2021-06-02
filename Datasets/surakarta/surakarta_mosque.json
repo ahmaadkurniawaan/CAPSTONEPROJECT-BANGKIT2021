@@ -1,0 +1,820 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKj2Aq9rzGKjwAJAjx3nzoLvLznnPUJr1h6HeobUxCwDwiNx86EYReg0zPbykIOirRBE53weh4y_51j0q8dmVd54Za2ot37XU51XiZj1j9kSr66tbp9Ne6b4cpWpFZFls4w_tDX2Rf6r_qvsLPp07WjW4CNmJ1TUIiitqokh4PwwV9dfA03wVwmBxMgury4o8eBZS8hnDerDJZONOMTshQEVUX6ETgOs9ma3PLxFYvgHvph6RCrRjUGAcFHZo2_aoo15tJoewD89ioLuuwyi8NGvKBUqnZMwL3K9p7WN6TqagK5I1WNdIfUnGJr7RV9p0blP7Qyi7COjJxhJgIXDEedOZ_qLPFEQXmk4f8Xsliwhd3SyArtQvel1UIP8hOeh9R50BURKni6mx_VQZ_C1tqnDquAB8SqSEh_gmojiGpvvFjmxjrk3BM",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5513371,
+               "lng" : 110.8286229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.549986769708497,
+                  "lng" : 110.8299040802915
+               },
+               "southwest" : {
+                  "lat" : -7.552684730291502,
+                  "lng" : 110.8272061197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darmowiyoto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116852856558568235632\"\u003epak muh solo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIo2QtVmnEgaZOOIXgvEjWwk8LEQeK4FL6LDy_dmDWGq_YFAcTcV5JZkl9wo79z5iKLzd6OWjFZiQt0ozEsPSuJcyY55wRJdNy9DmsCbXfw77KRceqsjEq6oKDFfkhnllTywoLpddm7BKT9spjNOXWPZT-GXZwFUpS2on5hy-9_VsPR",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ4fP4ipQWei4RRXZDYGmgxVY",
+         "plus_code" : {
+            "compound_code" : "CRXH+FC Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXH+FC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ4fP4ipQWei4RRXZDYGmgxVY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.551914600000001,
+               "lng" : 110.8296382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550531319708497,
+                  "lng" : 110.8310199302915
+               },
+               "southwest" : {
+                  "lat" : -7.553229280291502,
+                  "lng" : 110.8283219697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Hakam",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104815116029381717551\"\u003eFatih Aydin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2easJYRJy8OcJaw5AH2VjsSvUN-x28O6XNjnikA9nEIiKvMuePJqOil_B6hvV-AbqiZSVcTrywe6HRNr0fuJEONikMMpLq1_4m_2m0o9CRHQr0Zm1K6MMdCQwezNj0gXYLL1ZPmR8NLKdVFFg9LxOrGLvRPjtsZZZkNbmwoInP5_5",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJiXf2nZQWei4RtnQV9gBIBS0",
+         "plus_code" : {
+            "compound_code" : "CRXH+6V Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXH+6V"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJiXf2nZQWei4RtnQV9gBIBS0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "Jalan Kolonel Sugiyono No.5, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.552199399999999,
+               "lng" : 110.8270878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550848619708498,
+                  "lng" : 110.8284369302915
+               },
+               "southwest" : {
+                  "lat" : -7.553546580291503,
+                  "lng" : 110.8257389697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Iman",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117177953442327068775\"\u003eOtok Wibowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL6iFGLT4mqIvJFSktQ_pNywJK9hlG7SPbaXLtNJOq5x1yxfxu4DRqmuYHcEH43NaV76iM5WTfihtK4dvJnI6cZj_fXSeOZ7eiAdrzo38wpRpieN-zUW0dVdVUHS-QGP6ZxI0fZegxntnaRAWcbJ6PjFbK9z8xuNrlJofokXHXcvlII",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJj5tXDEUXei4RtYhN1qRC4Dg",
+         "plus_code" : {
+            "compound_code" : "CRXG+4R Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXG+4R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJj5tXDEUXei4RtYhN1qRC4Dg",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Tentara Genie Pelajar, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.550626,
+               "lng" : 110.8306511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.549524269708497,
+                  "lng" : 110.8319512802915
+               },
+               "southwest" : {
+                  "lat" : -7.552222230291502,
+                  "lng" : 110.8292533197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-lkhlas SMA NEGERI 5 Surakarta",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109914152130248549259\"\u003eSyahrul K\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJA6P7W_Yoa27vBy7StYZyTPUC5Kb0_jL8fs6PuJmBM32OjsIG2WWK79V5lhAa91_0WbRFWKuh7BFWbo5vdLMRwi0eWv66olxatgPRRsRVXSAM8vmb4e_tkYA_Z0ak0gJ1zL5LRsKOoDtFSny-Q-3tbGf9LjjJnAF1jMLfXyxhQsrTQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJB2abxZQWei4R7IHr9wDpyPA",
+         "plus_code" : {
+            "compound_code" : "CRXJ+P7 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXJ+P7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJB2abxZQWei4R7IHr9wDpyPA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.551903299999998,
+               "lng" : 110.8307217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550602319708497,
+                  "lng" : 110.8320654802915
+               },
+               "southwest" : {
+                  "lat" : -7.553300280291501,
+                  "lng" : 110.8293675197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Ar-Rohman",
+         "place_id" : "ChIJ2eRdBOcXei4R4mmiZyO1Yis",
+         "plus_code" : {
+            "compound_code" : "CRXJ+67 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXJ+67"
+         },
+         "reference" : "ChIJ2eRdBOcXei4R4mmiZyO1Yis",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5492164,
+               "lng" : 110.8256089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.547922169708498,
+                  "lng" : 110.8269587802915
+               },
+               "southwest" : {
+                  "lat" : -7.550620130291502,
+                  "lng" : 110.8242608197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Annur 45",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115297016734202419736\"\u003ebaguz artupaz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIz6tpFmu4_Aqn8cIkhFzR2afJEz9GIm7zeeiAMuioRYo6qmpQPP6bkNlkNi9N3xwuwVqWVNNyY0V0sdhFf5QIZZvQ1biXhsLhevAGoX_6CMud_ZWlRD7E8SsI1HaOdfe31Q2l_ffWS7Ul680BrPLUe7BqtLYGh85z3QYY_vaDxYt7Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJM-Px2JUWei4R884Rkj1frPY",
+         "plus_code" : {
+            "compound_code" : "FR2G+86 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2G+86"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJM-Px2JUWei4R884Rkj1frPY",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "sejarah" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Nusukan, Banjarsari, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.553426000000002,
+               "lng" : 110.829617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.552113719708498,
+                  "lng" : 110.8309622802915
+               },
+               "southwest" : {
+                  "lat" : -7.554811680291502,
+                  "lng" : 110.8282643197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "At-Taubah Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1822,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101668905846284426364\"\u003eVibe Elnovo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKKSBhrQAps8Na1W3-BZNzEfM1curmITS7_5x9guuUlBTOT4pdR8FFuG8mOkXBaDWL2Rj2ApWJLsqESlSSTLYR55icErfyzNnhIjg9MDenQb1ryKhwrpqGn4gX1yESCeD5AFzDqUHjdUEvt4VjAY9FmNpbPkaD7AywyGzR4oiE3K63a",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJCwAjz4IWei4Reg9q5R84V_4",
+         "plus_code" : {
+            "compound_code" : "CRWH+JR Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWH+JR"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJCwAjz4IWei4Reg9q5R84V_4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Brigjend Katamso, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.548212,
+               "lng" : 110.830168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.546922619708499,
+                  "lng" : 110.8315702302915
+               },
+               "southwest" : {
+                  "lat" : -7.549620580291504,
+                  "lng" : 110.8288722697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Iqror",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111785717723960083315\"\u003eKatiman Najib\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI1DJVNPaKmnEBTZiey4ZtRS9Wpt8bKHwQ3-WxBe1fGqmNYwrWZFsJF80gLytHBZry9EvNoZ4dDdtPobnanmsEDBsk4EBsixpi194RGYwOfC35htf6QPH0ku4qPJ3f73QNYL09aatv7h1GIZjaZ--5u2JuY-8QB3kNV9p75R-OoNGTP",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJO6NjQZUWei4ReI2JTvBqCVo",
+         "plus_code" : {
+            "compound_code" : "FR2J+P3 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2J+P3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJO6NjQZUWei4ReI2JTvBqCVo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 58,
+         "vicinity" : "Jalan Letjen Sutoyo No.59, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5530569,
+               "lng" : 110.8262824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.551640519708499,
+                  "lng" : 110.8276355802915
+               },
+               "southwest" : {
+                  "lat" : -7.554338480291503,
+                  "lng" : 110.8249376197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Msjid Fastabikul Khoirat",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110656790986541266712\"\u003eApt. Mira Ajeng Wulandari S. Farm\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJys96J4ySRFBfGFJvFxpcxnvTRzhyjPSZDTWRwyZ3jpQMptl0-lBzFH2-0v23vnVJ6ffO-iEcdCCefVA-E1IGfO5IQXTQYyWqz-8WgRRsG9VQGZLc50oS0by8lPvIjCZRT_HL8GGPtozzfr6qW61pBTcUhJzQB0ajfYny6pBwSes_p",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJswDcAYcXei4RfUFL5ItYWmM",
+         "plus_code" : {
+            "compound_code" : "CRWG+QG Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWG+QG"
+         },
+         "reference" : "ChIJswDcAYcXei4RfUFL5ItYWmM",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "sejarah" ],
+         "vicinity" : "Jalan Ahmad Yani No.107, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.554116899999999,
+               "lng" : 110.8278274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.552767919708497,
+                  "lng" : 110.8291763802915
+               },
+               "southwest" : {
+                  "lat" : -7.555465880291501,
+                  "lng" : 110.8264784197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid As Salaam",
+         "place_id" : "ChIJv3AzV64Xei4Rtm4rOgZCFTQ",
+         "plus_code" : {
+            "compound_code" : "CRWH+94 Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWH+94"
+         },
+         "reference" : "ChIJv3AzV64Xei4Rtm4rOgZCFTQ",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "sejarah" ],
+         "vicinity" : "Jalan Ahmad Yani No.122, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.554213,
+               "lng" : 110.8265879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.552754419708497,
+                  "lng" : 110.8279745802915
+               },
+               "southwest" : {
+                  "lat" : -7.555452380291502,
+                  "lng" : 110.8252766197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "The Surakarta Grand Mosque",
+         "place_id" : "ChIJw8rYyAcXei4RAjvpYp_h0f0",
+         "plus_code" : {
+            "compound_code" : "CRWG+8J Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWG+8J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw8rYyAcXei4RAjvpYp_h0f0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.546731599999998,
+               "lng" : 110.8273262
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.545433369708496,
+                  "lng" : 110.8286659802915
+               },
+               "southwest" : {
+                  "lat" : -7.548131330291501,
+                  "lng" : 110.8259680197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Annur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103310476637579634537\"\u003eBudhy Budhy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIj1POgnR1kuTmwA1wwI-JV8SQc7GPiviXxrEI9toAniAvk_B660nThhgA2Yndh1oA0xGERdCQjOqgNUFBHrEuqGb4kro-8VKBRzNuIP7YmExJ0_Mcrf0lEJLTNJ2Uo1T0SsZHw1Ob7QGjqtb1RqI2I_hbHYczVq1u8h5QHbqvNhQTL",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJl_qlPL4Wei4RSgOQsZZM-5A",
+         "plus_code" : {
+            "compound_code" : "FR3G+8W Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR3G+8W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJl_qlPL4Wei4RSgOQsZZM-5A",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "Jalan Nayu Utara RW.13, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5544156,
+               "lng" : 110.8267696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.552887169708497,
+                  "lng" : 110.8281585302915
+               },
+               "southwest" : {
+                  "lat" : -7.555585130291502,
+                  "lng" : 110.8254605697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Agung Sheikh Zayed",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 629,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100511929616939918672\"\u003eIkwan Yudianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwItUU7xp27cMd-3BgxM7Drux_iGVVTlrLs7rAs-rdrnd4RVA7lsWb2FVQfIkScEr-ciOwdvVBeiXOSAnh-hmrZqFI3NzBNP_5JP_zyoYz04il8J4H_PFIOImd0r6cw2BjqbL8BpM4b3SNHyiP_QzPaU_2G9OIHtapFT1aBSYjwokrrm",
+               "width" : 629
+            }
+         ],
+         "place_id" : "ChIJ38x2ZCUXei4RcDyiLih5jaA",
+         "plus_code" : {
+            "compound_code" : "CRWG+6P Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWG+6P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ38x2ZCUXei4RcDyiLih5jaA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "57134, Jalan Margorejo No.Rt. 07/11, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.547296100000001,
+               "lng" : 110.8256521
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.546049419708499,
+                  "lng" : 110.8268922302915
+               },
+               "southwest" : {
+                  "lat" : -7.548747380291504,
+                  "lng" : 110.8241942697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Riyadhoh Iman Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105403941820109744361\"\u003eAulia TimeToRelax\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKtw82UIPNeNpZwSs9dfVdcasIbORhEPFtmGxLM7ZFealdXlihQKgc8Igmg6_lvw46jaSRuKuARnyYYCTQZylNgtCMW5DQBTmpM00PhOcfOpZivhzQ8fya7MOarull_FVEsBT5SRseNgvetblJ6ofE9lCpru3B4bnLpviW6nvbcKfFM",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJc3-hAb4Wei4REfmq-YFZQ2I",
+         "plus_code" : {
+            "compound_code" : "FR3G+37 Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR3G+37"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJc3-hAb4Wei4REfmq-YFZQ2I",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "Jalan Kolonel Sugiyono No.53, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5548255,
+               "lng" : 110.8270818
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.553026219708499,
+                  "lng" : 110.8282079302915
+               },
+               "southwest" : {
+                  "lat" : -7.555724180291503,
+                  "lng" : 110.8255099697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Raya Sheikh Zayd",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115169735794339456175\"\u003eAR Sugeng Riyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL-kbP25CCpzy4nVdoHJD5niTCov3bAyxqtyEo2gXGrPGsy7K-HuVPUnhlFvE93W4EazawrKubTD1CtOBbX4vygnu_VmIEi0oHNtI2kRKysXA9XPr_7a1V7t324lCFRuu4PwIxxHsTBOsOS_JVos6H2opDN5p2LcttFYNcJ6G3iZgMP",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJb3zWSAEXei4R73QI3ZTXdk4",
+         "plus_code" : {
+            "compound_code" : "CRWG+3R Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWG+3R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJb3zWSAEXei4R73QI3ZTXdk4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Ahmad Yani No.128, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.552198,
+               "lng" : 110.824108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550842469708496,
+                  "lng" : 110.8254582302915
+               },
+               "southwest" : {
+                  "lat" : -7.553540430291501,
+                  "lng" : 110.8227602697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Hidayatullah",
+         "photos" : [
+            {
+               "height" : 2997,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104474823833127791508\"\u003eFaisal Ridho Sakti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKj6_jylblPrmx5Pj1VDA-QiwMoKw5oDjiNJLH2mnTw4zGysmF2RSA3ufAI9GHcbwXkaVCKr5ViuDWpgsc3DRiq_UNRiyaJsppW2vv79YbRvWW8gwwX0He04ozcjzbuC_Aru4qzrSS5Bia_beFQIDOl5uN6UI_l_24DgmilnDqqWBoP",
+               "width" : 5328
+            }
+         ],
+         "place_id" : "ChIJBfG0t5YWei4RJJeewTXBGCg",
+         "plus_code" : {
+            "compound_code" : "CRXF+4J Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXF+4J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJBfG0t5YWei4RJJeewTXBGCg",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Tentara Genie Pelajar No.30, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.555015599999999,
+               "lng" : 110.8271173
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.553217119708497,
+                  "lng" : 110.8285342302915
+               },
+               "southwest" : {
+                  "lat" : -7.555915080291501,
+                  "lng" : 110.8258362697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Agung Sheikh Zayed",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 6000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104964669133979278739\"\u003ericco jericco\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLYPnY9nj2g7dDU-W-a01jftLG0UfkUsuD-z6DYabSpX4mD655vV15_o0aJL-AxtEcrFoE95lbUYEc89gcVOM2Fm7rP9FGNCrlZrqzigIsmx6IzM-C9sfYUGpWPe9ytqK3Pif0sVE-RncZ_3yQMv5eVo68qeW_wsqF6pG35d9mW9A9T",
+               "width" : 8000
+            }
+         ],
+         "place_id" : "ChIJ76rRqOYXei4RnF8JWUADfec",
+         "plus_code" : {
+            "compound_code" : "CRVG+XR Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRVG+XR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ76rRqOYXei4RnF8JWUADfec",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Ahmad Yani No.191, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5529945,
+               "lng" : 110.8239074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.551854169708497,
+                  "lng" : 110.8252037302915
+               },
+               "southwest" : {
+                  "lat" : -7.554552130291501,
+                  "lng" : 110.8225057697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Thariq-ul Jannah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102688028660827316600\"\u003eEvi Sandyasafira W\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKtbcU8n5zoRiQ3hLoE0h_9NctOXIN0nuJqCMsg6KsgODRUMGmw-Pr9rsY6A8NU_Dz4RdzngDLjCkbpIaekbYtTdlcA7Q2c_yBR44ptq8xWQWPtzwIK8xjfBGmov066BsHvStsDqh12_xHTJ6JhCPa0e7K7tS-DRE4c2jtF4I09CZmE",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJX1TnNZEWei4Rw-StUA9ZegA",
+         "plus_code" : {
+            "compound_code" : "CRWF+RH Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWF+RH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJX1TnNZEWei4Rw-StUA9ZegA",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "sejarah" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Ahmad Yani, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5478184,
+               "lng" : 110.8325658
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.546465319708497,
+                  "lng" : 110.8339162802915
+               },
+               "southwest" : {
+                  "lat" : -7.549163280291501,
+                  "lng" : 110.8312183197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Langgar Nurjanah",
+         "place_id" : "ChIJMYtnu-oWei4R5doIBHS_Dnk",
+         "plus_code" : {
+            "compound_code" : "FR2M+V2 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2M+V2"
+         },
+         "reference" : "ChIJMYtnu-oWei4R5doIBHS_Dnk",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "sejarah" ],
+         "vicinity" : "Jalan Walanda Maramis No.69, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.553667399999998,
+               "lng" : 110.8240628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.552224619708497,
+                  "lng" : 110.8254328802915
+               },
+               "southwest" : {
+                  "lat" : -7.554922580291501,
+                  "lng" : 110.8227349197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Ar-Rahman",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117166137388352963681\"\u003ebekti sulasyono\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ96Fitvb-HL09mTUJK30bJVu7XVb1A8VVmh1HJDcfaaRqWspUa59f-Nl5vOW199KwopTxO3THX9CHdrBvmJrXrZ1UY-5eEKbrKKA02cRTDYFpANh7DrIFQAKWjg1GKlULQOjWd6yDgvmP1TPM12ZXnpy7DA-E79338k-_ydCJG-CoB",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJV18aXpEWei4RAHO8hix8LPs",
+         "plus_code" : {
+            "compound_code" : "CRWF+GJ Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWF+GJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJV18aXpEWei4RAHO8hix8LPs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "sejarah" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Ahmad Yani No.215, Gilingan"
+      }
+   ],
+   "status" : "OK"
+}

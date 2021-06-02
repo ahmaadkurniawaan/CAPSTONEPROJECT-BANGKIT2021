@@ -1,0 +1,818 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKTl74oZQaSgAhf1GpOeRYEygBiWJtKRSnUXMOG9m7evL7O-ENmjwYHExncmNh79fJ6FnyvDw5pablsoWMz0NFFNa0PIBi_4FuwRe9FNcdAbq5SNZE4xdjA9-C9zc07sIzPlj17UzyumtdadDlXOii0MhtYnb3SyoUEsUhtje3BsWGL4CoZb2ro_edflJXtmr_mYgicNz_PvYJPWwiIBoH05_Ff7gcND9IDUKeuTjldudxhDc-RNnP1O43BmK3qBkJoa_g2JpgDHyVjgAyzOg-XQf4riFxrO151yILw8IfxK6abMj3Ago3C8-I5jUT6VRpPfCaOnS7efcj8Z68I4ROd3UB7M-C8YexuBX84fkRWSwqQ6Ps3bNmhPuS_h0fVUDi7PS-QvbQ1KUJ-DbkURuUuq6aUoxIjwVnXLE_lXmfZ9FRdFobKxCI",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5582578,
+               "lng" : 110.8295816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.557103069708497,
+                  "lng" : 110.8308333802915
+               },
+               "southwest" : {
+                  "lat" : -7.559801030291502,
+                  "lng" : 110.8281354197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Java Christian Church Margoyudan",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111326332877796067390\"\u003eAgus Setianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIJBDE3GafI2R2CDqXOGbMpbEvOQJ8HS57p5dGMMzRdIzZ1O4-rqsKFJQqqRMzyKYO-QizXQrQT4mP6KA4N5pRAf7bpB1zbwW5sGLJZzPP4QhBx-Fsl9tz97mfyQQ9noe36P_rPoVahdN4RQrMSxIt5BdGRNzL_fldLkV9hnZT6S0zr",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJk6Xq8I0Wei4RNkx6h65Y49U",
+         "plus_code" : {
+            "compound_code" : "CRRH+MR Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRRH+MR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJk6Xq8I0Wei4RNkx6h65Y49U",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Jalan Monginsidi No.44, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.560111699999999,
+               "lng" : 110.8295398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.558776969708497,
+                  "lng" : 110.8309414802915
+               },
+               "southwest" : {
+                  "lat" : -7.561474930291501,
+                  "lng" : 110.8282435197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GRII Solo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116175984413111261766\"\u003eDhani Prasetyo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLiS93SMlJ25tFliP5yzYicHCAykhazRLzoHUBhNyvw9o66SNLlFZVZ5Gykj_p-t5W-OoCQ_HMcCSGSURU4ib-_VE9PwaP9Ai1NkWo-n6ZpzLC_aPqPY6RoB6UpeC81XI4T2KL1Nl_Dg8hEQtjn7ueQqwdaSyJG1NjwOoel7UqMZj4l",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQwNHa3kWei4RSyrCgTvv400",
+         "plus_code" : {
+            "compound_code" : "CRQH+XR Setabelan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRQH+XR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJQwNHa3kWei4RSyrCgTvv400",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "Jalan Abdul Muis No.57, Setabelan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.562491999999999,
+               "lng" : 110.8253969
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.560963619708497,
+                  "lng" : 110.8267891802915
+               },
+               "southwest" : {
+                  "lat" : -7.563661580291502,
+                  "lng" : 110.8240912197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bethany Solo",
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110920952398518611206\"\u003eGereja Bethany Solo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJEun5CsFrvRmtq_8Yi92s2nR7yisqkdaT_ROvpZQrEkARlbYow3HoO03INWD9tD8x2QVhGrZIA05Bl8kL_dH0XxcoA1qcFLw3sztAiKFqav5yw2u41ASZ6diqw9Hg81Cbf8mGv69WD92XqKXIpGlWeFJ7_UUseAR9M7j0HTOoLLVPQ",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJIZd3q44Wei4RtHGaeh3j7bk",
+         "plus_code" : {
+            "compound_code" : "CRQG+25 Setabelan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRQG+25"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJIZd3q44Wei4RtHGaeh3j7bk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Jalan Lumban Tobing No.11, Setabelan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.547349499999997,
+               "lng" : 110.8414241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.545979219708497,
+                  "lng" : 110.8426811802915
+               },
+               "southwest" : {
+                  "lat" : -7.548677180291501,
+                  "lng" : 110.8399832197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "C3 New Generation",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJWyO1JOgWei4RVpSZBB-unbs",
+         "plus_code" : {
+            "compound_code" : "FR3R+3H Mojosongo, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR3R+3H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJWyO1JOgWei4RVpSZBB-unbs",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "budaya"],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Brigjend Katamso, Mojosongo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.555920299999999,
+               "lng" : 110.8409015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.554566519708497,
+                  "lng" : 110.8422520802915
+               },
+               "southwest" : {
+                  "lat" : -7.557264480291502,
+                  "lng" : 110.8395541197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI Shoshannim Solo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105952281456830315670\"\u003eRockaf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKWCQWtsaOGRJSljtKOGPccVG7StvC678jCXlKDJfKZkNn3zAMC0pif9ZDWy_AlQvudZPW1nCTmQrQRUGbE80HrOb19nHl7oRqD-C9b3bqtiXVE_ca41gQcFqLYWzLUIO3vcUpcCDwrNqA13b6Wx1kaxYmZR5ra6dYgIDkdPczRMA_U",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJrYgXye8Wei4RX0TQGY461Pc",
+         "plus_code" : {
+            "compound_code" : "CRVR+J9 Jebres, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRVR+J9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJrYgXye8Wei4RX0TQGY461Pc",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jebres"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.555545,
+               "lng" : 110.84144
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.554197319708498,
+                  "lng" : 110.8427938802915
+               },
+               "southwest" : {
+                  "lat" : -7.556895280291502,
+                  "lng" : 110.8400959197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKJ Jebres",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105501931641088097273\"\u003eAdia Hegi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKs3F3HZQ2jyRoOnmh8ujmJBRH1i0fZ3TswJRHg3cKxvKkCmTiOiISWwscNlSraAHbNn6tMxN3pdTJlnKO9XbDKtvk7xzKJjwU0h06mx68GGiemA5ltxB_3-a6nErfJBMTvosUyqhaWLm2O_qOPQLCX6S3cQMzuSjlvR4db2mkf0hdi",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJl1SPMfAWei4RFYobZu2Zmvo",
+         "plus_code" : {
+            "compound_code" : "CRVR+QH Jebres, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRVR+QH"
+         },
+         "reference" : "ChIJl1SPMfAWei4RFYobZu2Zmvo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "vicinity" : "Jalan Tentara Pelajar No.1, Jebres"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.564983300000002,
+               "lng" : 110.8298573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563709119708498,
+                  "lng" : 110.8311744802915
+               },
+               "southwest" : {
+                  "lat" : -7.566407080291502,
+                  "lng" : 110.8284765197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Family of God",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114750334262376925979\"\u003eMade Kevin Elika\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJtvkl3r5HnTn8DIh9Cks00n9zd8LF8pYLLSmbnw-ba6gb_o3ZDN-_P1JBwa3koSHDntXqQG3zv3z46qpJlNHYL4_8xeXS0ZAVsjnjZlU0uprK68TNNXG8BUxz9afqyzE8BMHvS2LmxoE7WL7luckMGJxvhutmyI78PNWJOZi9BiW0G",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJM-2Or4sWei4RD-MBXfb7bwc",
+         "plus_code" : {
+            "compound_code" : "CRPH+2W Kepatihan Kulon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRPH+2W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJM-2Or4sWei4RD-MBXfb7bwc",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya"],
+         "user_ratings_total" : 473,
+         "vicinity" : "Jalan Sutan Syahrir No.88, Kepatihan Kulon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.561443999999998,
+               "lng" : 110.839003
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.560105919708498,
+                  "lng" : 110.8403485802915
+               },
+               "southwest" : {
+                  "lat" : -7.562803880291503,
+                  "lng" : 110.8376506197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GMAHK Ngemingan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101281865033572299247\"\u003eArwin Prio Utomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLp-GyKPhPdcf1PYOYjO2TGE77VCitJiI4eXrk0sZIsTqFQ4WyMTL9T0jGPHfm73aFPYK6YAyImOdIr6Gg40-j_0m6TLYGxBFRSMMqNpQTBcxSQq284aimEFXkDtE5b2ke7MPgDsP5Q0xcUZR_gILx6e2_Ot7vh8BXXd4l4wzVjpCBT",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ0a1BOPEWei4RxZZ6F5SQjE4",
+         "plus_code" : {
+            "compound_code" : "CRQQ+CJ Jebres, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRQQ+CJ"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ0a1BOPEWei4RxZZ6F5SQjE4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Jalan Pratanggapati, Jebres"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.567222999999998,
+               "lng" : 110.825869
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.565956169708498,
+                  "lng" : 110.8272230302915
+               },
+               "southwest" : {
+                  "lat" : -7.568654130291502,
+                  "lng" : 110.8245250697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Kalam Kudus Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104190227977292580906\"\u003eMaria Natalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLAik9MwLkpCD9Hpw4Eq5mS2YL-Sd7HkLlM8LflwQQpKGZktT4qvq9yltAxYShoh0JCb1jZqaw2_ggJn9cHMP-bYaFwzc2NSaVljnbX58qWa1QBeJy4AXHSaO6ZRVy_C_LoxSEEnV6Ok382-Cf7SDmCjH1PgAu3mFm67ST22Hjvsgh3",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJa5ZdG4oWei4R0cx7EP8T4bs",
+         "plus_code" : {
+            "compound_code" : "CRMG+48 Keprabon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMG+48"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJa5ZdG4oWei4R0cx7EP8T4bs",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "budaya"],
+         "user_ratings_total" : 90,
+         "vicinity" : "Jalan Sugiyopranoto No.28, Keprabon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.561767999999999,
+               "lng" : 110.815298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.560395169708497,
+                  "lng" : 110.8165150302915
+               },
+               "southwest" : {
+                  "lat" : -7.563093130291501,
+                  "lng" : 110.8138170697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "The Church of Jesus Christ of Latter Day Saints",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114011170363023854919\"\u003eSamuel Yudha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzz4BpYgFaDe2Z8ICdctgn-yb5hhYp2yLazWv2j-9QRdVv9liF8AxWc4R_TzVM4OwM3K4BFqZHZXRneVN-cR-jqNNTMv1leX7h5E3xlMLVVuykMMZl3fqsDOWgs10tSqCl4hlR7yjQxKgwIzabS2BC3TPeSYXRcF5UebtmTgcSUPzX",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ92pjQYQWei4RLKZvRpvdjMI",
+         "plus_code" : {
+            "compound_code" : "CRQ8+74 Punggawan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRQ8+74"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ92pjQYQWei4RLKZvRpvdjMI",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "Jalan Professor Doktor Supomo No.58, Punggawan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.566921600000001,
+               "lng" : 110.8355082
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.565667519708499,
+                  "lng" : 110.8368246802915
+               },
+               "southwest" : {
+                  "lat" : -7.568365480291503,
+                  "lng" : 110.8341267197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristen Indonesia (GKI) Sorogenen Surakarta",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105681627927319304448\"\u003eAngelina Eka\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK1sK9MBgAn7EeT7VbrErx-ahKImQkglKsdCnnMPWiBc1Q2xFr4tECE-ABdv7GVB0WN-mdTDP0LlFMV6Hr1B0EkmrmkZxnv1k7-DN6XCiFT-iWz5uEJn-HFje_TqFHRXXeQEhTXtbMjtqRN3odDrVI4f09q-A26U3G8ERJVnzDM6u4i",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJsQ7Qa6oXei4Rj1HJjYyc1Wc",
+         "plus_code" : {
+            "compound_code" : "CRMP+66 Purwodiningratan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMP+66"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJsQ7Qa6oXei4Rj1HJjYyc1Wc",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "Jalan Ir. Juanda No.51, Purwodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.552033899999999,
+               "lng" : 110.8286029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550674269708498,
+                  "lng" : 110.8298666302915
+               },
+               "southwest" : {
+                  "lat" : -7.553372230291503,
+                  "lng" : 110.8271686697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GSJA EBEN HAEZER",
+         "place_id" : "ChIJ67tjnDoXei4RvmdypjcgHFw",
+         "plus_code" : {
+            "compound_code" : "CRXH+5C Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXH+5C"
+         },
+         "reference" : "ChIJ67tjnDoXei4RvmdypjcgHFw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.551734099999999,
+               "lng" : 110.829364
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550330569708498,
+                  "lng" : 110.8307650802915
+               },
+               "southwest" : {
+                  "lat" : -7.553028530291502,
+                  "lng" : 110.8280671197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Lampion Nayu Timur Solo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104636526821881163691\"\u003eSteve Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLX8udcbyyW9u8JOL_yfMi_u_JB_eUBJGrqqbpZE5BThKT6_BrtuXyMmdNudvVYzRxL-r2oo5HcsQxzWoUWuTmW3aufiSGrfUrwk9OVbtpaec_tDyqRtiQTNEchztvFJ4PKvZ69qV_8GS0OSO4MiSNAbyZSnvTUn3HPFA4P9fOKAf1y",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJd0FpkJQWei4RQgN75DAi7jY",
+         "plus_code" : {
+            "compound_code" : "CRXH+8P Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXH+8P"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJd0FpkJQWei4RQgN75DAi7jY",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "budaya" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5484247,
+               "lng" : 110.8267593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.547100069708497,
+                  "lng" : 110.8280994302915
+               },
+               "southwest" : {
+                  "lat" : -7.549798030291502,
+                  "lng" : 110.8254014697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GSJA Bukit Sion - Immanuel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106881593448835830398\"\u003eC-Stevanus Kevin Pramudito\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKzVXgt708U4RW4C4Ff3pYC0Jlr3V5Wftm6pliLypBTwssCLvKPZCCu8ZaMgPNQutqdNlKCMOdfVgGYE02v9p5BM9eLj22V0LT2yO-A310C535Z431SUAc0BUih7OX0wNy_iaN7zpIJj6FwdXQp1SaNmlripIh2wPVx9heABo7-oaWc",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJe0qE65UWei4RiLaTJ1Wp2CA",
+         "plus_code" : {
+            "compound_code" : "FR2G+JP Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2G+JP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJe0qE65UWei4RiLaTJ1Wp2CA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5484528,
+               "lng" : 110.8264814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.547074619708499,
+                  "lng" : 110.8278411802915
+               },
+               "southwest" : {
+                  "lat" : -7.549772580291503,
+                  "lng" : 110.8251432197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Bukit Sion - Imanuel",
+         "place_id" : "ChIJZVAx6ZUWei4Ro1pwiqRuRRI",
+         "plus_code" : {
+            "compound_code" : "FR2G+JH Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2G+JH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZVAx6ZUWei4Ro1pwiqRuRRI",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Merapi Utara 2, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.547787199999999,
+               "lng" : 110.8280004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.546431069708497,
+                  "lng" : 110.8292925802915
+               },
+               "southwest" : {
+                  "lat" : -7.549129030291502,
+                  "lng" : 110.8265946197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIBI Persahabatan",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106405731034127718350\"\u003eHari Utomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKMHps9AgtpxAoc6MD8312KT5WZpJ00USNRkAdaOX-r4EP706qL17UJYsW8FIxmxX7T0Xxg1H_ll_pr9wxuFRm1hCOYe059SF4E8mNe_gLGq--mKHX9_dXiaSGNZNlvzggzMd8tDRdGXwq0_7KJlECv10RAHlbgRZboTc5ioOsUn4bi",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJCTFAhJUWei4RSFC5sU87Rtw",
+         "plus_code" : {
+            "compound_code" : "FR2H+V6 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2H+V6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJCTFAhJUWei4RSFC5sU87Rtw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.552137,
+               "lng" : 110.825729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550727069708497,
+                  "lng" : 110.8270858802915
+               },
+               "southwest" : {
+                  "lat" : -7.553425030291502,
+                  "lng" : 110.8243879197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Sidang Pantekostan Indonesia",
+         "place_id" : "ChIJ00umA5QWei4RpRTPo04_l84",
+         "plus_code" : {
+            "compound_code" : "CRXG+47 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXG+47"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ00umA5QWei4RpRTPo04_l84",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan TGP.Nayu Barat RT.2/RW.13, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.550027999999999,
+               "lng" : 110.831652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.548651819708498,
+                  "lng" : 110.8330059302915
+               },
+               "southwest" : {
+                  "lat" : -7.551349780291502,
+                  "lng" : 110.8303079697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gkj Bibis Luhur",
+         "place_id" : "ChIJke6cK-sWei4RK_B-Jg_LLck",
+         "plus_code" : {
+            "compound_code" : "CRXJ+XM Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXJ+XM"
+         },
+         "reference" : "ChIJke6cK-sWei4RK_B-Jg_LLck",
+         "scope" : "GOOGLE",
+         "types" : [ "religi", "budaya" ],
+         "vicinity" : "Jalan Mr. Sartono No.32, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5463869,
+               "lng" : 110.8276333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.545048369708499,
+                  "lng" : 110.8289811802915
+               },
+               "southwest" : {
+                  "lat" : -7.547746330291504,
+                  "lng" : 110.8262832197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "PPA IO0994 Gereja Gideon Solo",
+         "photos" : [
+            {
+               "height" : 2656,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110307006169274352639\"\u003eAgus Sudarmono\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL339NCJ8_q2Gaawtq4QaP7Lx6Iz5c76GsIfb9o6VKJG4UVOlav-K4gMaIXrNDr5RXoFRBf56Kxf4BNz3TenflFARfZjXquNbttenxt5NPX_TwzIqu_uVxGXDAZL6KI0CfK3tcB9LjWE0vCSalBCueAqhBY9iyh9mdaDVvBs_8UeTfL",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJZ67c9JUWei4RlciHdjdgGcY",
+         "plus_code" : {
+            "compound_code" : "FR3H+C3 Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR3H+C3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJZ67c9JUWei4RlciHdjdgGcY",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "budaya" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Kelud Selatan No.2, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.547227800000002,
+               "lng" : 110.8312456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.545916469708499,
+                  "lng" : 110.8326209302915
+               },
+               "southwest" : {
+                  "lat" : -7.548614430291503,
+                  "lng" : 110.8299229697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "JKI Lembah Pujian Solo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116334419054787665260\"\u003eRahel Tyanarrha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL4EIHjvFx73-yTpjx0NfGByvXqwia3FsNbTItWNAO6SOTAX8e0OeiMtvg9y4VHKqhtPx_ltZcEyew-PJvzpNRRy2cFq9kp6qWIEbrOL1J-dGzKzrUbfcMQTIZ40NVm2FMffcU-Z7-bopCH1JyNBzidtxzxU4umj0zMa-Fv2EddIH5Y",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJI2zmyY4Wei4R-B5797hUBTw",
+         "plus_code" : {
+            "compound_code" : "FR3J+4F Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR3J+4F"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJI2zmyY4Wei4R-B5797hUBTw",
+         "scope" : "GOOGLE",
+         "types" : ["religi", "budaya" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Jalan Letjen Sutoyo No.71, Kadipiro"
+      }
+   ],
+   "status" : "OK"
+}

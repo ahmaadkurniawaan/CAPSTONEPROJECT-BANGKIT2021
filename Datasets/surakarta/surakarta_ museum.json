@@ -1,0 +1,714 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKn4hi5y0vpYEB7VX6o0ghtsJV02IguwNKRlfsbb8QEgpOAv9Fma8jX6vA9vBAle0faflpsLpI01GfWRv8O2VgSD5n7LrT7Jq6Ei6DOZE94Kn3JmVQHN6TFwtk37MSK8MwN-eds2t3o0tdAw4jKDBr-F9Ph4T5D2qNXmgMz1OVwnGzZ24G3pkLKcsWfj3zMt35sE216RjzPKlFk7gYtqr_Rw0Vl0423VOnqT5aC5N7VhvXbXNIal3AQuFeEc9nNj-VXbmrRqlr1DaQURnIyak6ALi03cK-z3pgsXZDFv6bq4lhxDXht5CRPs0BQFSOZeCZ0Cje2zkfpMXz9bZKjc8gHpAfEZB8NMmpNcCFrxVfGkXAXeCF7ylksQjBrXSCkt7z81pYXuQTR1IBc2kBbdALXGVvf32qN59GsW0xc-NnuzHWTyk26fpc",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.554690099999999,
+               "lng" : 110.8313957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.553257019708497,
+                  "lng" : 110.8327041302915
+               },
+               "southwest" : {
+                  "lat" : -7.555954980291502,
+                  "lng" : 110.8300061697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen TP Ganesha",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJm4rPWe4Wei4RjrQaxz4p0q4",
+         "plus_code" : {
+            "compound_code" : "CRWJ+4H Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWJ+4H"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJm4rPWe4Wei4RjrQaxz4p0q4",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Tentara Pelajar, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5649892,
+               "lng" : 110.818091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563681219708497,
+                  "lng" : 110.8195851302915
+               },
+               "southwest" : {
+                  "lat" : -7.566379180291502,
+                  "lng" : 110.8168871697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Pers Nasional",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108592760905455757763\"\u003eanggitaa pratiwii\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK-5Zwh5pqHC0vxVcM1ubKJnhCCIymc73tZEk6MOSbTWlboqfe5U5NwNvJjYgihfwyJ2G9DFj5uzxdWsv-qbG7ac95XCRjX99c8yGo94riZjWOW-hVZ0aYkGSSJM6XrC9CBUaWRKQ8S5KhN1qB9Qg74jPLPFj4q3d8fzOIz4w5sSDY6",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJkYi7CIYWei4R7r7LGt-fUu4",
+         "plus_code" : {
+            "compound_code" : "CRP9+26 Punggawan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRP9+26"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJkYi7CIYWei4R7r7LGt-fUu4",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 172,
+         "vicinity" : "Jalan Gajahmada No.59, Punggawan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5517497,
+               "lng" : 110.8296848
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550419269708498,
+                  "lng" : 110.8310160302915
+               },
+               "southwest" : {
+                  "lat" : -7.553117230291503,
+                  "lng" : 110.8283180697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "TUGU KELURAHAN NUSUKAN",
+         "place_id" : "ChIJpW0YkCoXei4Ric078GsIiv4",
+         "plus_code" : {
+            "compound_code" : "CRXH+8V Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXH+8V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJpW0YkCoXei4Ric078GsIiv4",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5477384,
+               "lng" : 110.829937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.546382369708499,
+                  "lng" : 110.8312885802915
+               },
+               "southwest" : {
+                  "lat" : -7.549080330291503,
+                  "lng" : 110.8285906197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu Patung Banteng",
+         "place_id" : "ChIJqxrCPjkXei4RvL08k_45lns",
+         "plus_code" : {
+            "compound_code" : "FR2H+WX Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2H+WX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJqxrCPjkXei4RvL08k_45lns",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Kelud Selatan No.6, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.553448100000001,
+               "lng" : 110.8256223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.552230069708497,
+                  "lng" : 110.8269475302915
+               },
+               "southwest" : {
+                  "lat" : -7.554928030291502,
+                  "lng" : 110.8242495697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Perpustakaan kelompok tani",
+         "place_id" : "ChIJ1TqBSncXei4R-uFIzLjoehQ",
+         "plus_code" : {
+            "compound_code" : "CRWG+J6 Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWG+J6"
+         },
+         "reference" : "ChIJ1TqBSncXei4R-uFIzLjoehQ",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "Jalan Ahmad Yani No.201, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5549742,
+               "lng" : 110.8293139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.553592419708496,
+                  "lng" : 110.8306675302915
+               },
+               "southwest" : {
+                  "lat" : -7.556290380291501,
+                  "lng" : 110.8279695697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "N Sebelas Garasi Studio",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110018833768794075204\"\u003eNugroho Garuda\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIuVTgQhnaczEYqPdMkfYxQwstRnWE0B5UO9AoQfYL5ZOWP_XFMqLF-XhevOMqqmpOHcvrBGf0223J8YepYm1N-DmUkOwQXih0T20LXA1euQitccx9epNf3SF7Jy0qLKPMlqgLIzrJQBaRQRjC3iG3lyh3LdFIXdOPp2sssqGpo9GKu",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJT_VgHZMWei4Rz5vAYjUK8gM",
+         "plus_code" : {
+            "compound_code" : "CRWH+2P Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWH+2P"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJT_VgHZMWei4Rz5vAYjUK8gM",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Jalan Nias No.3, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.549808199999999,
+               "lng" : 110.823151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.548452569708497,
+                  "lng" : 110.8244763802915
+               },
+               "southwest" : {
+                  "lat" : -7.551150530291501,
+                  "lng" : 110.8217784197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Astana Oetara K.G.P.A.A. Mangkunegara 6",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJvx9rfyMXei4R87bbVLBu_FY",
+         "plus_code" : {
+            "compound_code" : "FR2F+37 Nusukan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR2F+37"
+         },
+         "reference" : "ChIJvx9rfyMXei4R87bbVLBu_FY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "Jalan Nayu, Nusukan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.558610000000001,
+               "lng" : 110.830894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.557262919708498,
+                  "lng" : 110.8322383802915
+               },
+               "southwest" : {
+                  "lat" : -7.559960880291501,
+                  "lng" : 110.8295404197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Batu Budaya",
+         "place_id" : "ChIJpdCsSY0Wei4RdyEAn3Bcc9g",
+         "plus_code" : {
+            "compound_code" : "CRRJ+H9 Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRRJ+H9"
+         },
+         "reference" : "ChIJpdCsSY0Wei4RdyEAn3Bcc9g",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "JL Wolter Monginsidi, 125 RT 004/03, Solo, 57133, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5509298,
+               "lng" : 110.8191223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.549675869708498,
+                  "lng" : 110.8204362302915
+               },
+               "southwest" : {
+                  "lat" : -7.552373830291502,
+                  "lng" : 110.8177382697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Papan Kawruh Tirta",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107421956753461439053\"\u003eMuhamad Ilham\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJamsnvAam3-CLA1tHE2zKQQLEIpGCtMIa9RVmeVNbxaAvyZmR084b7Vz_nARBNKhFnqFr3Ss2XJqroOxsC1FyMmXHOWDXUUjjuV4xa2k16QwEO1lqvTndwJmxzADGfVi7lWfi94kv8KE5Yqy9WqpOSdO1O1f8RgZp6QKfZvcyjKUF7",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJxUh6kD4Xei4RAZ5M4wjjfto",
+         "plus_code" : {
+            "compound_code" : "CRX9+JJ Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRX9+JJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJxUh6kD4Xei4RAZ5M4wjjfto",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.559365799999999,
+               "lng" : 110.8344895
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.557960919708496,
+                  "lng" : 110.8358672802915
+               },
+               "southwest" : {
+                  "lat" : -7.560658880291501,
+                  "lng" : 110.8331693197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu semar",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103041705068901483286\"\u003eDavid\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKAbjuJXMYiBT3zInBulO3p7OY6sLXKs3Gbly7MRZVXi6GytKqNOVkWnWCMuWuieWOxdEcjtVk3aweGagvZgVZYdbDHrSxiP4Y6tuP8Wrgtw8m2rEixV2bXoiBmbWhyou7levYeIzIBjbKEtfxCHCG4gUmkvpOnyPTHx0rJm3iH-lcV",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJPU0f2_0Xei4RftlVjkfFZN0",
+         "plus_code" : {
+            "compound_code" : "CRRM+7Q Tegalharjo, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRRM+7Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJPU0f2_0Xei4RftlVjkfFZN0",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Ahmad Yani No.24a, Tegalharjo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5628916,
+               "lng" : 110.8306035
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.561504719708498,
+                  "lng" : 110.8316697802915
+               },
+               "southwest" : {
+                  "lat" : -7.564202680291503,
+                  "lng" : 110.8289718197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Paksi dewata antique art & gallery",
+         "place_id" : "ChIJRU_mmAwXei4RMuhH0gwJ_QA",
+         "plus_code" : {
+            "compound_code" : "CRPJ+R6 Kepatihan Kulon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRPJ+R6"
+         },
+         "reference" : "ChIJRU_mmAwXei4RMuhH0gwJ_QA",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "Jalan Mashela Gang II No.75, Kepatihan Kulon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.538874300000002,
+               "lng" : 110.8240053
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.537334369708499,
+                  "lng" : 110.8251385302915
+               },
+               "southwest" : {
+                  "lat" : -7.540032330291504,
+                  "lng" : 110.8224405697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Makam Eyang Mamun Soepardjono",
+         "place_id" : "ChIJNYANFrgXei4R6sIIXvQFkII",
+         "plus_code" : {
+            "compound_code" : "FR6F+FJ Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR6F+FJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJNYANFrgXei4R6sIIXvQFkII",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Bromo Raya, Gebang, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.537596300000001,
+               "lng" : 110.825115
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.5361470697085,
+                  "lng" : 110.8261790302915
+               },
+               "southwest" : {
+                  "lat" : -7.538845030291505,
+                  "lng" : 110.8234810697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Makam Ibu Sri Endah Budi Santosa",
+         "place_id" : "ChIJzbqUUVQXei4RzNrOqwWb1O8",
+         "plus_code" : {
+            "compound_code" : "FR6G+X2 Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR6G+X2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJzbqUUVQXei4RzNrOqwWb1O8",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya","religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan TPU Bonoloyo, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5642076,
+               "lng" : 110.827422
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.562931219708498,
+                  "lng" : 110.8287430802915
+               },
+               "southwest" : {
+                  "lat" : -7.565629180291503,
+                  "lng" : 110.8260451197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Sanggar Gidak Gidik",
+         "place_id" : "ChIJ4WVIrT0Xei4R8BGgv8lVfMs",
+         "plus_code" : {
+            "compound_code" : "CRPG+8X Setabelan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRPG+8X"
+         },
+         "reference" : "ChIJ4WVIrT0Xei4R8BGgv8lVfMs",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "Jalan Sutan Syahrir No.142-120, Setabelan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5645916,
+               "lng" : 110.8298019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563199719708499,
+                  "lng" : 110.8310226302915
+               },
+               "southwest" : {
+                  "lat" : -7.565897680291504,
+                  "lng" : 110.8283246697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Omah Kemasan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1773,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113960514028383428282\"\u003eHelen Widianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIpCzDvsbN-oFsVHSPs4meah3tj-v3mLRDIVPfeUXmFd7NmYlngmikXLzxL9OF-G5l0R62ZIRgUFL1uvvaIga4loBSmui1l1zdtbhTAkEC5SLRn2B-7m8qG-wovkRXWkuKSn_CbUarV-fwI0tHcYSvA8o6tXNz9impiXZtphAv3OEg",
+               "width" : 1773
+            }
+         ],
+         "place_id" : "ChIJ516p-Q8Xei4RExLaJ9-TalQ",
+         "plus_code" : {
+            "compound_code" : "CRPH+5W Kepatihan Kulon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRPH+5W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ516p-Q8Xei4RExLaJ9-TalQ",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jl. Mashella No.4 B, Kepatihan Kulon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5637011,
+               "lng" : 110.8231381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.562432669708499,
+                  "lng" : 110.8246655802915
+               },
+               "southwest" : {
+                  "lat" : -7.565130630291503,
+                  "lng" : 110.8219676197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Ndalem Sindurejan (Bekas Rumah Pangeran Sambernyawa)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112342854573523122901\"\u003eBima Widiatiaga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIHX6Q2-NNH_FVTAGN-AjtOOxdymcfawzZvbaTPdNEtSJfjOe_PtdY8bZOrGIUP6nLtOAdWNaCzVD6puJQvQDSAVLwIJx8S8fmVkvo0UoF1SokfAGRF20q7MPtKdOgkak2tMFu17NwJzFfNaw2-m3gkhZbTWKcOmxzqaCOINRUxrQbg",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJad62vgEXei4RnAh_tp7LQy0",
+         "plus_code" : {
+            "compound_code" : "CRPF+G7 Kestalan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRPF+G7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJad62vgEXei4RnAh_tp7LQy0",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Letjen S. Parman No.9, Kestalan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5413126,
+               "lng" : 110.8167734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.539960369708497,
+                  "lng" : 110.8181203802915
+               },
+               "southwest" : {
+                  "lat" : -7.542658330291502,
+                  "lng" : 110.8154224197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Banyuagung Art Primitif",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113512071161324392166\"\u003eBEGE ROMERO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI3wACeM_oRWxYPEe0PhqSHv9tMmtIJlEuNwrskNGJRu4okoLa6h7p9p01Q3ee5ivn5GSoYeUEIzlpNKqcykJZ9n5sfew7ZCa5d0kaNIhcqM5oyoWia2tuG0VBk8X38vrLsNaOlhmP4vt5LvcbpTKjSJThPc_kn31DbuWcMR1RE8bYr",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJLbluS3AXei4RT-ewGd8k4KI",
+         "plus_code" : {
+            "compound_code" : "FR58+FP Kadipiro, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR58+FP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJLbluS3AXei4RT-ewGd8k4KI",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Kalingga VIII, Kadipiro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5565845,
+               "lng" : 110.8429806
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.555303519708498,
+                  "lng" : 110.8443315802915
+               },
+               "southwest" : {
+                  "lat" : -7.558001480291503,
+                  "lng" : 110.8416336197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen Prof. Dr. Soeharso Surakarta",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117268147038390294003\"\u003eIrru anggara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLR_4BY7G7eSSA6lK1RuLQPyWkOHOo9LGaqSKZg4yheymgFm__BVcTQe7jRnCjk0xhduqsuvxnHRQMSoRj8hAUaVGdSitsMDO8BKwTW2L96Q58lZNmVY4zWXDq725xidk0MHq1Pn6BbN68OG0aXGl9pkhN14zDRbzl3i91-Z_CdpxOQ",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJa75sCLUXei4R0FriEs1yGBE",
+         "plus_code" : {
+            "compound_code" : "CRVV+95 Jebres, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRVV+95"
+         },
+         "reference" : "ChIJa75sCLUXei4R0FriEs1yGBE",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "Jebres"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.566276599999999,
+               "lng" : 110.8230732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.564895469708498,
+                  "lng" : 110.8242902802915
+               },
+               "southwest" : {
+                  "lat" : -7.567593430291502,
+                  "lng" : 110.8215923197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pendopo Pura Manggkunegaran",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114312363390142562580\"\u003eAntok Vanhelsi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLf9sGJkE3mJj5tuthD_lNA8OTrrYvkBV325CZ_kyWrUDqYpmTul6crAwQqoio8x4MhFXpQeD5fQD48r3lPtAOy4IDQETORtgiAG0reMUx1aZRzXo3rLL6mdtyTMzpznhh9GhCDoLGrTaHK4DGzXhnLUeUoELXRVJ4is2xsUnze5niI",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJMdrMNZQXei4ROfqcWDI9UCY",
+         "plus_code" : {
+            "compound_code" : "CRMF+F6 Keprabon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMF+F6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJMdrMNZQXei4ROfqcWDI9UCY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Keprabon"
+      }
+   ],
+   "status" : "OK"
+}

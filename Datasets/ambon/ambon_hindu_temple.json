@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6919831,
+               "lng" : 128.1821787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.690569919708497,
+                  "lng" : 128.1834796802915
+               },
+               "southwest" : {
+                  "lat" : -3.693267880291502,
+                  "lng" : 128.1807817197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura sura yudha",
+         "place_id" : "ChIJD7ETaDDpbC0RSMxvViiCp9U",
+         "plus_code" : {
+            "compound_code" : "855J+6V Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C855J+6V"
+         },
+         "reference" : "ChIJD7ETaDDpbC0RSMxvViiCp9U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "religi"
+         ],
+         "vicinity" : "Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.713692300000001,
+               "lng" : 128.1537522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.712202069708499,
+                  "lng" : 128.1550191302915
+               },
+               "southwest" : {
+                  "lat" : -3.714900030291504,
+                  "lng" : 128.1523211697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Siwa Stana Giri",
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106086547802592042081\"\u003eFergi Mahu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ_Rtw-IuXFDLFhsW7qMVReXsid8vruMJfayI8-wDPvpwqofWY87vtSSUahDOgY9HdU4qc_g43R43443WH6NhFzMTlEb1H2zJYCD6U7cTVY0G99ilCmKJTARQM56D-CqflyYIjF6m5LfoCcyRYqzySHEtXFdnhfBCyG2lPMDRWKQcPJ",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJhZrx6AXobC0Rrrv3rTx8DOo",
+         "plus_code" : {
+            "compound_code" : "75P3+GG kEL NUSANIWE, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C75P3+GG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJhZrx6AXobC0Rrrv3rTx8DOo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "religi"
+         ],
+         "user_ratings_total" : 19,
+         "vicinity" : "kEL NUSANIWE"
+      }
+   ],
+   "status" : "OK"
+}

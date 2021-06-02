@@ -1,0 +1,714 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwIXF6TgeUg1ffo2q5KTbVESJ12jVo0REfV1TsSfIfAX-H7V5I6dMDTG5VuNp60pBfrGanjYlS2nwBcYuORo062Ij36tFfs44xUSbj6TwQWaqXVus7HF8jL4jQlUFcuyYJ6bF3JuGRVSMMqNHlpG-BcS2pzbAomDQOS1-4KBWc-0Z8NUkFhaqxYixV7BJ6xID0GqZIRAmpYjhjWAcTi0-C0jJcvUDDPV6iDn2DVTmOzzvnJVglD9U9ZzqQHijcV_NWyHKfTsbl72Oqt-1AVQ1lo6p32C9RhDzWtV7hzjqgpTvSEYyAq53L9v6J9MJfvEmES5ZAD2mhU78KX5nrewIsFqvD_L_rYfmU9y3atQsnJf_SJtAZL9e-3hCW8xnYBUWyCV-lvg2ULZ0SZlwDRvKoQl6ydXYhuhwHj1uFex_vTJQD7QTeRuyVy_yHUcfczKai4pNqQ",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.192961200000001,
+               "lng" : 106.8326645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.191625719708498,
+                  "lng" : 106.8342185802915
+               },
+               "southwest" : {
+                  "lat" : -6.194323680291503,
+                  "lng" : 106.8315206197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Grand General Dr. A. H. Nasution Memorial Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1108,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108374615361710843617\"\u003eMuhammad Asrar Amir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKltJqrg9vgs-aCeHvHFHNb-qFvtxjtMhYd_98I5iioHtMPDkds7pBZhgnSpIJHyBfAX5OCtMqE34vQXI08IVEIHCJF7u7mMK3nCFnTdi2ZxHqvAmTogwwtsmP1e6jaAUVc3aEHBf0_I6y7dBKd7aVrP_PHliVJkfGzNeBDGPapoZht",
+               "width" : 1478
+            }
+         ],
+         "place_id" : "ChIJ82PiXjz0aS4RUs9OgwuWwF8",
+         "plus_code" : {
+            "compound_code" : "RR4M+R3 Gondangdia, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR4M+R3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ82PiXjz0aS4RUs9OgwuWwF8",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 721,
+         "vicinity" : "Jalan Teuku Umar No.40, RW.1, Gondangdia"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1948499,
+               "lng" : 106.8200607
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.193950519708498,
+                  "lng" : 106.8221232
+               },
+               "southwest" : {
+                  "lat" : -6.196648480291502,
+                  "lng" : 106.8192512
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Indonesia Kaya",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3104,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109566340623837973744\"\u003eHusin Wijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKh19sAMjwiMlt33peHILCHadD45mBbogREBsEuVW7FMGWyhJ2urmA3h-WcqwejCzG9PBT_uJIFdM45odyQfm65sFpY1LGLy4UsoOc0wkIObDbBCnFiRuKlk0cdb2xaZi-uiil_OPSb4Y8sZwMIIl2ftXab-HJS0_G8s7xZ3ZNopGNL",
+               "width" : 4192
+            }
+         ],
+         "place_id" : "ChIJf8IvSSD0aS4RGoaqXgFCQ4I",
+         "plus_code" : {
+            "compound_code" : "RR4C+32 Kebon Melati, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR4C+32"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJf8IvSSD0aS4RGoaqXgFCQ4I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "budaya"
+         ],
+         "user_ratings_total" : 1301,
+         "vicinity" : "Jalan M.H. Thamrin No.1, RT.1/RW.5, Kebon Melati"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1946607,
+               "lng" : 106.8225479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.193246669708497,
+                  "lng" : 106.8239993802915
+               },
+               "southwest" : {
+                  "lat" : -6.195944630291502,
+                  "lng" : 106.8213014197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bundaran Hotel Indonesia",
+         "photos" : [
+            {
+               "height" : 2656,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116630106419000333090\"\u003eyuddi w\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKLV0Vvv6lo--UyGP_Nkb4zuhPdubPdX65a834F89DZ2DPyYY1hsDpUJS7XfnCX7y3398OFsB9gH32C-Cd_zQjJugrL_50WNjJ-YMnzSsfpokI_QuQ3Jm9F7IBLtFCCXBdUSXeXtT-khp763exHAAQdRu4tG3WBN0HOtNn4DlNsRIzz",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJg-P0gyH0aS4RCovweBe0NgY",
+         "plus_code" : {
+            "compound_code" : "RR4F+42 Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR4F+42"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJg-P0gyH0aS4RCovweBe0NgY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 14655,
+         "vicinity" : "Gondangdia, Jalan M.H. Thamrin No.75 1, RW.5, Menteng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1960544,
+               "lng" : 106.8236967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.194857969708497,
+                  "lng" : 106.8250585802915
+               },
+               "southwest" : {
+                  "lat" : -6.197555930291502,
+                  "lng" : 106.8223606197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "BARTELE GALLERY - Jakarta, Indonesia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2352,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101908052289313580785\"\u003ePrimaditya Riesta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkMax5E3YGOS_omf7sYC_fwcjWVWMYgX3DVRZuA6VfZdE9m2glLWuF8BlxSgNyxc34PMM0g9GYtCx49gxn50aebFreUVrTb5pknclIBd1QStjZ6cP4xZVg1etVadytFX-bexhLbbWMLKL1ooPcpMaFCvXxN7x9naRyoTZWsLkWkT3m",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ5wou9iH0aS4R3Yeqw1Zd5_Y",
+         "plus_code" : {
+            "compound_code" : "RR3F+HF Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR3F+HF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ5wou9iH0aS4R3Yeqw1Zd5_Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "budaya"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Mandarin Oriental Hotel (2nd floor, Jalan M.H. Thamrin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.194997799999999,
+               "lng" : 106.8230496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.193700169708498,
+                  "lng" : 106.8246579802915
+               },
+               "southwest" : {
+                  "lat" : -6.196398130291502,
+                  "lng" : 106.8219600197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Selamat Datang Monument",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112289023250129654135\"\u003eSetivan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI4DqvT6TtE0ah2-f054DJzVH397pxI0qJqgkQwK8-TRW6ou7M5Bw9n7rUCoZFTkC0h96fUJmmd_BGGpLIl-te9RlMEZjXcZrjOJgU2BRRNk4gQKmP7QdidZrRq6It12bUoUjj9bOaopJm-Ac0A4_BGy3a0n4_CLDmdwfhLEk6kDset",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJB1Svq5_2aS4RmQyBLA0cPSQ",
+         "plus_code" : {
+            "compound_code" : "RR4F+26 Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR4F+26"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJB1Svq5_2aS4RmQyBLA0cPSQ",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 7277,
+         "vicinity" : "Jalan Kebon Melati 1 No.5, RT.1/RW.5, Menteng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.187963400000002,
+               "lng" : 106.8096081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.186998219708499,
+                  "lng" : 106.8110587802915
+               },
+               "southwest" : {
+                  "lat" : -6.189696180291502,
+                  "lng" : 106.8083608197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum of Textile",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114789069602462638950\"\u003eEko Budi Utomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ7TDcvQ6The8a1oBEznyAYX7Pzfl3IVtce75_kpAl6KqQedTzW1Tno31KVyOYWTE2jV-ocWJBvaNlBIEaWy7HBeHfQnF35ymQUjb7-5pZ-da4xvjid5hbV7Pl2DQw4xGFXVEreW9IGZ4znxdbxgMGTd3JZ6Px-2JsaHLIdGxUrRpHi",
+               "width" : 972
+            }
+         ],
+         "place_id" : "ChIJXVigIpv2aS4REJto8lZlJ9w",
+         "plus_code" : {
+            "compound_code" : "RR65+RR South Bambu City, West Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR65+RR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJXVigIpv2aS4REJto8lZlJ9w",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 2341,
+         "vicinity" : "Jalan Ks. Tubun No.2-4, RT.4/RW.2, Kota Bambu Selatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1964087,
+               "lng" : 106.8293106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.194794800000001,
+                  "lng" : 106.831199
+               },
+               "southwest" : {
+                  "lat" : -6.197977999999998,
+                  "lng" : 106.8279262
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Menteng",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106950324284397913064\"\u003ebayu nugraha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK31-hx8D7JVnhlkGyHzaHr_9olgdpeF3_DIxw4Qzp491zx12zUgvFvvSAXOaqniT8KiQJEIVmzkE14T3kfFvtHp7Z-fK-0UBJMAP1UJ_h0-xRVx9Dv0PQWTE-uM23C1-h_e0JTgVPzSUkILirNztvMquGaquPAdcMI39iX8s7iinB5",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJKeQOsCL0aS4RLuH7DlpcjaI",
+         "plus_code" : {
+            "compound_code" : "RR3H+CP Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR3H+CP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJKeQOsCL0aS4RLuH7DlpcjaI",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "user_ratings_total" : 17360,
+         "vicinity" : "Jalan HOS. Cokroaminoto RT.3/RW.5, Menteng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2013596,
+               "lng" : 106.8321278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.200029919708498,
+                  "lng" : 106.8337576
+               },
+               "southwest" : {
+                  "lat" : -6.202727880291502,
+                  "lng" : 106.8308428
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Agung Sunda Kelapa",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109277531956058105541\"\u003eAHMAD S MAJID\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ5vJ_pO6gHm7WaPt91Fqc_OMmAbaj9cyOGWyn_LdJPZSiazy8IqIvOZTt0mDXRVBzAtvmwJcpnLPxLEbR9YsvurGfUrxG6CoXquK6NlZlZElgawY2tvZeCelFQDVn2wRauN598SLG2c-Jh8_gL174s5LK0U6UL2ZCtugPUGdDTa744",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTyrBJBf0aS4RNnuboswlJSI",
+         "plus_code" : {
+            "compound_code" : "QRXJ+FV Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58QRXJ+FV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJTyrBJBf0aS4RNnuboswlJSI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "religi","sejarah"
+         ],
+         "user_ratings_total" : 10536,
+         "vicinity" : "Jalan Taman Sunda Kelapa No.16"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.191863799999999,
+               "lng" : 106.8211051
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.190517519708497,
+                  "lng" : 106.8223748302915
+               },
+               "southwest" : {
+                  "lat" : -6.193215480291501,
+                  "lng" : 106.8196768697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Curug cicontol",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109154180766091032971\"\u003eFaizal Ical\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKlypek1EWC6ddS847n31Y2NQ1HHNP72IGv9j3olwC1h16CbHNtzHMSoklLOu5tKAbP7NyB0cjYoPGXjBCTrSjTNVnkWDL3nHKbfkewbRPnf4lZkHfhENzKWrMhun-no7Q9I2ahTKxr9EIvPMIfIY81SAorfRruImuO_-kQz6E8fgSB",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJJRFXaYb1aS4R0Mvy6uNHWnw",
+         "plus_code" : {
+            "compound_code" : "RR5C+7C Kebon Kacang, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR5C+7C"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJRFXaYb1aS4R0Mvy6uNHWnw",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Kebon Kacang 30 No.3, RT.9/RW.4, Kebon Kacang"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1979206,
+               "lng" : 106.8042989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.196465969708497,
+                  "lng" : 106.8056556302915
+               },
+               "southwest" : {
+                  "lat" : -6.199163930291501,
+                  "lng" : 106.8029576697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Mausoleum OG Khouw",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114971967879782810978\"\u003eRaynardthan Pontoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKJB-aGZ0Qdhaj6gm82B_4upf-S6FgfS4PUeAgrGdoishCZzJvR60ica66jC3SfvfWQkW9_MaX-EeYGWiidXieVtwKOtFGZF2y7m-nfNovhX2Oyv8A51nxtKACNNe7DbCDEZz0WSCqgt1QFk2FDWSeVEvUh7M1GziBuIe-NQNTDf25v",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ93_rZr32aS4RRknsULPXp50",
+         "plus_code" : {
+            "compound_code" : "RR23+RP Petamburan, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR23+RP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ93_rZr32aS4RRknsULPXp50",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "Jl. KS. Tubun Raya No. 1, TPU Petamburan, Petamburan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1974418,
+               "lng" : 106.8298288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.195969719708498,
+                  "lng" : 106.8311882802915
+               },
+               "southwest" : {
+                  "lat" : -6.198667680291503,
+                  "lng" : 106.8284903197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Kodok Menteng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101708606198438579849\"\u003eSyaiful Bahri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKCWsIDmXH1tsghyigQQwRavV7sy_WqGHEYink-LVIi0s8aqs87HXyr21utIRJKX-JGp5MXWippwCPXOtJOmOUWclRV6Ah2KXNX7dL-Q8DTIS4iXPVnB_0F1ukpH6hkpwh2MLlaUJno7ejDL9Z0xXwd4JExmjOz4awnwhqikmviMLvb",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJV-0W9xf0aS4RlAmTRCifLdQ",
+         "plus_code" : {
+            "compound_code" : "RR3H+2W Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR3H+2W"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJV-0W9xf0aS4RlAmTRCifLdQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "user_ratings_total" : 901,
+         "vicinity" : "Taman kodok, RT.3/RW.5, Menteng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2001892,
+               "lng" : 106.831173
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.198774069708498,
+                  "lng" : 106.8325313802915
+               },
+               "southwest" : {
+                  "lat" : -6.201472030291503,
+                  "lng" : 106.8298334197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Formulation of Proclamation Text Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110046917563998301898\"\u003eyudit kadang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImgiVTC7gwDowR01aZ1ni4f6Z_1YCT2iQ5GgR4D7QMYINv-TlaICkkvIbms3C3eS3GDkXtabiHNma1HKvdSTEF6MHvj9FR9tXSAyUfzDZ-SLb5LusMzT83LFpLYurLqmk9Larfmd4_uepuukEt8SKUNBiTSrBuFNdxvd8fu-wn-bvw",
+               "width" : 1616
+            }
+         ],
+         "place_id" : "ChIJh8f9aBf0aS4R3JwFlUwh36k",
+         "plus_code" : {
+            "compound_code" : "QRXJ+WF Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58QRXJ+WF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJh8f9aBf0aS4R3JwFlUwh36k",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 1028,
+         "vicinity" : "Jalan Imam Bonjol No.1, RT.9/RW.4, Menteng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1889189,
+               "lng" : 106.8254547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.187448119708498,
+                  "lng" : 106.8266709302915
+               },
+               "southwest" : {
+                  "lat" : -6.190146080291502,
+                  "lng" : 106.8239729697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Saint Theresia Catholic Church",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115162636683667297944\"\u003eTanggu Raja Siboro\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ6CKTVO7jOcMe8PUym46GvKHSknn2aDJg12VJgQKflurZu3lGCoxb6c8VNiaSHY2yCv_JKl_JuGACYEw4F7IxOI3O4lfy9nP3eWeByNVVDZwTyWbyrnYjc9lvOEbTKQCryLj4XEfKAfSXg8wQZvApR6vvWwZR3qP2UQYpr1lU7wiRW",
+               "width" : 3489
+            }
+         ],
+         "place_id" : "ChIJ2RAXUyT0aS4RIf3Ff5Jpofs",
+         "plus_code" : {
+            "compound_code" : "RR6G+C5 Gondangdia, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR6G+C5"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ2RAXUyT0aS4RIf3Ff5Jpofs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "religi"
+         ],
+         "user_ratings_total" : 2904,
+         "vicinity" : "Jalan Gereja Theresia No.2, RT.8/RW.4, Gondangdia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2150515,
+               "lng" : 106.8179776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.213710269708499,
+                  "lng" : 106.8193327302915
+               },
+               "southwest" : {
+                  "lat" : -6.216408230291504,
+                  "lng" : 106.8166347697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bendungan Hilir",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110627701833140406390\"\u003eHery Suhendra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI21c33pSOFzFdPlPzLVdWPZNIL5jrFiN1emSih-rxpZ8c4FMW4MBP4JPcvrE2MXbPWFUK18Xz7-z5O8wkkymFMz5-nli1JI4cb6MZdj-xUIK5KUkcwtnUrJGIkQbqwGywy62E0-UH0_Ifhd9zNJif17P25TOfVB4rO_lxV4buaGlEs",
+               "width" : 1472
+            }
+         ],
+         "place_id" : "ChIJWTqFBOb1aS4R78LleR-iUQk",
+         "plus_code" : {
+            "compound_code" : "QRM9+X5 Karet Semanggi, South Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58QRM9+X5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWTqFBOb1aS4R78LleR-iUQk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "RT.3/RW.4, Karet Semanggi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1994034,
+               "lng" : 106.8326228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.197727849999999,
+                  "lng" : 106.8339827802915
+               },
+               "southwest" : {
+                  "lat" : -6.200813249999999,
+                  "lng" : 106.8312848197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Suropati",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113120625667086817030\"\u003eduong hieu lam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLXehVAvyxJ5FojNeooGAkCD1vlu9diYe2miepFoxECM27csgbc8I8i_XUJXw1w1ZT2Nz_Ec_BVq1YMRkLRodO9nBx0VjutRCa4uQRjnfgJy4G3iImNxk_UO4ZPxSPIaGf266Rehr0LCdWrvp3GsUTboxmBV53Ul1EMTrEDi41KVRih",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-S4F5Bb0aS4RgVq6v81ZM4s",
+         "plus_code" : {
+            "compound_code" : "RR2M+62 Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58RR2M+62"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ-S4F5Bb0aS4RgVq6v81ZM4s",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "user_ratings_total" : 16981,
+         "vicinity" : "Jalan Taman Suropati No.5, RT.5/RW.5, Menteng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2001919,
+               "lng" : 106.8325614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.198770519708498,
+                  "lng" : 106.8339203802915
+               },
+               "southwest" : {
+                  "lat" : -6.201468480291503,
+                  "lng" : 106.8312224197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Patung Diponegoro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1955,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103253571590544543036\"\u003ea husen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLqghzjM6RzFcVu4juQDEtu-RdCjwVfpakdGoPOrK-7qKpRnlN4o97pkO3TuP4uMYQ0EQq7P_gndYQ31k3tPoERyHwHAZcWmPRdUYFOrJiipXAREb5KeUBtnvoWMI__vYJHT7cKV6Nt-y-lmIihVl5jMHsn0tVqEBAgUsxpM_NjwDaO",
+               "width" : 2839
+            }
+         ],
+         "place_id" : "ChIJB-YjHhf0aS4RJUKJAXGhDFk",
+         "plus_code" : {
+            "compound_code" : "QRXM+W2 Menteng, Central Jakarta City, Jakarta, Indonesia",
+            "global_code" : "6P58QRXM+W2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJB-YjHhf0aS4RJUKJAXGhDFk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "Jalan Imam Bonjol No.1, RT.5/RW.5, Menteng"
+      }
+   ],
+   "status" : "OK"
+}

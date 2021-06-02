@@ -1,0 +1,365 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5460772,
+               "lng" : 110.8398977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.544617119708498,
+                  "lng" : 110.8412928302915
+               },
+               "southwest" : {
+                  "lat" : -7.547315080291503,
+                  "lng" : 110.8385948697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gua Maria Mojosongo (Saint Marry's Grotto - Mojosongo)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115093004007119023567\"\u003eGua Maria Mojosongo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJT_VJP0OdYhaMxdfZ7LzuSaKDVuR5XgC6Zlcr_PpiVwwm57tjIVgPI_MpoQPuyDEifY041G_hYzsaebYpxA4xSy8I0GqLCiqXvVssGs40vi3g61XXsDxaMPubvM4QUM5DY8L7q7CSXZ6FiwuD51CS_iqGssJc7F6DLdeP3P_GWc7Bi",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ0YX3ZMIWei4RrxdOSp9T7M0",
+         "plus_code" : {
+            "compound_code" : "FR3Q+HX Mojosongo, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR3Q+HX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ0YX3ZMIWei4RrxdOSp9T7M0",
+         "scope" : "GOOGLE",
+         "types" : ["sejarah","budaya"],
+         "user_ratings_total" : 3261,
+         "vicinity" : "Kampung, Jalan Debegan RT.4/RW.5, Mojosongo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5649892,
+               "lng" : 110.818091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563681219708497,
+                  "lng" : 110.8195851302915
+               },
+               "southwest" : {
+                  "lat" : -7.566379180291502,
+                  "lng" : 110.8168871697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Pers Nasional",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108592760905455757763\"\u003eanggitaa pratiwii\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIZzgGumeciQdMsrpIEHOQrtZ22E0uf55brtU5k9SJl9c2ibBXETAc5V3JxdF0DOUcRzI-NZwrzysuxA2TmEsyePgY8uSoVFCXQEW0XrHZjTzVR_HGe-GRPf7fFIbO6dAtue3_5LOjolZYWlm6p7uau1IJCfESHHf1kz8iaxg2gYiaE",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJkYi7CIYWei4R7r7LGt-fUu4",
+         "plus_code" : {
+            "compound_code" : "CRP9+26 Punggawan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRP9+26"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJkYi7CIYWei4R7r7LGt-fUu4",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 172,
+         "vicinity" : "Jalan Gajahmada No.59, Punggawan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.554716900000001,
+               "lng" : 110.831379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.553276119708498,
+                  "lng" : 110.8326837302915
+               },
+               "southwest" : {
+                  "lat" : -7.555974080291501,
+                  "lng" : 110.8299857697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen Jalan Tentara Pelajar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104525257890261079475\"\u003eAndy Hermawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKnWEH0vWhHAwWXxwJiGJlHzAYvi5cq9zlGWsSWFF59MWAWUemMVLy_mQGpXdePgN5yZvAKpvbFu_WnGV1hL9UkmoklZ5vU3flVUJuu_0CZoOftzb4I-fR9mJWhbYh_CBq1MtaghqMuNYQhR7KRj5wSlaHIsBfUxsb3BYD1VPJuJ-cV",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJFcogK5MWei4R0LEXSEwJMX0",
+         "plus_code" : {
+            "compound_code" : "CRWJ+4H Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRWJ+4H"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJFcogK5MWei4R0LEXSEwJMX0",
+         "scope" : "GOOGLE",
+         "types" : ["sejarah","budaya" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Tentara Pelajar, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.551507200000001,
+               "lng" : 110.8204626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.550138219708498,
+                  "lng" : 110.8214946302915
+               },
+               "southwest" : {
+                  "lat" : -7.552836180291503,
+                  "lng" : 110.8187966697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Tirtonadi Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117335383546741541787\"\u003esahul sunu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL57M62ge61iAANi2PfBsGIvEN33-ZKvvY32XE5gHYutkwYURTN9mnAvNMNVZgkGOaseX3BVkCEs0iwRdnrmdDfQ51Kv0l1RRJSPv1GlPH5Ep_nYqU9tWrIPaHPQucdhozEQujutSa5gNaAA02e3mI8sbm9oCRO5ZSEfRf678LqIgsu",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ4SVtM5cWei4Rwjyy_xBdlp4",
+         "plus_code" : {
+            "compound_code" : "CRXC+95 Gilingan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRXC+95"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ4SVtM5cWei4Rwjyy_xBdlp4",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 523,
+         "vicinity" : "Jalan Ahmad Yani, Gilingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5604092,
+               "lng" : 110.8264441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.559060219708498,
+                  "lng" : 110.8277930802915
+               },
+               "southwest" : {
+                  "lat" : -7.561758180291503,
+                  "lng" : 110.8250951197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Monument 45 Banjarsari",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2667,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105967999810579789305\"\u003eHapsamto Santoso\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKmBvXF2TZV1ckNLg2hZYWPa2_y-qAUNjR1OBu8kBP7Ncq69cys5j_PTHhdF1L7yigsDrMA2XGrdi01GPrhLgGkj03ORdcsjG872ZxAAmHI9DUTkVYFcgYeYYAYjFYmWk8IYDvv54mUYYnoLgy5bPbpj3P-EOxqdA8Y6J5H1dhcnTJq",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJASqqM4wWei4R-QG4FU3ekzw",
+         "plus_code" : {
+            "compound_code" : "CRQG+RH Setabelan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRQG+RH"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJASqqM4wWei4R-QG4FU3ekzw",
+         "scope" : "GOOGLE",
+         "types" : ["sejarah","budaya" ],
+         "user_ratings_total" : 3539,
+         "vicinity" : "Setabelan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.565798399999998,
+               "lng" : 110.8231952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.564841569708495,
+                  "lng" : 110.8244295302915
+               },
+               "southwest" : {
+                  "lat" : -7.5675395302915,
+                  "lng" : 110.8217315697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "Mangkunegaran Palace",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1426,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100331337184524967325\"\u003eSBP Bagus Painting\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKOXgwruLaV-NkjdFnIiLLocapOz9iDOhp3IEyBIEMApLrJCnbr44KFV8Glw88zLYJgFP74urT0tKBpK619ggiwQiHkRIrQu6NbbMJrPySr631vJbdHJTVlQwa5sakd1kzo4ZtG4DOaReU24qNDHwQpuHvAOOc4CtB8lKsbHKyjk6Pj",
+               "width" : 2133
+            }
+         ],
+         "place_id" : "ChIJa36osYkWei4RKE8-mKUlr_s",
+         "plus_code" : {
+            "compound_code" : "CRMF+M7 Keprabon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMF+M7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJa36osYkWei4RKE8-mKUlr_s",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 3382,
+         "vicinity" : "Jalan Ronggowarsito No.83, Keprabon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5653501,
+               "lng" : 110.8214188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.564096969708499,
+                  "lng" : 110.8229171802915
+               },
+               "southwest" : {
+                  "lat" : -7.566794930291503,
+                  "lng" : 110.8202192197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Wustho Mangkunegaran",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113007954384146364075\"\u003eNova Ariyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJBrAV2kI2IhbAVVadBT1JRpsgA_4SFMzLbJgaHGOv_8WGP6dEqAnpbzuLjbz8Chy0Rc0hUWYAaleJ-lRyBB-O6eoEXpuH0l-kj9z8vNMj11DHBBJWDMrJnaG9WBdRHowbMEnkcJFVkamSX_mmj6jDwRdRkDlW-pmlEM3bwjUZ8mCTe",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJFyD3sIkWei4RIDV4OzpKh3o",
+         "plus_code" : {
+            "compound_code" : "CRMC+VH Ketelan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMC+VH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJFyD3sIkWei4RIDV4OzpKh3o",
+         "scope" : "GOOGLE",
+         "types" : [
+            "religi","budaya"
+         ],
+         "user_ratings_total" : 1757,
+         "vicinity" : "Jalan Kartini No.3, Ketelan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.565059,
+               "lng" : 110.818131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563598569708498,
+                  "lng" : 110.8195962802915
+               },
+               "southwest" : {
+                  "lat" : -7.566296530291502,
+                  "lng" : 110.8168983197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen Pers Nasional",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104028077843100654180\"\u003eRofiquzzaki Solo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJL62BXpFaY-L1P7ULM9nJMB-uXjdCvUTa5WJBwmV8n47JT7kEjjYsmHbjnsG9CdV43hO0msknIX3nOq-rmUzXM4HY2jk9c07EOVan-B14A_oCw-ViH1dgxK41kf_DEjZuf0AzDyZI5Tw70SaIDPk2WPyuvzRFdpPgfNBTdzCUkiSY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJmfY3BoYWei4RFOkBtYOmx4A",
+         "plus_code" : {
+            "compound_code" : "CRM9+X7 Timuran, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRM9+X7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJmfY3BoYWei4RFOkBtYOmx4A",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "user_ratings_total" : 1337,
+         "vicinity" : "Jalan Gajahmada No.59, Timuran"
+      }
+   ],
+   "status" : "OK"
+}

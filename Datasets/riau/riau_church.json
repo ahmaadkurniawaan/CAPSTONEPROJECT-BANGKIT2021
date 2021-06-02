@@ -1,0 +1,686 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJe-iSmiCi_2QB95GGXIbOJLEw0DXPCxaOFJiwHdGITy0Oq3WLK-8V1vFfIjsi787a7aDL21Kh5tMCSNeN0O9hEhNiO6aW9jx6j9hohJeKwFf-qM2ZPVVp_W915KMJ5QkQwmwabxJWFddZFcB7Hm6oaMEiWUWBgOeslVgWQRoPNm707xYEYJ7WXZn9D5fmpv0sxYqznE0UGM2Av6hRVyOT_AbcnUuA8diysN1jrzXGK_Zi9u5w4Gdq4GZ9f5aCwaRR8ANd3nH-qVYnlI-uodw-bUvnIet5HcdTi4AFt5w_Onb58U-362Cha319zgUsgGYgMKvIO1P8AxMUJK_ivlpRe3vuqnQ-DMqvYv4P5iPdqZRGO0lXEQW5hbC50uTpZf0y6yzvaeJfO997OaxgoUisiIFmJNFtbWJJxCbKEEbkvAnjI4mmbHzs",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6758952,
+               "lng" : 101.4568265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.677242930291502,
+                  "lng" : 101.4582584802915
+               },
+               "southwest" : {
+                  "lat" : 1.674544969708498,
+                  "lng" : 101.4555605197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB EKKLESIA DUMAI",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 585,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103477522271149041618\"\u003eGPIB EKKLESIA DUMAI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKT1L_o9X_HoaYf946ZCB9pRiIP5eUS3moMKEuVwJITUNUOTa_MMXyprnJUGiTkEtize9puvDgWImiBVV8-WmjWGqmFK07DW4_3ahf0MaJv-ksytSjddDHUrvcrDZsAsDXGEzhDhC3F3sj59nzXpnvPNLNfytGM9HQK6Mnp1-oNeC88",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJ67kAqxiv0zER6PHqb7iDmrg",
+         "plus_code" : {
+            "compound_code" : "MFG4+9P Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MFG4+9P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ67kAqxiv0zER6PHqb7iDmrg",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "Jalan Air Bersih, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6668526,
+               "lng" : 101.4190925
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.668121230291502,
+                  "lng" : 101.4204379302915
+               },
+               "southwest" : {
+                  "lat" : 1.665423269708498,
+                  "lng" : 101.4177399697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "HKBP Bukit Datuk",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116185132358689407630\"\u003eIMELDAPROMAKEUP\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIdWBPKza-dDEiq3cOzc8VMipQopc7-JW2ZahVZEaVI5jT3vOwbUBPYina_UCzVNwQRj0iyY91mnpoo87ri242Ehrdcb4KMcCmUFm0XrhgGfrK_wtEqNVQv1oseROxyDtaPRYJJLqQ0Yd2LF69LF1eFGlLQXiW5YAyKPKnMEp8m4DCn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2WUSKsSo0zERz4oh1hSfZOk",
+         "plus_code" : {
+            "compound_code" : "MC89+PJ Ratu Sima, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC89+PJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ2WUSKsSo0zERz4oh1hSfZOk",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","religi"],
+         "user_ratings_total" : 22,
+         "vicinity" : "Jl. Melur No.4 RT005, Dumai Selatan, Ratu Sima"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6838546,
+               "lng" : 101.4431146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.685279230291502,
+                  "lng" : 101.4444759302915
+               },
+               "southwest" : {
+                  "lat" : 1.682581269708498,
+                  "lng" : 101.4417779697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik St. Fransiskus Xaverius Dumai",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115024548561360237610\"\u003eAndy Christyono\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLmq18xtEWsfWQqHa8SbNRUU4oaObQ8S3RljiJT9CczPyeBnXXuaB-r8PXCGVu8YIL8LMCvFCmdV9GEoCoZL739z5oBB4gg9m6M6S7xUK2iAgHj1ta4BXaFWZ9-AgOcCvb0UDpMcd2YU8VAbW9ukR3hEZQoW8DH7k_EpxDud5LyUH8P",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJI1AWWjOv0zERjL9xpGALdwU",
+         "plus_code" : {
+            "compound_code" : "MCMV+G6 Dumai Kota, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MCMV+G6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJI1AWWjOv0zERjL9xpGALdwU",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 80,
+         "vicinity" : "Jl, Datuk Laksamana No.99, Dumai Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6776274,
+               "lng" : 101.4509843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.679160580291502,
+                  "lng" : 101.4523330802915
+               },
+               "southwest" : {
+                  "lat" : 1.676462619708498,
+                  "lng" : 101.4496351197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja HKBP Dumai",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105592443438534944525\"\u003eBaritaku Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKsLfNVm_wcE2f09dFDtR2ZpaOpo67QRWQOZpEHoWfMkcSsh6GH71gX6pxJitot2yz0vtwiCx43-zR24CDjX7lDqcUABh3JzJHnLX5xsZRcI3jGS9G2lWfg4B_jNxLyYShSQIi8PW4RNCNNq9d_EHk7QT9K4FINByG8DEk2nMtlfsTe",
+               "width" : 774
+            }
+         ],
+         "place_id" : "ChIJH-K9MiGv0zERtFKVetdK6y0",
+         "plus_code" : {
+            "compound_code" : "MFH2+39 Bintan, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MFH2+39"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJH-K9MiGv0zERtFKVetdK6y0",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 38,
+         "vicinity" : "Jalan Sultan Syarif Kasim No.77, Bintan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6722845,
+               "lng" : 101.4567316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.673534580291502,
+                  "lng" : 101.4580813802915
+               },
+               "southwest" : {
+                  "lat" : 1.670836619708498,
+                  "lng" : 101.4553834197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Mawar Saron Jemaat Air Bersih",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103079459563264209228\"\u003eYohanes Ismanto Simaremare\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxS3kYGM3iUiBk3EImCjjWGPfBXDCexEEQWtQ83CrohZEc9n_G42iasIpLZA2fAJ6ykxq_PugGED8pU43Lg-7DyOa3hbbFX12dkOjIxY3-xLglY82OjmlxRYZD7lVJZQfpsz4xq9bk-phurHO-Gho-fbhslciKSuev7SQNtxAQOj0T",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJPRPC9oyv0zERxu6y9iJhma0",
+         "plus_code" : {
+            "compound_code" : "MFC4+WM Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MFC4+WM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJPRPC9oyv0zERxu6y9iJhma0",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi","cagar_alam" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.67065,
+               "lng" : 101.4554337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.671996280291502,
+                  "lng" : 101.4567826802915
+               },
+               "southwest" : {
+                  "lat" : 1.669298319708498,
+                  "lng" : 101.4540847197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja GPPS Kristus Gembala",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100558379282203417911\"\u003eAngelyca Sibarani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI2ohvhEQcXVx5s2ZG7sMklTL5-iBJLwNTFghkqqpYPKZYAxkDBwxA4lR7-PLx0wl81mI5ZVz2ehi2zJnmBSg3AHJq0j1wd5V7wP7GANS3O7JVsyugFKrbUKkuWF9Gff66DMZagoHkpIzt58l_9xvwG3ZpiMLpXqyLl_5mXdUXO1qQQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJV-Gd0G6v0zERlOKtvwsfUlo",
+         "plus_code" : {
+            "compound_code" : "MFC4+75 Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MFC4+75"
+         },
+         "rating" : 5,
+         "reference" : "ChIJV-Gd0G6v0zERlOKtvwsfUlo",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Terikat, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6698239,
+               "lng" : 101.4555244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.670994730291502,
+                  "lng" : 101.4568722302915
+               },
+               "southwest" : {
+                  "lat" : 1.668296769708498,
+                  "lng" : 101.4541742697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBIS FILADELFIA",
+         "photos" : [
+            {
+               "height" : 2352,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107004133609361262022\"\u003eYosie Modo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKOaO5A00lQgFWzo-3F74RcMZyLE7EivTBz6IC7XWdOFxHBJvr-MoRyX9dJ6--BJIzWV8XaR3mXuGs14G1wuG7W-cXShBM2w-E5IEYOt5ZMw6QI1gDktR2B1kZvZ7Lp_fYtnHVKH0NLDwHshHY97FvCNyUkovvvHb8dS02qbMkyjtPt",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ7XcO4rCv0zEReYOrgANEF4E",
+         "plus_code" : {
+            "compound_code" : "MF94+W6 Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF94+W6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7XcO4rCv0zEReYOrgANEF4E",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Al Mubin No.13, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6680816,
+               "lng" : 101.4507203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.669366830291502,
+                  "lng" : 101.4520489802915
+               },
+               "southwest" : {
+                  "lat" : 1.666668869708498,
+                  "lng" : 101.4493510197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Huria Kristen Batak Protestan",
+         "place_id" : "ChIJY1JuiTuv0zERmGBy5sOKv6k",
+         "plus_code" : {
+            "compound_code" : "MF92+67 Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF92+67"
+         },
+         "reference" : "ChIJY1JuiTuv0zERmGBy5sOKv6k",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "vicinity" : "Gang Taufiq No.08, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6665946,
+               "lng" : 101.4485878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.668029030291502,
+                  "lng" : 101.4501205302915
+               },
+               "southwest" : {
+                  "lat" : 1.665331069708498,
+                  "lng" : 101.4474225697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja GKPI",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101046546102398270059\"\u003eGanda Tobing\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJFvO-4RdF_IGFGQr2vuf0dEOrkJ1V6tdbYWflhtCBIWwO2McZ1QAw6XsOc_G7_W0vyN02GEYL-k1-4sOybz0cPeGl4l4JxWlOuCLAUtNLCRPJtT10zKVNGpE-u3jjVs3r2XAfE94qGPsQk9o86f-VGPsskNloVkfyrAk7mFJ-EI3Bc",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJ74pAyzuv0zERLx2cAWM1ImU",
+         "plus_code" : {
+            "compound_code" : "MC8X+JC Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC8X+JC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ74pAyzuv0zERLx2cAWM1ImU",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Dock Yard Gang Sakura No.3-A, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.666794,
+               "lng" : 101.450758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.668228080291502,
+                  "lng" : 101.4521223802915
+               },
+               "southwest" : {
+                  "lat" : 1.665530119708498,
+                  "lng" : 101.4494244197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Huria Kristen Batak Protestan Imanuel Dumai",
+         "place_id" : "ChIJ-RHZ_juv0zERtf4QpNgwiDk",
+         "plus_code" : {
+            "compound_code" : "MF82+P8 Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF82+P8"
+         },
+         "reference" : "ChIJ-RHZ_juv0zERtf4QpNgwiDk",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "vicinity" : "JL P Payung No.3, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6669099,
+               "lng" : 101.4536122
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.668220330291502,
+                  "lng" : 101.4550695802915
+               },
+               "southwest" : {
+                  "lat" : 1.665522369708498,
+                  "lng" : 101.4523716197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GSJA Dumai",
+         "place_id" : "ChIJO6f8GdCv0zERTV1FvdiI0L8",
+         "plus_code" : {
+            "compound_code" : "MF83+QC Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF83+QC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJO6f8GdCv0zERTV1FvdiI0L8",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6658715,
+               "lng" : 101.4501239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.667191730291502,
+                  "lng" : 101.4514644302915
+               },
+               "southwest" : {
+                  "lat" : 1.664493769708498,
+                  "lng" : 101.4487664697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kemenangan Iman Indonesia (GKII) Dumai",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 309,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115606025481727743368\"\u003eGereja Kemenangan Iman Indonesia (GKII) Dumai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK8fh9d4UMYpShiru1hti47W-XktIYdX2XN0D60Uqaz3QY0g9Yrqueo86ksg8LDW-Ld1RRdeUNaaSUiN5aOMCIPkxbwMxIr2w7A_iJ_VP8jJNGEahsemL41PuTQUg35MCSMfylhjfkvWUos9_hsqk0JewYlwOVLi7DhYS3ivFq4ke0H",
+               "width" : 552
+            }
+         ],
+         "place_id" : "ChIJW6WAZz2v0zERxE-7pxxzzjw",
+         "plus_code" : {
+            "compound_code" : "MF82+82 Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF82+82"
+         },
+         "rating" : 5,
+         "reference" : "ChIJW6WAZz2v0zERxE-7pxxzzjw",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Gang Galon 3, tiga, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6657815,
+               "lng" : 101.450184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.667138680291502,
+                  "lng" : 101.4515171802915
+               },
+               "southwest" : {
+                  "lat" : 1.664440719708498,
+                  "lng" : 101.4488192197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja GKII Dumai",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3014,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108539285002322534940\"\u003eJanuari Laia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJEx1cF-AeDuUx0NTypg7JHxReIpGo3nuRnwbFeerCkgYKgNUdEGiISJ9aOAvFXcWZa7lw4bDXpkjAO5GeNfOx4Nh1KGvx2OzASqw8QDQFYyTAP3K7b4iCXjUNmjMH28xHRAnKf4nSMSPrVlghdBDiQeNoTtQoFlVwu2DQwpOZraGL2",
+               "width" : 3474
+            }
+         ],
+         "place_id" : "ChIJS-2cftqv0zER0HN8gtt8Y4M",
+         "plus_code" : {
+            "compound_code" : "MF82+83 Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF82+83"
+         },
+         "rating" : 5,
+         "reference" : "ChIJS-2cftqv0zER0HN8gtt8Y4M",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Gang Galon 3, Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6656996,
+               "lng" : 101.4540688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.667264680291502,
+                  "lng" : 101.4555122802915
+               },
+               "southwest" : {
+                  "lat" : 1.664566719708498,
+                  "lng" : 101.4528143197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GSPDI FILADELFIA",
+         "photos" : [
+            {
+               "height" : 1040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102042370116438706903\"\u003eHebron Parsaoran\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJtfEuUrVSq_O-Iy_GvJe-FYb4gTZZz6FjlBjmH020MtySSVUffwuFfM2Aus1ywJlS9Rw3v9dXygQqXj_G6ExPbQga7WeDcwx0gFulNOtLGT2tR0yfpWToFPcFzUza06gMxtgcJDtuTa9b9prTOJe4Y8zGNonjNc__WO-Q0GGb6eodP",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJ803o3FOv0zER8b2uEKGhNmg",
+         "plus_code" : {
+            "compound_code" : "MF83+7J Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF83+7J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ803o3FOv0zER8b2uEKGhNmg",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6649926,
+               "lng" : 101.4378851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.666292630291502,
+                  "lng" : 101.4391822302915
+               },
+               "southwest" : {
+                  "lat" : 1.663594669708498,
+                  "lng" : 101.4364842697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Huria Kristen Batak Protestan Imanuel",
+         "place_id" : "ChIJ_7rwjjmv0zERCdm4x7BAhJU",
+         "plus_code" : {
+            "compound_code" : "MC7Q+X5 Bukit Datuk, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC7Q+X5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_7rwjjmv0zERCdm4x7BAhJU",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jl. Pulau Mampu No.3, Bukit Datuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6643374,
+               "lng" : 101.4383252
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.665686380291502,
+                  "lng" : 101.4396741802915
+               },
+               "southwest" : {
+                  "lat" : 1.662988419708498,
+                  "lng" : 101.4369762197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "HKBP Immanuel Ressort Immanuel Dumai",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115986022503157811200\"\u003eDaniel K.Sitompul\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKm2kStBe4dqf391eh6GWBiEqvf3cA53u5kgOFVuXD7Xz4DsjV24a5Vcic1BrZZNH9XmAyNPhiaAmVK78l2G_e5UAn6aYzGek-au-_zkT32trW2FfVX2WdNrPV6Z1ioaf0eATcPU8eSL9pi8mRdWNwZHNnJH1ol85vpEggefslpcGAM",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJt7jw_Umv0zERBolNVtn9iM8",
+         "plus_code" : {
+            "compound_code" : "MC7Q+P8 Bukit Datuk, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC7Q+P8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJt7jw_Umv0zERBolNVtn9iM8",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 40,
+         "vicinity" : "Jl. Pulau Mampu, Bukit Datuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.66845,
+               "lng" : 101.4627349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.669797530291502,
+                  "lng" : 101.4641263302915
+               },
+               "southwest" : {
+                  "lat" : 1.667099569708498,
+                  "lng" : 101.4614283697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI Al-Hayat Dumai",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114369695158082545502\"\u003eMaster LI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKApdILwlFoWCiF57AmBllSX1NqjxdWml3aIUkgihXLCD7MIsYraFoD2H5tEvMSL65Tbtn8Loi3FJaYQDFZ45IpJpIoATYS9DMn37dsKcBAxf-ve4iJ7cw76LFsX6m1IUK1UXyi5aQxGNW1FppsOHCBwCWhR5hkO35kLjjevo54cBpx",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJUZG-LhGv0zERMWShyU_gC1s",
+         "plus_code" : {
+            "compound_code" : "MF97+93 Jaya Mukti, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF97+93"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJUZG-LhGv0zERMWShyU_gC1s",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","religi" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Jaya Mukti"
+      }
+   ],
+   "status" : "OK"
+}

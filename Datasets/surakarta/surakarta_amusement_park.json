@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.536284999999999,
+               "lng" : 110.8363297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.534910419708496,
+                  "lng" : 110.8376094302915
+               },
+               "southwest" : {
+                  "lat" : -7.537608380291501,
+                  "lng" : 110.8349114697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Parkir Dempo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105849448916454977797\"\u003eMadinatul Munawaroh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI21yHUgJW4lHpsjejmDfhYD2XW5od1j1icePRMZYTyJqNStgUD7cy2IhScB0vzdDskBl56mSHxNWXgh1AkFMXH2wE_OSPgWJH3jWU_gDhcumu_Ioi65lJSyb5HwKXwk1uM07IOB7DcSJoN-7rbsNUTxAc54aE3qgSp3-Wc2jq6Hd7S",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJc3p7pMgWei4RNTs5AoxjDG8",
+         "plus_code" : {
+            "compound_code" : "FR7P+FG Mojosongo, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GFR7P+FG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJc3p7pMgWei4RNTs5AoxjDG8",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "Jalan Dempo Timur, Mojosongo"
+      }
+   ],
+   "status" : "OK"
+}

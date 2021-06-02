@@ -1,0 +1,198 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6783188,
+               "lng" : 128.2256738
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.677513219708498,
+                  "lng" : 128.2264534302915
+               },
+               "southwest" : {
+                  "lat" : -3.680211180291503,
+                  "lng" : 128.2237554697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bukit Buku Itam",
+         "place_id" : "ChIJAwZAj6XpbC0RUz1NYcnPLtI",
+         "plus_code" : {
+            "compound_code" : "86CG+M7 Batu Merah, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86CG+M7"
+         },
+         "reference" : "ChIJAwZAj6XpbC0RUz1NYcnPLtI",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "vicinity" : "Batu Merah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.587217199999999,
+               "lng" : 128.1340203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.586259219708496,
+                  "lng" : 128.1349130802915
+               },
+               "southwest" : {
+                  "lat" : -3.588957180291501,
+                  "lng" : 128.1322151197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Hasiu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114419576369574726835\"\u003eJunwally 99\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIb8_oS-WDMaP0Dqd2cNM_8MSwQHMGwh-d2JU3Ad8l6kdx2tL3B4a8hXYHL5Vh6DqRjI49D0GwrNGUGqi-6cyrlApkaxgisAJ-hc3Xc7_Q162661irZiisKkX1jZ3RalZGs0P8p5FbCIO4qBnJ25rKKHt3dFF85EOoQZ7t7B5vlhZXN",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ38cmVTb7bC0Rlihsu9A7w9E",
+         "plus_code" : {
+            "compound_code" : "C47M+4J Wakal, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CC47M+4J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ38cmVTb7bC0Rlihsu9A7w9E",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Wakal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6168656,
+               "lng" : 128.2720031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.615532919708497,
+                  "lng" : 128.2733518302915
+               },
+               "southwest" : {
+                  "lat" : -3.618230880291502,
+                  "lng" : 128.2706538697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Waterboom Waitatiri",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102973912623677229426\"\u003eAhwan Kav\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKbTGPqKE0a3kFe7-uS8Yz794j2-oPhh04FV-4yNirXr2s9ok4K55URW01tyUU9CN1IytIghEtqbxMf-eqEWy8ImrM4f_IHCYg_MqAUElIyvrmZY3CrUvP0Ece_SaeH4Aqu33leS2t6YSC03KN0LBT1XUU0KTDo_C306wnMUnx4HdSZ",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJ__I1LFXsbC0REAoLxFi-7aM",
+         "plus_code" : {
+            "compound_code" : "97MC+7R Passo, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C97MC+7R"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ__I1LFXsbC0REAoLxFi-7aM",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 102,
+         "vicinity" : "Sisingamangaraja, Passo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7036495,
+               "lng" : 128.2661634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.702249769708498,
+                  "lng" : 128.2675425802915
+               },
+               "southwest" : {
+                  "lat" : -3.704947730291502,
+                  "lng" : 128.2648446197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Waai Lilinita",
+         "place_id" : "ChIJPesUi37rbC0RUqqa9o4jcn4",
+         "plus_code" : {
+            "compound_code" : "77W8+GF Rutong, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C77W8+GF"
+         },
+         "reference" : "ChIJPesUi37rbC0RUqqa9o4jcn4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","cagar alam" ],
+         "vicinity" : "Rutong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.5409362,
+               "lng" : 128.2108133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.539141669708499,
+                  "lng" : 128.2117547302915
+               },
+               "southwest" : {
+                  "lat" : -3.541839630291503,
+                  "lng" : 128.2090567697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Air Terjun Sawatelu",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100770276918721795772\"\u003eJusmaLINDA Holle\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIaNkgeW1L7aP2fnBNkid4TwdVBaFTqAKlHKrFJmn6kOmuZ12fun-Iaj1RhnVZYO8Vphr22GIO_tKYyI3czyS8bORepsJwS8RDbix07psOf-53JB0uVVqhTFyV36T0bBmOYn56-vynZejrv1MqoiIkW15LO_PeKAW6ooSOQpM5OfGDJ",
+               "width" : 1504
+            }
+         ],
+         "place_id" : "ChIJuQ3FKxXxbC0RtA9m-7cXzP0",
+         "plus_code" : {
+            "compound_code" : "F656+J8 Morela, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CF656+J8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJuQ3FKxXxbC0RtA9m-7cXzP0",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Morela"
+      }
+   ],
+   "status" : "OK"
+}

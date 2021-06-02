@@ -1,0 +1,533 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKG9Hq437xsxkrbfSOj2VhWI_7fR-Nx_yhRRaE-lUV_IiXTE8nBnDx0oYO_H1iBzgy11ZBXUTYJgMdnhFONiXyIX0heG-q-LrKSGI5g4OKweXVoOPfoYxxzYLadBjr8eRf3m-9Y8NptGQnAkeebC0G1z1UqOTNSMQtNyMkpnbK5qPBZ5fyZJ5wO9qfjcYXg-N5Dhd3Lx_qwQimHmDgSw5KrbE7VES_fW0oe2IN4v8K8keFS3ZINMFJD7BB_I_Z2DTaZBOyq2Me_AdaF7uDNDxtdFkLhTPp96hnLj0t7Kf1Y7gxB408l1D50RLEErRQKwhx8jdE_Suql4oDCO4lEzbpWgbfOanpNFseMlLeibddYF8BL_snbX3xa9Gh72569dgQJkJDggB9DkjxYF7n3WHYYIP5LI5n1iBODT_afl0pXpmqoa3AHX08",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.541418499999999,
+               "lng" : 127.9297483
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.540069519708497,
+                  "lng" : 127.9310972802915
+               },
+               "southwest" : {
+                  "lat" : -3.542767480291501,
+                  "lng" : 127.9283993197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tanjung Sial",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110751626327346329710\"\u003eSamin Kaimudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJmIuqavBxfKmle2IWLyUxuZ0TEe3W2E9tR17F8mulog3O1YrkDJdX3mupJOzqBo0EI8P32OTb4-Ch-HfRORThQ9awiXh0pM0L6i0xWjln5zW6_cgJPFe7zckzdoVtcKJ4-MMcWJsOVKA526AwRt6fc9WC6pCM4zgaQzVJTfQqhwIkJ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLbDxQdEDbS0Ru_z61G9-Gss",
+         "plus_code" : {
+            "compound_code" : "FW5H+CV Ureng, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q89FW5H+CV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJLbDxQdEDbS0Ru_z61G9-Gss",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya","cagar alam" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Kabupaten, Saparua"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6605298,
+               "lng" : 128.2082327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.659270119708498,
+                  "lng" : 128.2096612302915
+               },
+               "southwest" : {
+                  "lat" : -3.661968080291502,
+                  "lng" : 128.2069632697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Biorock Ambon - Halong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109111093059944228822\"\u003eGerald Istia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKl2C3WR8BZZlYBbnhcu5cBpF1f8Sem7uUqqZT7-ZO3oV7rlen3gegcZ3oFA5nCIFeYek9TldlWrpxnob9CY92KqhvWIVpLmFAl1aWKMtPLYI-DCLAF43ldHxEsUxJm6OwMjV4uurszUp6IkZ4rUDzVGv_E4OcPpkCHN1AYRHWjBD8o",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJuVX3SH3pbC0RFhaKEj0k_kA",
+         "plus_code" : {
+            "compound_code" : "86Q5+Q7 Halong, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86Q5+Q7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJuVX3SH3pbC0RFhaKEj0k_kA",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim","cagar alam" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Halong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6821484,
+               "lng" : 128.1979474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.680811119708498,
+                  "lng" : 128.1992202802915
+               },
+               "southwest" : {
+                  "lat" : -3.683509080291503,
+                  "lng" : 128.1965223197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kuburan Mandala",
+         "place_id" : "ChIJ56yIGb_pbC0RBXqvTLztZDg",
+         "plus_code" : {
+            "compound_code" : "859X+45 Batu Merah, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C859X+45"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ56yIGb_pbC0RBXqvTLztZDg",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya","sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Batu Merah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6847843,
+               "lng" : 128.1872263
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.683430519708498,
+                  "lng" : 128.1885799802915
+               },
+               "southwest" : {
+                  "lat" : -3.686128480291503,
+                  "lng" : 128.1858820197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "tugu siliwangi",
+         "photos" : [
+            {
+               "height" : 1706,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103151771948429279759\"\u003eMarzuki Mustofa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKNWVPB-kGbhX7HyDAp_k1E2YL6YoyxBPDkhHPIVT5w6jh918C3zGaEZH50cw3-kLpmrF4IEZkpv4RM3E5PGPFilEjmJ6CkfGMo6z16FzYlCa5aBfH1TT6jnw5auyIFOWk1zstLJlbrR45327SgIL6IjI1G7nNcX47dSvxYmpcaVkkX",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJzVvEAP_obC0RVkuUl2d0B0A",
+         "plus_code" : {
+            "compound_code" : "858P+3V Batu Merah, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C858P+3V"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJzVvEAP_obC0RVkuUl2d0B0A",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jalan Sultan Hasanudin, Batu Merah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6930699,
+               "lng" : 128.1832218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.691560769708498,
+                  "lng" : 128.1845750302915
+               },
+               "southwest" : {
+                  "lat" : -3.694258730291503,
+                  "lng" : 128.1818770697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Patung Patimura",
+         "place_id" : "ChIJRauYjTHpbC0RYJaSqc_bNeg",
+         "plus_code" : {
+            "compound_code" : "854M+Q7 Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C854M+Q7"
+         },
+         "reference" : "ChIJRauYjTHpbC0RYJaSqc_bNeg",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "vicinity" : "Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.5988492,
+               "lng" : 128.192618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.597500219708497,
+                  "lng" : 128.1939669802915
+               },
+               "southwest" : {
+                  "lat" : -3.600198180291502,
+                  "lng" : 128.1912690197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Mesjid tua Tujuh Pangkat Hitu",
+         "place_id" : "ChIJ9_EL-HfvbC0RFJ3IETL3JKo",
+         "plus_code" : {
+            "compound_code" : "C52V+F2 Hitu Mesing, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CC52V+F2"
+         },
+         "reference" : "ChIJ9_EL-HfvbC0RFJ3IETL3JKo",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","religi" ],
+         "vicinity" : "Hitu Mesing"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7125199,
+               "lng" : 128.2154988
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.711139369708497,
+                  "lng" : 128.2170860302915
+               },
+               "southwest" : {
+                  "lat" : -3.713837330291502,
+                  "lng" : 128.2143880697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "MARKAS BESAR RULIMENNA ZOJA (penyulingan sopi terbaik di maluku)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114821686340612384436\"\u003eNim Soplanit\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ0mu-XGkuO5nzNbxHoJj5D9G31IrHrj6CfGDU5XSxOJ_O6nF8pJdhChB_-47DU1N6MTKvzcJqlPDgLOGpiJXjDce07-oPIK2jEpMC2H0O9D-CO1uUl7t9szAaqkLeM3mRLnUDyaeI2oUzKEaAKTvw7wnfJtataCCF1aEo0afhscLI7",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJE3keYsvpbC0RdiWVDHBV0jQ",
+         "plus_code" : {
+            "compound_code" : "76P8+X5 Soya, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C76P8+X5"
+         },
+         "reference" : "ChIJE3keYsvpbC0RdiWVDHBV0jQ",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Soya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.712134,
+               "lng" : 128.220774
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.710107349999999,
+                  "lng" : 128.22167065
+               },
+               "southwest" : {
+                  "lat" : -3.71821395,
+                  "lng" : 128.21808405
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Sacred stones and well",
+         "place_id" : "ChIJHYEja5zpbC0R9eH9BruBeCo",
+         "plus_code" : {
+            "compound_code" : "76QC+48 Soya, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C76QC+48"
+         },
+         "reference" : "ChIJHYEja5zpbC0R9eH9BruBeCo",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "vicinity" : "Unnamed Road, Soya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7118891,
+               "lng" : 128.1519751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.710523119708498,
+                  "lng" : 128.1533025302915
+               },
+               "southwest" : {
+                  "lat" : -3.713221080291502,
+                  "lng" : 128.1506045697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Taman Makmur",
+         "photos" : [
+            {
+               "height" : 429,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114964671730356485125\"\u003eDortea Basar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJCpyVHPEnNP3ehyU-5xW6TxVmD1OZ5b0_HuD7Zvod_vAd27EM4LZT942i5JiH3UjqL-bVnAydr9zWiTLUd_LeO9HKNez6Vaqp8DSRmip_L36wPEI7_r2KsZhfJu8D2gqtn1AcHSkyImFQp2eRDxJK1quf9ywV35VtqJ3GEF8dSaGx4",
+               "width" : 719
+            }
+         ],
+         "place_id" : "ChIJE8NHvwjobC0RaIYDk2Bx47k",
+         "plus_code" : {
+            "compound_code" : "75Q2+6Q kEL NUSANIWE, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C75Q2+6Q"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJE8NHvwjobC0RaIYDk2Bx47k",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam","sejarah" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Jalan Doktor Malaihollo No.kEL, kEL NUSANIWE"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7134761,
+               "lng" : 128.1529805
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.712060619708498,
+                  "lng" : 128.1544526802915
+               },
+               "southwest" : {
+                  "lat" : -3.714758580291503,
+                  "lng" : 128.1517547197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Siwalima Provinsi Maluku",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116070391410908330491\"\u003eDin Sham\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJJdQzjh2wdT3ydtEojM4WOouCGh17scWxAK7AgDxkN3B8agwIzN7mJBO6Nor-hEV7GMqUHOB_wFuJAZBblmskGRv3mZnAgBQs6kg89Sk09cd2HtLufs0kaTAAFvI8axOUbkWAEmsPOvbPoELlthFSWOMc5ZwOyEGXV3BzSldMTCRXY",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfeu_rw7obC0RKLKdnmF3mb8",
+         "plus_code" : {
+            "compound_code" : "75P3+J5 kEL NUSANIWE, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C75P3+J5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJfeu_rw7obC0RKLKdnmF3mb8",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 152,
+         "vicinity" : "Jl. Dr. Malaiholo, Taman Makmur, Kel. Nusaniwe, Nusaniwe, kEL NUSANIWE"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6627306,
+               "lng" : 128.2642027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.661381619708498,
+                  "lng" : 128.2655516802915
+               },
+               "southwest" : {
+                  "lat" : -3.664079580291502,
+                  "lng" : 128.2628537197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Puncak Gunung 'TOMOL LANA'",
+         "place_id" : "ChIJlyRp5bfrbC0RYp9NHIlPUwE",
+         "plus_code" : {
+            "compound_code" : "87P7+WM Hutumuri, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C87P7+WM"
+         },
+         "reference" : "ChIJlyRp5bfrbC0RYp9NHIlPUwE",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah","budaya" ],
+         "vicinity" : "Hutumuri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.5423459,
+               "lng" : 128.2269262
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.540996919708499,
+                  "lng" : 128.2282751802915
+               },
+               "southwest" : {
+                  "lat" : -3.543694880291502,
+                  "lng" : 128.2255772197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pantai Moki",
+         "place_id" : "ChIJCwj7nnXxbC0RpUsDHnQYtD4",
+         "plus_code" : {
+            "compound_code" : "F65G+3Q Morela, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CF65G+3Q"
+         },
+         "reference" : "ChIJCwj7nnXxbC0RpUsDHnQYtD4",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "vicinity" : "Morela"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.584021299999999,
+               "lng" : 128.0843244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.582650969708497,
+                  "lng" : 128.0857258802915
+               },
+               "southwest" : {
+                  "lat" : -3.585348930291502,
+                  "lng" : 128.0830279197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Gereja Tua Immanuel",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103354657145114547046\"\u003eErick Tuhusula\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLI77IERtitUvboezobrPfTN9muLrQXtaQZ-ZN0ngExXmgfqyLs-VLdZGdTpHzeGuSmFQ44M4ecKn2ZxzCEU7RzjW3lxpDLyvnN-S14QLLJ0Oiis0SBbIoUy3u4PhxOWXpHgTY-3oE3WpTh9XRO0Xr4NMD9rJcQWtPKHSnMcGiEk-hM",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJx5c0V537bC0R0dqVE1dNUBo",
+         "plus_code" : {
+            "compound_code" : "C38M+9P Kaitetu, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CC38M+9P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJx5c0V537bC0R0dqVE1dNUBo",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kaitetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6144756,
+               "lng" : 128.3540761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.613067569708497,
+                  "lng" : 128.3553441802915
+               },
+               "southwest" : {
+                  "lat" : -3.615765530291501,
+                  "lng" : 128.3526462197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Negeri Mowae ,salahutu, p Ambon",
+         "photos" : [
+            {
+               "height" : 896,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116000694523896245961\"\u003eAliken Tuharea120\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIuq1BTCVjNWEdPndDbuTqYhnBS70Wbu3nFBNX0aR3mw4kcEYjRm9lZ2jcS8XhYma69pikwdGBGyiPoSoJfSF9XnVvhgmPiAEPl6uNIY_cbyC_8rkUENFFaSCXc4GxIvacNK5Ev6q0m1iDQ_CmFje3NyaaL6-DzCdcZBeanwElszqv4",
+               "width" : 712
+            }
+         ],
+         "place_id" : "ChIJC5alOW2TbC0RuO2SKaE8jTk",
+         "plus_code" : {
+            "compound_code" : "99P3+6J Tengah-Tengah, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8C99P3+6J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJC5alOW2TbC0RuO2SKaE8jTk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Tengah-Tengah"
+      }
+   ],
+   "status" : "OK"
+}

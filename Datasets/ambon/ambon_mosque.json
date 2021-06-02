@@ -1,0 +1,793 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJnRsL4QW-nGjjLScGqdfvbPb6omMol5RZstQMRSaqmtd1CApU9uREdMWfSICA8NYqmpeeRNEFzldxSulJw2DsOqqbW3FAGInvtv6m9VjEj6Q6l3aFaumZ81TQaiP4G0Z5BoPbaUJj_Y4CtE4s2BVb9DYaaBKBFaJhHWDqY3fW1HaVDSIc7J1jRCQjcbcMznU_rwhftR3_LSQTk1nRgn4A3M3QULo-FVkJFv6Tinkr2V7AlSvEMp0nhSY4vJN8KI3NUm8S5SS1ibUprJuKHt7BuX8gQ8V4gzzUbuzbuAt6mBD9yNJMhDupuJ_fBR08pfxx_gWBItezyM9zXvBU801Bg1Hfv2E2Gyr5kXeg4VVvKxFZ-LfVYZpUsnmX1XnTssuDoz-bhwMXORgoIzP-53_UsRFq-QLnI8mh_OTcaQTx4emXtGp00cjE",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6774301,
+               "lng" : 128.2034041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.676042119708498,
+                  "lng" : 128.2048161802915
+               },
+               "southwest" : {
+                  "lat" : -3.678740080291503,
+                  "lng" : 128.2021182197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al - Huda Gunung Malintang Lama",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117422766006301451572\"\u003eamel cahaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKZCqGk9hKMiKXGRPV9Xfxvdgn0AKJS-7f2LqnqbmDh2nZR_y92O9s9AlEhF4Hb9ETzwOJkEAx0oG3Lej520tiiK8-yLqSkAiKmfFpVF2hGeeUO5MTd4na29PR-Gc9uA5vsRUdBQJIpghkCI9OyobBNYUt9lTRTsYaPcQ5FCpATLe9y",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJxetz1BHpbC0RmdO0_IZkXMs",
+         "plus_code" : {
+            "compound_code" : "86F3+29 Hative Kecil, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86F3+29"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJxetz1BHpbC0RmdO0_IZkXMs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Hative Kecil"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6754323,
+               "lng" : 128.2186571
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.674120719708498,
+                  "lng" : 128.2200645802915
+               },
+               "southwest" : {
+                  "lat" : -3.676818680291503,
+                  "lng" : 128.2173666197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Maqdis",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100333126153399251274\"\u003eRizal Jainudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJuZpGRdVSV3XMkgT4s9afJodLXx6rD4PiKI2tsd_4u2UUFXFA1ZV18y7T0_xlRrlrn1ZQIMUIe5PRtYA_sJjrtjHEDO_9igBr9psXT4kU7oUIZaH12O5ln8RrgH9w5spm-OdKOnXWXDHOVA2BKCxnNIA2aE53WwJMQAH6rxK_VBhfe",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ9VlxTm7pbC0RaZo5d5FTVEs",
+         "plus_code" : {
+            "compound_code" : "86F9+RF Batu Merah, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86F9+RF"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ9VlxTm7pbC0RaZo5d5FTVEs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Literasi Air kuning, Jl. Warasia dusun waihakaila Taman, Batu Merah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.5563155,
+               "lng" : 128.1924159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.555092819708498,
+                  "lng" : 128.1936513802915
+               },
+               "southwest" : {
+                  "lat" : -3.557790780291502,
+                  "lng" : 128.1909534197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Muhibin Mamala",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107624388717815607966\"\u003eHadi Purnomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-Zjnw3t0aKUpidKKAS3t7_ZAE2Koru8aD4BQIjltprkW-Ic8-qvG7ck9nxh3s9sYgoJDUagboSj8TEN9L7VM70MYmWUKYBOGtDJTL7-VYH30UXX0kKIj1HgwFqoacXYqjFCEXNEjbioXaDFebjA269BGSbzxFwF1bt9nh0q6vCX8X",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJpw-xgarxbC0Rw0cV_g9jffk",
+         "plus_code" : {
+            "compound_code" : "C5VR+FX Mamala, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CC5VR+FX"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJpw-xgarxbC0Rw0cV_g9jffk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Mamala"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.582781899999999,
+               "lng" : 128.3249658
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.581474569708496,
+                  "lng" : 128.3263026302915
+               },
+               "southwest" : {
+                  "lat" : -3.584172530291501,
+                  "lng" : 128.3236046697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Huda Hunala 2 Tulehu",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117547912151260683848\"\u003eHamzah Anca\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLunzdzC2AH3ijyhp5pQzVA6f1mVnn6JY9gtG4QuFm5UgyKSHXX8LtjaNummvvY5TmZhmxYdRUq1QYDXnGrKAJ7O_BKRIcgjLBWn--P-UJtvadzffW75VbzuwH1HzRc8HIZw12QH-i1DD1_bmGVaV6hx-lvmmP82DoqGIAtod4cV0wW",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJmT2tMaiSbC0REJtceXCNIDs",
+         "plus_code" : {
+            "compound_code" : "C88F+VX Tulehu, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CC88F+VX"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJmT2tMaiSbC0REJtceXCNIDs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "jl. raya km.27 ambon, Tulehu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.4771238,
+               "lng" : 127.9444757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.475728169708498,
+                  "lng" : 127.9458345802915
+               },
+               "southwest" : {
+                  "lat" : -3.478426130291502,
+                  "lng" : 127.9431366197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Iman - Wailapia",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114506835509788233094\"\u003eأقيب رستم\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLtA5EkvXOT9l0hl3t35Bo7bLHuIu7CIer5JDLtO5FmZL_iHDoEHeDhH4pe2YBcSDALIVMzCJFLiPvblISquEGKgIPcisezVNN1NhcLemUx0I_-AJrtGqgSPylZIG7qoLChUmVlQ6Gi3it-EZjOZnpkbUZi_8TmB9QCcL0f6CS33t1C",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJt8TO-HoAbS0RosQXQICVTgw",
+         "plus_code" : {
+            "compound_code" : "GWFV+5Q Asilulu, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q89GWFV+5Q"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJt8TO-HoAbS0RosQXQICVTgw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Jl. Raya Wailapia, Larike"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6553932,
+               "lng" : 128.1907723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.654045119708497,
+                  "lng" : 128.1921322302915
+               },
+               "southwest" : {
+                  "lat" : -3.656743080291502,
+                  "lng" : 128.1894342697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Al-Muqarrohma",
+         "place_id" : "ChIJrbEvx4HpbC0RdhRq9waPhdA",
+         "plus_code" : {
+            "compound_code" : "85VR+R8 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85VR+R8"
+         },
+         "reference" : "ChIJrbEvx4HpbC0RdhRq9waPhdA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6553932,
+               "lng" : 128.1907723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.654045119708497,
+                  "lng" : 128.1921322302915
+               },
+               "southwest" : {
+                  "lat" : -3.656743080291502,
+                  "lng" : 128.1894342697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Kautsar Galunggung",
+         "place_id" : "ChIJ19Ad3GXpbC0R-yjPti3ijV4",
+         "plus_code" : {
+            "compound_code" : "85VR+R8 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85VR+R8"
+         },
+         "reference" : "ChIJ19Ad3GXpbC0R-yjPti3ijV4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.653694599999999,
+               "lng" : 128.1879897
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.652244569708497,
+                  "lng" : 128.1892086802915
+               },
+               "southwest" : {
+                  "lat" : -3.654942530291502,
+                  "lng" : 128.1865107197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Jammi Al-barkah",
+         "place_id" : "ChIJgayWBOzvbC0RoZw1PkknRkI",
+         "plus_code" : {
+            "compound_code" : "85WQ+G5 Tihu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85WQ+G5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgayWBOzvbC0RoZw1PkknRkI",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Tihu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6512638,
+               "lng" : 128.1916536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.649914819708497,
+                  "lng" : 128.1930025802915
+               },
+               "southwest" : {
+                  "lat" : -3.652612780291502,
+                  "lng" : 128.1903046197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Kampus Unpatti",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110455919962336545727\"\u003eMuhammad Amien Wahid Saragih\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJFFJ_MmyDxuXW4YLFbASLu5gR_WKW1vbHEFDmUGRf735SzMV-PzTQhUbFXBYraKiupj8rUbuwO9wpG72OrkNClpAoP0ClyNQpB-w2EtGtdTB6O_1tij5Ztz9i2fYY9-Nsw1DrG6NVT734dPu_QtuAxaqE7vpkCAnAWRAe7u3zylL6r",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJPUhTu9XubC0RBV2e1n7KASE",
+         "plus_code" : {
+            "compound_code" : "85XR+FM Poka, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85XR+FM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJPUhTu9XubC0RBV2e1n7KASE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Poka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6551324,
+               "lng" : 128.1854842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.653854219708497,
+                  "lng" : 128.1868532802915
+               },
+               "southwest" : {
+                  "lat" : -3.656552180291502,
+                  "lng" : 128.1841553197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nur kuraizin",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102973216245882133131\"\u003eBait Musafir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwICogJkpVlkavM1nX0D3b3f6tQfHjifH8naA7j2e-hCefOUVU9VbRJCCK15HOTxKo_25dDcvDvkpU45EY8VKXqNVXC3Wv7kcF5m6Jlv1RBVQAadBs-t35ePD5WYD_Yl376j7j8gPOLPqzfg25qhop6Zp_KdUOLhuHglbN4MWnrrjEbk",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJt3drLV3pbC0Rs7MzU0YlSLU",
+         "plus_code" : {
+            "compound_code" : "85VP+W5 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85VP+W5"
+         },
+         "rating" : 4,
+         "reference" : "ChIJt3drLV3pbC0Rs7MzU0YlSLU",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6551943,
+               "lng" : 128.1854494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.653892019708497,
+                  "lng" : 128.1868116302915
+               },
+               "southwest" : {
+                  "lat" : -3.656589980291502,
+                  "lng" : 128.1841136697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Wailela",
+         "place_id" : "ChIJaVHAl9TobC0ROHzZYYXLa4Y",
+         "plus_code" : {
+            "compound_code" : "85VP+W5 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85VP+W5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJaVHAl9TobC0ROHzZYYXLa4Y",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6496694,
+               "lng" : 128.1881279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.648242019708498,
+                  "lng" : 128.1894270302915
+               },
+               "southwest" : {
+                  "lat" : -3.650939980291503,
+                  "lng" : 128.1867290697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Almuhajirin Perumnas Poka",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103918610460507475531\"\u003eSamin Radjid\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLYcRQizw2sv15KuLaM2kr-qxaCwrWJydfL_Zu8c0kIqraNeLeDniqt-LBFVUf11bA-IgKE3BjR3SauzOtv_qnrUPxQLJ0SDqfhqMk7jr6saltsA9NgPO-F2oBPzErJNSIVfcRVEGY4RIHFPd8GwzpX5Yp2SIWTt0c_Tftyu8YKW7K2",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJA1_SiCnvbC0RfVLeHw6ouTw",
+         "plus_code" : {
+            "compound_code" : "952Q+47 Tihu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C952Q+47"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA1_SiCnvbC0RfVLeHw6ouTw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Tihu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6602543,
+               "lng" : 128.1933022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.658815619708498,
+                  "lng" : 128.1946442802915
+               },
+               "southwest" : {
+                  "lat" : -3.661513580291502,
+                  "lng" : 128.1919463197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MASJID AT-TAQWA",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109099469463239207303\"\u003eOchim Mihar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ94E1Q8-xaGBSzcoFCMLHcuPZwg4G4Ws-CYd23DAlPrzgodnT6Bjhr_BC6nhKX1VeIaFydmOOd7XIioHIXYDhh2Ajxw45ypxpanF0orJL6aNuWbRXfXJPotsJ6fmW67T-QvnjynB4qX1DUww8Qy-p9PBkpMdeABjJJtK0pGH9LTu4b",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJG3Yx5SjpbC0RUmz2wam4HQE",
+         "plus_code" : {
+            "compound_code" : "85QV+V8 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85QV+V8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJG3Yx5SjpbC0RUmz2wam4HQE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6596862,
+               "lng" : 128.1949595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.658326019708498,
+                  "lng" : 128.1963554802915
+               },
+               "southwest" : {
+                  "lat" : -3.661023980291503,
+                  "lng" : 128.1936575197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Zipur",
+         "photos" : [
+            {
+               "height" : 5760,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115972496858815948010\"\u003eDanny Dj\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKCkgurSTKzT8K9xVKYmvsPZWC78rIdcFPtGXOIspfHcd90Mp-2LJZJQfAIBQ6CcVHBBZIduUoDBtFuaYTTR3tAPJw9rHnAHXF_sx1wGY-xv0WeLJgqmY4tEg7ZRW0hHd79nsm7-AcESexCvkJ1duAPLi8J6Aun6Bw_8LvHIesDdLYs",
+               "width" : 4312
+            }
+         ],
+         "place_id" : "ChIJe38YKinpbC0Rj_Vro0NuAsI",
+         "plus_code" : {
+            "compound_code" : "85RV+4X Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85RV+4X"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJe38YKinpbC0Rj_Vro0NuAsI",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6480768,
+               "lng" : 128.1936469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.646750619708497,
+                  "lng" : 128.1948328802915
+               },
+               "southwest" : {
+                  "lat" : -3.649448580291502,
+                  "lng" : 128.1921349197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darul Hasanah",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105044737770017085510\"\u003eAyus Alfatih\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJnSd8wLha6YzxcvLJuW1K-VAwsyFi1-3RzTs08TKHYZXTGpjygwr4qhxNYEKN-OlKqg3OcgXfqpQJ5IGlm6U0i9X8_QgagvwHZz0g1tZ0Ioc88r_R9feDZB7OwnqqMwiRiMxkP4ahhOi0tFV_hax19EaqfpKa51milEWaJ-lKBhI0",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJo9wP5tbubC0RA5hbV2pZL8w",
+         "plus_code" : {
+            "compound_code" : "952V+QF Poka, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C952V+QF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJo9wP5tbubC0RA5hbV2pZL8w",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Poka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6581574,
+               "lng" : 128.1984145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.656765419708498,
+                  "lng" : 128.1997519802915
+               },
+               "southwest" : {
+                  "lat" : -3.659463380291502,
+                  "lng" : 128.1970540197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Istiqomah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116906971626892498926\"\u003eAgussalim Abdurrachman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJveD0ValzscUGbQmZIOJSgAhTe5RKe_utlHFzG1UJfr2-9N6DDSTq3atobWYanMmtKzn9fIn9CE7_RyhWxVWboRB1RPEcj2OhyYhD9WisJ33-bIG1TswoMBmAEipIRM3GQ-RNJy2PWP9B1Dv6IUmSdo6mMInhdD1HC11MGgDtguJcr",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJi2-7lg3pbC0RHQEkfgLcw1Q",
+         "plus_code" : {
+            "compound_code" : "85RX+P9 Poka, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85RX+P9"
+         },
+         "reference" : "ChIJi2-7lg3pbC0RHQEkfgLcw1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Poka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6629667,
+               "lng" : 128.1858853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.661643969708498,
+                  "lng" : 128.1872764802915
+               },
+               "southwest" : {
+                  "lat" : -3.664341930291502,
+                  "lng" : 128.1845785197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "wailela pantai",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111593804469709427542\"\u003enur kholis borabora\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLfm2Ohz1sq51Oce9q18AA-_AaSwmg8WsJYwucfIocnvAwvoZCxfHCngy8Gawke77yIQ2zpRzk1ODu5sFw8d87zMs8q5QFWa6d5a-NHkbAKCJALGJ9rj_0Ilqojx8IVF0yFoJk38GJCD6sdb5VjpYRGeR0tGskItm2u2qv76SYuqbE6",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJm9jWjyrpbC0RRvUAEs0rdyU",
+         "plus_code" : {
+            "compound_code" : "85PP+R9 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85PP+R9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJm9jWjyrpbC0RRvUAEs0rdyU",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6605789,
+               "lng" : 128.1816242
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.659273869708497,
+                  "lng" : 128.1833076802915
+               },
+               "southwest" : {
+                  "lat" : -3.661971830291502,
+                  "lng" : 128.1806097197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MASJID AT-TARBIYAH BPSDM PROVINSI MALUKU",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112168229434212071444\"\u003eNaldi Enal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKSGLxH2GxLy5UZDuTP_VHiajxDtaMUhRFiCv6uq9AATyRxOibboloO44Nc7qRLGBtdGFMkRC74A9lqLRqC2PI7BtlG47Q0pmaH7BZCuBtuiOz7xK8EM-asjkYUY9kmOgbGZhVM1cPABt1oxAhYfcRDFdOjFEHT_-a2NEsuC-U9KJoc",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ6RVeGNXpbC0RIlq9uc2zW8s",
+         "plus_code" : {
+            "compound_code" : "85QJ+QJ Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85QJ+QJ"
+         },
+         "reference" : "ChIJ6RVeGNXpbC0RIlq9uc2zW8s",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.666419200000001,
+               "lng" : 128.2004214
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.665091319708498,
+                  "lng" : 128.2017575802915
+               },
+               "southwest" : {
+                  "lat" : -3.667789280291502,
+                  "lng" : 128.1990596197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid albanshor",
+         "place_id" : "ChIJPW09U2zpbC0Rf37Ml9hLqDE",
+         "plus_code" : {
+            "compound_code" : "86M2+C5 Hative Kecil, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86M2+C5"
+         },
+         "reference" : "ChIJPW09U2zpbC0Rf37Ml9hLqDE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Jenderal Sudirman, Hative Kecil"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6611862,
+               "lng" : 128.176527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.659954619708498,
+                  "lng" : 128.1779262302915
+               },
+               "southwest" : {
+                  "lat" : -3.662652580291502,
+                  "lng" : 128.1752282697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Huda Kota Jawa",
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110999163522488854605\"\u003ed2 Miftahoedin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwItJvktvw9KuMPESvGZejPKHcZH2gLjFR0n826g2KHC9e5svVFTI23yI4eBi-8wYWY_EkCNO1q3l6WJpcFbQHijcIExSU8Gve6oXGD7SwDa9nXgehly_OLm7S4l4bBETeWCVCY2C2ImBcyZ8zTNTrrdvzUFRSH_TtP4Z4TURpXYhFCh",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJseFtBs_obC0R9nCrVs6BEd4",
+         "plus_code" : {
+            "compound_code" : "85QG+GJ Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85QG+GJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJseFtBs_obC0R9nCrVs6BEd4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 57,
+         "vicinity" : "Rumah Tiga"
+      }
+   ],
+   "status" : "OK"
+}

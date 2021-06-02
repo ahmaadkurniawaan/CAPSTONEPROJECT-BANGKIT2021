@@ -1,0 +1,227 @@
+{
+   "html_attributions" : [],
+   "results" : [
+
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6403194,
+               "lng" : 101.3813993
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.641687180291502,
+                  "lng" : 101.3827525802915
+               },
+               "southwest" : {
+                  "lat" : 1.638989219708498,
+                  "lng" : 101.3800546197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galery Seni Aqilla",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2769,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106421370887198322923\"\u003eGalery Seni Aqilla\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwILliR5IJkokFdPVGrWe5hxGjdFaZuJDUvS8x7JhMPZfyi-QVDqLvDUcjjCDueuJGodJRanyXM1sEljBXuLpzDyxg264Q230pJ8u1e7xr5-8DXXEwowmmGVHZ7iL_EaZUL73lOyZfKtO5KUdOvy462DXTPwAj5e4nl5GwGQSdrnDmie",
+               "width" : 2937
+            }
+         ],
+         "place_id" : "ChIJlaBZ-Nan0zER0_H6m6qRLnc",
+         "plus_code" : {
+            "compound_code" : "J9RJ+4H Mekar Sari, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3J9RJ+4H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJlaBZ-Nan0zER0_H6m6qRLnc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Jalan Arwana, Mekar Sari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6697605,
+               "lng" : 101.4250413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.671162930291502,
+                  "lng" : 101.4264021302915
+               },
+               "southwest" : {
+                  "lat" : 1.668464969708498,
+                  "lng" : 101.4237041697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Media Stiker Dumai",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116957094080843311533\"\u003eMedia Stiker Dumai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJpXUNmR3i_Eg2mT4H_WJwljkezkMyuHzht-3dwfVQua75l3vzmu6--8LCZdWvb_lH55h-c41EOimn_tGEFTNKvXZA_QV8jWJNOk6CevYSLlsBYg8KEamZ3WxgMf5sKUN5JZcrklJQ2QS4chasHDn1KJOpp8rUW7WgIkZzj4A385fkX",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJJclL8Nep0zERrX6yWZ7FGcY",
+         "plus_code" : {
+            "compound_code" : "MC9G+W2 Simpang Tetap Darul Ihsan, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC9G+W2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJclL8Nep0zERrX6yWZ7FGcY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Jalan Sultan Hasanuddin No.9, Simpang Tetap Darul Ihsan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6768088,
+               "lng" : 101.4176564
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.678165530291502,
+                  "lng" : 101.4189646302915
+               },
+               "southwest" : {
+                  "lat" : 1.675467569708498,
+                  "lng" : 101.4162666697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gallery Tuah Aqis - Jasa Hias Hantaran dan Mahar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103156241848671284151\"\u003eGallery Tuah Aqis - Jasa Hias Hantaran dan Mahar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJj_4dFMvfOgSv61FS0U4nU--RHDHg78fQ4TXFniB8oPRjIQpISVdh95NfhEkJUZ4E8P0ruVKKjdvGqR08wy77Texswx4XrBxdEkrr2GjEc139mtmz1ZcIolIIFRqpv9PPSSn1u52V-SobKTI-No-T_jAIRFk2BmVsxx-P6bjKCatQd",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJObRZ1Xap0zERmzCPJrJnUGM",
+         "plus_code" : {
+            "compound_code" : "MCG9+P3 Pangkalan Sesai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MCG9+P3"
+         },
+         "reference" : "ChIJObRZ1Xap0zERmzCPJrJnUGM",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "vicinity" : "Pangkalan Sesai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6720778,
+               "lng" : 101.416716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.673288580291502,
+                  "lng" : 101.4180529802915
+               },
+               "southwest" : {
+                  "lat" : 1.670590619708498,
+                  "lng" : 101.4153550197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Cahaya Advertising",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117324680382347976952\"\u003eYang Mulia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI_9W4BBuqVqRhKHTQBci1gqKcZn_qeOn80v4j4oEGQlkC9rw-50zJD0DURqV8WyUre4g-bb4pF3lT6-gzhMpHEIBZXJ2W6pDWdAHapja6cQZRHqcKdo0t2-wbobNaq_CDbD4DFPsBiVV16SiRqLmuNO6aWWsRQIl4V-NuOHIRu0Gma",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJAyt8qNyo0zERz2k5uKx8_GE",
+         "plus_code" : {
+            "compound_code" : "MCC8+RM Simpang Tetap Darul Ihsan, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MCC8+RM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAyt8qNyo0zERz2k5uKx8_GE",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jln. Semangka, Gang Bunga, Simpang Tetap Darul Ihsan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6691044,
+               "lng" : 101.4181222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.670541680291502,
+                  "lng" : 101.4194794302915
+               },
+               "southwest" : {
+                  "lat" : 1.667843719708498,
+                  "lng" : 101.4167814697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Dewani Arts",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105733731539156369008\"\u003edewani arts\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIJOGUebOOYxkrdxvtHf_7J-cBtbgNJFOiObNFdTakt9OPdNe9c-MpPVrKBCRFVHUo_bQT7ks4BbASCg264-O0jHPKQWH2pIzThV1UK9RACPECWXPePwT_NDn40RTmgAMOvtikEONyE_sjM8SPJpG9AThlchKB_1C84crvjXf86Lx6O",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJV5KVsW2p0zERYPTSotmPG_g",
+         "plus_code" : {
+            "compound_code" : "MC99+J6 Ratu Sima, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC99+J6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJV5KVsW2p0zERYPTSotmPG_g",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Ratu Sima"
+      }
+   ],
+   "status" : "OK"
+}

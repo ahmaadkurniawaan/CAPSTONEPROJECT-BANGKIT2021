@@ -1,0 +1,621 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwIBzIwoqntQ9miphk6JP2gN9UDnArJlpWlkw9mV30R-d5WudrH72O0FBIWQyJKP4C1KhzACqYDLGKHkUTF_OH7NGUOozsTMwFrHwwfN7Z5t2ssskaLweAhZ-3pro1nhelASatlSFEXsU-Pp3J4KxHDriedk4MYd5hLYnY4LFVEdOsZm_YVYkQy5kCVEv4Pg51Q1RLm7uveTT5PslwojV4vkH46hHd1T4Gw0cgrglzKFXFqhEDperJrAlvxunPdelD4kSrX0l4g0_f6Tc6jNHv8o3DOeDYdXw8YpEQAhfyPrLUumAjKc6LaDaO1YHh5kweo6Ptp_rEJiY7144wLenmLPdR_sQHQSprFTP8pBXG8TmdBOx_aJe7D91Xmv2UE6sjiaUtxzIwVXa4bXxAm7xt68VLJhD5wBgjN7vubmmeR9yr9Xyhcy0LdiJhalmR_FHM-eLCY",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6925777,
+               "lng" : 128.1823373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.691338819708498,
+                  "lng" : 128.1837333802915
+               },
+               "southwest" : {
+                  "lat" : -3.694036780291503,
+                  "lng" : 128.1810354197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Fort Victoria",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1890,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108230625955572132213\"\u003eAida &amp; Amirah Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIEmd693-fLi2v5PYo4KHh0qlrLtKcwBjF3_2Iw8LSnCSh_4gbVTolLwX1BTFIwIo_Gi40eYTyZCnvUOJsbUSkgo1m9Ihy421NMbFRFcQfM3Wk4E1dJBuzwqUtSSpJyaiduzY_wSykLshxRZIepJcvjFcqhSkPA9MfpKX7tI-SzEcUk",
+               "width" : 2540
+            }
+         ],
+         "place_id" : "ChIJNdyN8lDobC0RChMAiLU6N-I",
+         "plus_code" : {
+            "compound_code" : "854J+XW Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C854J+XW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJNdyN8lDobC0RChMAiLU6N-I",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 141,
+         "vicinity" : "Jalan Slamet Riyadi, Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7450898,
+               "lng" : 128.2166461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.743740819708498,
+                  "lng" : 128.2179950802915
+               },
+               "southwest" : {
+                  "lat" : -3.746438780291502,
+                  "lng" : 128.2152971197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Namasua Desa Naku",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107036125473246857629\"\u003eSiti Nur khamidah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJMtbB-V4p02SdOf5XmyTdbdNskKzeamsAOkm5vKNMH00dNE4QOlbwls1uqfNIeGHgXYrtWZbcGq-8BwtH-2lyq988Elk-o9CCQufW66cvLOa4z6PoQ29hqvHW-11ngjS95-fqsaTqkMr7TuhNqp2YX8orlaUxizHBxp_Z9KVkqTAnH",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJJ2IxNDHCbC0RCzKiPNA8x20",
+         "plus_code" : {
+            "compound_code" : "7638+XM Naku, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C7638+XM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJJ2IxNDHCbC0RCzKiPNA8x20",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "Naku"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.5828682,
+               "lng" : 128.0831395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.581424269708498,
+                  "lng" : 128.0848449802915
+               },
+               "southwest" : {
+                  "lat" : -3.584122230291503,
+                  "lng" : 128.0821470197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Fort Amsterdam, Ambon",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110700571927395259045\"\u003eYudhi Widiastomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKVCJs7jNq5jA8Tzek6aoletb2BeoJ7W__Jrslr0T9UhS7Xr6KIJ_Fb6ZW6ZXZ3i-9oWrjuI9zQOGNkJVCRVst1lXnS-iQ3QlZHV0oWjUOTolKmiIvVZ14A_e3pFTrdEnfzvm-CGEjGuck-CelEIveusURHGt6dY-aUA6EqcAywkePK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJx0qHxtT6bC0RVVzqKFlU7rI",
+         "plus_code" : {
+            "compound_code" : "C38M+V7 Kaitetu, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CC38M+V7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJx0qHxtT6bC0RVVzqKFlU7rI",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 541,
+         "vicinity" : "Kaitetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.522244,
+               "lng" : 128.219236
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.521031769708498,
+                  "lng" : 128.2207018802915
+               },
+               "southwest" : {
+                  "lat" : -3.523729730291502,
+                  "lng" : 128.2180039197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+         "name" : "Teluk Tilepuwai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112870573584853705819\"\u003eAriel Ernest Leiwakabessy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJuEXT5mmjU0hhrvZjyDCXZdCx1o-hAbcwn181Qa6Fdis5r70hwwbwjCqrqlNF1OjKS5H0QiQF-Sbf8ffnx4WJ2StZjHAxbJTG53kXihKpYdQWMijbyrzwVKzksd6hZOfqPMq4L_3dgKohSbdMPNxEAJkvHO1Oy4rX_qw04p-vCtQ0n",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ1a041LL2bC0RbYMGkYzhGkc",
+         "plus_code" : {
+            "compound_code" : "F6H9+4M Morela, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CF6H9+4M"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ1a041LL2bC0RbYMGkYzhGkc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "maritim"
+         ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Leihitu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.527328,
+               "lng" : 128.220097
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.525979019708498,
+                  "lng" : 128.2214459802915
+               },
+               "southwest" : {
+                  "lat" : -3.528676980291502,
+                  "lng" : 128.2187480197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Benteng Kapahaha",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112797083833367630620\"\u003eBenteng Kapahaha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJQrVqwnASmz-2Fsxl7ixCu8uxUK-jmLncyn3KgF9jj-NQbK455dMoyic3fH0QgQ_mbLG4rzlNrWDzgi-YEMJIqYFFCy7URbN_gHBuANpY3i7XfNMikdkdu54sdkzL355YeB_JHxP9eXaWuQyp1YNUsz8vLXnB6-SFYt5Ot5DVUfOqS",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJRVy0a07xbC0Rvyc7DlZ5h6o",
+         "plus_code" : {
+            "compound_code" : "F6FC+32 Morela, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CF6FC+32"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJRVy0a07xbC0Rvyc7DlZ5h6o",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Morela"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6613789,
+               "lng" : 128.1790623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.659979819708498,
+                  "lng" : 128.1804063302915
+               },
+               "southwest" : {
+                  "lat" : -3.662677780291502,
+                  "lng" : 128.1777083697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Kota Jawa",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111970876497357876202\"\u003eBabang Pais\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI8ZYv4Ay5uSia9sFMGSkmEqvhUCdVXo4tZwDHPDrYfEezK-e4S_DOyEZ5D7NtAEmT6Rs_IUFehNwwP4-TMrCuGG48ZfqHu6DON31O0WMVuvU5scWTb1N_yJ8IS81RYP_QKm_TejY4XgJU1YtvakcNAsOLqA2arjJNU48pIaups78Bf",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJm-X5E3PpbC0RadV91OLRzBg",
+         "plus_code" : {
+            "compound_code" : "85QH+CJ Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85QH+CJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJm-X5E3PpbC0RadV91OLRzBg",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Jalan Ir. Muhammad Putuhena, Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6737109,
+               "lng" : 128.1936694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.672386519708497,
+                  "lng" : 128.1950450802915
+               },
+               "southwest" : {
+                  "lat" : -3.675084480291502,
+                  "lng" : 128.1923471197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Monumen Tantui",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110602141046009888698\"\u003eAugust Johannes Ricolat Ufie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL1U9XdhtaTFele0LurMzV0U4DUShQ5cB-jTTt0SwME13sPgo1zqauQxuVtcsFTl-7lG20ddCHp9PZhEw10xH6Ed-FsOE-tJFNoGDKktBXAfFJ88fSZuKWlYVeSmHWHw56SGckVCZO4UpI4qxHgUmsownw2Vr1yk7Dx44_KIE4g_1BC",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ_S9iCnXpbC0RfcwCSyGU2Y4",
+         "plus_code" : {
+            "compound_code" : "85GV+GF Pandan Kasturi, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85GV+GF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_S9iCnXpbC0RfcwCSyGU2Y4",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Pandan Kasturi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6586319,
+               "lng" : 128.2097103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.657399269708498,
+                  "lng" : 128.2111676302915
+               },
+               "southwest" : {
+                  "lat" : -3.660097230291502,
+                  "lng" : 128.2084696697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pante Halong",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100244801689544090903\"\u003eWimbo Mahadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJXRdFFuj3w6xz-V_qmzEOiFyIzH5QIwbZ1Vf2rsGqx00U3jJNweSTI7QqJs9BXu5nKwXxj4vSyh9LoY7AsDTegmi-f9BccRxDa_UowYatbF0pc11VOtcl47RNqtFetczLkRL2Sj3llLMRn24x0vBkMzHsj8SwESK8yUojacbnl2twh",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJb9hbMabpbC0RdZbepn-l40Y",
+         "plus_code" : {
+            "compound_code" : "86R5+GV Halong, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86R5+GV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJb9hbMabpbC0RdZbepn-l40Y",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Kapten Piere Tendean, Halong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6545258,
+               "lng" : 128.2162079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.653262969708498,
+                  "lng" : 128.2175047802915
+               },
+               "southwest" : {
+                  "lat" : -3.655960930291502,
+                  "lng" : 128.2148068197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Saung Satrol Lantamal IX",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108065439454786150738\"\u003earun_kurnia 08\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJiaP7JDmyoIm7VVLCKPAqto_6MaNgRCpgXi9e6Ui692zS-HIKrgPWHWSmqIFgpOHtJ3XG4dLZ3Y2-M44O7GW5RZszd4-Ckwp7gi-laW91hI1BCNSiKsGbH87KjedAP-xEH-HmIcKFHtrweJTvI1qkXk9Mx-pm0TGe2ioSMMGkbVeS_",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJiaBFvwzpbC0RDDxA5it53yw",
+         "plus_code" : {
+            "compound_code" : "86W8+5F Halong, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86W8+5F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJiaBFvwzpbC0RDDxA5it53yw",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Halong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6379317,
+               "lng" : 128.1702942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.636670919708498,
+                  "lng" : 128.1719005802915
+               },
+               "southwest" : {
+                  "lat" : -3.639368880291502,
+                  "lng" : 128.1692026197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Air terjun maspait",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113706551619637542436\"\u003eKevin Pool\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJIZiVGfEz6iBBwTY2U9XzrpWfM8WFSR4ubzu1vof_m_BMxy-Saz6sLuzdWH5D0yAT1UCChyW2FmABDk5GC00PuKi-5-VdCtyTlx1LHqKc_jIT_MypUnIDE-q3ZFb7JDJ50on_ll6fvSzUP6KXryeManoPWr0_XDczzCkxclIXiVcs",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ2acHaAvvbC0R6-6tM1wFuQ4",
+         "plus_code" : {
+            "compound_code" : "956C+R4 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C956C+R4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ2acHaAvvbC0R6-6tM1wFuQ4",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6601168,
+               "lng" : 128.1642089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.658714469708498,
+                  "lng" : 128.1657296302915
+               },
+               "southwest" : {
+                  "lat" : -3.661412430291502,
+                  "lng" : 128.1630316697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kali Wayame",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115972870363586882960\"\u003eRoland Sahertian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKvNcQnuwlHeSicpD5G59MAc7D4WJOINM7b_0qutzQN2qtPs4z3GdJP2eAOndnjTPybeAOJ4L-dVWHiI8FLJ__YWGySwCGcGK0HgPCjG4IfYuoT7pjo3rDJJn-xKGDlHrxFT15eaKGYD8l8rnYOwZn0DTuIhY8pRJ7SMwHJfUOcW-jJ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJzXIVFHHpbC0Rv4bx_JyFkjA",
+         "plus_code" : {
+            "compound_code" : "85Q7+XM Wayame, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85Q7+XM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJzXIVFHHpbC0Rv4bx_JyFkjA",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar alam","budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Wayame"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.654547200000001,
+               "lng" : 128.2180037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.653376669708498,
+                  "lng" : 128.2191895302915
+               },
+               "southwest" : {
+                  "lat" : -3.656074630291502,
+                  "lng" : 128.2164915697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Saung Mahalatu Kotakupari",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112561430696167661335\"\u003eDodik P\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwITV-TvK6sjIQujdkBcRc9zFNnn-BuWBeoqD6VbV39y6LfLhlaCrkUolosc3ZXHjd7k8Km4XY6eiguSCevzqHbIXFR8ySr7iBcgwOSGtnmBKxv21ntVbfmf-Yrm1RrGhXpYCR3yBmHtVJO5MsgvGL9C-nQqGp5iTXcOGtf6-nWJvTZm",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJDT3INIDpbC0RgZqV7qEEqCU",
+         "plus_code" : {
+            "compound_code" : "86W9+56 Halong, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86W9+56"
+         },
+         "rating" : 4,
+         "reference" : "ChIJDT3INIDpbC0RgZqV7qEEqCU",
+         "scope" : "GOOGLE",
+         "types" : [ "maritim" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Halong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6931066,
+               "lng" : 128.1831823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.691578619708498,
+                  "lng" : 128.1845360302915
+               },
+               "southwest" : {
+                  "lat" : -3.694276580291502,
+                  "lng" : 128.1818380697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Statue of Pattimura",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2299,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112502448062432019577\"\u003etotok sugiarto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJTAdGGqH9pk3-nArJ-JOeIf2rMiS9jLHioIEOf9AYi1x9Db9swdrFLBG--3LyApdjCh9E_G9f1-yMby7j_ECd07V-Uhp3qduxC96uiscYG3CA2_NFNnjG8xWlAz8EswKS4AUh40bH-HUBcanOAsyLI7ZiqnlDleBNlQUrHNvltbroa",
+               "width" : 2242
+            }
+         ],
+         "place_id" : "ChIJV1MMoVHobC0Rb0o8gRa3tcM",
+         "plus_code" : {
+            "compound_code" : "854M+Q7 Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C854M+Q7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJV1MMoVHobC0Rb0o8gRa3tcM",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 185,
+         "vicinity" : "Pattimura Park, Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6984343,
+               "lng" : 128.1801452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.697108969708498,
+                  "lng" : 128.1814674302915
+               },
+               "southwest" : {
+                  "lat" : -3.699806930291502,
+                  "lng" : 128.1787694697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Trikora Monument",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115457379772704684516\"\u003edjaja saputra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKGQKmeuciKLPh1NFbJqZoPxKGjdp_X04kjhVtOmrAwFeQxF36D-C9ce1ikj5DctqK2C-F2lzH__BFkWnR1omQ_JqWYP9TiXFZVjgucwKW-To5Al167SL4dtsYywmK-zG0PGd5qYWEXOfHfS9pkW-1i28Q7klZd7K4F8iKIZkJ5u4vT",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJZV1cQ0_obC0R9Ipikz5MChY",
+         "plus_code" : {
+            "compound_code" : "852J+J3 Kel Ahusen, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C852J+J3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZV1cQ0_obC0R9Ipikz5MChY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah" ],
+         "user_ratings_total" : 463,
+         "vicinity" : "Kel Ahusen"
+      }
+   ],
+   "status" : "OK"
+}

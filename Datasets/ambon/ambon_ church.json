@@ -1,0 +1,812 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJQMQ-De0uYYcoR5cvPWgi54LWD1oymKnwNYz_9wwBtuQ9IYAJpdBHIkco1l_GS9wuJlXeLJOdBL0ZdalpXOhqFpasg9mDqDXolRA4faJKT0077jvzKvVVOGfHyifZ8vV2brFFTCJVf3cDCEWw3s0kcQvBZ9Jun7UcXaf-bpHYLMm7IH3C4rnSfhv0jBO4xARGMhtRNwBCtEJ6_y-mPYFK0oSfKwobPK8QSIzAk3opmtiKfaRY4MhcXR3HFpWG7gll-NEIogQ8-lJTqffRiuhsFcZVJ67kBlGBgEJjI7pwKcyR0wXQC4SGdvCGBw1v3YsO9Kh_vPjeh6jxwD0xEltDkKWivghfJwTgNJZamopCgWjlXXBk6Td3ZvGCe0_GEgR86NAsAKEJWKadc2tM8cydrxfAQFfxYTxMaEoxcro1s-EO0SVAE4mg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6629798,
+               "lng" : 128.2157418
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.661599619708498,
+                  "lng" : 128.2170690302915
+               },
+               "southwest" : {
+                  "lat" : -3.664297580291502,
+                  "lng" : 128.2143710697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Mawar Sharon Ambon",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 958,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114266188550335343646\"\u003eAfri Rehiara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK8JWp-U7dNBJ12rbvzjYMWF6unaxwsJMGFuagPutCvk6Z2T_ozuH8tqDYgmV8xBfJDyR445TOZ0cyb_lWRcCRTLQaKsaff7Zm6b5LHb5aS224pi8W8hGQZ-ZPre3IpCOReViOgr-CXwoacWy6X736SXDULWW8FSGpSHSrbRdZYo8Pb",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJNbxNujfpbC0RXbLfD_f-nPw",
+         "plus_code" : {
+            "compound_code" : "86P8+R7 Halong, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86P8+R7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJNbxNujfpbC0RXbLfD_f-nPw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Jalan PHB Halong Atas, Halong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.665,
+               "lng" : 128.164747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.663623919708498,
+                  "lng" : 128.1661964802915
+               },
+               "southwest" : {
+                  "lat" : -3.666321880291502,
+                  "lng" : 128.1634985197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPM PNIEL Wayame",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108321357806411737704\"\u003eVintya Mahulette\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkkgJCMOJ-KTaeYRDoLX-H6zg2nOkpB3_2nu-IFeuhepcwgs7o_YurjOvLuJlyxD84QTNRQhxX8VfQZS41mcpd0r9vfHgMg9Jf5vZ837dgcszO3fuIC-jgL3dkIZ-bKynzIQd2SP3Rh8Kob90467O27bAXvz1MzTBClCXHEwQi3__5",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJfe_jmLnobC0RlmUgJY-3ONU",
+         "plus_code" : {
+            "compound_code" : "85M7+XV Wayame, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85M7+XV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJfe_jmLnobC0RlmUgJY-3ONU",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "Jalan Ir. M. Putuhena, Wayame"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.652647699999999,
+               "lng" : 128.2287922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.651190919708498,
+                  "lng" : 128.2300947302915
+               },
+               "southwest" : {
+                  "lat" : -3.653888880291502,
+                  "lng" : 128.2273967697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Elohim Latta",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110965650956518270584\"\u003eFanuel Erick\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK3OjKnkssOrYsK6LCW2v_YSFfav3WCB9bqfg-FOn-WzrhBtTRQkOP5tTlVduFdovBP8Sx2RZUrzTOEGK1CvSpSx_KvzOEJMUTSNPozKTSEI6rF5v9igZAqDqJCxf_usujGm2XM9bVC0Y4tQZSXTZl5C5hpxews_cqylNCTEpmf8H6x",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJyWYollTpbC0RO_tYqQLy2_o",
+         "plus_code" : {
+            "compound_code" : "86WH+WG Latta, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C86WH+WG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJyWYollTpbC0RO_tYqQLy2_o",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Jalan Wolter Monginsidi, Latta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6913211,
+               "lng" : 128.1815725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.689919919708497,
+                  "lng" : 128.1828871802915
+               },
+               "southwest" : {
+                  "lat" : -3.692617880291502,
+                  "lng" : 128.1801892197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Ignatius Slamet Riyadi",
+         "place_id" : "ChIJu80H0VDobC0Ri_CSHwGcSBM",
+         "plus_code" : {
+            "compound_code" : "855J+FJ Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C855J+FJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJu80H0VDobC0Ri_CSHwGcSBM",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6938384,
+               "lng" : 128.1836456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.692336819708497,
+                  "lng" : 128.1848837802915
+               },
+               "southwest" : {
+                  "lat" : -3.695034780291502,
+                  "lng" : 128.1821858197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Maranatha GPM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108294294728108964924\"\u003eIzak Morris Sekerone\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIRcal0L9FHMLekl-ykQ0MiZbOynnnGn5LYmoR3Bz_8wQZI6jjENss1zUCyDJyCSOuL9ez9ERkypEOMu42vLId0XB667ZJoqYxIuqzbaLXaf6gKArmPqTDzhMXd8VUZwENs15mOUraXAjQ4rCHX3dL27EHgWYTsCU8dvREfuBalrzLs",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJX3i7lVHobC0RPZSR8xSMBrk",
+         "plus_code" : {
+            "compound_code" : "854M+FF Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C854M+FF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJX3i7lVHobC0RPZSR8xSMBrk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 99,
+         "vicinity" : "Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6931972,
+               "lng" : 128.1839823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.691831869708498,
+                  "lng" : 128.1853447802915
+               },
+               "southwest" : {
+                  "lat" : -3.694529830291503,
+                  "lng" : 128.1826468197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Office of the Protestant Church of Maluku",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101861902295109386578\"\u003eRinto Alexander\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLeo3g8fcCTY60HdFi2LVoIeoZAdhtY9EtTZktCVGaPKR8KjpFVs9W3hBOyhTtfA_2Oody0LlWP_l1H8EPtr2ZZNp-lzvha6AbTXQEOJJh_kWZ_lxx-Gsb2hbuhMAYRPQjZ4TEGcutzhsEldGj88x_bXrDkuMKY8UONLvrD1wPDCbNV",
+               "width" : 1728
+            }
+         ],
+         "place_id" : "ChIJ6We8Ck7obC0RmiXkhzmZ0Xs",
+         "plus_code" : {
+            "compound_code" : "854M+PH Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C854M+PH"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ6We8Ck7obC0RmiXkhzmZ0Xs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Kadaster, Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6941964,
+               "lng" : 128.1838377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.692944619708498,
+                  "lng" : 128.1850521302915
+               },
+               "southwest" : {
+                  "lat" : -3.695642580291502,
+                  "lng" : 128.1823541697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Protestant Church of Maluku",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117823958948931474607\"\u003eHengky Pangkaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKSTj-CrpPuKH5yJHDmUQI_HtoMJ7_mbCyzZ2f6lRBn-IqJ4Rmdn-za9E8MHcnxnyGsxDtro_HOLbFVch7zICoTF73re3FUYkVV1zSluEm4CHRiYJZnTiavF2YJkUsv6AKjItPTXhxNIk1kBZ1tdqttQX4RpwwdHrjZCNU-mpw3m06I",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJqw1z8j_obC0RvfBp93uPMMs",
+         "plus_code" : {
+            "compound_code" : "854M+8G Uritetu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C854M+8G"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJqw1z8j_obC0RvfBp93uPMMs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "JL. Mayjen DI Panjaitan No.2, Uritetu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6966482,
+               "lng" : 128.1805191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.695259669708498,
+                  "lng" : 128.1818350302915
+               },
+               "southwest" : {
+                  "lat" : -3.697957630291503,
+                  "lng" : 128.1791370697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GEREJA HOK IM TONG",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100107748702109792483\"\u003eM Aldhiansyah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLrJs8498hb6pN2-FrlC9GHwkAUVoKGOlHt7iM3LfcE9zuyJQpPuw6p-Lrg5noIOqbsWwcBc4r-kkMi2j8An414JU1B4s8hg56e3fRm9M1sYg9Y-CMcZLpl5Rq153BKfm1WBXgXoe3mWebgoWaqpQ9z4I3J5IfZpGR7K1_oH9HAe1ht",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ_adhl0_obC0RECJKa9pqCFE",
+         "plus_code" : {
+            "compound_code" : "853J+86 Kel Honipopu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C853J+86"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ_adhl0_obC0RECJKa9pqCFE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Reebok, Jalan Anthony Rebok, Kel Honipopu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6984925,
+               "lng" : 128.1798589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.697051169708498,
+                  "lng" : 128.1813040802915
+               },
+               "southwest" : {
+                  "lat" : -3.699749130291502,
+                  "lng" : 128.1786061197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Jemaat GPM Silo Klasis Kota Ambon",
+         "photos" : [
+            {
+               "height" : 8000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113263265347728617223\"\u003eFasri Syafi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwICwCOaYaaOE0eoldIahhelrYC8q7Xr6LBIHfskqQjiDUGYLT57EIOI2tik2Jyg3UfbdyjMrDTdXSc0wI-he7HjWKoMVWV7vE9m0OmNXQ_tJh5tpUN8SYJIdI4hh8281oeDZ_L-YKCwDIoh8hHOLg6wcYJf-MuyZOT2V3B1fAZdgWTS",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJLep7ZUXobC0RraUq6lSZDNs",
+         "plus_code" : {
+            "compound_code" : "852H+JW Kel Honipopu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C852H+JW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJLep7ZUXobC0RraUq6lSZDNs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 60,
+         "vicinity" : "Jalan AM Sangaji No.55, Kel Honipopu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7051071,
+               "lng" : 128.1705364
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.703975269708498,
+                  "lng" : 128.1719811302915
+               },
+               "southwest" : {
+                  "lat" : -3.706673230291502,
+                  "lng" : 128.1692831697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPM Pusat",
+         "place_id" : "ChIJnYDbuz_obC0Rwa_Xi5ljGIk",
+         "plus_code" : {
+            "compound_code" : "75VC+X6 Kel Wainitu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C75VC+X6"
+         },
+         "reference" : "ChIJnYDbuz_obC0Rwa_Xi5ljGIk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Doktor Kayadoe No.39, RT.003, Kel Wainitu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.705327899999999,
+               "lng" : 128.1690492
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.704012919708498,
+                  "lng" : 128.1703817302915
+               },
+               "southwest" : {
+                  "lat" : -3.706710880291502,
+                  "lng" : 128.1676837697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Balai Perhimpunan Saksi-Saksi Yehuwa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103255852605227493492\"\u003eHiroaki Fujita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLRx4iS8IJ6m_SABpY9Yt-sitnt-c-N-l_FM9hW3dhiFTs1NBBtcI3fn8ogyv8RTUX1Xopg1bB4q-nngEIQwmFksv_x1Fa750vBvx_oaLVae2Jsttq2PiGnl1IhBY1w8p5Nde5KXeFDVlYgAyd1kQCn9jEgxydWWBJSWi4bkgdtxcMO",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJa-Xe2T_obC0R9WglDcOny6w",
+         "plus_code" : {
+            "compound_code" : "75V9+VJ Kel Wainitu, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C75V9+VJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJa-Xe2T_obC0R9WglDcOny6w",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Kel Wainitu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6367797,
+               "lng" : 128.2515068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.635443969708498,
+                  "lng" : 128.2528268802915
+               },
+               "southwest" : {
+                  "lat" : -3.638141930291502,
+                  "lng" : 128.2501289197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "gereja fajar pengharapan",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100046036691573740279\"\u003eadi martin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJIJWKC88dFhib5dJccBlOW22GYqEi8yVJ_lt1jmcGw3BTPpFRtpzmDJRkX5GgXMaluxPDPMjdNSaKkbj7pbmnQK-5Ad0b9O4dHMsxdpjYlEmXd9a1IsGgeZwJHz-Wzw5i-BuTcG-57vY1dVvAAX_VoNemeNQkJR3HorEk_skOx5_LW",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ_-Ce4xTsbC0ReVC7JxwbtYo",
+         "plus_code" : {
+            "compound_code" : "9772+7J Passo, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C9772+7J"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ_-Ce4xTsbC0ReVC7JxwbtYo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jl. Lorong Pertanian, Baguala, Passo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.584302700000001,
+               "lng" : 128.619873
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.582952519708497,
+                  "lng" : 128.6212218802915
+               },
+               "southwest" : {
+                  "lat" : -3.585650480291501,
+                  "lng" : 128.6185239197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI Imanuel Haria",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJv5UJbhidbC0Rv68exNxh8bo",
+         "plus_code" : {
+            "compound_code" : "CJ89+7W Haria, Central Maluku Regency, Maluku, Indonesia",
+            "global_code" : "6Q8CCJ89+7W"
+         },
+         "reference" : "ChIJv5UJbhidbC0Rv68exNxh8bo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jl. Regency Maluku, Haria"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6553932,
+               "lng" : 128.1907723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.654045119708497,
+                  "lng" : 128.1921322302915
+               },
+               "southwest" : {
+                  "lat" : -3.656743080291502,
+                  "lng" : 128.1894342697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bukit Sion",
+         "place_id" : "ChIJd6mEvW3pbC0RavJAEVJtj9A",
+         "plus_code" : {
+            "compound_code" : "85VR+R8 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85VR+R8"
+         },
+         "reference" : "ChIJd6mEvW3pbC0RavJAEVJtj9A",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6553932,
+               "lng" : 128.1907723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.654045119708497,
+                  "lng" : 128.1921322302915
+               },
+               "southwest" : {
+                  "lat" : -3.656743080291502,
+                  "lng" : 128.1894342697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Advent",
+         "place_id" : "ChIJm9jWjyrpbC0R1Vkpg_uBR3U",
+         "plus_code" : {
+            "compound_code" : "85VR+R8 Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85VR+R8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm9jWjyrpbC0R1Vkpg_uBR3U",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jln. Mahasin No 86, Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6541962,
+               "lng" : 128.1890425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.652914869708497,
+                  "lng" : 128.1904612802915
+               },
+               "southwest" : {
+                  "lat" : -3.655612830291501,
+                  "lng" : 128.1877633197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "St. Andreas Catholic Church Pattimura University",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103490756755208245331\"\u003eApriano Narahawarin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLWS1YmfVPoZPd0SG8QQtROWR_0sY_QhyW1LDPtIyNlJiCFcGWJ4CxEyPZqn_LUXqgO3n1Uh7Usu4jTafSfjN4LmAVpwfwcZKFQJy8P0DHRZjok8iEQuBU7bBA2gusQLIXhlw81U00R3AlqMmJwpal5Dt_JTTltXL0l_Sn28PPd1BqB",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSWWnTtXobC0Rx_HCJ_pqj2c",
+         "plus_code" : {
+            "compound_code" : "85WQ+8J Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85WQ+8J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJSWWnTtXobC0Rx_HCJ_pqj2c",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.657587,
+               "lng" : 128.1888807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.656223519708498,
+                  "lng" : 128.1902446802915
+               },
+               "southwest" : {
+                  "lat" : -3.658921480291502,
+                  "lng" : 128.1875467197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Sidang Tuhan Jemaat Siloam Rumah Tiga",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103813268304958119033\"\u003eTris Suharyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLsjeZcjaw3KmkwwcZ_841bNCrIRxV6aagC3dT9PL5wp0cTrW0VxDaUjms5HbTVaYFcTazD15BMmtNIrY5i_zKS1ylVuMliTNqXcIMshPNdPLn_9ZSHa-N0ScZRVSgoRJJOANuPG5AoUfyfYmY6kfFkKBTqG4KK1FvAt048f5KLx4VS",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJO3dve-fpbC0RCU-awV7ZSwk",
+         "plus_code" : {
+            "compound_code" : "85RQ+XH Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85RQ+XH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJO3dve-fpbC0RCU-awV7ZSwk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Gandaria No.desa, Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.652515199999999,
+               "lng" : 128.1952351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.651210269708498,
+                  "lng" : 128.1966237302915
+               },
+               "southwest" : {
+                  "lat" : -3.653908230291502,
+                  "lng" : 128.1939257697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bethesda GPM Poka",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110160652209203319036\"\u003eFeylens Delfiga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJf5x0g8bbouQ6mqNTQoEvENQaMMd-Bz2P-Kv9jl_p5nUI1T8-FiKzrMsJXiUP3-Myw6NZOg5jFf1gCWkWYScFaJmS4ebfTG5DIc_xPwIwYXVhrlQB4PTGPhEPstz5-poA2aPcmWFf6k6qaetQKd_3JTz8eJkWxgKlMaIBXGLoLwczA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJLbDQn9TubC0Rh76dzK0BZMM",
+         "plus_code" : {
+            "compound_code" : "85WW+X3 Poka, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85WW+X3"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJLbDQn9TubC0Rh76dzK0BZMM",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jalan Dokter J. Leimena, Poka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6577542,
+               "lng" : 128.1947264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.656477219708497,
+                  "lng" : 128.1960999802915
+               },
+               "southwest" : {
+                  "lat" : -3.659175180291502,
+                  "lng" : 128.1934020197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Terang Dunia GPM Jemaat Rumah Tiga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110405409104197385698\"\u003eDanniel Meindert Kastanya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK-DtjgdSGuXr12ajqHCOCKlZg8WD-Lf3oElJiJ95SPHzkWYvLxjFN9VY3F2Ny5LfsQi9vCpcCzmIHHu7FYdBYWRX7fmxy3jQJ5eEq7WM0v4vX0-puWWPz87l1xVshyBw5AbSiMOgejRoU9Tm5QaCggNLcMG2x02w0uAnWSk8lsbd9E",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJlUOsVynpbC0RlyX3DaegrpI",
+         "plus_code" : {
+            "compound_code" : "85RV+VV Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85RV+VV"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJlUOsVynpbC0RlyX3DaegrpI",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rumah Tiga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.6577963,
+               "lng" : 128.1963487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.656415269708498,
+                  "lng" : 128.1976359802915
+               },
+               "southwest" : {
+                  "lat" : -3.659113230291502,
+                  "lng" : 128.1949380197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Pancaran Anugerah Church",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116959824790733286110\"\u003eDEHANDEVIAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJbk4gTbzOeDMS_trUw0oqd4YSEmGDFfziRYYxGi9AyrwH9WeaeSWyA3zabx7Fe8s4LYHm-M8XRX5j5FnXv71KnY0RIxL2-6uk0r9-uqlZilBtvd3p38tXlo6CCXeaGz17hLexTfIi0ZPpqYcxQ1Y3zgUrnEKcYEYPNA6MUMTb5ght7",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJg7ckoS7pbC0Rf63-bJptfmQ",
+         "plus_code" : {
+            "compound_code" : "85RW+VG Rumah Tiga, Kota Ambon, Maluku, Indonesia",
+            "global_code" : "6Q8C85RW+VG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJg7ckoS7pbC0Rf63-bJptfmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Ambon, Rumah Tiga"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,692 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwIm2TJg318xo5QgXRyRp5_u4L_uUo-MYKzxroF_nXn71AXUgej49RO9X_XqBdrH8aOdJgXMJ5fkyXMdwdofNsSVoZvDPJc8SwO7AtsR4hRPm1GwVMMOXpEh9VSVw2dL6E7wagLJc-1Dny_VYngmTZm919a_D5-wvRcQROHUulzyS8LbvKPSUV5FrudRpEfjLxVRUwc85bd1SluVtSyE4sNG9ZFT914LhwlUtLUx6rTPeG_mOdt3R01gi_wSt72rUMA72PswzMtiUv3LrsMX_UzQz-6NboKDF8V_U3ClI3f5Htmj6tQuuobr0vlOB3yFvf5Y8YrYTckNx4EHAPkUWgolBwTv57Gn2kNIOuTH_KMJ6wOflt9D_AUDLUhXRo6n3HrvTc6axrqDb8cudStfjRbBUgW983msy18cNNRi6ulNKiXn6onjB4A",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0276519,
+               "lng" : 107.5210929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.026260469708497,
+                  "lng" : 107.5224918802915
+               },
+               "southwest" : {
+                  "lat" : -7.028958430291501,
+                  "lng" : 107.5197939197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Muhammad Alwi Mosque",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109061104095486904546\"\u003eJ.A. Wibowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVWv8LvnSi6vQ7ig_w-AW61vS4FO59CTJ8-0Os3kdvkJWT2afuKur6VVAxEei0NimEDR2JKx-_4V5FRP6vUhIhbV-in_VWoIxYd5i4h17FIUlgNUZ0vk6GevWKxK3bn4peqIL9OG5p66E2BHaCLAPHhLJlrVp90KcWl7IeQjIsk_Iz",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ5Xo1JsztaC4RB1r-lr6LOEw",
+         "plus_code" : {
+            "compound_code" : "XGCC+WC Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGCC+WC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ5Xo1JsztaC4RB1r-lr6LOEw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 281,
+         "vicinity" : "Jalan Pesantren Barat No.6, Pamekaran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.028636199999998,
+               "lng" : 107.5236393
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.027340719708497,
+                  "lng" : 107.5249765802915
+               },
+               "southwest" : {
+                  "lat" : -7.030038680291502,
+                  "lng" : 107.5222786197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Roudhotul Jannah - LDII PC SOREANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116981943756597493969\"\u003eCecep Suhendar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImq0Ec0s6g_5XAUATBFGromp-Bf1pGoWcOdgIcNBsYSjKibtSGkvxdcvtJkcrPz_JrStwxGz38cgkdSkK37y_9UHIXGp9Rq90Ss8EKJZ6qShow0GOGI9v_4lyXQQ8BCpN_naQ5-i2zHuiXIkbkdHTAeLF2jhp0QSZ9dEe6wRFxnPGu",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJswfWYMztaC4RqjwUCwPHPHM",
+         "plus_code" : {
+            "compound_code" : "XGCF+GF Soreang, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGCF+GF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJswfWYMztaC4RqjwUCwPHPHM",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Jalan Raya Soreang - Banjaran No.410, Soreang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.023905099999999,
+               "lng" : 107.5200584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.022527769708498,
+                  "lng" : 107.5214212302915
+               },
+               "southwest" : {
+                  "lat" : -7.025225730291502,
+                  "lng" : 107.5187232697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid al-hidayah cibayondah",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106241084862484526789\"\u003eHudan Al-Mahmudi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKuV92Hdkxgd2-dvVHh5fWKQHtiekSlCY3nlYsiwLr4-0GXYbClQgjmRo4hWA5kHJhqiQ5Cq0DWFKav7WdLYKdyRIjkbnXAQLYQQijuZab0ju-IC8TsG5-Om4Lq3gtzpKKrZR_vfrcpT_LS6JqHj75g1UiAhS6sUtvayiBBo30GEh2W",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJLepobNvtaC4RbABNIBE8Ibw",
+         "plus_code" : {
+            "compound_code" : "XGGC+C2 Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGGC+C2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJLepobNvtaC4RbABNIBE8Ibw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Unnamed Road, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0266164,
+               "lng" : 107.5183868
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.025397719708497,
+                  "lng" : 107.5197037802915
+               },
+               "southwest" : {
+                  "lat" : -7.028095680291502,
+                  "lng" : 107.5170058197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Jami Sukamiskin",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ8aF6Uc7taC4RwTlbqMsXdBo",
+         "plus_code" : {
+            "compound_code" : "XGF9+99 Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF9+99"
+         },
+         "reference" : "ChIJ8aF6Uc7taC4RwTlbqMsXdBo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Cipatik No.17, Pamekaran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.027275599999999,
+               "lng" : 107.5203331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.025973169708497,
+                  "lng" : 107.5216709802915
+               },
+               "southwest" : {
+                  "lat" : -7.0286711302915,
+                  "lng" : 107.5189730197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Al-Maqsudi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ_yWsh87taC4Rzf_0q9mufi8",
+         "plus_code" : {
+            "compound_code" : "XGFC+34 Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGFC+34"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_yWsh87taC4Rzf_0q9mufi8",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Pesantren Barat, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0261907,
+               "lng" : 107.5178032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024825119708498,
+                  "lng" : 107.5191401802915
+               },
+               "southwest" : {
+                  "lat" : -7.027523080291503,
+                  "lng" : 107.5164422197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Yaniisa",
+         "permanently_closed" : true,
+         "place_id" : "ChIJfQX-w8_taC4RCsqa5DgbL2Y",
+         "plus_code" : {
+            "compound_code" : "XGF9+G4 Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF9+G4"
+         },
+         "reference" : "ChIJfQX-w8_taC4RCsqa5DgbL2Y",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Cipatik No.8, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0261907,
+               "lng" : 107.5178032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024825119708498,
+                  "lng" : 107.5191401802915
+               },
+               "southwest" : {
+                  "lat" : -7.027523080291503,
+                  "lng" : 107.5164422197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Hayya'alasholah",
+         "permanently_closed" : true,
+         "place_id" : "ChIJfQX-w8_taC4R3M99I8ERgmY",
+         "plus_code" : {
+            "compound_code" : "XGF9+G4 Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF9+G4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJfQX-w8_taC4R3M99I8ERgmY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Cipatik No.8, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0261907,
+               "lng" : 107.5178032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024825119708498,
+                  "lng" : 107.5191401802915
+               },
+               "southwest" : {
+                  "lat" : -7.027523080291503,
+                  "lng" : 107.5164422197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Hasanah",
+         "permanently_closed" : true,
+         "place_id" : "ChIJfQX-w8_taC4RiR-Na8s1ow0",
+         "plus_code" : {
+            "compound_code" : "XGF9+G4 Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF9+G4"
+         },
+         "reference" : "ChIJfQX-w8_taC4RiR-Na8s1ow0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Cipatik No.8, Pamekaran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.027617999999999,
+               "lng" : 107.5194185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.026251919708496,
+                  "lng" : 107.5207075302915
+               },
+               "southwest" : {
+                  "lat" : -7.028949880291501,
+                  "lng" : 107.5180095697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Hikmah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJQwSx8s7taC4RoexyTHM9RqE",
+         "plus_code" : {
+            "compound_code" : "XGC9+XQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGC9+XQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJQwSx8s7taC4RoexyTHM9RqE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Raya Soreang - Banjaran No.80 B, Pamekaran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0232199,
+               "lng" : 107.5216021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.021929469708498,
+                  "lng" : 107.5229907302915
+               },
+               "southwest" : {
+                  "lat" : -7.024627430291503,
+                  "lng" : 107.5202927697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mesjid Al Yumna",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105081705264103822229\"\u003ePriyanto Akhmad Solihin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIM4g6Cj_HuKhTSl2EyI23X2DVw7NbfjVt7bi1BpnfVhRD753Kgq5thfJ5-57eUnOVtAlqnCOn-YLEcU7EvXLDm8yomRvn6YhDGg562NoTzPTapFqYMisyBBPrx97dPZcYatZS-zDrqFUs5KhdgFW_-iaqi-Ld4Z7te1VtgttOQwLkT",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJfDlqAPtaC4RtpDClAhaLtc",
+         "plus_code" : {
+            "compound_code" : "XGGC+PJ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGGC+PJ"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJJfDlqAPtaC4RtpDClAhaLtc",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Terusan Soreang - Cipatik No.79, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Karoni",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4Rb9aYjDUpqO0",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "reference" : "ChIJ6coiuc_taC4Rb9aYjDUpqO0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Raya Soreang-Ciwidey No.134, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Ahmad",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4RzQbtBrZZZfM",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "reference" : "ChIJ6coiuc_taC4RzQbtBrZZZfM",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Raya Soreang-Ciwidey No.134, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Iman",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4RpSGNM-vSAHA",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "reference" : "ChIJ6coiuc_taC4RpSGNM-vSAHA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Raya Soreang-Ciwidey No.134, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Karomah",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4RhvQeDcJcmcg",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "reference" : "ChIJ6coiuc_taC4RhvQeDcJcmcg",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Pajagalan, Soreang, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Ihsan",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4R-JEdJkY_B1I",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6coiuc_taC4R-JEdJkY_B1I",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "leuwi kuray, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid As Suhada",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4RNPKrwmNAV58",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "reference" : "ChIJ6coiuc_taC4RNPKrwmNAV58",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Pasantren Barat No.31, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Falah",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4R6ysWfk5KiQk",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6coiuc_taC4R6ysWfk5KiQk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Raya Soreang-Ciwidey No.134, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Taqwa",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4RD-ZW0pD9qKg",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6coiuc_taC4RD-ZW0pD9qKg",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Sukawangi, Soreang, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Persis",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4R1VItiA46gwc",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ6coiuc_taC4R1VItiA46gwc",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Raya Soreang-Ciwidey No.134, Pamekaran"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.026031000000001,
+               "lng" : 107.516949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.024571319708499,
+                  "lng" : 107.5183241802915
+               },
+               "southwest" : {
+                  "lat" : -7.027269280291503,
+                  "lng" : 107.5156262197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Miftahul Haq",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ6coiuc_taC4Rzx9bkpS7hCM",
+         "plus_code" : {
+            "compound_code" : "XGF8+HQ Pamekaran, Bandung, West Java, Indonesia",
+            "global_code" : "6P49XGF8+HQ"
+         },
+         "reference" : "ChIJ6coiuc_taC4Rzx9bkpS7hCM",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Raya Soreang-Ciwidey No.134, Pamekaran"
+      }
+   ],
+   "status" : "OK"
+}

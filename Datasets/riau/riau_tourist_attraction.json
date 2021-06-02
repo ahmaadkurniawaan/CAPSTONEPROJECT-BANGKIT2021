@@ -1,0 +1,803 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwL2YeVU242wVbCbX0MsSk2mDY3wUn29W2hbDpyhx8MdxTY1WMI4D2TdBS9b1fuUXYQUZj_wViAJQ2Krepwb_3FuFT-S_DHqK9_YZrUYfRgGMldgnOHXRmVZxF0SUV1vC7wUcj1mBDXnqz9b9aaYd6_2m4T57i8Ni0ITpEJPfuyDkTQFHy_BPko9WNvq_nOfWxAfNRZy98CfCWb-UG1c_hEGMbFaTdvYUJVMHewYEuFOjbluamZXcg5xYgwzyugbG-tMc190TolfXCu_vB11dzjWg4rdD4jqS7wYWaQHyATqP-z5hBkt3HDkm7tw79BHXPcaqNDCuYNNkbC7e-vnl-gslRqnBpJZFKWR1t72EICix3L9QGCq3VqUo8yFQ8Uun662p9PV4bVh5xTmnkFDdvanxXvtCnxUA3Vzq0-sMCdMFZv41GMCGy9D3aBKY6pIswAHk-Y",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6880836,
+               "lng" : 101.4315752
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.689350230291502,
+                  "lng" : 101.4330208802915
+               },
+               "southwest" : {
+                  "lat" : 1.686652269708498,
+                  "lng" : 101.4303229197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bandar Bakau Dumai",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111269634084900160710\"\u003eEsti Astari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK4bLobtlDyEqHHJhlqaNs3kapCXwW1_bGBReTnXR0H_7zj0-UvfLMuxZ-s9PgWl2JrpSdJ9K6A_5Gp-aQ3NIfomjQM1l8OoV8IM_leiaBmyMlSpRWWhQhQVkO-WQ-CDUj5X_CcCWhQUYjwsxsXtGCC5jJN-B0TVqmwibHROuBp8SkI",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJFbKe_u2o0zER0MuKTfX13to",
+         "plus_code" : {
+            "compound_code" : "MCQJ+6J Ratu Sima, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MCQJ+6J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJFbKe_u2o0zER0MuKTfX13to",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 818,
+         "vicinity" : "Ratu Sima"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.679037,
+               "lng" : 101.4649267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.680293980291502,
+                  "lng" : 101.4662753302915
+               },
+               "southwest" : {
+                  "lat" : 1.677596019708498,
+                  "lng" : 101.4635773697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pesanggrahan Putri Tujuh, Kota Dumai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 330,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100995715985479726284\"\u003eIrwansyah Lubis\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIffaC1bOldl5mhZjqFYeGQsaL6uBe-sz5HVE_jdoyCIk_m6Pe77uw5WF-byec1JASoN0h1V-_ss1IebP7BbpcVOGYMOl3VNSsXV7ZtqWLF_Nk3Yt1bPT2PLMZ-cV1V2xbbsc5YngBBHwekCpKbyQ3B4O0y4HP5KXywGxmjveMENNr0",
+               "width" : 712
+            }
+         ],
+         "place_id" : "ChIJrSs4ph2v0zERMddCk-ldWWw",
+         "plus_code" : {
+            "compound_code" : "MFH7+JX Tanjung Palas, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MFH7+JX"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJrSs4ph2v0zERMddCk-ldWWw",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "Tanjung Palas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6964169,
+               "lng" : 101.4125563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.697410580291502,
+                  "lng" : 101.4140687802915
+               },
+               "southwest" : {
+                  "lat" : 1.694712619708498,
+                  "lng" : 101.4113708197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pondok Santai Pantai Pesona Batu Bintang Purnama",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116388366853580919739\"\u003eAhmad Efendi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLix8xfyWtPj0YOVrStS0wDqvJs9LeTs3TcWh1WZvUIgnnpBCKKr0aKgVwHDAJ81sY3KWdyndaZoVB7KLMJlWVYdIIb_pj8GRAYJ0H0VS15uFfQ1qEiDDMcvKz4cmH2eLoM9Xl5I6hbsCPi0q-jXJHjh_dmQa4sWMArtIoC86ybL9dg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ98bGO76p0zERZZAKW8gebGs",
+         "plus_code" : {
+            "compound_code" : "MCW7+H2 Purnama, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MCW7+H2"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ98bGO76p0zERZZAKW8gebGs",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Gang Stel, Purnama"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6614308,
+               "lng" : 101.4468218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.662779780291502,
+                  "lng" : 101.4481707802915
+               },
+               "southwest" : {
+                  "lat" : 1.660081819708498,
+                  "lng" : 101.4454728197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "TAMAN BUKIT GELANGGANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108251560769487388000\"\u003eMirad Dinarto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLwkbmCnBPC099GgOBhGZkatdu5rCUI6cDZ0cdfg3IiLBHgzIxQNxfTJDCtamRjsSwZj6a7-ts0RfYwoOpaDperBpgcPttUI7UzrXx2Ap1FvpjaJnEg1q_bIYm54FlwVapG1SOwNG9CTAf8lx-x-em4PR1xZdpLEufBxgepPxPyVrBo",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJhaEflUev0zER3QcxQepiekY",
+         "plus_code" : {
+            "compound_code" : "MC6W+HP Teluk Binjai, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MC6W+HP"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJhaEflUev0zER3QcxQepiekY",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 1971,
+         "vicinity" : "Teluk Binjai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7277683,
+               "lng" : 101.4539696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.728540149999999,
+                  "lng" : 101.4588287
+               },
+               "southwest" : {
+                  "lat" : 1.72545275,
+                  "lng" : 101.4523499
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Parit Joko",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101902196613259339265\"\u003eMuhamad fadLy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKTAdGwC5eKycEx_gM0eleh5DdzTPQPrConqgbNAghMbZNHWTyFUdUaD9kqH6R7b-ftG6H_iu-9NK4djj6tdSO7v9wAeafKpbRgqYKj-t-U_QcDFSP5WerWpKY4MWInhHlKvN6PiSN3mXts0wWSXJNQSS0__ZdUaSK3RrBArDP5TNTr",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJddvZuWut0zER3ig1PG5bbYc",
+         "plus_code" : {
+            "compound_code" : "PFH3+4H Tanjung Kapal, Bengkalis Regency, Riau, Indonesia",
+            "global_code" : "6PH3PFH3+4H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJddvZuWut0zER3ig1PG5bbYc",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Tanjung Kapal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6984546,
+               "lng" : 101.4085269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.699769930291502,
+                  "lng" : 101.4098471302915
+               },
+               "southwest" : {
+                  "lat" : 1.697071969708498,
+                  "lng" : 101.4071491697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Wisata Purnama",
+         "photos" : [
+            {
+               "height" : 6000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117223538501207642724\"\u003eDeen Bagus Project\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJqf7OnpvzZwY3ki-pSLFqcppS4_5nYs878tHDSk_fTvOeDnOfUwbnI4bSfY2yOFNkuk0GtD0GYS3ctVcfnOkTbR70dQ7YHX7DH-pLjxbzW3F1lYe2hxAj1pI7VJaQrjkQ7c0dnt7ZJDkjwdWbNzws3w6-hE426XvFmOofPazY-gAdB",
+               "width" : 8000
+            }
+         ],
+         "place_id" : "ChIJnS3oCsOp0zER4b7nH4dwZ6E",
+         "plus_code" : {
+            "compound_code" : "MCX5+9C Purnama, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MCX5+9C"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJnS3oCsOp0zER4b7nH4dwZ6E",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 39,
+         "vicinity" : "Purnama"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6467136,
+               "lng" : 101.4227193
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.648015030291502,
+                  "lng" : 101.42725665
+               },
+               "southwest" : {
+                  "lat" : 1.645317069708498,
+                  "lng" : 101.42120685
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "BERKAH FLOWER DUMAI",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110980534547127266116\"\u003eBERKAH FLOWER DUMAI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLFvRVBY9HdcNAwqeSOS-jbWNR4rvUbTZ-s9cIZdthWYFwe07HNmgIvB5gvOiTYooNU7yNCgi3fL12SBeWyF-imB1Fdwy2Y5Jw3o0HKIEo-vBTmEEDoHgwYufhbfCQUGO7jUDtJ0UNqvv4Wo96r4XG6BkNAL82S1xP6tFEvq1lBlyet",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJz4p-VsGn0zERJA6FHWVjH1M",
+         "plus_code" : {
+            "compound_code" : "JCWF+M3 Bukit Timah, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JCWF+M3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJz4p-VsGn0zERJA6FHWVjH1M",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Unnamed Road, Bukit Timah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6464492,
+               "lng" : 101.4231068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.647756830291502,
+                  "lng" : 101.4270509
+               },
+               "southwest" : {
+                  "lat" : 1.645058869708498,
+                  "lng" : 101.4217921
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kelompok Tani BUKIT MEKAR",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116003493330017022837\"\u003eNasib Yusuf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJN-VFZbKRfqplGxvKDId2MrbUB-s5YJ4pnQMmlNLwE-sUzLroYvR8FYBXHuUWBQPoEVGWn35jtW0t7tvWwFLzf5j0bFCR2lL5WguW2lFYX74UWY1dCp3Llo5efxuN81-K1O7bj-65_J_v9FRMdeiXwHhagP-WNrIhtzCIYotH3tQy-",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJHTaq3fCp0zERaYW66681d-Y",
+         "plus_code" : {
+            "compound_code" : "JCWF+H6 Bukit Datuk, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JCWF+H6"
+         },
+         "reference" : "ChIJHTaq3fCp0zERaYW66681d-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "vicinity" : "Bukit Datuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6700365,
+               "lng" : 101.4952288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.671508780291502,
+                  "lng" : 101.4963406302915
+               },
+               "southwest" : {
+                  "lat" : 1.668810819708498,
+                  "lng" : 101.4936426697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai pulai bungkuk",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103942364071102162960\"\u003ePantai pulai bungkuk\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI7Qg_sdB-pSQLfZ4YADxLEvQAKaVur5Y--EfjyPvytVL6KBGqnsVJqXhyDX1jDMSY-4uI38fmY7ICSsAHkGhxlQx-HrYpL_tj8E39mkoRj-ENoIYs3_Av_hes3Qfh4U8eAi3ZOyAOTTxqZ90z8Y4xZnva9Tek0oKjz93lEHVH0Poy1",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJbSPxoBSv0zERU9jSMoOhr3w",
+         "plus_code" : {
+            "compound_code" : "MFCW+23 Mundam, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MFCW+23"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJbSPxoBSv0zERU9jSMoOhr3w",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jln.pulai bungkuk, Mundam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.668353,
+               "lng" : 101.4963415
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.669561330291502,
+                  "lng" : 101.4976052302915
+               },
+               "southwest" : {
+                  "lat" : 1.666863369708498,
+                  "lng" : 101.4949072697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Pesona Alam Mundam",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100641297189159220745\"\u003eNadhil Eka Putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKAWZbKI1q0vVRgx-SoVJmx8HfQpxRIezdEPZ6WmDnXxfxM3AR2TpYMyKukxvXJ-I7nuq4QPaGPefkPIj8zwJ1Ei5EyZc_NVFqRRhnFD5wU3qVpFDWMDTHpn5XIJn4XgsV5glwebezQ_vIdWWxbKYs3veiiuaUuaTVfXvArEKiQM6Sz",
+               "width" : 5504
+            }
+         ],
+         "place_id" : "ChIJuW90VUyv0zERH85253uME0o",
+         "plus_code" : {
+            "compound_code" : "MF9W+8G Mundam, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MF9W+8G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJuW90VUyv0zERH85253uME0o",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jl. Teladan, Jl. Muslim Gang Rahmat, Mundam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7193725,
+               "lng" : 101.3883316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.720721480291502,
+                  "lng" : 101.3896805802915
+               },
+               "southwest" : {
+                  "lat" : 1.718023519708498,
+                  "lng" : 101.3869826197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Muara Sungai Mesjid",
+         "place_id" : "ChIJM2m6CBap0zER8vz7z3rt-mY",
+         "plus_code" : {
+            "compound_code" : "P99Q+P8 Purnama, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3P99Q+P8"
+         },
+         "reference" : "ChIJM2m6CBap0zER8vz7z3rt-mY",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "vicinity" : "Purnama"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6510022,
+               "lng" : 101.3950217
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.652107880291502,
+                  "lng" : 101.3968903802915
+               },
+               "southwest" : {
+                  "lat" : 1.649409919708498,
+                  "lng" : 101.3941924197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kolam Pak Leo Lubis",
+         "place_id" : "ChIJFfz4Y1Wp0zERc0l1rpZya4Q",
+         "plus_code" : {
+            "compound_code" : "M92W+C2 Bukit Datuk, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3M92W+C2"
+         },
+         "reference" : "ChIJFfz4Y1Wp0zERc0l1rpZya4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "vicinity" : "Jalan Bukit Datuk, Bukit Datuk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.660909,
+               "lng" : 101.502186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.662339630291502,
+                  "lng" : 101.5034149302915
+               },
+               "southwest" : {
+                  "lat" : 1.659641669708498,
+                  "lng" : 101.5007169697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tegal",
+         "place_id" : "ChIJeyo89Jqv0zEReT-YNlo8UQg",
+         "plus_code" : {
+            "compound_code" : "MG62+9V Mundam, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3MG62+9V"
+         },
+         "reference" : "ChIJeyo89Jqv0zEReT-YNlo8UQg",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "vicinity" : "Jalan Hasan Mil, Mundam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6229023,
+               "lng" : 101.4418916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.623607530291502,
+                  "lng" : 101.4437941802915
+               },
+               "southwest" : {
+                  "lat" : 1.620909569708498,
+                  "lng" : 101.4410962197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Danau Wisata Bunga Tujuh",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112773833578821436758\"\u003eRahmad Khairul\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkYc-qmBFhXutKILrCPQ4af2_JpSr2oU7GvtVYidIOnxOmEPOv_j9aQfU9R_hHgfwyQIpeinxLWNb_B50OMqhdbZ9r_reA98B7NiFCQgkpDwcAgsAMJWOkEi16cB8o8sNMfd6RP5vDhrJ52VLgmTrJtnzDVVW7OErfqxCAOqO2vnqY",
+               "width" : 902
+            }
+         ],
+         "place_id" : "ChIJB_A0mt2l0zERfWVtgBZyrFI",
+         "plus_code" : {
+            "compound_code" : "JCFR+5Q Bukit Batrem, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JCFR+5Q"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJB_A0mt2l0zERfWVtgBZyrFI",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "Bukit Batrem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6415595,
+               "lng" : 101.5437089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642704480291502,
+                  "lng" : 101.5449604302915
+               },
+               "southwest" : {
+                  "lat" : 1.640006519708498,
+                  "lng" : 101.5422624697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Wan Mas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117211217965362889230\"\u003eWAK JUN\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIbn3jY6NJpgAeO9qVqY5MghyS7qj4w1P2ZeAlbaInwWAg31Lzg88ZVvTy665g-xhjBGa1jBNXcuEkETmyyPUz6TBx9C0UkY_P55kHYzP8yadDYdflSKLNOWomuEVxqv5euN41y_3PIgRxNVFl_GwUyQbajjCZVlk7HhIKcKzhTZa2l",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJK224VLC70zERanVxaxq1kmk",
+         "plus_code" : {
+            "compound_code" : "JGRV+JF Teluk Makmur, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JGRV+JF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJK224VLC70zERanVxaxq1kmk",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Mat Taim, Teluk Makmur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6416631,
+               "lng" : 101.5438258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642743430291502,
+                  "lng" : 101.5450455802915
+               },
+               "southwest" : {
+                  "lat" : 1.640045469708498,
+                  "lng" : 101.5423476197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai wan mas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117912768628455895676\"\u003ePantai wan mas\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJHKQaj58r9kfv0LTlg1-3EkyyK3-7ttUC1ybx3JqtgyZORTgkpBGs0G9MymeLJgKIq4Oxvn1Y4aJ_ZqgNuAWJPSmVgzd2s4zyZnzG8lZcEgl-Lc0hUxgh0S9r1gxUdCqVmkvdW8bsqz__FDASc-5ICeOLuiAtjH7srJWPV4hmNjGIp",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJrTty6V-70zERLNcTqPHmSH4",
+         "plus_code" : {
+            "compound_code" : "JGRV+MG Teluk Makmur, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JGRV+MG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrTty6V-70zERLNcTqPHmSH4",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Mat Taim, Teluk Makmur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6410072,
+               "lng" : 101.544419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642238230291502,
+                  "lng" : 101.5457109302915
+               },
+               "southwest" : {
+                  "lat" : 1.639540269708498,
+                  "lng" : 101.5430129697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Bahar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109284505332617728741\"\u003eHendra Hend\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzfXFivk_GqUF656Hmn4W1-MHCKWBKpgyQKikXDM72cvNpSAHBT9pvO_m9G0K6BPI3rbBMUxTKMcR8if9p9-9NPs5yAcYH8anDAMFP6ugUaC6ilqxjn5hWywbAhCKe9fkT7rugafoMbJzHm80imZL9UVaXvUZQwNltogR2W1MrMG5Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJqbIU35m70zER4AlzX6qAaoc",
+         "plus_code" : {
+            "compound_code" : "JGRV+CQ Teluk Makmur, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JGRV+CQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJqbIU35m70zER4AlzX6qAaoc",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Jalan Mat Taim, Teluk Makmur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6411587,
+               "lng" : 101.5456472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642296730291502,
+                  "lng" : 101.5470016302915
+               },
+               "southwest" : {
+                  "lat" : 1.639598769708498,
+                  "lng" : 101.5443036697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Koneng Pasir Putih Teluk Makmur",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102642251167407292620\"\u003eSenju Khalifa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL2ObXIF6DUxx9SgyVh6szujyzJDF1DxdXaOIRTMAjN3oDUp358BHOxNwYDa_mLG5pR2k2ugXXdwCJe3HUXKjQ6EOX7FAQxctqP9JijmblyFxwoIeDedDT-QZ5Gf4HuamQUmcWe8MpRmteToa5fV0vbfHKCeQs4tDt-1ZeaudNeWrJi",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJd5KQhjq70zERCMq7E3OVCEM",
+         "plus_code" : {
+            "compound_code" : "JGRW+F7 Teluk Makmur, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JGRW+F7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJd5KQhjq70zERCMq7E3OVCEM",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 204,
+         "vicinity" : "Teluk Makmur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6357707,
+               "lng" : 101.5564883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.637124230291502,
+                  "lng" : 101.5578114302915
+               },
+               "southwest" : {
+                  "lat" : 1.634426269708498,
+                  "lng" : 101.5551134697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Bahtera Alam",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102145211609852428356\"\u003eFaZiKha\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKW6GNH3-hDICx09batu84KYGaPdAWiP4ObyuLUJ2AdvdwdB2QkrC3pgL_TJT_JA8IHoNfM3r7XXwXHE3QHNW0D0fuAaLmjAVjvnuEbovndLvDXQRxVJQTVJHeb_JkVHc0zGYQONaY48AViMKakiTX0O3NOCsCn5yXfFsXm_UO6zxh4",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJvbG8MD670zERwMG6Sko5Syw",
+         "plus_code" : {
+            "compound_code" : "JHP4+8H Guntung, Dumai City, Riau, Indonesia",
+            "global_code" : "6PH3JHP4+8H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJvbG8MD670zERwMG6Sko5Syw",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam","maritim" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Unnamed Road, Guntung"
+      }
+   ],
+   "status" : "OK"
+}
