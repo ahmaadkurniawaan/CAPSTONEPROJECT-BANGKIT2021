@@ -1,0 +1,4605 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJZTiamKmbS_Gm3AIYOakZD7H9Dgi2PjEEILWcqMn70kmlelnxedErMoMCnjDy5Lycp7V9PzcPdY2qAPojMj2it9XYYHfYUmPE5Qhg0PwG_bC1SChip-WIk6mqv9AMYiD4sOjNQ-8PnbP9D48DS883cLw8mJyqcPRwzavIMPz7IE_CstFOXB8643Q3TJWahKnh3oMuqrF0EXa9FrhAOy1kLuOOU7ZqKCYoACGLtFG_x1mRtZavY9OhskyXf1LsF3eU5i854n6Gf45ULGkdhSW0tWVxlnHfs8A0RbLxcvw_kpjwxi5SQ8cWGWDWyM7qwrvTOLtbmdEkXMa8c7lWk6sTzXT5nGD6fCggOxuqVLZJIYrV-fVRA1eYNjNh9XXLFa6GGU1k00f2vHG_b4mpwk8Xnfq2Hzzp1qa74GE-WvaETykQTCWaDhJWRT9ZqOA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.008698099999999,
+               "lng" : 113.8642641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.007311769708497,
+                  "lng" : 113.8657240802915
+               },
+               "southwest" : {
+                  "lat" : -7.010009730291501,
+                  "lng" : 113.8630261197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Om Hendra Galery Antik Sumenep",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108488732761567655746\"\u003eorang orang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKm55EuetcAdsSN-9sUUAb0497KssRDVehatQLxXF6PiWACJurXbaUpHROWJuZN2jt8YIuEPsdV_czXsCPyIN81FFOi94-ud5a9gT48i3K8KNt2nFo7ncm8Dzk8r0oyqcliTTlrfxoW2mdCziGrQXtjafib8Gwh99kvopirv2Oi6ula",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJL7qEYSvk2S0RblL6RFq4ETs",
+         "plus_code" : {
+            "compound_code" : "XVR7+GP Pajagalan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVR7+GP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJL7qEYSvk2S0RblL6RFq4ETs",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Lingkungan Delama, Pajagalan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1636918,
+               "lng" : 113.4785235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.162349919708497,
+                  "lng" : 113.4798765302915
+               },
+               "southwest" : {
+                  "lat" : -7.165047880291501,
+                  "lng" : 113.4771785697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "WSB ROJHA'DHULIT",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115240632772545237776\"\u003eAndreas Lope\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxaP0s2fyHnhUYGTe8cxvKJBD_R--TQPhATHOJUPpG4-nm4Tu8VQKSWSOVA2JAtNDex5q-1GUHrIHv4VQeI-1-0TN1xZVsuna7KG_wenpfThNfKTffq16T1ky_Kbeve6S3z2Lkelaosg5LpLo8jwGsuVr6ULHdtsC5UEyGYNBt4TjP",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJMcvXYN991y0R0t13ec_ajAI",
+         "plus_code" : {
+            "compound_code" : "RFPH+GC Parteker, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFPH+GC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJMcvXYN991y0R0t13ec_ajAI",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Cokroatmojo Gang X No.15, Rawa 01, Parteker"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1560934,
+               "lng" : 113.4747419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.154822069708499,
+                  "lng" : 113.4760672802915
+               },
+               "southwest" : {
+                  "lat" : -7.157520030291503,
+                  "lng" : 113.4733693197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Maduart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109792428796827788648\"\u003eChandra Syaiful Rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJRvHY-NIHDM6MoydoRIu1LsjGscYhTcYCeBPaCOUJcQMGHxHn1F1Zt76CyivHM_ahd5Qb6J0unlO-ElIIV2g6d5Gha-gJx1jZjxbxZYFyiirnf3HGfgLmzPsDWXPFPPegM7SIn7LTvCIqIlAhOaBxXIwwq2hmbYOB_q16cU6e6w7Lm",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJv2Ilswd-1y0Remb6B74gDHY",
+         "plus_code" : {
+            "compound_code" : "RFVF+HV Bugih, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFVF+HV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv2Ilswd-1y0Remb6B74gDHY",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Sumur Putih, Bugih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.154638299999999,
+               "lng" : 113.5036067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.153289319708497,
+                  "lng" : 113.5049556802915
+               },
+               "southwest" : {
+                  "lat" : -7.155987280291502,
+                  "lng" : 113.5022577197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Limestone Artworks Gallery",
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103529590269506269144\"\u003eEka Martina Muawana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLXKhbwG4MA3Z4H202FyLIv265DK3j1P8gVTWFMAgiEpOwrOqc40N2EMVErP61GPzQQeMAGHdOretpJkUskk0dqawjI6Devy44rX2c4AnDd5StM1jnUhO07VEJJbTq1Ehdpj-ZOF-k_iVjQHMbl-0jzHI5YZgSYLpKRWe3iVHBwNABh",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJ_0dOZxR91y0R-XtTdH8D6tw",
+         "plus_code" : {
+            "compound_code" : "RGW3+4C Buddagan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGW3+4C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_0dOZxR91y0R-XtTdH8D6tw",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Raya Pamekasan - Sumenep, Serkeser, Buddagan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.184973699999998,
+               "lng" : 113.5008371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.183613819708499,
+                  "lng" : 113.5021907802915
+               },
+               "southwest" : {
+                  "lat" : -7.186311780291503,
+                  "lng" : 113.4994928197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Nadhifasouvenir & Undangan Pamekasan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108914597510152164945\"\u003eNadhifasouvenir Nita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJC8618w07zu4lgCQb8fHk6OOGaQ3NjOQ3_-Jx_YaejLUAT4tsbqifnFPEaityGUmK0ZdEE2gC2oI0rsWK5ejKInOdIS7Lo6tgeJw86Afxa1iFJnf5q7lW4tkd4oPKXPveqtw3RlkBpddYFEOvbnmxnCI9R76JqTPRDovnHKTD3W7zD",
+               "width" : 2381
+            }
+         ],
+         "place_id" : "ChIJ7QgQkyN91y0R2zeTeqWBzJ4",
+         "plus_code" : {
+            "compound_code" : "RG82+28 Sumedangan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRG82+28"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7QgQkyN91y0R2zeTeqWBzJ4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Sumedangan, Kebon, Sumedangan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1971011,
+               "lng" : 113.4729428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.195734319708499,
+                  "lng" : 113.4742283302915
+               },
+               "southwest" : {
+                  "lat" : -7.198432280291503,
+                  "lng" : 113.4715303697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sanggar Teater Fataria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117627273673125029445\"\u003eTeater Fataria\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIyZBoPYIvmjqmO8csnf4BbRwwcQA9T9OKPo6sVj0XbBeoyf5wIGSFwFv_0G2nadtAQydeFWzDbogXCjZsMUHh2PPJ8kaZuazW6wf5NlgduSE0BQO5lTuYKBoP8QJ9ecUGP7QFqe6yLsGV3OElSTGm-ibZcUEzhRiOEazwVPAKmF0cM",
+               "width" : 475
+            }
+         ],
+         "place_id" : "ChIJr68dmXN_1y0R8Ph3hX-n72c",
+         "plus_code" : {
+            "compound_code" : "RF3F+55 Panglegur, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRF3F+55"
+         },
+         "reference" : "ChIJr68dmXN_1y0R8Ph3hX-n72c",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Jalan Raya Panglegur, Kramat, Panglegur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.129805499999999,
+               "lng" : 113.4568318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.128452669708498,
+                  "lng" : 113.4582121302915
+               },
+               "southwest" : {
+                  "lat" : -7.131150630291502,
+                  "lng" : 113.4555141697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Batik Mj Abe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2218,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112180195776849142308\"\u003eScott Purcell\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKs3dZm0UuHBA1CmfDH-0RTxJpFrKjuHI0PnPkebn9-ne5Bn2WsLKUvV1JPz_tHsxVk8rhwt3UMOzNTMiGOzc4vRZyGy_Gop9UiGUhZcDgWlVn2b7d4GzarnXx_lkppW302Ve6mQ4dp7IvRcQvdqan19PCc-mrcqr2p2vKB2POp1XbS",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJadz6yMHV2S0R1xtv79pXXI8",
+         "plus_code" : {
+            "compound_code" : "VFC4+3P Klampar, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFC4+3P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJadz6yMHV2S0R1xtv79pXXI8",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Kampung Batik 1, Kroya, Klampar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1670733,
+               "lng" : 113.4178486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.165686819708498,
+                  "lng" : 113.4191499302915
+               },
+               "southwest" : {
+                  "lat" : -7.168384780291502,
+                  "lng" : 113.4164519697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pengrajin Batik Madura Pamekasan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107482025767918792160\"\u003ePengrajin Batik Madura Pamekasan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImVfErevjqPjocQSGvHlHy4_OV8ovMe91bht8wRFy3fzYB7YuxmV8QCHyD7CEYD9LkAjFExTAv5HIRJGHOCcR83rouXSC_NbExZqKhnEjAG_yCfVPsZnk76Qw2QT4smvPoaeDV9yQWjccmAOsR7dNZGgvGz-eMDGlZNK5ohaRoBWJ8",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJD-DAykN_1y0RLrMMfq78ywM",
+         "plus_code" : {
+            "compound_code" : "RCM9+54 Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCM9+54"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJD-DAykN_1y0RLrMMfq78ywM",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Relubeng, Toket"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0941337,
+               "lng" : 113.4461828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.092795419708498,
+                  "lng" : 113.4475285802915
+               },
+               "southwest" : {
+                  "lat" : -7.095493380291503,
+                  "lng" : 113.4448306197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tsuis muslimah Wedding",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105971049404606181648\"\u003eAri Arie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLpo4A1rm-aWXMIa5MmG6-8OkCZbtgsT2Xhg8lN7k3yf3kt2XV7taQjZQDUlfRgEX-yvlG24shDSlj9FDMiFHtfGt-s0d2oSAfXTEWzAiiLaIUyBGt5wuoPBAe4-C8ZzV5B1mSuAk5VUhj7Nc8jDes1WaMEmSWrCMe-Z48p-HQP_lrB",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJFXzmaqfV2S0RNZv4Q2ObAtg",
+         "plus_code" : {
+            "compound_code" : "WC4W+8F Rek Kerrek, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MWC4W+8F"
+         },
+         "reference" : "ChIJFXzmaqfV2S0RNZv4Q2ObAtg",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Pasar malam, Pakes, Rek Kerrek"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.214136299999999,
+               "lng" : 113.3237131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.212851269708498,
+                  "lng" : 113.3251021802915
+               },
+               "southwest" : {
+                  "lat" : -7.215549230291503,
+                  "lng" : 113.3224042197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kamart ratora",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111240714009498675820\"\u003eArea Info\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL3c_sGRtETzrSqA4HB1lFbSkq5gAX0aH_rzOx_616p8nKI2KVYnwqfOSDKy165I3ea9wug5Jq2anA806LjdS_3wWB9MQrRF9JRhNs2dFfTA9tTGcvypiBryRfe_IhEOj5m2JszYiuXs59BDDGp3h3MVRS5nGslfDao9edeWre_qxHO",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJU8DswFqB1y0RIWS6xbMN1K4",
+         "plus_code" : {
+            "compound_code" : "Q8PF+8F Tamba\"an, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MQ8PF+8F"
+         },
+         "reference" : "ChIJU8DswFqB1y0RIWS6xbMN1K4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Petani Barat, Tamba\"an"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1079829,
+               "lng" : 113.6829568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.106846719708498,
+                  "lng" : 113.6843182802915
+               },
+               "southwest" : {
+                  "lat" : -7.109544680291503,
+                  "lng" : 113.6816203197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "TABUN Educulture Art",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103886564220923877469\"\u003eSAMUDERA IQRO&#39;\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKF0cD4iPJ_I0EOPkR-potL-yprXXSqFJuJMIePTyZc16eWzcdgaQ0lAxBKwyh3wxyHJuNBtmC7vEAOrY9Y9nBL5czSFYA-VFOJruE42hkhqDoAcpnUGUruPpyCwUuUOuT379SddElRHml5jB-U3fj8dj8HGF_600PFl-gw94rnXBQE",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ6cqX3lrf2S0RBkzFKmwaboo",
+         "plus_code" : {
+            "compound_code" : "VMRM+R5 Aeng Panas, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVMRM+R5"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ6cqX3lrf2S0RBkzFKmwaboo",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Pesisir, Aeng Panas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1073008,
+               "lng" : 113.6979453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.105946119708498,
+                  "lng" : 113.6992694802915
+               },
+               "southwest" : {
+                  "lat" : -7.108644080291502,
+                  "lng" : 113.6965715197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Iskandar Ukir",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101187376183623837554\"\u003eGaleri Iskandar Ukir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxNyHj2i5mpEFHnzle20W1hpOakhR4AXYB_Ousu9HRbsbAGtC2s1_vCFzxGpwaNUHlZsz7ykeQbVxHAbffrVrhuThcG0bdwTgZR5lfWR_B_eZP03mPiDJ4gf3NJPHjIMbkvgLWVDQksBbgpClt1uxNEzKLi1a12s0elJpGVBkT_Yy2",
+               "width" : 2128
+            }
+         ],
+         "place_id" : "ChIJ9yFHgfjf2S0Ri_Kiosma2kc",
+         "plus_code" : {
+            "compound_code" : "VMVX+35 Karduluk, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVMVX+35"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ9yFHgfjf2S0Ri_Kiosma2kc",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Utara lapangan sepak bola, dunggaddung, Blajut, Karduluk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0340392,
+               "lng" : 113.6652009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.032636019708497,
+                  "lng" : 113.6665534302915
+               },
+               "southwest" : {
+                  "lat" : -7.035333980291502,
+                  "lng" : 113.6638554697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Roman Gallery",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113051441724179137842\"\u003eMuhammad Rasib\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-u8PzAWEaYB0-bUCLGqrw9_xIgwgYsnlDHaSKHZr_D1Irj8ntdg8huzS25SdxNJIU94jGQmmwMmC_tnYGsGl_mLxorG9C8IB5RFbsq_3TMuwfH4luSizWMfj0UoBlcs3HqBSOs40lXjVZWxB_lG9_0Rpeky_rCLuFDsLcoMVejnMv",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJAQAAAJHb2S0RXJtAvMGc_jU",
+         "plus_code" : {
+            "compound_code" : "XM88+93 Bragung, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXM88+93"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAQAAAJHb2S0RXJtAvMGc_jU",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Angsanah, Bragung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.041812500000001,
+               "lng" : 113.6895017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.040387419708498,
+                  "lng" : 113.6908858302915
+               },
+               "southwest" : {
+                  "lat" : -7.043085380291503,
+                  "lng" : 113.6881878697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Anamedia",
+         "photos" : [
+            {
+               "height" : 355,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113700010482411409353\"\u003eHarry Shagrath\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKfY8-SLtOofTh_5dGx1knNPzXt9z2UkClR8wzaGFHcDfPHtv3Ulh9XhZgu7cQG2aqXZJIno-OVptwAS27rM64y7N7GlF74LgdVc8No48fYWSKhQ36Z0KNYCcU5gNO9i0-TLTwcDsH3vrGSyqwzx3og7HcQuP77hpQ5sMpGUDJ9lp5U",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ5QLEW07d2S0R6S9SgN_rozo",
+         "plus_code" : {
+            "compound_code" : "XM5Q+7R Ketawang Pareban, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXM5Q+7R"
+         },
+         "reference" : "ChIJ5QLEW07d2S0R6S9SgN_rozo",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Masjid, Ketawang Pareban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.197057099999999,
+               "lng" : 113.242417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.195755069708498,
+                  "lng" : 113.2437644302915
+               },
+               "southwest" : {
+                  "lat" : -7.198453030291502,
+                  "lng" : 113.2410664697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Eduwisata Batik SALOSE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115881104116436512235\"\u003eEduwisata Batik SALOSE\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKjS44oUQNoaXPbCRtM5Tf-Hot8GnoLfsoZsrjLQup1qFPCC7Wti4J1UdrF48YNiUQBoCJL_GvDtvfYLQYz2MnHgGzRZgM6li_ibJEva3Hg6S6LwkZYcRXNBqAmjPCf1-BncDRmvTX9RohcNny9ozMJ1jHpzBIAWnMbDNPg3pfcNby-",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ1cJl-LeH1y0RnDpiluUwbGY",
+         "plus_code" : {
+            "compound_code" : "R63R+5X Karang Dalem, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MR63R+5X"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1cJl-LeH1y0RnDpiluUwbGY",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Rajawali No.30, Bledanah, Karang Dalem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.031583,
+               "lng" : 113.688759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.030220769708498,
+                  "lng" : 113.6901098802915
+               },
+               "southwest" : {
+                  "lat" : -7.032918730291502,
+                  "lng" : 113.6874119197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AINUL HAQIQI",
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104576729628107096620\"\u003eAlunk Dewata\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJHF2pk3txfuFqReopOhajA2vC5bZxdXEIhnv2ouWd-8f5zS6CApvDIGe2knHN8as-JcqKSxHl9QPyb0oKAVnXYsaNeCStsi7n7nyE5pr-r_VZ3ot_3yee2737o-PgbL2utlqVKrRZOPRjKNZgMq3opl4bWqgcgP5TN4-VquEyWAmf",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJ_XMN1Wvc2S0Rik-YKIh5Fp8",
+         "plus_code" : {
+            "compound_code" : "XM9Q+9G Ketawang Larangan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXM9Q+9G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ_XMN1Wvc2S0Rik-YKIh5Fp8",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "7°01'53.7\"S 113°41'19., Jalan Dupak No.1, Gundih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.114286,
+               "lng" : 113.726444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.112840719708498,
+                  "lng" : 113.7278077302915
+               },
+               "southwest" : {
+                  "lat" : -7.115538680291503,
+                  "lng" : 113.7251097697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sofyan Art Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJbaYcCpjf2S0Rl-oQLLlG788",
+         "plus_code" : {
+            "compound_code" : "VPPG+7H Kapedi, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVPPG+7H"
+         },
+         "reference" : "ChIJbaYcCpjf2S0Rl-oQLLlG788",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Jalan Raya Kapedi-Bluto No.112, Nyamplong, Kapedi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.024865099999999,
+               "lng" : 113.7071979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.023506819708499,
+                  "lng" : 113.7085144302915
+               },
+               "southwest" : {
+                  "lat" : -7.026204780291503,
+                  "lng" : 113.7058164697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Seni Lukis Iskandar Yunhan",
+         "place_id" : "ChIJCVxDZd3d2S0R4LQ0PhbNNFs",
+         "plus_code" : {
+            "compound_code" : "XPG4+3V East Gadu, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXPG4+3V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCVxDZd3d2S0R4LQ0PhbNNFs",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Banangger, Gadu Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.097011,
+               "lng" : 113.791544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.095848419708498,
+                  "lng" : 113.7931512802915
+               },
+               "southwest" : {
+                  "lat" : -7.098546380291502,
+                  "lng" : 113.7904533197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Keris Nusantara.ft",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104217349846471250327\"\u003eKeris Nusantara.ft\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIWl7lZLGH3uwzczUthNg1-KOnMbWQnK2wShXhkPMJy5h5-B2mUZ2lGanSZM-lrLlwMjYjnPtkX1CLlH-4rmJCSw_bwdEP6pFE3yDcpgrj5atDBSHNibuF3OkOdPdHDEcV8Jl_K388rdqA2NhAzbYRoLupmGhGJ7XloGOm6k9I5hbNx",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJpQ4wa2nh2S0REvRj_HDig6g",
+         "plus_code" : {
+            "compound_code" : "WQ3R+5J Aengbaja Raja, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MWQ3R+5J"
+         },
+         "reference" : "ChIJpQ4wa2nh2S0REvRj_HDig6g",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Desa No.Rt04/02, Ambaan, Aengbaja Raja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0918958,
+               "lng" : 113.7966209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.090577769708498,
+                  "lng" : 113.7979758302915
+               },
+               "southwest" : {
+                  "lat" : -7.093275730291503,
+                  "lng" : 113.7952778697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "نور خالص ART",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJleBnDiPh2S0RBPdQenLkUA4",
+         "plus_code" : {
+            "compound_code" : "WQ5W+6J Aengbaja Raja, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MWQ5W+6J"
+         },
+         "reference" : "ChIJleBnDiPh2S0RBPdQenLkUA4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Pongkeng, Aengbaja Raja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.008698099999999,
+               "lng" : 113.8642641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.007311769708497,
+                  "lng" : 113.8657240802915
+               },
+               "southwest" : {
+                  "lat" : -7.010009730291501,
+                  "lng" : 113.8630261197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Om Hendra Galery Antik Sumenep",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108488732761567655746\"\u003eorang orang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKm55EuetcAdsSN-9sUUAb0497KssRDVehatQLxXF6PiWACJurXbaUpHROWJuZN2jt8YIuEPsdV_czXsCPyIN81FFOi94-ud5a9gT48i3K8KNt2nFo7ncm8Dzk8r0oyqcliTTlrfxoW2mdCziGrQXtjafib8Gwh99kvopirv2Oi6ula",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJL7qEYSvk2S0RblL6RFq4ETs",
+         "plus_code" : {
+            "compound_code" : "XVR7+GP Pajagalan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVR7+GP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJL7qEYSvk2S0RblL6RFq4ETs",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Lingkungan Delama, Pajagalan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1636918,
+               "lng" : 113.4785235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.162349919708497,
+                  "lng" : 113.4798765302915
+               },
+               "southwest" : {
+                  "lat" : -7.165047880291501,
+                  "lng" : 113.4771785697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "WSB ROJHA'DHULIT",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115240632772545237776\"\u003eAndreas Lope\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxaP0s2fyHnhUYGTe8cxvKJBD_R--TQPhATHOJUPpG4-nm4Tu8VQKSWSOVA2JAtNDex5q-1GUHrIHv4VQeI-1-0TN1xZVsuna7KG_wenpfThNfKTffq16T1ky_Kbeve6S3z2Lkelaosg5LpLo8jwGsuVr6ULHdtsC5UEyGYNBt4TjP",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJMcvXYN991y0R0t13ec_ajAI",
+         "plus_code" : {
+            "compound_code" : "RFPH+GC Parteker, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFPH+GC"
+         },
+         "rating" : 4,
+         "reference" : "ChIJMcvXYN991y0R0t13ec_ajAI",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Cokroatmojo Gang X No.15, Rawa 01, Parteker"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1560934,
+               "lng" : 113.4747419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.154822069708499,
+                  "lng" : 113.4760672802915
+               },
+               "southwest" : {
+                  "lat" : -7.157520030291503,
+                  "lng" : 113.4733693197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Maduart",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109792428796827788648\"\u003eChandra Syaiful Rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJRvHY-NIHDM6MoydoRIu1LsjGscYhTcYCeBPaCOUJcQMGHxHn1F1Zt76CyivHM_ahd5Qb6J0unlO-ElIIV2g6d5Gha-gJx1jZjxbxZYFyiirnf3HGfgLmzPsDWXPFPPegM7SIn7LTvCIqIlAhOaBxXIwwq2hmbYOB_q16cU6e6w7Lm",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJv2Ilswd-1y0Remb6B74gDHY",
+         "plus_code" : {
+            "compound_code" : "RFVF+HV Bugih, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFVF+HV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv2Ilswd-1y0Remb6B74gDHY",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Sumur Putih, Bugih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.154638299999999,
+               "lng" : 113.5036067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.153289319708497,
+                  "lng" : 113.5049556802915
+               },
+               "southwest" : {
+                  "lat" : -7.155987280291502,
+                  "lng" : 113.5022577197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Limestone Artworks Gallery",
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103529590269506269144\"\u003eEka Martina Muawana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLXKhbwG4MA3Z4H202FyLIv265DK3j1P8gVTWFMAgiEpOwrOqc40N2EMVErP61GPzQQeMAGHdOretpJkUskk0dqawjI6Devy44rX2c4AnDd5StM1jnUhO07VEJJbTq1Ehdpj-ZOF-k_iVjQHMbl-0jzHI5YZgSYLpKRWe3iVHBwNABh",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJ_0dOZxR91y0R-XtTdH8D6tw",
+         "plus_code" : {
+            "compound_code" : "RGW3+4C Buddagan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGW3+4C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_0dOZxR91y0R-XtTdH8D6tw",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Raya Pamekasan - Sumenep, Serkeser, Buddagan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.184973699999998,
+               "lng" : 113.5008371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.183613819708499,
+                  "lng" : 113.5021907802915
+               },
+               "southwest" : {
+                  "lat" : -7.186311780291503,
+                  "lng" : 113.4994928197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Nadhifasouvenir & Undangan Pamekasan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108914597510152164945\"\u003eNadhifasouvenir Nita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJC8618w07zu4lgCQb8fHk6OOGaQ3NjOQ3_-Jx_YaejLUAT4tsbqifnFPEaityGUmK0ZdEE2gC2oI0rsWK5ejKInOdIS7Lo6tgeJw86Afxa1iFJnf5q7lW4tkd4oPKXPveqtw3RlkBpddYFEOvbnmxnCI9R76JqTPRDovnHKTD3W7zD",
+               "width" : 2381
+            }
+         ],
+         "place_id" : "ChIJ7QgQkyN91y0R2zeTeqWBzJ4",
+         "plus_code" : {
+            "compound_code" : "RG82+28 Sumedangan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRG82+28"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7QgQkyN91y0R2zeTeqWBzJ4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Sumedangan, Kebon, Sumedangan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1971011,
+               "lng" : 113.4729428
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.195734319708499,
+                  "lng" : 113.4742283302915
+               },
+               "southwest" : {
+                  "lat" : -7.198432280291503,
+                  "lng" : 113.4715303697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sanggar Teater Fataria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117627273673125029445\"\u003eTeater Fataria\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIyZBoPYIvmjqmO8csnf4BbRwwcQA9T9OKPo6sVj0XbBeoyf5wIGSFwFv_0G2nadtAQydeFWzDbogXCjZsMUHh2PPJ8kaZuazW6wf5NlgduSE0BQO5lTuYKBoP8QJ9ecUGP7QFqe6yLsGV3OElSTGm-ibZcUEzhRiOEazwVPAKmF0cM",
+               "width" : 475
+            }
+         ],
+         "place_id" : "ChIJr68dmXN_1y0R8Ph3hX-n72c",
+         "plus_code" : {
+            "compound_code" : "RF3F+55 Panglegur, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRF3F+55"
+         },
+         "reference" : "ChIJr68dmXN_1y0R8Ph3hX-n72c",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Jalan Raya Panglegur, Kramat, Panglegur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.129805499999999,
+               "lng" : 113.4568318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.128452669708498,
+                  "lng" : 113.4582121302915
+               },
+               "southwest" : {
+                  "lat" : -7.131150630291502,
+                  "lng" : 113.4555141697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Batik Mj Abe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2218,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112180195776849142308\"\u003eScott Purcell\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKs3dZm0UuHBA1CmfDH-0RTxJpFrKjuHI0PnPkebn9-ne5Bn2WsLKUvV1JPz_tHsxVk8rhwt3UMOzNTMiGOzc4vRZyGy_Gop9UiGUhZcDgWlVn2b7d4GzarnXx_lkppW302Ve6mQ4dp7IvRcQvdqan19PCc-mrcqr2p2vKB2POp1XbS",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJadz6yMHV2S0R1xtv79pXXI8",
+         "plus_code" : {
+            "compound_code" : "VFC4+3P Klampar, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFC4+3P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJadz6yMHV2S0R1xtv79pXXI8",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Kampung Batik 1, Kroya, Klampar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1670733,
+               "lng" : 113.4178486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.165686819708498,
+                  "lng" : 113.4191499302915
+               },
+               "southwest" : {
+                  "lat" : -7.168384780291502,
+                  "lng" : 113.4164519697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pengrajin Batik Madura Pamekasan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107482025767918792160\"\u003ePengrajin Batik Madura Pamekasan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImVfErevjqPjocQSGvHlHy4_OV8ovMe91bht8wRFy3fzYB7YuxmV8QCHyD7CEYD9LkAjFExTAv5HIRJGHOCcR83rouXSC_NbExZqKhnEjAG_yCfVPsZnk76Qw2QT4smvPoaeDV9yQWjccmAOsR7dNZGgvGz-eMDGlZNK5ohaRoBWJ8",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJD-DAykN_1y0RLrMMfq78ywM",
+         "plus_code" : {
+            "compound_code" : "RCM9+54 Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCM9+54"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJD-DAykN_1y0RLrMMfq78ywM",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Relubeng, Toket"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0941337,
+               "lng" : 113.4461828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.092795419708498,
+                  "lng" : 113.4475285802915
+               },
+               "southwest" : {
+                  "lat" : -7.095493380291503,
+                  "lng" : 113.4448306197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tsuis muslimah Wedding",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105971049404606181648\"\u003eAri Arie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLpo4A1rm-aWXMIa5MmG6-8OkCZbtgsT2Xhg8lN7k3yf3kt2XV7taQjZQDUlfRgEX-yvlG24shDSlj9FDMiFHtfGt-s0d2oSAfXTEWzAiiLaIUyBGt5wuoPBAe4-C8ZzV5B1mSuAk5VUhj7Nc8jDes1WaMEmSWrCMe-Z48p-HQP_lrB",
+               "width" : 853
+            }
+         ],
+         "place_id" : "ChIJFXzmaqfV2S0RNZv4Q2ObAtg",
+         "plus_code" : {
+            "compound_code" : "WC4W+8F Rek Kerrek, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MWC4W+8F"
+         },
+         "reference" : "ChIJFXzmaqfV2S0RNZv4Q2ObAtg",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Pasar malam, Pakes, Rek Kerrek"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.214136299999999,
+               "lng" : 113.3237131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.212851269708498,
+                  "lng" : 113.3251021802915
+               },
+               "southwest" : {
+                  "lat" : -7.215549230291503,
+                  "lng" : 113.3224042197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kamart ratora",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111240714009498675820\"\u003eArea Info\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL3c_sGRtETzrSqA4HB1lFbSkq5gAX0aH_rzOx_616p8nKI2KVYnwqfOSDKy165I3ea9wug5Jq2anA806LjdS_3wWB9MQrRF9JRhNs2dFfTA9tTGcvypiBryRfe_IhEOj5m2JszYiuXs59BDDGp3h3MVRS5nGslfDao9edeWre_qxHO",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJU8DswFqB1y0RIWS6xbMN1K4",
+         "plus_code" : {
+            "compound_code" : "Q8PF+8F Tamba\"an, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MQ8PF+8F"
+         },
+         "reference" : "ChIJU8DswFqB1y0RIWS6xbMN1K4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Petani Barat, Tamba\"an"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1079829,
+               "lng" : 113.6829568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.106846719708498,
+                  "lng" : 113.6843182802915
+               },
+               "southwest" : {
+                  "lat" : -7.109544680291503,
+                  "lng" : 113.6816203197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "TABUN Educulture Art",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103886564220923877469\"\u003eSAMUDERA IQRO&#39;\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKF0cD4iPJ_I0EOPkR-potL-yprXXSqFJuJMIePTyZc16eWzcdgaQ0lAxBKwyh3wxyHJuNBtmC7vEAOrY9Y9nBL5czSFYA-VFOJruE42hkhqDoAcpnUGUruPpyCwUuUOuT379SddElRHml5jB-U3fj8dj8HGF_600PFl-gw94rnXBQE",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ6cqX3lrf2S0RBkzFKmwaboo",
+         "plus_code" : {
+            "compound_code" : "VMRM+R5 Aeng Panas, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVMRM+R5"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ6cqX3lrf2S0RBkzFKmwaboo",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Pesisir, Aeng Panas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1073008,
+               "lng" : 113.6979453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.105946119708498,
+                  "lng" : 113.6992694802915
+               },
+               "southwest" : {
+                  "lat" : -7.108644080291502,
+                  "lng" : 113.6965715197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Iskandar Ukir",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101187376183623837554\"\u003eGaleri Iskandar Ukir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxNyHj2i5mpEFHnzle20W1hpOakhR4AXYB_Ousu9HRbsbAGtC2s1_vCFzxGpwaNUHlZsz7ykeQbVxHAbffrVrhuThcG0bdwTgZR5lfWR_B_eZP03mPiDJ4gf3NJPHjIMbkvgLWVDQksBbgpClt1uxNEzKLi1a12s0elJpGVBkT_Yy2",
+               "width" : 2128
+            }
+         ],
+         "place_id" : "ChIJ9yFHgfjf2S0Ri_Kiosma2kc",
+         "plus_code" : {
+            "compound_code" : "VMVX+35 Karduluk, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVMVX+35"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ9yFHgfjf2S0Ri_Kiosma2kc",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Utara lapangan sepak bola, dunggaddung, Blajut, Karduluk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0340392,
+               "lng" : 113.6652009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.032636019708497,
+                  "lng" : 113.6665534302915
+               },
+               "southwest" : {
+                  "lat" : -7.035333980291502,
+                  "lng" : 113.6638554697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Roman Gallery",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113051441724179137842\"\u003eMuhammad Rasib\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-u8PzAWEaYB0-bUCLGqrw9_xIgwgYsnlDHaSKHZr_D1Irj8ntdg8huzS25SdxNJIU94jGQmmwMmC_tnYGsGl_mLxorG9C8IB5RFbsq_3TMuwfH4luSizWMfj0UoBlcs3HqBSOs40lXjVZWxB_lG9_0Rpeky_rCLuFDsLcoMVejnMv",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJAQAAAJHb2S0RXJtAvMGc_jU",
+         "plus_code" : {
+            "compound_code" : "XM88+93 Bragung, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXM88+93"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAQAAAJHb2S0RXJtAvMGc_jU",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Angsanah, Bragung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.041812500000001,
+               "lng" : 113.6895017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.040387419708498,
+                  "lng" : 113.6908858302915
+               },
+               "southwest" : {
+                  "lat" : -7.043085380291503,
+                  "lng" : 113.6881878697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Anamedia",
+         "photos" : [
+            {
+               "height" : 355,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113700010482411409353\"\u003eHarry Shagrath\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKfY8-SLtOofTh_5dGx1knNPzXt9z2UkClR8wzaGFHcDfPHtv3Ulh9XhZgu7cQG2aqXZJIno-OVptwAS27rM64y7N7GlF74LgdVc8No48fYWSKhQ36Z0KNYCcU5gNO9i0-TLTwcDsH3vrGSyqwzx3og7HcQuP77hpQ5sMpGUDJ9lp5U",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ5QLEW07d2S0R6S9SgN_rozo",
+         "plus_code" : {
+            "compound_code" : "XM5Q+7R Ketawang Pareban, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXM5Q+7R"
+         },
+         "reference" : "ChIJ5QLEW07d2S0R6S9SgN_rozo",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Masjid, Ketawang Pareban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.197057099999999,
+               "lng" : 113.242417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.195755069708498,
+                  "lng" : 113.2437644302915
+               },
+               "southwest" : {
+                  "lat" : -7.198453030291502,
+                  "lng" : 113.2410664697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Eduwisata Batik SALOSE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115881104116436512235\"\u003eEduwisata Batik SALOSE\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKjS44oUQNoaXPbCRtM5Tf-Hot8GnoLfsoZsrjLQup1qFPCC7Wti4J1UdrF48YNiUQBoCJL_GvDtvfYLQYz2MnHgGzRZgM6li_ibJEva3Hg6S6LwkZYcRXNBqAmjPCf1-BncDRmvTX9RohcNny9ozMJ1jHpzBIAWnMbDNPg3pfcNby-",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ1cJl-LeH1y0RnDpiluUwbGY",
+         "plus_code" : {
+            "compound_code" : "R63R+5X Karang Dalem, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MR63R+5X"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1cJl-LeH1y0RnDpiluUwbGY",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Rajawali No.30, Bledanah, Karang Dalem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.031583,
+               "lng" : 113.688759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.030220769708498,
+                  "lng" : 113.6901098802915
+               },
+               "southwest" : {
+                  "lat" : -7.032918730291502,
+                  "lng" : 113.6874119197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AINUL HAQIQI",
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104576729628107096620\"\u003eAlunk Dewata\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJHF2pk3txfuFqReopOhajA2vC5bZxdXEIhnv2ouWd-8f5zS6CApvDIGe2knHN8as-JcqKSxHl9QPyb0oKAVnXYsaNeCStsi7n7nyE5pr-r_VZ3ot_3yee2737o-PgbL2utlqVKrRZOPRjKNZgMq3opl4bWqgcgP5TN4-VquEyWAmf",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJ_XMN1Wvc2S0Rik-YKIh5Fp8",
+         "plus_code" : {
+            "compound_code" : "XM9Q+9G Ketawang Larangan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXM9Q+9G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ_XMN1Wvc2S0Rik-YKIh5Fp8",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "7°01'53.7\"S 113°41'19., Jalan Dupak No.1, Gundih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.114286,
+               "lng" : 113.726444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.112840719708498,
+                  "lng" : 113.7278077302915
+               },
+               "southwest" : {
+                  "lat" : -7.115538680291503,
+                  "lng" : 113.7251097697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sofyan Art Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJbaYcCpjf2S0Rl-oQLLlG788",
+         "plus_code" : {
+            "compound_code" : "VPPG+7H Kapedi, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVPPG+7H"
+         },
+         "reference" : "ChIJbaYcCpjf2S0Rl-oQLLlG788",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Jalan Raya Kapedi-Bluto No.112, Nyamplong, Kapedi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.024865099999999,
+               "lng" : 113.7071979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.023506819708499,
+                  "lng" : 113.7085144302915
+               },
+               "southwest" : {
+                  "lat" : -7.026204780291503,
+                  "lng" : 113.7058164697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Seni Lukis Iskandar Yunhan",
+         "place_id" : "ChIJCVxDZd3d2S0R4LQ0PhbNNFs",
+         "plus_code" : {
+            "compound_code" : "XPG4+3V East Gadu, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXPG4+3V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCVxDZd3d2S0R4LQ0PhbNNFs",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Banangger, Gadu Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.097011,
+               "lng" : 113.791544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.095848419708498,
+                  "lng" : 113.7931512802915
+               },
+               "southwest" : {
+                  "lat" : -7.098546380291502,
+                  "lng" : 113.7904533197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Keris Nusantara.ft",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104217349846471250327\"\u003eKeris Nusantara.ft\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIWl7lZLGH3uwzczUthNg1-KOnMbWQnK2wShXhkPMJy5h5-B2mUZ2lGanSZM-lrLlwMjYjnPtkX1CLlH-4rmJCSw_bwdEP6pFE3yDcpgrj5atDBSHNibuF3OkOdPdHDEcV8Jl_K388rdqA2NhAzbYRoLupmGhGJ7XloGOm6k9I5hbNx",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJpQ4wa2nh2S0REvRj_HDig6g",
+         "plus_code" : {
+            "compound_code" : "WQ3R+5J Aengbaja Raja, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MWQ3R+5J"
+         },
+         "reference" : "ChIJpQ4wa2nh2S0REvRj_HDig6g",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Desa No.Rt04/02, Ambaan, Aengbaja Raja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0918958,
+               "lng" : 113.7966209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.090577769708498,
+                  "lng" : 113.7979758302915
+               },
+               "southwest" : {
+                  "lat" : -7.093275730291503,
+                  "lng" : 113.7952778697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "نور خالص ART",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJleBnDiPh2S0RBPdQenLkUA4",
+         "plus_code" : {
+            "compound_code" : "WQ5W+6J Aengbaja Raja, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MWQ5W+6J"
+         },
+         "reference" : "ChIJleBnDiPh2S0RBPdQenLkUA4",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya" ],
+         "vicinity" : "Pongkeng, Aengbaja Raja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1608906,
+               "lng" : 113.483729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159451269708497,
+                  "lng" : 113.4850906802915
+               },
+               "southwest" : {
+                  "lat" : -7.162149230291502,
+                  "lng" : 113.4823927197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katholik Maria Ratu Para Rasul",
+         "photos" : [
+            {
+               "height" : 684,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112489915719797657960\"\u003eNew Crusader\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK5Ol_uyZMSIMWP3vnf1lvk1kGq8eNChKrODOCCzVzrbGvMaTcrPLurqRWFW8dcZFmAtSxM7p_Zd-dDad7CA_98jZMDBC8rLLRvUTtSsQ3YgKeMdXtHsX5WFlJAsCdcq2XBiqAS1yZ5DEHkIreV3i_wagyThBEknFSf-VcXMw5LS3cB",
+               "width" : 1025
+            }
+         ],
+         "place_id" : "ChIJt_DUuOV91y0RegFp_XkXECs",
+         "plus_code" : {
+            "compound_code" : "RFQM+JF Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+JF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJt_DUuOV91y0RegFp_XkXECs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "JL. Joko Tole, No. 2, Barurambat, 69313, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1621892,
+               "lng" : 113.484709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.160893619708497,
+                  "lng" : 113.4860584802915
+               },
+               "southwest" : {
+                  "lat" : -7.163591580291501,
+                  "lng" : 113.4833605197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Sidang Persekutuan Injili Indonesia",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106192352995661827844\"\u003eyenny nita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIaiVMBgahedjEfo2XpIZc5jVLIkMuI5_0LZ0o91uVJDdiSyOgcVMljvEwIGFnRY-jEP7VmcekqMFg_DfOxRYoZ6ZHPEVi_Vg2fCEcnK1tgEHPJnMcVYJZr8M_aMRdhK_OrYkCIX-AqYwJzy1KkzGCZ0bYFCLrsElcczIAqweFOatWV",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ8eWEn-Z91y0RdHqQhoAGG40",
+         "plus_code" : {
+            "compound_code" : "RFQM+4V Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+4V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8eWEn-Z91y0RdHqQhoAGG40",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "JL. Kamboja 24, Barurambat, Pamekasan, 69313, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.163531000000001,
+               "lng" : 113.4860615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.162169219708498,
+                  "lng" : 113.4873521802915
+               },
+               "southwest" : {
+                  "lat" : -7.164867180291503,
+                  "lng" : 113.4846542197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI SOLA GRACIA",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104747941602181559828\"\u003eharry astrianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJIkfy_2a0NPbZbyJBWZ6RUhN5bBVDqXHIyG_LuLZQ0Om4Wvv7vQ6RU3HJkdfj2rlj9Fi87xUQr9TI9IEddS8C1_Q0F5h1WDOfz_beAGVGtRPbPH4TqFm8orKpZ4Qw9IjKSAjL27dtFYIA14KrC9kINzJx8SoTVY_m4BiMuAYMSS2Sr",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZ74w5eZ91y0RxIujHcctPeY",
+         "plus_code" : {
+            "compound_code" : "RFPP+HC Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFPP+HC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ74w5eZ91y0RxIujHcctPeY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Jingga No.3, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1657621,
+               "lng" : 113.482518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.164406619708497,
+                  "lng" : 113.4839690802915
+               },
+               "southwest" : {
+                  "lat" : -7.167104580291502,
+                  "lng" : 113.4812711197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPPS SHALOM pamekasan",
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105316759461633534285\"\u003eJiddralta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIcBDv_ZbKdWh7ulFC67b0zzFhMG6C96nbxgxNE8Sd7EPiOt-6v8VboSyhg1n8NokZkp9Oz-8jeARKnJm6OHq0-UpFbeqkmcWkKjQ7DFe-x_chn6qJ-fg1aezl34JIj-XBbOH8G-lI6zVbOOIXiL4kY6-YaOPbfGxaI4fa_ORHs7Ng",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJpXgZxOB91y0RA0qqpEPdqgY",
+         "plus_code" : {
+            "compound_code" : "RFMM+M2 Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFMM+M2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJpXgZxOB91y0RA0qqpEPdqgY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Barurambat Kota, Kecamatan Pamekasan, Rawa 01, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.166064200000001,
+               "lng" : 113.4816919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.164673169708498,
+                  "lng" : 113.4828831302915
+               },
+               "southwest" : {
+                  "lat" : -7.167371130291502,
+                  "lng" : 113.4801851697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bethel Apostolik Dan Profetin Jemaat Bunga Bakung",
+         "place_id" : "ChIJh2FG7OB91y0RG-dOPX0VbtQ",
+         "plus_code" : {
+            "compound_code" : "RFMJ+HM Patemon, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFMJ+HM"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJh2FG7OB91y0RG-dOPX0VbtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Trunojoyo No.85, Patemon, Patemon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.161148799999999,
+               "lng" : 113.4885114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159839919708496,
+                  "lng" : 113.4898539802915
+               },
+               "southwest" : {
+                  "lat" : -7.1625378802915,
+                  "lng" : 113.4871560197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB Mahkota Hayat",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109740456351134394539\"\u003eSiswanto Pabidang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIayf2RCdL5ZY51IOBrQOAFmjFKwL8YYU_lmlgexRZ46XOYc3b3xDiKDgC79fy30_HOOQWvLpo_UgxR-2PCfO-L9OpxbuNghd2HQE1c1IPVdTg38gMnFIo2_0lrmVJckPHwAsGy6Eg5q4kBik1WbaPxgwWImZKvLcIad8pB5uTSefu4",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfbuW7uV91y0Ro6ztCEq4GV0",
+         "plus_code" : {
+            "compound_code" : "RFQQ+GC Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQQ+GC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJfbuW7uV91y0Ro6ztCEq4GV0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Rawa 05, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1611904,
+               "lng" : 113.4889888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159899469708497,
+                  "lng" : 113.4903277802915
+               },
+               "southwest" : {
+                  "lat" : -7.162597430291502,
+                  "lng" : 113.4876298197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Mahkota Hayat",
+         "place_id" : "ChIJ6WWiBOZ91y0R_XyyY4UJ-Bg",
+         "plus_code" : {
+            "compound_code" : "RFQQ+GH East Barurambat, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQQ+GH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6WWiBOZ91y0R_XyyY4UJ-Bg",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Jokotole No.203, Rawa 05, Barurambat Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1912824,
+               "lng" : 113.2491469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.189933419708497,
+                  "lng" : 113.2504958802915
+               },
+               "southwest" : {
+                  "lat" : -7.192631380291502,
+                  "lng" : 113.2477979197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Sampang",
+         "place_id" : "ChIJ89hmEgWH1y0RTWesTq5cSt4",
+         "plus_code" : {
+            "compound_code" : "R65X+FM Dalpenang, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MR65X+FM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ89hmEgWH1y0RTWesTq5cSt4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rawa IV, Dalpenang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0162469,
+               "lng" : 113.8574264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.014968719708497,
+                  "lng" : 113.8590408802915
+               },
+               "southwest" : {
+                  "lat" : -7.017666680291502,
+                  "lng" : 113.8563429197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Kapel Santo Yusuf",
+         "place_id" : "ChIJN2U8kKLn2S0REXB4ir19zYE",
+         "plus_code" : {
+            "compound_code" : "XVM4+GX Kolor, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVM4+GX"
+         },
+         "reference" : "ChIJN2U8kKLn2S0REXB4ir19zYE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Trunojoyo No.212, Labangseng, Kolor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0147059,
+               "lng" : 113.8581356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.013368019708497,
+                  "lng" : 113.8595508802915
+               },
+               "southwest" : {
+                  "lat" : -7.016065980291502,
+                  "lng" : 113.8568529197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Pantekosta di Indonesia - Sahabat Allah",
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106861853532652363160\"\u003eDesi Nathalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLyLnbdn5wYNAGv1E_nNm2T2kKesGjaj1h1dEonAw0_VgThCTtyAwhH2pBkTh6bItoz8zr2Abr_W99PnW9FneAIX2LsHHgcvVCWNhp3ATyWkYAtTtqHHn7sx6QHlKYvNOqgaeqSCnRUJJOC8NBMz03czaQoI0sV1w-m2ipeOcHRRqo2",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJOe_8e4Lm2S0REI_23CpA1vI",
+         "plus_code" : {
+            "compound_code" : "XVP5+47 Kolor, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVP5+47"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOe_8e4Lm2S0REI_23CpA1vI",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Jalan Trunojoyo No.32, Kolor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.021046599999999,
+               "lng" : 113.877767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.019804969708497,
+                  "lng" : 113.8789832802915
+               },
+               "southwest" : {
+                  "lat" : -7.022502930291502,
+                  "lng" : 113.8762853197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Maria Gunung Karmel Sumenep",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113655876117391877166\"\u003eHarry Chang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJD4tE5lGEPSykzSH590ZCZei-NGA4_x-GNizT38dA8N1kLfb4uV0YOkpUD-QmN5aYy5lqJGgZlmA9NsxbUR88HpItLMocqUGtaxAFL0HOPCUJz2MXZ96kjK-2tSbCbJV7pV-SuSqyPhCSu0RWJpozKUYid40pxgKySXozwT3O3gLs4",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4Yicy9bl2S0RI4UTno2plR8",
+         "plus_code" : {
+            "compound_code" : "XVHH+H4 Pabian, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVHH+H4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ4Yicy9bl2S0RI4UTno2plR8",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "Jalan Slamet Riyadi No.33, Bereksosok, Pabian"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.109592699999999,
+               "lng" : 113.6722823
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.108144769708497,
+                  "lng" : 113.6736136302915
+               },
+               "southwest" : {
+                  "lat" : -7.110842730291502,
+                  "lng" : 113.6709156697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Besar Gemma",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 6000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116306974251374605695\"\u003eHaykal Jaljalut\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK8_H02WKeaDU3F8WDC0EPfmxtL11oYEysN_1rcDufXw3Wh3UtVjfR1jgeLa0zPehUe0SeZL82k6s5nfNduCiASgh_KyGHgZT8XdpfH-nxDaNExA5eIDoVh1zgey6MRb6fIaN4HGua-thfs7KfJKI3cZ1ea6GEojjVSFA6R3XFmcOCd",
+               "width" : 8000
+            }
+         ],
+         "place_id" : "ChIJP82ZNTLf2S0RgUifBuwp_oo",
+         "plus_code" : {
+            "compound_code" : "VMRC+5W Prenduan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVMRC+5W"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJP82ZNTLf2S0RgUifBuwp_oo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 209,
+         "vicinity" : "Jalan Raya Prenduan No.184, Pesisir, Prenduan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.160423300000001,
+               "lng" : 113.4814072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159092369708497,
+                  "lng" : 113.4829529302915
+               },
+               "southwest" : {
+                  "lat" : -7.161790330291502,
+                  "lng" : 113.4802549697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Agung Asy-Syuhada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2881,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117639849415453909714\"\u003eluthfinurzaman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPm4-2W3k8UWrQXET6HXl-GljJc3sHggdadCau9t7pARrgCXz9mTEMgU47Kds8Bi4zqxYNWUZFdbNF2uIImQ3Tv4Uaw8uqhwpWG7HuO2e1baMsgLqtLtn_7HoEr13NbmVz2QYGnysL0A-e2O9xOmt58-kqpHO-NMkhXNxIxhhWk7dC",
+               "width" : 2881
+            }
+         ],
+         "place_id" : "ChIJM1OFuuN91y0RLNTO9-j1yxY",
+         "plus_code" : {
+            "compound_code" : "RFQJ+RH Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQJ+RH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJM1OFuuN91y0RLNTO9-j1yxY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 539,
+         "vicinity" : "Jalan Mesigit No.23, Gladak Anyar, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1544603,
+               "lng" : 113.4659544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.153136469708497,
+                  "lng" : 113.4672869802915
+               },
+               "southwest" : {
+                  "lat" : -7.155834430291502,
+                  "lng" : 113.4645890197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Ihsan",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117076093327539321586\"\u003eKuz Airi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLsKvhPdOx0Gg_pJYAB7jHq-gX_of9p0ZvLa6KODb0pTifXvMsQrO5IED95M6Lpe3MdK4B7Uvf9qyPBgm9VAK9qb25IPCW33FH52Fu7BR-sMxgbCzorGa_JuUWlEX_7-W2hOJ8EtX6mpPgU4mm-RiYxkph-MiEl_2vp008C0AVouEkL",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJIWGOtQR-1y0RW-MguiklpOA",
+         "plus_code" : {
+            "compound_code" : "RFW8+69 Bugih, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFW8+69"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJIWGOtQR-1y0RW-MguiklpOA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "No, Jalan Basar No.38, Sobih, Bugih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.217126899999999,
+               "lng" : 113.5158374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.215972469708497,
+                  "lng" : 113.5170569302915
+               },
+               "southwest" : {
+                  "lat" : -7.218670430291501,
+                  "lng" : 113.5143589697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "masjid sabilul muttaqien",
+         "place_id" : "ChIJUaqY5np81y0R5SriNSxLQgk",
+         "plus_code" : {
+            "compound_code" : "QGM8+48 East Pademawu, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQGM8+48"
+         },
+         "rating" : 5,
+         "reference" : "ChIJUaqY5np81y0R5SriNSxLQgk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Majungan, Pademawu Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.090165499999999,
+               "lng" : 113.4935593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.088901669708497,
+                  "lng" : 113.4948524802915
+               },
+               "southwest" : {
+                  "lat" : -7.091599630291502,
+                  "lng" : 113.4921545197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "masjid nurul huda",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118034516084994883262\"\u003eradar ardiansyah putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJaugkngY3p34iZRv42DHWH4j__uMdJq5IKzdY1_23mK349_riUiEoAECRebt7rzMOoByoANHqqqaoCRIR-pQJqz6PWCBx_xlLIpyeeyyVP9nNzMno1FlaanrH4hLW-VS0w_GVoJ72eBtfoMWENfwes7SQ7viAAzr5dMZRBiFR9bDPb",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJRci87pbW2S0RMOwKpKNEW6E",
+         "plus_code" : {
+            "compound_code" : "WF5V+WC Plakpak, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MWF5V+WC"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJRci87pbW2S0RMOwKpKNEW6E",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Sajum, Plakpak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1181592,
+               "lng" : 113.5635266
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.116827719708498,
+                  "lng" : 113.5648601302915
+               },
+               "southwest" : {
+                  "lat" : -7.119525680291503,
+                  "lng" : 113.5621621697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "musholla al_ikhlas",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106384760591733086406\"\u003eAbbas Syaif\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKeBGZ38AvaBm2dCbNI83YnaNC37hLBmKvzNtoAJaVY59bV-5ScQJQ_GJirluua2reD7CBOWuDhwZNEOIanhUveEDfHl2-SDqYBXT2F3LPjs13xvf5HE7jIdeoJswUD4VqvLbtud3a-eShvLdYnyqFLcJEjyXpog_7zeO7KpW4qZq55",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJowJ81o3X2S0RlCbp4SoJvOk",
+         "plus_code" : {
+            "compound_code" : "VHJ7+PC Panaguan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVHJ7+PC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJowJ81o3X2S0RlCbp4SoJvOk",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Nangger, Panaguan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0576647,
+               "lng" : 113.4320452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.056336869708498,
+                  "lng" : 113.4334393802915
+               },
+               "southwest" : {
+                  "lat" : -7.059034830291502,
+                  "lng" : 113.4307414197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitur Rohmah Palengaan Daya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 691,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118359398784630556589\"\u003eRoyhan Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJkpK_g_q_OSw9nRqigI10yXZMoZ5GtvkDqgcDJn_muTF7jLDoFT9GLpTu3YPKrs537M6KjwHYfXhKgzypNmi-ZXJJXWSPjTM0LR0iM3Srls_098IMMp3LHpAGBBV3EoB50AGewva52G3dt7692ow1YfMBVU4m60Kuf5uihM3kpom5E",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJPbA1CJ3T2S0RBJzV1-vj4F8",
+         "plus_code" : {
+            "compound_code" : "WCRJ+WR Palengaan Dajah, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MWCRJ+WR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJPbA1CJ3T2S0RBJzV1-vj4F8",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Dusun Tareta I, Palengaan Dajah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1774922,
+               "lng" : 113.3196235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.176080569708498,
+                  "lng" : 113.3209761302915
+               },
+               "southwest" : {
+                  "lat" : -7.178778530291503,
+                  "lng" : 113.3182781697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Kubro Madupat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105198119961967199518\"\u003eIyank Jo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKC4bORX-HkgHaWXDDIUstr0bNEDhnq1zDJ4JF3F3A4_PAGjrdHqN9KNLxJqcAxLK38HsRNL91o5OrJ9y_BzxafRoAuYjhSLLYTQuRfN6bw9mOudcMRiJ51QyvusjAc_URQeifpV1feSu7a_-jgJPatQrghdGeq6c6_raNO88tsNIdN",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJu_r94OyA1y0RqrhmOfY1LlA",
+         "plus_code" : {
+            "compound_code" : "R8F9+2R Madupat, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MR8F9+2R"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJu_r94OyA1y0RqrhmOfY1LlA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Guber, Madupat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.967621299999999,
+               "lng" : 113.3951135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.966266869708498,
+                  "lng" : 113.3964852302915
+               },
+               "southwest" : {
+                  "lat" : -6.968964830291503,
+                  "lng" : 113.3937872697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MASJID NURUL MUTTAQIN/BABAN",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111946690816835448187\"\u003eLOOK MONTH\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIvQY1f-yH3uzTtG6zyW2ubJUFNIycqmmXNJeVX9_bhqFsQdI7eE6SF47L2wYKHIl-llzhlAfIaGn9v1WLjJht5gB-J-yORGK0kIrte6v92U5NNcs1GTyXwXgwuojz8bw_PsIKhYYgg2oNMoVEXwGODtBmm8t4AgL38EVV1yirECxgF",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJnRiiDzrN2S0Rt9LFXnLOzN8",
+         "plus_code" : {
+            "compound_code" : "29JW+X2 Tobai Timur, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P5M29JW+X2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnRiiDzrN2S0Rt9LFXnLOzN8",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Jalan Karang Penang - Sokobanah No.66, Glagas, Tobai Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.063299799999999,
+               "lng" : 113.6730326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.062011419708497,
+                  "lng" : 113.6743694302915
+               },
+               "southwest" : {
+                  "lat" : -7.064709380291502,
+                  "lng" : 113.6716714697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Latee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116759414679050303487\"\u003esleeveless night\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwID45lo-X66RB7EtPt1jlGWeV1IwRviv9PkA_wANBcc4IYrvvbGsPEgN0naLZKDx3j5PEnQK6BSjuRA6j-Gf0q6Pmzs0rV04zxzRn8qPJZe-yAaLUNDw98mu0NY_TqWV9kOHDX5Eih4lsvoGVUubA8QeSd-RgsDRo-0RBn8zAfg6a-M",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJm9_xFqze2S0R2MceGFrqdtU",
+         "plus_code" : {
+            "compound_code" : "WMPF+M6 Guluk-guluk, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MWMPF+M6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm9_xFqze2S0R2MceGFrqdtU",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Guluk Guluk Timur I, Guluk-guluk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0120979,
+               "lng" : 113.6469347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.010754669708497,
+                  "lng" : 113.6484954302915
+               },
+               "southwest" : {
+                  "lat" : -7.013452630291501,
+                  "lng" : 113.6457974697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Falah Tana Bungkar",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107301290462940604068\"\u003eRoberto Ozy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK3BkLKCNSkr8uRRQuqqa1RgEQllWgaQhgL_RvWSGvKwZqj9hr0XOddunhjRbIwxb9MYARjh93Y5MpCKhkvLtJOvKFfelsA5vhNcPovQPme6R0T3PzMRzpYGgohslTJND3rUHGk-hsLdzFRq4TlCo5ZSMfWtJpGBSl8gnonxVfMJGBn",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJm9NxxWzb2S0RH-Z3tckwjqA",
+         "plus_code" : {
+            "compound_code" : "XJQW+5Q Bragung, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXJQW+5Q"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJm9NxxWzb2S0RH-Z3tckwjqA",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Prancak, Bragung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.945211,
+               "lng" : 113.5443085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.943931219708499,
+                  "lng" : 113.5456648802915
+               },
+               "southwest" : {
+                  "lat" : -6.946629180291502,
+                  "lng" : 113.5429669197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Ikhlas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1588,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116291054405914656680\"\u003eMF Channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIY1ReTpwpHrlOEELzOgIx7N4L1XT5n2DUjoJgpRxgEQWq1DKNuN9_qKntIO3DDYqvy0vFz2GI-xEPPI5BwtQeHf0rtXVEAxJoYfM4L6X2aAmtG4CBAhM-5wkhuyRPUvuUl2XmzFYDp0VLPkSRmfRw5f5BEvm2GnoPwEA230cCJhkWt",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJc3TzvKDP2S0RfoJguBGBlO8",
+         "plus_code" : {
+            "compound_code" : "3G3V+WP West Waru, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P5M3G3V+WP"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJc3TzvKDP2S0RfoJguBGBlO8",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "Al-ilkhlas Dusun, Tlangi 1, Waru Barat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.195175799999999,
+               "lng" : 113.2434487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.193817769708498,
+                  "lng" : 113.2447076302915
+               },
+               "southwest" : {
+                  "lat" : -7.196515730291503,
+                  "lng" : 113.2420096697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushalla Nurul Iman",
+         "place_id" : "ChIJ22W1zAaH1y0R1Qzg6Kn1Lfo",
+         "plus_code" : {
+            "compound_code" : "R63V+W9 Gunung Sekar, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MR63V+W9"
+         },
+         "reference" : "ChIJ22W1zAaH1y0R1Qzg6Kn1Lfo",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Rajawali, Rawa IX, Gunung Sekar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9378744,
+               "lng" : 113.6271323
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.936591719708498,
+                  "lng" : 113.6284666302915
+               },
+               "southwest" : {
+                  "lat" : -6.939289680291503,
+                  "lng" : 113.6257686697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Pajagungan Atas",
+         "place_id" : "ChIJY9LMfFbE2S0RzptCuU-nKBs",
+         "plus_code" : {
+            "compound_code" : "3J6G+VV East Dempo, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P5M3J6G+VV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJY9LMfFbE2S0RzptCuU-nKBs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Pajekungan Baba, Dempo Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9238135,
+               "lng" : 113.6299178
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.922617669708497,
+                  "lng" : 113.6312525802915
+               },
+               "southwest" : {
+                  "lat" : -6.925315630291502,
+                  "lng" : 113.6285546197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MASJID AL-IHSAN",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116228950878489936320\"\u003eAdey Authoer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJiIPUBLo0Qlb9Wdes14F61kSbIEbeBdOJEfVrh6YJzuSIPNGn1G1fKd7W3YsYg5AxwfnB-9GkG9-ZfKDkAFZk6LWqL5drzhgats-5W8av-7p6vtJq3nzOiu7Esag3YLdPlZoIhp7ppBEeuUitRi343tsIZmj2uZqmFjRDds6CU3wmg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJL52G3UjE2S0RLKszan2IpR0",
+         "plus_code" : {
+            "compound_code" : "3JGH+FX East Dempo, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P5M3JGH+FX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL52G3UjE2S0RLKszan2IpR0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Tim., Pasean, Kabupaten Pamekasan, Jawa, Beringan, Dempo Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2176126,
+               "lng" : 113.7662303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.216306569708498,
+                  "lng" : 113.7675427302915
+               },
+               "southwest" : {
+                  "lat" : -7.219004530291503,
+                  "lng" : 113.7648447697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "DARUL MUTTAQIN",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112550707860663606252\"\u003eAinur Busrut\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ99QNH7qfOy1nX0tRaCMol0qH1K2Yy-Vl-T6wn3-aNusWGgft3O6mVIc2WPgXMGr-G4Axwg_6WzCtY99kFAqD8gpk0ZLysMNx1Mkxok4JpFj6JSmJfAeklO2orNZuIDtQYUaWRsjMDZbUI2sUaGm0F2yeYdHDgA4Qv0hAvdGVxeBuh",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJgb952Phd1y0RCNLGROlJ70A",
+         "plus_code" : {
+            "compound_code" : "QQJ8+XF Banmaleng, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MQQJ8+XF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJgb952Phd1y0RCNLGROlJ70A",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Kamadu, Banmaleng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2158023,
+               "lng" : 113.1827062
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.214383919708498,
+                  "lng" : 113.1841352802915
+               },
+               "southwest" : {
+                  "lat" : -7.217081880291503,
+                  "lng" : 113.1814373197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-falah Cangkarman Timur",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105814047659245686372\"\u003ezean GMC\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImHhNGNjUA5OgbvwEmtfpm_s5SBuk5DbkbmoeLU6lOMBS4JyF5Iyt8qMqF6gJxCie8QkwsMOuocGniwiHQvgiV-lLY3cW3PV-pt-f1O53mH2tEejIg-Fhz6186vjDGvDcqQZ62Si4LHAvLno6POjgTpYZUPUQJNJ0lMH-TmTdk__Da",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJQ3ZT_pqI1y0R0CA4kU1tGLw",
+         "plus_code" : {
+            "compound_code" : "Q5MM+M3 Apaan, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MQ5MM+M3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQ3ZT_pqI1y0R0CA4kU1tGLw",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Apaan Timur, Apaan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1018053,
+               "lng" : 113.7955324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.100413719708497,
+                  "lng" : 113.7968888802915
+               },
+               "southwest" : {
+                  "lat" : -7.103111680291502,
+                  "lng" : 113.7941909197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al- Mukhlisin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112121349095889021214\"\u003eAch Durayak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwICoIn_2IGmUuo8Y9xV5lg19-NUKZnF8PYN4Ij7A5sgV-1ScfkL2JVpM2hfpb-XkfLG8Ypcf7QSy9wSagWWjKqcvf-V0zEmiE9FSj2uhatPweWdjXVdQkAxggTb66QZJyiZPcxqlYYQAKwWpqXyQEPM4bb3FQoiM-oE2pkII9f_T4tV",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJVVVVFTjg2S0RoVQeJ8NN-28",
+         "plus_code" : {
+            "compound_code" : "VQXW+76 Aengbaja Kenek, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MVQXW+76"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJVVVVFTjg2S0RoVQeJ8NN-28",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Desa Aengbaja Kenek, Kampung Dak Batu, Bluto, Aeng Baja Kenek, Aengbaja Kenek"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1934747,
+               "lng" : 113.1621777
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.192103269708497,
+                  "lng" : 113.1634853302915
+               },
+               "southwest" : {
+                  "lat" : -7.194801230291501,
+                  "lng" : 113.1607873697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Pesantren Ar Rahmaniyah Langgar Talon",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116000817743650239617\"\u003eReyhant\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKoHWkt6FOw1xhtl2vLxFnGDQjKnZ1jGqsXDfLVfYdLWdeZk1Tg5ciXK1NEiy1uWhG-TaT-L3CR9UeLVP5z2vHnPK6WJhHA-U2NaoQ0_GvEi17HXJXQsUsu49YdhydSstX2a2sOBOC8OP1a8bzBAKPhEAO70YB0hGp0o3GVaMhbiQ5t",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZ_JEn0SI1y0RGKbNjjAzvA4",
+         "plus_code" : {
+            "compound_code" : "R546+JV Gepitungah, Pangarengan, Kabupaten Sampang, Jawa Timur, Indonesia",
+            "global_code" : "6P4MR546+JV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJZ_JEn0SI1y0RGKbNjjAzvA4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Gepitungah, Gunungah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.007033300000001,
+               "lng" : 113.8312265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.005700619708498,
+                  "lng" : 113.8325193802915
+               },
+               "southwest" : {
+                  "lat" : -7.008398580291503,
+                  "lng" : 113.8298214197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Ash-Shidqiyah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105305728180126452403\"\u003eHaris Muhammad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIz1NBsZ8mXSAg8f9qLvDpUw4CrXodR53UH4ixRqXhoDJW8LqwujDeMh0t58limAhhommArvLO-UJom9lRrNLe_DICuen5e3vXrMdeKcRYqP-FUf8wzs_49VETqYtIc9ujBt9cdUxQ_nHP1YlONlvH3_ZaE0q02prHJpBW9pAaazyt1",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJj1WSBV_m2S0RX66aMVFKhAs",
+         "plus_code" : {
+            "compound_code" : "XRVJ+5F Batuan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXRVJ+5F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJj1WSBV_m2S0RX66aMVFKhAs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Toguluk, Batuan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.051748000000001,
+               "lng" : 113.5123403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.050260769708498,
+                  "lng" : 113.5136544802915
+               },
+               "southwest" : {
+                  "lat" : -7.052958730291502,
+                  "lng" : 113.5109565197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Sumber Barokah Toamangar Bulangan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105841430092221830260\"\u003etm badtrut\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLcLV8FagjUMZAAQ_s0ZV9oyIaRZljagAEVKLfe5ONORizSLZKxA9CmD3AYqEbIq6UHARLPsBbsKw73YQIsUsWpMYBMzX8QH-DTK80d1JCEeaXUK3mHhrKqJxSRURZbz3ITelzUoX2p9lyubGL0kEmv_qiSZ3HGUr_sRiBGGr3atvr9",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJkyUlRDvR2S0RnZu7i_TnoPc",
+         "plus_code" : {
+            "compound_code" : "WGX6+8W East Bulangan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MWGX6+8W"
+         },
+         "reference" : "ChIJkyUlRDvR2S0RnZu7i_TnoPc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Dusun Tengah, Bulangan Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.075307,
+               "lng" : 113.0888871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.073986869708497,
+                  "lng" : 113.0902236302915
+               },
+               "southwest" : {
+                  "lat" : -7.076684830291501,
+                  "lng" : 113.0875256697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Maqom KH. Idham Kholik (Bujuk Belih Begung)",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108185432351501255735\"\u003eBakoel onderdil chanel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2QmVVBhxx2GVLeUkFe6LNQWIBdw4VLZ-pAT56wSKpafpN2BK2Dh_JkN1SoMcBmXzlWDBCJQ8iosrFn0ZNDicX4oMxUsIogGdZWSYprJvZSKGT0YaSZRlx-ntuA6SDobGu0ctFqJFdCqihSJZrGEcHTHoH_BBXQlmkCD-UYi9ph34",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJB80rH_Ej2C0RXmP3QuBKKuk",
+         "plus_code" : {
+            "compound_code" : "W3FQ+VH Bandung, Bangkalan Regency, East Java, Indonesia",
+            "global_code" : "6P4MW3FQ+VH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJB80rH_Ej2C0RXmP3QuBKKuk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Konang, Galisan, Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.014905799999999,
+               "lng" : 113.8645668
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.013638569708498,
+                  "lng" : 113.8658992302915
+               },
+               "southwest" : {
+                  "lat" : -7.016336530291503,
+                  "lng" : 113.8632012697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "PWI Sumenep",
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114713918493861631168\"\u003elimadetik. com\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJL9OWW5eU7tjDaDmOxBaq1Ga7NETklyX8IbukEcS26Jj58WOqeDe8wdrSqbHgnwe7-YVKCgZt6EHpTaTPINEKDY52VXsZP2uhwm7L2m5RVUKelkUpCFBwvFaxE080-jKf3WxvVhp3DoS-dECnHUgE8k2YnE1Aa_MY83sBq1CNQuPNI",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJucN6Ky_k2S0Rm3Sw5_Cs0XM",
+         "plus_code" : {
+            "compound_code" : "XVP7+2R Kolor, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVP7+2R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJucN6Ky_k2S0Rm3Sw5_Cs0XM",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Gudang, Kolor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1943495,
+               "lng" : 113.8956419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.192502119708498,
+                  "lng" : 113.8967526302915
+               },
+               "southwest" : {
+                  "lat" : -7.195200080291503,
+                  "lng" : 113.8940546697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pesantren & YAYASAN BAHRUL ULUM (IKSABA)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108391469358409449108\"\u003emuhammad karim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKeIII2yv7T6CJ36SO72CfH9HlcktL1skHvflCk69FT02HZxR8aq1r4i9ZrKEH6Xx_i2p6JPPMBnngy1jwm8m-bs7gb_1-H0Os_12HCGcFtl1F6Qgh8m-0TRjTEcUGU_mKtT2X55natssBPpPxq8cWoX8MSpLCOrUesrRbDWuCPoFVU",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ1worDXBZ1y0RfXf762QV6Oc",
+         "plus_code" : {
+            "compound_code" : "RV4W+77 Galis, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MRV4W+77"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ1worDXBZ1y0RfXf762QV6Oc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "jl.kh hasan nahrawi daja giligenting, Budan Daja, Galis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.885903199999999,
+               "lng" : 113.8051307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.884548269708498,
+                  "lng" : 113.8064789802915
+               },
+               "southwest" : {
+                  "lat" : -6.887246230291503,
+                  "lng" : 113.8037810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen Perahu Jukong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112393890746253547490\"\u003eErlan Gastandi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLLNd8dNBmfeIlMHKO7hfwc2ZdZtyHcuTAqn6VZ7KoAVSZCAmEBZt7w155GvTSrwXzYwdUUOFRV8Ut11oySeLIAVw2Kg2Wd1uPrd122OdUqACMZ9GiFESiLK_h3jT-XGOP_dl26SSEAedWfHGUQGqJ8-EydyqRzcAlZGGyPW77Yb6ED",
+               "width" : 520
+            }
+         ],
+         "place_id" : "ChIJnXH3ACzq2S0Rf0weXHphBkU",
+         "plus_code" : {
+            "compound_code" : "4R74+J3 West Kerta, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P5M4R74+J3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnXH3ACzq2S0Rf0weXHphBkU",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bar.,, Battangan, Kerta Barat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.161145799999999,
+               "lng" : 113.4825331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159796819708497,
+                  "lng" : 113.4838820802915
+               },
+               "southwest" : {
+                  "lat" : -7.1624947802915,
+                  "lng" : 113.4811841197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Ten Plane Pekaka Statue",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJgT-47ON91y0R4bigIrtx3ug",
+         "plus_code" : {
+            "compound_code" : "RFQM+G2 Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+G2"
+         },
+         "reference" : "ChIJgT-47ON91y0R4bigIrtx3ug",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1604243,
+               "lng" : 113.4816228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159083569708498,
+                  "lng" : 113.4830616302915
+               },
+               "southwest" : {
+                  "lat" : -7.161781530291503,
+                  "lng" : 113.4803636697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Masjid Jami' Pamekasan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100051583095799466248\"\u003eMas Jhoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhdkHiy0TDjsIZer0Mdvd3GTy3_zROtqoGfPXAD89gUUdFI_DZY8gv0xrEfdMU8mEkVEWbY_50Gt4FUTzpuDi8193RWRK1jjP27d-b4HIpo1NPSYG1maCF12Bxq0DovvR27ai39ALXX0FtRu68H8kPZt_SpEAB2TrjSolVskXNJuAU",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJcbhfkON91y0RBl-Qzow888w",
+         "plus_code" : {
+            "compound_code" : "RFQJ+RJ Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQJ+RJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJcbhfkON91y0RBl-Qzow888w",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "Alun-alun, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.153154899999999,
+               "lng" : 113.4844713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.151841969708497,
+                  "lng" : 113.4858526802915
+               },
+               "southwest" : {
+                  "lat" : -7.154539930291501,
+                  "lng" : 113.4831547197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Panembahan ronggosukowati",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110713191806722914405\"\u003eMODE SENYAP Ngar Clangaran87\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJruHxKvEFrA1jrpRVJPOU2YkpZ3qm4CQatLAsZyf9WsZzOrqguUxyDyTojvCZ-eCUOk22JTu_vbbG35mErghgOO7OMHYbG6ttWVEmlrT9ZN7innETwZCCTzXC9FTXqRcCZHI1_k8_wRMAeGGQp9akT9vpOWvvTeGuoKPMpKTEqOs6U",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJE5oD9AZ91y0RS7zykm6iQ_c",
+         "plus_code" : {
+            "compound_code" : "RFWM+PQ Kolpajung, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFWM+PQ"
+         },
+         "reference" : "ChIJE5oD9AZ91y0RS7zykm6iQ_c",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Jalan KH.Agus Salim No.86-74, Kolpajung, Kolpajung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.155730399999999,
+               "lng" : 113.4895259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.154348469708497,
+                  "lng" : 113.4908006802915
+               },
+               "southwest" : {
+                  "lat" : -7.157046430291501,
+                  "lng" : 113.4881027197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pemakaman umum",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117439923506910550394\"\u003eJefri Gunawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKRE9f8hBi9KnhsolfmiiFIG51ysv6Vxbo5UYp8gjfNYWLgRx4pNClBMSIQDdZL5-LvU-EyYuQOtS7pOfiR-zh5Eowii9sBAd2R0GfSHBmouD2BPh0oAjn4vmP7C1GWBy6d98q2HMHxqV3sR-4AMAmO6M_f6zupzvfYgLBRuFBP1y1P",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJGeKXrgl91y0RhOdbXRZlrLg",
+         "plus_code" : {
+            "compound_code" : "RFVQ+PR Lawangan Daya, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFVQ+PR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJGeKXrgl91y0RhOdbXRZlrLg",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Bonorogo No.3, Taman, Lawangan Daya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.158676699999999,
+               "lng" : 113.5113549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.157292969708497,
+                  "lng" : 113.5127051802915
+               },
+               "southwest" : {
+                  "lat" : -7.159990930291501,
+                  "lng" : 113.5100072197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Organisasi",
+         "place_id" : "ChIJ75K1-SV91y0RPf_R80USny0",
+         "plus_code" : {
+            "compound_code" : "RGR6+GG Buddagan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGR6+GG"
+         },
+         "reference" : "ChIJ75K1-SV91y0RPf_R80USny0",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Bulung, Buddagan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.148142699999999,
+               "lng" : 113.5259759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.146763669708498,
+                  "lng" : 113.5273204802915
+               },
+               "southwest" : {
+                  "lat" : -7.149461630291502,
+                  "lng" : 113.5246225197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Alfin Jr",
+         "place_id" : "ChIJi_vxldN91y0RtSd4GMC9kRI",
+         "plus_code" : {
+            "compound_code" : "VG2G+P9 Tobungan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVG2G+P9"
+         },
+         "reference" : "ChIJi_vxldN91y0RtSd4GMC9kRI",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Tana Poteh, Tobungan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1313481,
+               "lng" : 113.5188683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.130012869708499,
+                  "lng" : 113.5202145802915
+               },
+               "southwest" : {
+                  "lat" : -7.132710830291503,
+                  "lng" : 113.5175166197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "kyai zain",
+         "place_id" : "ChIJQ10lW4jX2S0RMJ9OfN5KoS0",
+         "plus_code" : {
+            "compound_code" : "VG99+FG Peltong, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVG99+FG"
+         },
+         "rating" : 1,
+         "reference" : "ChIJQ10lW4jX2S0RMJ9OfN5KoS0",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "jl.raya blumbungan, desa, Dusun Barat Lorong, Peltong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1107037,
+               "lng" : 113.4846587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.109419369708498,
+                  "lng" : 113.4859979802915
+               },
+               "southwest" : {
+                  "lat" : -7.112117330291502,
+                  "lng" : 113.4833000197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pesarèan Pujuk Sarèh",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107192577380402713575\"\u003eNoris Black Sweet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIGOVLk52cnspsmC1oX_qcrlOGhRO9BkXP9ztNuPFKuvJr_bQkTZ14tbVBO313-FWJ10OmKPFJw9d4-LEHgD0aPoWwJARSp-bYEONm-WXPZd2lrHynH5gtxK3hIapAp5-5kJwPTBUrjyU2aIeWrYYSpnrrnZaMr7lLWSPuKIHYvB913",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJNepvKoHX2S0RJ67Rel6Euqk",
+         "plus_code" : {
+            "compound_code" : "VFQM+PV Plakpak, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFQM+PV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJNepvKoHX2S0RJ67Rel6Euqk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Unnamed Road, Tacempah, Tacempah, Plakpak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.139808500000001,
+               "lng" : 113.5336389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.138416669708498,
+                  "lng" : 113.5349960802915
+               },
+               "southwest" : {
+                  "lat" : -7.141114630291503,
+                  "lng" : 113.5322981197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Asta KH Mansyur Munir (PP AL-MUNIRI)",
+         "photos" : [
+            {
+               "height" : 1040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104112259428777724611\"\u003eDidin Borneo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJvrLfRKzT9_4Nz_LakJ85qzLUmiOwMOaQHkL80Oixb2bLg8UVzyNvcqMC14tnNjd5tbTWNJnT5x-WAwwq8ybFoMnF2W6H1lixh71pJN6v1ns5LKI3gzumiuKoOk2SK1QcflSvhBa5-TJJfcXj9FQnHfcgdPM1Q_vNAt3pdLymoo4pm",
+               "width" : 585
+            }
+         ],
+         "place_id" : "ChIJRT4E5HzX2S0RoikCjPA7Hss",
+         "plus_code" : {
+            "compound_code" : "VG6M+3F East Tentenan, Surabaya City, East Java, Indonesia",
+            "global_code" : "6P4MVG6M+3F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRT4E5HzX2S0RoikCjPA7Hss",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Kosaba, Tentenan Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2162548,
+               "lng" : 113.469731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.214936619708498,
+                  "lng" : 113.4710738302915
+               },
+               "southwest" : {
+                  "lat" : -7.217634580291501,
+                  "lng" : 113.4683758697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Rumah Ghozi Mujtaba",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJi3ERuqV-1y0R94rs8Rzq8Hc",
+         "plus_code" : {
+            "compound_code" : "QFM9+FV Larangan Tokol, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQFM9+FV"
+         },
+         "reference" : "ChIJi3ERuqV-1y0R94rs8Rzq8Hc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Langgar Kothas Sumberanyar, Sumberanyar, Larangan Tokol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.216246099999999,
+               "lng" : 113.4696869
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.214927519708495,
+                  "lng" : 113.4710275802915
+               },
+               "southwest" : {
+                  "lat" : -7.2176254802915,
+                  "lng" : 113.4683296197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Padepokan Raden Umro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107315796989215166054\"\u003eRosyid 394\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQhcWDSxeGPqPrjvM42WNDAnLtwvjp2ITkrMbVcWQzSIbhieKSSeg1eE_uhMvlmOs6jWaUACK-D25mttvLKnETCjq2wKhKqCYbthJmaAKH6zGFKQfp9f7JlmV0l-l-rmgG8ZcW9u9V-A3mE2eOd7Br6WnY6EqLAMmGOZxh0agJGp_z",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJQ_1bEel_1y0Rpzx6OERh_mY",
+         "plus_code" : {
+            "compound_code" : "QFM9+GV Larangan Tokol, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQFM9+GV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQ_1bEel_1y0Rpzx6OERh_mY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Sumber Anyar, Sumberanyar, Larangan Tokol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1681029,
+               "lng" : 113.419304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.166747419708498,
+                  "lng" : 113.4206566802915
+               },
+               "southwest" : {
+                  "lat" : -7.169445380291503,
+                  "lng" : 113.4179587197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Langghar Taképék",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117980670912455544202\"\u003eDullatëp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhFZsbf83zcRjvJV_dsoZN1x5SLG2V4r0Cupp29-F5eFUBpLyWDvWA02sj1LCgDSLWy_NeB44msaFbmo8q4vEac4twduUYbxTXsg8RiGiOE2fasSZe8BfU_iruQ3Srw5fhx6JQlGRwewGlVcLp0GRi5DwgGIdDepRH4C6S0xZaRkeG",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJC493Art_1y0RzfIMb2hm9wc",
+         "plus_code" : {
+            "compound_code" : "RCJ9+QP Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCJ9+QP"
+         },
+         "reference" : "ChIJC493Art_1y0RzfIMb2hm9wc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Unnamed Road, Relubeng, Toket"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1680272,
+               "lng" : 113.4192165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.166691219708499,
+                  "lng" : 113.4205579802915
+               },
+               "southwest" : {
+                  "lat" : -7.169389180291503,
+                  "lng" : 113.4178600197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Musolla Bujuk Aji",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112297144202574864470\"\u003eJunaidi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKHLNgxh4SVGcXgVYwTMDKBV8VPxYLOFBghV8Gg_Kib6RPtAjnp_1t7Tn7a1FXVjqzNXi72emmN9wNKeAxA3AhDbgYv5YEBg_p7BX_WK8zr9aoQYCewNCFbWnGSMvR45aQlbj2dmbxuV71habXkf83ci6-NSMD86t1BuXDJHB-o9MU9",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJfdXdi8h_1y0RnO7GUt5wlIg",
+         "plus_code" : {
+            "compound_code" : "RCJ9+QM Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCJ9+QM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfdXdi8h_1y0RnO7GUt5wlIg",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "Relubeng, Toket"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.132085299999998,
+               "lng" : 113.5427034
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.130574719708497,
+                  "lng" : 113.5440647302915
+               },
+               "southwest" : {
+                  "lat" : -7.133272680291501,
+                  "lng" : 113.5413667697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "BENGKEL MOTOR ANOM AMIR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107020644830251792935\"\u003eCinta Damai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLgRFl_Ap2AM1iotCYyywTNTCjflJRJZzCED2XHfQHRY4-Xwt1m2XipEwRgX2jRnWrtzT2COb8YT5UBo7prXjjlPQ0RMG5NijpdJNPBRQ6CyKLfI_yRgHzvX_adOC14PtSQOcE6YwpyWzWISUA8V7PqIVaCuoVeQtEcUEcQJMKJWN37",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJczavb4XX2S0RV0ujAVgLXEc",
+         "plus_code" : {
+            "compound_code" : "VG9V+53 Pagendingan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVG9V+53"
+         },
+         "reference" : "ChIJczavb4XX2S0RV0ujAVgLXEc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Masjid, Pagendingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2182885,
+               "lng" : 113.5198782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.216896069708497,
+                  "lng" : 113.5211305302915
+               },
+               "southwest" : {
+                  "lat" : -7.219594030291502,
+                  "lng" : 113.5184325697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Makam Astah Kiai Toroi",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104002623610719201680\"\u003eAyu Yusril\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLDz-Hr35mi7uEYXjT9r53BYD_9QW2epRbxiX0c1_xnynSp2Wp-V2ss5a4zIrEvCCxG-Tjybiack_E8dLMLTGlKdb30aQJJyn25oJesobfhKw7Tq2_qelTF59ulWdhBV8iYlkuD0tju7FOU6BzmFVPJcR4Z0wy9wudORC5kHp0LZfvB",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJLcgPe3x81y0Ran9BZHRtUVE",
+         "plus_code" : {
+            "compound_code" : "QGJ9+MX Majungan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQGJ9+MX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJLcgPe3x81y0Ran9BZHRtUVE",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Malangan, Majungan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.931691799999999,
+               "lng" : 113.6308921
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.930521019708498,
+                  "lng" : 113.6323612802915
+               },
+               "southwest" : {
+                  "lat" : -6.933218980291502,
+                  "lng" : 113.6296633197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pajagungan Baba",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116228950878489936320\"\u003eAdey Authoer\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJCkG3pV94NP8dqWcHOEZJfHx3OAbpbT6NbsGUA1cS1UkUHtuxTPhedFaSFLpOA8L_M-6em7yiGJZ4EOrc3fUZMqqSFT_kHo8aQ0btC_Aqa7A3gBPBQGrVXsp8mDY0SAgZpiWo99sna0GfdZ3isuOrWZIy23BVARrJ4dCN9NrqjTubT",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJZ0cmaFDE2S0R_-IwOvKguu4",
+         "plus_code" : {
+            "compound_code" : "3J9J+89 East Dempo, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P5M3J9J+89"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZ0cmaFDE2S0R_-IwOvKguu4",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Krajan, Dempo Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0077317,
+               "lng" : 113.7999785
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.006074119708497,
+                  "lng" : 113.8013270802915
+               },
+               "southwest" : {
+                  "lat" : -7.008772080291502,
+                  "lng" : 113.7986291197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Boekit Tinggi Daramista",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 479,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115140186196141503436\"\u003eBoekit Tinggi Daramista\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPuG7Fcp255G_j-kgpdoBTZ_wpBMKW9fHf_QVa33JJ956Wv1kRbODIc2k3DmAsh2Iq9zoWnlaDyxOgYqQBku8_5cTle3DSlM91A9nneOk9w50EgVqCai4G5nBZ0fS7YZPFcRzNYsc3lSXu4Cd_xncFh-3cXtDj3d5sS5aGucVNojsx",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJZYWeZQXn2S0Rhiyu7tvQTEE",
+         "plus_code" : {
+            "compound_code" : "XQRX+WX Daramesta, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXQRX+WX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJZYWeZQXn2S0Rhiyu7tvQTEE",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 923,
+         "vicinity" : "Billa Tompok, Daramesta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.008057399999999,
+               "lng" : 113.8589938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.006727369708497,
+                  "lng" : 113.8604898302915
+               },
+               "southwest" : {
+                  "lat" : -7.009425330291502,
+                  "lng" : 113.8577918697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Great Mosque of Sumenep",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102036154050902442968\"\u003eDoyan Dolan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLuHFkNLfiKzWrDCiEllim6MGhtJkJDMLMSBSHibQeZtRmRcXKF4XPnmtlSBWjS-UM-D3YZlShYmi0Vlq5cHL-oenIp5cimsRXxJYM3JCLtNAYY-eYjOsZIPIck1iJ0VqL_feG-IdUSDzpwRE19rNMiC8qUrFFyjJTiIgAUWy51MTeU",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJE23DqCrk2S0RdotOfCtcmjU",
+         "plus_code" : {
+            "compound_code" : "XVR5+QH Bangselok, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVR5+QH"
+         },
+         "reference" : "ChIJE23DqCrk2S0RdotOfCtcmjU",
+         "scope" : "GOOGLE",
+         "types" : [ "religi"],
+         "vicinity" : "Utara masjid agung, Dalem Anyar, Bangselok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9937607,
+               "lng" : 113.8641849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.992463719708498,
+                  "lng" : 113.8656216302915
+               },
+               "southwest" : {
+                  "lat" : -6.995161680291503,
+                  "lng" : 113.8629236697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wisata Goa Putih",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112526243754540525812\"\u003eAang Kohang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIT6iT26ZjoyaWm_q8IyTUm4v7Bg6CfjhbOjByDaG1Ic2ZmztOwAl_Jc_CrXvbKkWB56l_Zv3QhAhIVBQHLmi8o0POpNvuZv6Ma0R4jxU5VJywsOzfxoSzZ2yuHy9P3xhktMTkHndvBfP2ZKEX1SlTW5T1h0aHuDgBut_VrhsT_dyBY",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJLzhuYdnl2S0RBSVVJMcKzPY",
+         "plus_code" : {
+            "compound_code" : "2V47+FM Pamolokan, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P5M2V47+FM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJLzhuYdnl2S0RBSVVJMcKzPY",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Saluran Air, Pamolokan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.160597500000001,
+               "lng" : 113.4826549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.15894205,
+                  "lng" : 113.4842764
+               },
+               "southwest" : {
+                  "lat" : -7.16214065,
+                  "lng" : 113.480974
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Alun Alun Pamekasan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104507801618205005912\"\u003eNjur Mataram\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIwFlQkMIb8mRXQQdjEsn5NS9oimz3Tj5BtTWHnORaNLW7Tk-ofdRBeiZ3GTAmaskPfuV2SC4mfckBJ-z7ZXODAoGmriiVfbosfg1fg9-EgCvMVgsw6k7K1xeaKUhVDsyoDxd9E0-krBRujTAsbPL_pwCUNpirKF0t_SIvHjV2h2cSn",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJryLykON91y0RATxakMwFKrA",
+         "plus_code" : {
+            "compound_code" : "RFQM+Q3 Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+Q3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJryLykON91y0RATxakMwFKrA",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 6925,
+         "vicinity" : "Jalan Mesigit, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.160205699999999,
+               "lng" : 113.4825813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.158856719708496,
+                  "lng" : 113.4839302802915
+               },
+               "southwest" : {
+                  "lat" : -7.1615546802915,
+                  "lng" : 113.4812323197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Museum Mandhilaras Kabupaten Pamekasan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104733377872766962498\"\u003eDodi Andi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKKqUR26uHZ2mg2VSstIEC6F6wVRt8Y9Xjz8mVPgnq7ouxw6wTAzE76x34fdSTH7IUqC-dmU4h2zg1IX4ayiOvyXF-gugSVbDhH-07SLtYHEZsPLEGGiEKgdXt67Mi1DmHXaQfD_e7GciyBPFx8rMXMm5va1CmsGnAdzcknIm1L1Yza",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJN2uQm-N91y0RKMTpYdWzrwM",
+         "plus_code" : {
+            "compound_code" : "RFQM+W2 Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+W2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJN2uQm-N91y0RKMTpYdWzrwM",
+         "scope" : "GOOGLE",
+         "types" : [ "budaya", "sejarah" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Jalan Cokroatmojo No.1, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1519773,
+               "lng" : 113.481776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.150768169708497,
+                  "lng" : 113.4830933302915
+               },
+               "southwest" : {
+                  "lat" : -7.153466130291501,
+                  "lng" : 113.4803953697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Gladak Anyar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115577358989089191292\"\u003eRayant 040913\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIHONRBdGoU470e8L0DBpvRzcMv1kUQO8jaB7AlkHKTJhi1IhPGTcoHudN5flbPjb4X_xnX7ou5QhMxHuF4bniFCPK9OUNofB_9869Vs6KJjqLlfXo2nLHFDp8Gl0SR3--Wbg6zwbwDvDtxHgV1_kyPK441ARL9rjpeJaiqSxhs7ai1",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJ5RZsmf591y0RVXngxRTfkLI",
+         "plus_code" : {
+            "compound_code" : "RFXJ+6P Gladak Anyar, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFXJ+6P"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ5RZsmf591y0RVXngxRTfkLI",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 494,
+         "vicinity" : "Jalan Sersan Mesrul, Gladak Anyar, Gladak Anyar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1489345,
+               "lng" : 113.4989418
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.147766619708499,
+                  "lng" : 113.5001695802915
+               },
+               "southwest" : {
+                  "lat" : -7.150464580291502,
+                  "lng" : 113.4974716197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bukit Cinta Pamekasan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104409304656865030460\"\u003eFaisol Munif\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJmMMm_XfMIb1ipGYxBbNPLVgQnh-c1lPzyzS39aqVj-JuPfHHqSbE4QJbxi45p5j1xVfupskAHmJg1lnFemAUld2rgqIXn8RLLb4Vi49qbm1CJ9WJnwUjVd9p9JGGac1YB7Mj11WdCpGnM2l2ZQyOXZxhGsqQqr2yl3YZJLvJlFKZX",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJleZh7_R91y0ROJXRHoP7DhM",
+         "plus_code" : {
+            "compound_code" : "VF2X+CH Sentol, Pamekasan Regency, Gorontalo, Indonesia",
+            "global_code" : "6P4MVF2X+CH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJleZh7_R91y0ROJXRHoP7DhM",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 763,
+         "vicinity" : "Barat Satu, Sentol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.167452699999998,
+               "lng" : 113.5057013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.166170519708496,
+                  "lng" : 113.5069983302915
+               },
+               "southwest" : {
+                  "lat" : -7.168868480291501,
+                  "lng" : 113.5043003697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wisata Terpadu Bhurunan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112096348922304640767\"\u003e22_Nurul J_A\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLb-VxX4bfxiAjbwaltU3J9j5Yy8pRvSheD2-rqUN3jCUi0qCwgYqCpLUE_73r8SBSRxMp41dAlERKxhL9FCYziZCxZ7vUIQGH4Jw-7eG7wyuIw8yC7CEQbBiUzweLMYDUqtuQIObkMDSkmzNotVrprWXJrpnCaCKFgqA5pKYDBbIFz",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJp8My0AF91y0RO3HUC-r412s",
+         "plus_code" : {
+            "compound_code" : "RGM4+27 Murtajih, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGM4+27"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJp8My0AF91y0RO3HUC-r412s",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Murtajih, Murtajih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.165901700000001,
+               "lng" : 113.506316
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.164639169708498,
+                  "lng" : 113.5079615302915
+               },
+               "southwest" : {
+                  "lat" : -7.167337130291503,
+                  "lng" : 113.5052635697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Waduk Ds. Murtajih",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112096348922304640767\"\u003e22_Nurul J_A\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIHem4m4z9-KDMk-IKSaVVvRakhip9TxH1V8j2YqSo0NUpVkvSeEoRn6izKnX3tN62OrkJPKqAZl4hfC5x0H8HoOoIligUBgvZ7omRp7jyBQaoi1kOL5AimPzHVYSYdE_BUBbQk4Y8ESodCwsaW3dvU5zt2bk2QeHT2Tr7sc7gF_YbS",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJi1yJu7191y0RDtOeMM2kBhk",
+         "plus_code" : {
+            "compound_code" : "RGM4+JG Murtajih, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGM4+JG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJi1yJu7191y0RDtOeMM2kBhk",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Balai Desa Murtajih, Murtajih, Murtajih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.123741899999999,
+               "lng" : 113.4646551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.122319969708498,
+                  "lng" : 113.4659625802915
+               },
+               "southwest" : {
+                  "lat" : -7.125017930291501,
+                  "lng" : 113.4632646197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pondok Kenari Madura",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117672696571145925649\"\u003eJaya KJM\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJaYmAunqiCyXB44y9VhA5R5VkooNwJRycwupd4BLM87jo6E08Y78OLGYkP2xlIV2FRaNCoMQiMIkG6APk1y8EdNaKWfsZwswmR8y7Z2QsLwm84D6guNbUDo7pXYPnb7kwuGqNBhnof9hVI3Uu87-s5dIQ3aLCCxgFk9zVvUih_1twQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJu8BzBGLV2S0RbFIbeCAoamg",
+         "plus_code" : {
+            "compound_code" : "VFG7+GV Klampar, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFG7+GV"
+         },
+         "reference" : "ChIJu8BzBGLV2S0RbFIbeCAoamg",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "vicinity" : "Dusun Mor Songay, Dusun Karang, Klampar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1192829,
+               "lng" : 113.474923
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.117905369708498,
+                  "lng" : 113.4763669802915
+               },
+               "southwest" : {
+                  "lat" : -7.120603330291503,
+                  "lng" : 113.4736690197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AGEN TIKET Tour & Travel Raden Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJP1wxFOvV2S0RBf7Kr5GDkDI",
+         "plus_code" : {
+            "compound_code" : "VFJF+7X Larangan Badung, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFJF+7X"
+         },
+         "reference" : "ChIJP1wxFOvV2S0RBf7Kr5GDkDI",
+         "scope" : "GOOGLE",
+         "types" : [ "" ],
+         "vicinity" : "Jalan Raya Palenga'an Larangan Badung, Dusun Gunung I, Larangan Badung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2027887,
+               "lng" : 113.4635336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.201480069708499,
+                  "lng" : 113.4649456802915
+               },
+               "southwest" : {
+                  "lat" : -7.204178030291503,
+                  "lng" : 113.4622477197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Api Tak Kunjung Padam 2",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116506805377839355859\"\u003eAbdur Rouf\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK0Rwpj4tX_ddYZVhuWVFu4C950i9_JOQ5R8TapKyUiJXmGPcN_U1PMxSV728z0LvychZiv5-UsKZAFHX6NrfENnVvz9Y3719w5qnyuKZtzTrv2iDuj13FROeXMMjdPfZTiqpNpdEVp3js0GgXpqis5nEZd9gYdp9Bhz6AqM9JMgs8F",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJB8L2z5B-1y0RkNMPYBhxzmA",
+         "plus_code" : {
+            "compound_code" : "QFW7+VC Larangan Tokol, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQFW7+VC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJB8L2z5B-1y0RkNMPYBhxzmA",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 76,
+         "vicinity" : "Asemanis Satu, Larangan Tokol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2049631,
+               "lng" : 113.4610187
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.203600919708498,
+                  "lng" : 113.4623699802915
+               },
+               "southwest" : {
+                  "lat" : -7.206298880291502,
+                  "lng" : 113.4596720197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wisata Api Abadi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100592076004397045282\"\u003eSAEROJI BAGUS\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJKJDCPD7I88hcTP-fSUBvlOLE24tFc_kJcZ7s37DiR3KKmIneNzNzVzp3-QD96Jt5DuCtyf_LVx9sqSkuKqU6nIdZTV1qLlgleDPauPR19-f2vJcj1q0rafWIe8v-ztpZRNtstZ92Ms2s56sUPHHkiVOZDcNot6tiYb7QsVjc47zOu",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJTX5RlJZ-1y0R5WUOTx_CvNo",
+         "plus_code" : {
+            "compound_code" : "QFW6+2C Larangan Tokol, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQFW6+2C"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJTX5RlJZ-1y0R5WUOTx_CvNo",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 1449,
+         "vicinity" : "Asemanis Satu, Larangan Tokol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1110826,
+               "lng" : 113.5032229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.109657419708499,
+                  "lng" : 113.5045561302915
+               },
+               "southwest" : {
+                  "lat" : -7.112355380291502,
+                  "lng" : 113.5018581697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Toron Samalem",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104404714727171960171\"\u003eAprianto Zulkarnain\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI58p0dmtAsNfEO3k3kLr1rNBogDskPF0lO9-l1Vv_LHGYBAuFSBEgRgEoDfxnwyAyLnvYU76ZpP5Nt6ayato9uexZyt_nHaSY3dxZ35Jy4AO7cNndu-gKKUZ_QBtzu_Xg9x3yMRAFpo0dOl9QpuCwIzxbcAmSt-3WWMXOjwgV8KEV6",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJm9QzdF7W2S0RYN0YUDTZeYk",
+         "plus_code" : {
+            "compound_code" : "VGQ3+H7 Blumbungan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVGQ3+H7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJm9QzdF7W2S0RYN0YUDTZeYk",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 660,
+         "vicinity" : "Kampoeng Toron Samalem, Tambak, Blumbungan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1800516,
+               "lng" : 113.5342373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.178684219708497,
+                  "lng" : 113.5355843302915
+               },
+               "southwest" : {
+                  "lat" : -7.181382180291502,
+                  "lng" : 113.5328863697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Lapangan Free Fly Pamekasan Parrot Lovers",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107787510497986694596\"\u003eFajaresa Kusfriantono\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ66k9nbxKRWzgAOXyy4lX9bpVkUIztScxFTHBoCnrcQ9sVZbey8L-dKslipVdnF3v6y16Gww46jeqBFRq9McAODV_iSVFIlXctT9SCLRtqaJCvjCLg89t5YTXEykAMpcV1Up4bWXwzbQOZYVPnfeHiOSsDyxIc1Wj2fhoexsXDYAtV",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ9aoVewp91y0RS967FrlPrvQ",
+         "plus_code" : {
+            "compound_code" : "RG9M+XM Bunder, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRG9M+XM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ9aoVewp91y0RS967FrlPrvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Bunder Timur, Bunder"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.110697699999999,
+               "lng" : 113.5034318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.109378469708497,
+                  "lng" : 113.5047614302915
+               },
+               "southwest" : {
+                  "lat" : -7.112076430291502,
+                  "lng" : 113.5020634697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Kampoeng Toron Samalem",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4144,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106501330012194319284\"\u003ededy bendot\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKHZ1_xl4O8JRzRcBPiAwrNA4WpdhJuFXWpDJroFVaXaTCnmf88k0zTMVAdvyjkG2SOdshvcOGAhdm6M85x_ARlUtvYgePzFrc0TYzgVeL0_iRsSz0HZy6OFFTGOG2VciM00yi7bRFHljBkucG3_B8cFw_PWoWhNRDG50s-RgZfobqN",
+               "width" : 5520
+            }
+         ],
+         "place_id" : "ChIJZdtNjSvX2S0Rk8B4-nlcAHA",
+         "plus_code" : {
+            "compound_code" : "VGQ3+P9 Blumbungan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVGQ3+P9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZdtNjSvX2S0Rk8B4-nlcAHA",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 81,
+         "vicinity" : "Toron Samalem, Blumbungan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1796487,
+               "lng" : 113.5381396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.178334069708496,
+                  "lng" : 113.5394758802915
+               },
+               "southwest" : {
+                  "lat" : -7.181032030291501,
+                  "lng" : 113.5367779197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Eduwisata Garam Madura",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101694031487727373147\"\u003eadi irawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwva8ZsVFfwZxDtcj3zqjsacVXtJoN7fwMBS-7ZfuWulMCX5h5cBGPlx4NZoWt33pwDd1G0rm76C1FKmiV_Jhbaa7iBiDGyjPauySblmP7p_n-Fr_aoIevm0iQDZ7yJDKusfh7JfNhBQD5R9jdy3Hf_xudvlqbcSqO2PcBTlW_gmWs",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJb-oZqMt91y0RC9haZadb0yk",
+         "plus_code" : {
+            "compound_code" : "RGCQ+47 Pandan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGCQ+47"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJb-oZqMt91y0RC9haZadb0yk",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Area Tambak, Pandan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.102535599999999,
+               "lng" : 113.4904516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.101269969708497,
+                  "lng" : 113.4919978302915
+               },
+               "southwest" : {
+                  "lat" : -7.103967930291501,
+                  "lng" : 113.4892998697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sumur Api",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117031932181330288833\"\u003eASJ Production\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI1GwBlqQPHuVyfewpwULNEaMYhlWF5Cy9BCbPcVcSgjy8obdbrD7FGweWd1NALKqy5JUbvGOtKFqv5UnGqL6jV6XBDmZAPlbcVfsC10UMX1SP_zGreMALisNzw1kP2EC1FM_bNwP-950Ux7gD_g45zPxaqgy7nR8V_-AYTg1mLHUcp",
+               "width" : 607
+            }
+         ],
+         "place_id" : "ChIJGUlA2-HX2S0RMOCtR0heBsY",
+         "plus_code" : {
+            "compound_code" : "VFWR+X5 Plakpak, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFWR+X5"
+         },
+         "rating" : 3,
+         "reference" : "ChIJGUlA2-HX2S0RMOCtR0heBsY",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Unnamed Road, Sabe Laok, Plakpak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.170517800000001,
+               "lng" : 113.421425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.169138819708497,
+                  "lng" : 113.4227651302915
+               },
+               "southwest" : {
+                  "lat" : -7.171836780291502,
+                  "lng" : 113.4200671697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "zaki malaysia",
+         "place_id" : "ChIJk7BU5dt_1y0RHPCHFOpSU9c",
+         "plus_code" : {
+            "compound_code" : "RCHC+QH Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCHC+QH"
+         },
+         "reference" : "ChIJk7BU5dt_1y0RHPCHFOpSU9c",
+         "scope" : "GOOGLE",
+         "types" : [ "cagar_alam" ],
+         "vicinity" : "Relubeng, Toket"
+      }
+
+   ],
+   "status" : "OK"
+}
+
+

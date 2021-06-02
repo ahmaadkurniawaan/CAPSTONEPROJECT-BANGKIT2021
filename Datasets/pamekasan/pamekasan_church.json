@@ -1,0 +1,426 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1608906,
+               "lng" : 113.483729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159451269708497,
+                  "lng" : 113.4850906802915
+               },
+               "southwest" : {
+                  "lat" : -7.162149230291502,
+                  "lng" : 113.4823927197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katholik Maria Ratu Para Rasul",
+         "photos" : [
+            {
+               "height" : 684,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112489915719797657960\"\u003eNew Crusader\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK5Ol_uyZMSIMWP3vnf1lvk1kGq8eNChKrODOCCzVzrbGvMaTcrPLurqRWFW8dcZFmAtSxM7p_Zd-dDad7CA_98jZMDBC8rLLRvUTtSsQ3YgKeMdXtHsX5WFlJAsCdcq2XBiqAS1yZ5DEHkIreV3i_wagyThBEknFSf-VcXMw5LS3cB",
+               "width" : 1025
+            }
+         ],
+         "place_id" : "ChIJt_DUuOV91y0RegFp_XkXECs",
+         "plus_code" : {
+            "compound_code" : "RFQM+JF Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+JF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJt_DUuOV91y0RegFp_XkXECs",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "JL. Joko Tole, No. 2, Barurambat, 69313, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1621892,
+               "lng" : 113.484709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.160893619708497,
+                  "lng" : 113.4860584802915
+               },
+               "southwest" : {
+                  "lat" : -7.163591580291501,
+                  "lng" : 113.4833605197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Sidang Persekutuan Injili Indonesia",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106192352995661827844\"\u003eyenny nita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIaiVMBgahedjEfo2XpIZc5jVLIkMuI5_0LZ0o91uVJDdiSyOgcVMljvEwIGFnRY-jEP7VmcekqMFg_DfOxRYoZ6ZHPEVi_Vg2fCEcnK1tgEHPJnMcVYJZr8M_aMRdhK_OrYkCIX-AqYwJzy1KkzGCZ0bYFCLrsElcczIAqweFOatWV",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ8eWEn-Z91y0RdHqQhoAGG40",
+         "plus_code" : {
+            "compound_code" : "RFQM+4V Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+4V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8eWEn-Z91y0RdHqQhoAGG40",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "JL. Kamboja 24, Barurambat, Pamekasan, 69313, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.163531000000001,
+               "lng" : 113.4860615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.162169219708498,
+                  "lng" : 113.4873521802915
+               },
+               "southwest" : {
+                  "lat" : -7.164867180291503,
+                  "lng" : 113.4846542197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI SOLA GRACIA",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104747941602181559828\"\u003eharry astrianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJIkfy_2a0NPbZbyJBWZ6RUhN5bBVDqXHIyG_LuLZQ0Om4Wvv7vQ6RU3HJkdfj2rlj9Fi87xUQr9TI9IEddS8C1_Q0F5h1WDOfz_beAGVGtRPbPH4TqFm8orKpZ4Qw9IjKSAjL27dtFYIA14KrC9kINzJx8SoTVY_m4BiMuAYMSS2Sr",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZ74w5eZ91y0RxIujHcctPeY",
+         "plus_code" : {
+            "compound_code" : "RFPP+HC Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFPP+HC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZ74w5eZ91y0RxIujHcctPeY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Jingga No.3, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1657621,
+               "lng" : 113.482518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.164406619708497,
+                  "lng" : 113.4839690802915
+               },
+               "southwest" : {
+                  "lat" : -7.167104580291502,
+                  "lng" : 113.4812711197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPPS SHALOM pamekasan",
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105316759461633534285\"\u003eJiddralta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIcBDv_ZbKdWh7ulFC67b0zzFhMG6C96nbxgxNE8Sd7EPiOt-6v8VboSyhg1n8NokZkp9Oz-8jeARKnJm6OHq0-UpFbeqkmcWkKjQ7DFe-x_chn6qJ-fg1aezl34JIj-XBbOH8G-lI6zVbOOIXiL4kY6-YaOPbfGxaI4fa_ORHs7Ng",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJpXgZxOB91y0RA0qqpEPdqgY",
+         "plus_code" : {
+            "compound_code" : "RFMM+M2 Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFMM+M2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJpXgZxOB91y0RA0qqpEPdqgY",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Barurambat Kota, Kecamatan Pamekasan, Rawa 01, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.166064200000001,
+               "lng" : 113.4816919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.164673169708498,
+                  "lng" : 113.4828831302915
+               },
+               "southwest" : {
+                  "lat" : -7.167371130291502,
+                  "lng" : 113.4801851697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bethel Apostolik Dan Profetin Jemaat Bunga Bakung",
+         "place_id" : "ChIJh2FG7OB91y0RG-dOPX0VbtQ",
+         "plus_code" : {
+            "compound_code" : "RFMJ+HM Patemon, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFMJ+HM"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJh2FG7OB91y0RG-dOPX0VbtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Trunojoyo No.85, Patemon, Patemon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.161148799999999,
+               "lng" : 113.4885114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159839919708496,
+                  "lng" : 113.4898539802915
+               },
+               "southwest" : {
+                  "lat" : -7.1625378802915,
+                  "lng" : 113.4871560197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB Mahkota Hayat",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109740456351134394539\"\u003eSiswanto Pabidang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIayf2RCdL5ZY51IOBrQOAFmjFKwL8YYU_lmlgexRZ46XOYc3b3xDiKDgC79fy30_HOOQWvLpo_UgxR-2PCfO-L9OpxbuNghd2HQE1c1IPVdTg38gMnFIo2_0lrmVJckPHwAsGy6Eg5q4kBik1WbaPxgwWImZKvLcIad8pB5uTSefu4",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfbuW7uV91y0Ro6ztCEq4GV0",
+         "plus_code" : {
+            "compound_code" : "RFQQ+GC Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQQ+GC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJfbuW7uV91y0Ro6ztCEq4GV0",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Rawa 05, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1611904,
+               "lng" : 113.4889888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159899469708497,
+                  "lng" : 113.4903277802915
+               },
+               "southwest" : {
+                  "lat" : -7.162597430291502,
+                  "lng" : 113.4876298197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Mahkota Hayat",
+         "place_id" : "ChIJ6WWiBOZ91y0R_XyyY4UJ-Bg",
+         "plus_code" : {
+            "compound_code" : "RFQQ+GH East Barurambat, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQQ+GH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6WWiBOZ91y0R_XyyY4UJ-Bg",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Jokotole No.203, Rawa 05, Barurambat Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1912824,
+               "lng" : 113.2491469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.189933419708497,
+                  "lng" : 113.2504958802915
+               },
+               "southwest" : {
+                  "lat" : -7.192631380291502,
+                  "lng" : 113.2477979197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Sampang",
+         "place_id" : "ChIJ89hmEgWH1y0RTWesTq5cSt4",
+         "plus_code" : {
+            "compound_code" : "R65X+FM Dalpenang, Sampang Regency, East Java, Indonesia",
+            "global_code" : "6P4MR65X+FM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ89hmEgWH1y0RTWesTq5cSt4",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Rawa IV, Dalpenang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0162469,
+               "lng" : 113.8574264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.014968719708497,
+                  "lng" : 113.8590408802915
+               },
+               "southwest" : {
+                  "lat" : -7.017666680291502,
+                  "lng" : 113.8563429197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Kapel Santo Yusuf",
+         "place_id" : "ChIJN2U8kKLn2S0REXB4ir19zYE",
+         "plus_code" : {
+            "compound_code" : "XVM4+GX Kolor, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVM4+GX"
+         },
+         "reference" : "ChIJN2U8kKLn2S0REXB4ir19zYE",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "vicinity" : "Jalan Trunojoyo No.212, Labangseng, Kolor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0147059,
+               "lng" : 113.8581356
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.013368019708497,
+                  "lng" : 113.8595508802915
+               },
+               "southwest" : {
+                  "lat" : -7.016065980291502,
+                  "lng" : 113.8568529197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Pantekosta di Indonesia - Sahabat Allah",
+         "photos" : [
+            {
+               "height" : 260,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106861853532652363160\"\u003eDesi Nathalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLyLnbdn5wYNAGv1E_nNm2T2kKesGjaj1h1dEonAw0_VgThCTtyAwhH2pBkTh6bItoz8zr2Abr_W99PnW9FneAIX2LsHHgcvVCWNhp3ATyWkYAtTtqHHn7sx6QHlKYvNOqgaeqSCnRUJJOC8NBMz03czaQoI0sV1w-m2ipeOcHRRqo2",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJOe_8e4Lm2S0REI_23CpA1vI",
+         "plus_code" : {
+            "compound_code" : "XVP5+47 Kolor, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVP5+47"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOe_8e4Lm2S0REI_23CpA1vI",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Jalan Trunojoyo No.32, Kolor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.021046599999999,
+               "lng" : 113.877767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.019804969708497,
+                  "lng" : 113.8789832802915
+               },
+               "southwest" : {
+                  "lat" : -7.022502930291502,
+                  "lng" : 113.8762853197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Maria Gunung Karmel Sumenep",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113655876117391877166\"\u003eHarry Chang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJD4tE5lGEPSykzSH590ZCZei-NGA4_x-GNizT38dA8N1kLfb4uV0YOkpUD-QmN5aYy5lqJGgZlmA9NsxbUR88HpItLMocqUGtaxAFL0HOPCUJz2MXZ96kjK-2tSbCbJV7pV-SuSqyPhCSu0RWJpozKUYid40pxgKySXozwT3O3gLs4",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4Yicy9bl2S0RI4UTno2plR8",
+         "plus_code" : {
+            "compound_code" : "XVHH+H4 Pabian, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVHH+H4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ4Yicy9bl2S0RI4UTno2plR8",
+         "scope" : "GOOGLE",
+         "types" : [ "religi" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "Jalan Slamet Riyadi No.33, Bereksosok, Pabian"
+      }
+   ],
+   "status" : "OK"
+}

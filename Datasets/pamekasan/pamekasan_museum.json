@@ -1,0 +1,814 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwK8Pzlrv9Uej7176-0Etw4kHFQAEBRXtBodMZdwPqBMtnihY0oqK-q6gP42G1pEBgVV3YVBGBQulCZihv3mj3jDPpjE3P79p4-JTYfJRCBS70jaioqwsAlGUWvp5n6DJL5K1k09sQt-VLnieRG4VU7sF9NGOyeMihiRj0S_PbrtigTmfUsR7iK_ZweoOkhrWG2TTU0LtmeTDokB7XSBjmEaCLgFwSmZBQSiKsRXgKeZ3ZfhNZC6bNbgBKYE18YcY-Ii-5FSArQm_ykNVOswaw1ifxvlI86owuOF8UtEmn-Lkf-UF5eeJykTJoEYo2taFdG_qPUsH-PU5CEfTrHC9nzRbEU0SfNke5jBxWcUQOkTdIw5uK7mgj7YtyhOwIY1ZWWOeI_f_F-zNDuVN5TsvuKqgbjpyzjRNOoksG_LlaM4VDnZRc6iXiY",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.051748000000001,
+               "lng" : 113.5123403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.050260769708498,
+                  "lng" : 113.5136544802915
+               },
+               "southwest" : {
+                  "lat" : -7.052958730291502,
+                  "lng" : 113.5109565197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Sumber Barokah Toamangar Bulangan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105841430092221830260\"\u003etm badtrut\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLcLV8FagjUMZAAQ_s0ZV9oyIaRZljagAEVKLfe5ONORizSLZKxA9CmD3AYqEbIq6UHARLPsBbsKw73YQIsUsWpMYBMzX8QH-DTK80d1JCEeaXUK3mHhrKqJxSRURZbz3ITelzUoX2p9lyubGL0kEmv_qiSZ3HGUr_sRiBGGr3atvr9",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJkyUlRDvR2S0RnZu7i_TnoPc",
+         "plus_code" : {
+            "compound_code" : "WGX6+8W East Bulangan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MWGX6+8W"
+         },
+         "reference" : "ChIJkyUlRDvR2S0RnZu7i_TnoPc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Dusun Tengah, Bulangan Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.075307,
+               "lng" : 113.0888871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.073986869708497,
+                  "lng" : 113.0902236302915
+               },
+               "southwest" : {
+                  "lat" : -7.076684830291501,
+                  "lng" : 113.0875256697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Maqom KH. Idham Kholik (Bujuk Belih Begung)",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108185432351501255735\"\u003eBakoel onderdil chanel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2QmVVBhxx2GVLeUkFe6LNQWIBdw4VLZ-pAT56wSKpafpN2BK2Dh_JkN1SoMcBmXzlWDBCJQ8iosrFn0ZNDicX4oMxUsIogGdZWSYprJvZSKGT0YaSZRlx-ntuA6SDobGu0ctFqJFdCqihSJZrGEcHTHoH_BBXQlmkCD-UYi9ph34",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJB80rH_Ej2C0RXmP3QuBKKuk",
+         "plus_code" : {
+            "compound_code" : "W3FQ+VH Bandung, Bangkalan Regency, East Java, Indonesia",
+            "global_code" : "6P4MW3FQ+VH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJB80rH_Ej2C0RXmP3QuBKKuk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Konang, Galisan, Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.014905799999999,
+               "lng" : 113.8645668
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.013638569708498,
+                  "lng" : 113.8658992302915
+               },
+               "southwest" : {
+                  "lat" : -7.016336530291503,
+                  "lng" : 113.8632012697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "PWI Sumenep",
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114713918493861631168\"\u003elimadetik. com\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJL9OWW5eU7tjDaDmOxBaq1Ga7NETklyX8IbukEcS26Jj58WOqeDe8wdrSqbHgnwe7-YVKCgZt6EHpTaTPINEKDY52VXsZP2uhwm7L2m5RVUKelkUpCFBwvFaxE080-jKf3WxvVhp3DoS-dECnHUgE8k2YnE1Aa_MY83sBq1CNQuPNI",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJucN6Ky_k2S0Rm3Sw5_Cs0XM",
+         "plus_code" : {
+            "compound_code" : "XVP7+2R Kolor, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MXVP7+2R"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJucN6Ky_k2S0Rm3Sw5_Cs0XM",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Gudang, Kolor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1943495,
+               "lng" : 113.8956419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.192502119708498,
+                  "lng" : 113.8967526302915
+               },
+               "southwest" : {
+                  "lat" : -7.195200080291503,
+                  "lng" : 113.8940546697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pesantren & YAYASAN BAHRUL ULUM (IKSABA)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108391469358409449108\"\u003emuhammad karim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKeIII2yv7T6CJ36SO72CfH9HlcktL1skHvflCk69FT02HZxR8aq1r4i9ZrKEH6Xx_i2p6JPPMBnngy1jwm8m-bs7gb_1-H0Os_12HCGcFtl1F6Qgh8m-0TRjTEcUGU_mKtT2X55natssBPpPxq8cWoX8MSpLCOrUesrRbDWuCPoFVU",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ1worDXBZ1y0RfXf762QV6Oc",
+         "plus_code" : {
+            "compound_code" : "RV4W+77 Galis, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P4MRV4W+77"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ1worDXBZ1y0RfXf762QV6Oc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "jl.kh hasan nahrawi daja giligenting, Budan Daja, Galis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.885903199999999,
+               "lng" : 113.8051307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.884548269708498,
+                  "lng" : 113.8064789802915
+               },
+               "southwest" : {
+                  "lat" : -6.887246230291503,
+                  "lng" : 113.8037810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen Perahu Jukong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112393890746253547490\"\u003eErlan Gastandi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLLNd8dNBmfeIlMHKO7hfwc2ZdZtyHcuTAqn6VZ7KoAVSZCAmEBZt7w155GvTSrwXzYwdUUOFRV8Ut11oySeLIAVw2Kg2Wd1uPrd122OdUqACMZ9GiFESiLK_h3jT-XGOP_dl26SSEAedWfHGUQGqJ8-EydyqRzcAlZGGyPW77Yb6ED",
+               "width" : 520
+            }
+         ],
+         "place_id" : "ChIJnXH3ACzq2S0Rf0weXHphBkU",
+         "plus_code" : {
+            "compound_code" : "4R74+J3 West Kerta, Sumenep Regency, East Java, Indonesia",
+            "global_code" : "6P5M4R74+J3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnXH3ACzq2S0Rf0weXHphBkU",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bar.,, Battangan, Kerta Barat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.161145799999999,
+               "lng" : 113.4825331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159796819708497,
+                  "lng" : 113.4838820802915
+               },
+               "southwest" : {
+                  "lat" : -7.1624947802915,
+                  "lng" : 113.4811841197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Ten Plane Pekaka Statue",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJgT-47ON91y0R4bigIrtx3ug",
+         "plus_code" : {
+            "compound_code" : "RFQM+G2 Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQM+G2"
+         },
+         "reference" : "ChIJgT-47ON91y0R4bigIrtx3ug",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1604243,
+               "lng" : 113.4816228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.159083569708498,
+                  "lng" : 113.4830616302915
+               },
+               "southwest" : {
+                  "lat" : -7.161781530291503,
+                  "lng" : 113.4803636697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Masjid Jami' Pamekasan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100051583095799466248\"\u003eMas Jhoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhdkHiy0TDjsIZer0Mdvd3GTy3_zROtqoGfPXAD89gUUdFI_DZY8gv0xrEfdMU8mEkVEWbY_50Gt4FUTzpuDi8193RWRK1jjP27d-b4HIpo1NPSYG1maCF12Bxq0DovvR27ai39ALXX0FtRu68H8kPZt_SpEAB2TrjSolVskXNJuAU",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJcbhfkON91y0RBl-Qzow888w",
+         "plus_code" : {
+            "compound_code" : "RFQJ+RJ Barurambat Kota, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFQJ+RJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJcbhfkON91y0RBl-Qzow888w",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "Alun-alun, Rawa 03, Barurambat Kota"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.153154899999999,
+               "lng" : 113.4844713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.151841969708497,
+                  "lng" : 113.4858526802915
+               },
+               "southwest" : {
+                  "lat" : -7.154539930291501,
+                  "lng" : 113.4831547197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Panembahan ronggosukowati",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110713191806722914405\"\u003eMODE SENYAP Ngar Clangaran87\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJruHxKvEFrA1jrpRVJPOU2YkpZ3qm4CQatLAsZyf9WsZzOrqguUxyDyTojvCZ-eCUOk22JTu_vbbG35mErghgOO7OMHYbG6ttWVEmlrT9ZN7innETwZCCTzXC9FTXqRcCZHI1_k8_wRMAeGGQp9akT9vpOWvvTeGuoKPMpKTEqOs6U",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJE5oD9AZ91y0RS7zykm6iQ_c",
+         "plus_code" : {
+            "compound_code" : "RFWM+PQ Kolpajung, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFWM+PQ"
+         },
+         "reference" : "ChIJE5oD9AZ91y0RS7zykm6iQ_c",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Jalan KH.Agus Salim No.86-74, Kolpajung, Kolpajung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.155730399999999,
+               "lng" : 113.4895259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.154348469708497,
+                  "lng" : 113.4908006802915
+               },
+               "southwest" : {
+                  "lat" : -7.157046430291501,
+                  "lng" : 113.4881027197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pemakaman umum",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117439923506910550394\"\u003eJefri Gunawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKRE9f8hBi9KnhsolfmiiFIG51ysv6Vxbo5UYp8gjfNYWLgRx4pNClBMSIQDdZL5-LvU-EyYuQOtS7pOfiR-zh5Eowii9sBAd2R0GfSHBmouD2BPh0oAjn4vmP7C1GWBy6d98q2HMHxqV3sR-4AMAmO6M_f6zupzvfYgLBRuFBP1y1P",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJGeKXrgl91y0RhOdbXRZlrLg",
+         "plus_code" : {
+            "compound_code" : "RFVQ+PR Lawangan Daya, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRFVQ+PR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJGeKXrgl91y0RhOdbXRZlrLg",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Bonorogo No.3, Taman, Lawangan Daya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.158676699999999,
+               "lng" : 113.5113549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.157292969708497,
+                  "lng" : 113.5127051802915
+               },
+               "southwest" : {
+                  "lat" : -7.159990930291501,
+                  "lng" : 113.5100072197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Organisasi",
+         "place_id" : "ChIJ75K1-SV91y0RPf_R80USny0",
+         "plus_code" : {
+            "compound_code" : "RGR6+GG Buddagan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRGR6+GG"
+         },
+         "reference" : "ChIJ75K1-SV91y0RPf_R80USny0",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Bulung, Buddagan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.148142699999999,
+               "lng" : 113.5259759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.146763669708498,
+                  "lng" : 113.5273204802915
+               },
+               "southwest" : {
+                  "lat" : -7.149461630291502,
+                  "lng" : 113.5246225197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Alfin Jr",
+         "place_id" : "ChIJi_vxldN91y0RtSd4GMC9kRI",
+         "plus_code" : {
+            "compound_code" : "VG2G+P9 Tobungan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVG2G+P9"
+         },
+         "reference" : "ChIJi_vxldN91y0RtSd4GMC9kRI",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Tana Poteh, Tobungan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1313481,
+               "lng" : 113.5188683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.130012869708499,
+                  "lng" : 113.5202145802915
+               },
+               "southwest" : {
+                  "lat" : -7.132710830291503,
+                  "lng" : 113.5175166197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "kyai zain",
+         "place_id" : "ChIJQ10lW4jX2S0RMJ9OfN5KoS0",
+         "plus_code" : {
+            "compound_code" : "VG99+FG Peltong, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVG99+FG"
+         },
+         "rating" : 1,
+         "reference" : "ChIJQ10lW4jX2S0RMJ9OfN5KoS0",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "jl.raya blumbungan, desa, Dusun Barat Lorong, Peltong"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1107037,
+               "lng" : 113.4846587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.109419369708498,
+                  "lng" : 113.4859979802915
+               },
+               "southwest" : {
+                  "lat" : -7.112117330291502,
+                  "lng" : 113.4833000197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pesarèan Pujuk Sarèh",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107192577380402713575\"\u003eNoris Black Sweet\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIGOVLk52cnspsmC1oX_qcrlOGhRO9BkXP9ztNuPFKuvJr_bQkTZ14tbVBO313-FWJ10OmKPFJw9d4-LEHgD0aPoWwJARSp-bYEONm-WXPZd2lrHynH5gtxK3hIapAp5-5kJwPTBUrjyU2aIeWrYYSpnrrnZaMr7lLWSPuKIHYvB913",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJNepvKoHX2S0RJ67Rel6Euqk",
+         "plus_code" : {
+            "compound_code" : "VFQM+PV Plakpak, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVFQM+PV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJNepvKoHX2S0RJ67Rel6Euqk",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Unnamed Road, Tacempah, Tacempah, Plakpak"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.139808500000001,
+               "lng" : 113.5336389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.138416669708498,
+                  "lng" : 113.5349960802915
+               },
+               "southwest" : {
+                  "lat" : -7.141114630291503,
+                  "lng" : 113.5322981197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Asta KH Mansyur Munir (PP AL-MUNIRI)",
+         "photos" : [
+            {
+               "height" : 1040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104112259428777724611\"\u003eDidin Borneo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJvrLfRKzT9_4Nz_LakJ85qzLUmiOwMOaQHkL80Oixb2bLg8UVzyNvcqMC14tnNjd5tbTWNJnT5x-WAwwq8ybFoMnF2W6H1lixh71pJN6v1ns5LKI3gzumiuKoOk2SK1QcflSvhBa5-TJJfcXj9FQnHfcgdPM1Q_vNAt3pdLymoo4pm",
+               "width" : 585
+            }
+         ],
+         "place_id" : "ChIJRT4E5HzX2S0RoikCjPA7Hss",
+         "plus_code" : {
+            "compound_code" : "VG6M+3F East Tentenan, Surabaya City, East Java, Indonesia",
+            "global_code" : "6P4MVG6M+3F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRT4E5HzX2S0RoikCjPA7Hss",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Kosaba, Tentenan Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2162548,
+               "lng" : 113.469731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.214936619708498,
+                  "lng" : 113.4710738302915
+               },
+               "southwest" : {
+                  "lat" : -7.217634580291501,
+                  "lng" : 113.4683758697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Rumah Ghozi Mujtaba",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJi3ERuqV-1y0R94rs8Rzq8Hc",
+         "plus_code" : {
+            "compound_code" : "QFM9+FV Larangan Tokol, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQFM9+FV"
+         },
+         "reference" : "ChIJi3ERuqV-1y0R94rs8Rzq8Hc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Langgar Kothas Sumberanyar, Sumberanyar, Larangan Tokol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.216246099999999,
+               "lng" : 113.4696869
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.214927519708495,
+                  "lng" : 113.4710275802915
+               },
+               "southwest" : {
+                  "lat" : -7.2176254802915,
+                  "lng" : 113.4683296197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Padepokan Raden Umro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 581,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107315796989215166054\"\u003eRosyid 394\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQhcWDSxeGPqPrjvM42WNDAnLtwvjp2ITkrMbVcWQzSIbhieKSSeg1eE_uhMvlmOs6jWaUACK-D25mttvLKnETCjq2wKhKqCYbthJmaAKH6zGFKQfp9f7JlmV0l-l-rmgG8ZcW9u9V-A3mE2eOd7Br6WnY6EqLAMmGOZxh0agJGp_z",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJQ_1bEel_1y0Rpzx6OERh_mY",
+         "plus_code" : {
+            "compound_code" : "QFM9+GV Larangan Tokol, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQFM9+GV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQ_1bEel_1y0Rpzx6OERh_mY",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Sumber Anyar, Sumberanyar, Larangan Tokol"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1681029,
+               "lng" : 113.419304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.166747419708498,
+                  "lng" : 113.4206566802915
+               },
+               "southwest" : {
+                  "lat" : -7.169445380291503,
+                  "lng" : 113.4179587197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Langghar Taképék",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117980670912455544202\"\u003eDullatëp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhFZsbf83zcRjvJV_dsoZN1x5SLG2V4r0Cupp29-F5eFUBpLyWDvWA02sj1LCgDSLWy_NeB44msaFbmo8q4vEac4twduUYbxTXsg8RiGiOE2fasSZe8BfU_iruQ3Srw5fhx6JQlGRwewGlVcLp0GRi5DwgGIdDepRH4C6S0xZaRkeG",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJC493Art_1y0RzfIMb2hm9wc",
+         "plus_code" : {
+            "compound_code" : "RCJ9+QP Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCJ9+QP"
+         },
+         "reference" : "ChIJC493Art_1y0RzfIMb2hm9wc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Unnamed Road, Relubeng, Toket"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.1680272,
+               "lng" : 113.4192165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.166691219708499,
+                  "lng" : 113.4205579802915
+               },
+               "southwest" : {
+                  "lat" : -7.169389180291503,
+                  "lng" : 113.4178600197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Musolla Bujuk Aji",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112297144202574864470\"\u003eJunaidi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKHLNgxh4SVGcXgVYwTMDKBV8VPxYLOFBghV8Gg_Kib6RPtAjnp_1t7Tn7a1FXVjqzNXi72emmN9wNKeAxA3AhDbgYv5YEBg_p7BX_WK8zr9aoQYCewNCFbWnGSMvR45aQlbj2dmbxuV71habXkf83ci6-NSMD86t1BuXDJHB-o9MU9",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJfdXdi8h_1y0RnO7GUt5wlIg",
+         "plus_code" : {
+            "compound_code" : "RCJ9+QM Toket, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MRCJ9+QM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJfdXdi8h_1y0RnO7GUt5wlIg",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "Relubeng, Toket"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.132085299999998,
+               "lng" : 113.5427034
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.130574719708497,
+                  "lng" : 113.5440647302915
+               },
+               "southwest" : {
+                  "lat" : -7.133272680291501,
+                  "lng" : 113.5413667697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "BENGKEL MOTOR ANOM AMIR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107020644830251792935\"\u003eCinta Damai\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLgRFl_Ap2AM1iotCYyywTNTCjflJRJZzCED2XHfQHRY4-Xwt1m2XipEwRgX2jRnWrtzT2COb8YT5UBo7prXjjlPQ0RMG5NijpdJNPBRQ6CyKLfI_yRgHzvX_adOC14PtSQOcE6YwpyWzWISUA8V7PqIVaCuoVeQtEcUEcQJMKJWN37",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJczavb4XX2S0RV0ujAVgLXEc",
+         "plus_code" : {
+            "compound_code" : "VG9V+53 Pagendingan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MVG9V+53"
+         },
+         "reference" : "ChIJczavb4XX2S0RV0ujAVgLXEc",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "vicinity" : "Masjid, Pagendingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2182885,
+               "lng" : 113.5198782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.216896069708497,
+                  "lng" : 113.5211305302915
+               },
+               "southwest" : {
+                  "lat" : -7.219594030291502,
+                  "lng" : 113.5184325697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Makam Astah Kiai Toroi",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104002623610719201680\"\u003eAyu Yusril\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLDz-Hr35mi7uEYXjT9r53BYD_9QW2epRbxiX0c1_xnynSp2Wp-V2ss5a4zIrEvCCxG-Tjybiack_E8dLMLTGlKdb30aQJJyn25oJesobfhKw7Tq2_qelTF59ulWdhBV8iYlkuD0tju7FOU6BzmFVPJcR4Z0wy9wudORC5kHp0LZfvB",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJLcgPe3x81y0Ran9BZHRtUVE",
+         "plus_code" : {
+            "compound_code" : "QGJ9+MX Majungan, Pamekasan Regency, East Java, Indonesia",
+            "global_code" : "6P4MQGJ9+MX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJLcgPe3x81y0Ran9BZHRtUVE",
+         "scope" : "GOOGLE",
+         "types" : [ "sejarah", "budaya" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Malangan, Majungan"
+      }
+   ],
+   "status" : "OK"
+}
