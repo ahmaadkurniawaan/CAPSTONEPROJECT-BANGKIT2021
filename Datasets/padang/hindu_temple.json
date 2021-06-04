@@ -1,0 +1,161 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9842997999999999,
+               "lng" : 100.3870992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9828806197084979,
+                  "lng" : 100.3884085802915
+               },
+               "southwest" : {
+                  "lat" : -0.985578580291502,
+                  "lng" : 100.3857106197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "gunung talang",
+         "place_id" : "ChIJpVP_59y71C8R48eLidyqQD0",
+         "plus_code" : {
+            "compound_code" : "298P+7R Pampangan Nan XX, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF2298P+7R"
+         },
+         "reference" : "ChIJpVP_59y71C8R48eLidyqQD0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jalan Pampangan No.70, Pampangan Nan XX"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8721496999999999,
+               "lng" : 100.3833518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.8707809197084979,
+                  "lng" : 100.3847252802915
+               },
+               "southwest" : {
+                  "lat" : -0.873478880291502,
+                  "lng" : 100.3820273197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "PuraHindu Nepal Biro Padang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJoS6Fcc3H1C8Rn4qMc9Od3CA",
+         "plus_code" : {
+            "compound_code" : "49HM+48 Aie Pacah, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF249HM+48"
+         },
+         "reference" : "ChIJoS6Fcc3H1C8Rn4qMc9Od3CA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jalan By Pass, Aie Pacah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8720724999999998,
+               "lng" : 100.3480542
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.8707235197084978,
+                  "lng" : 100.3494031802915
+               },
+               "southwest" : {
+                  "lat" : -0.8734214802915019,
+                  "lng" : 100.3467052197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Jagatnatha padang",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100432588457010942969\"\u003eKrishna17 RR\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJE2BZ8Uid-IW9HJgZxacDyR7-ukXFY6k-aX9cTDfTVVUOkvjnlzPXdwPdZkuP4MqmRshRQ4JZPfJRgdZ_c386ELsxKxlOtcpqii_JOrazZ9zHrDfcDL99TzgU7Qpwf3OTzsZ_KR8a0pBZyIc30AD3AsJ4CnYIV-bK-QWh8U0twHybb",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJBaZ2nsrA1C8RXzdB1gr2tvw",
+         "plus_code" : {
+            "compound_code" : "48HX+56 Parupuk Tabing, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF248HX+56"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJBaZ2nsrA1C8RXzdB1gr2tvw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Parupuk Tabing"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8154110999999998,
+               "lng" : 100.3022833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.814033819708498,
+                  "lng" : 100.3036521302915
+               },
+               "southwest" : {
+                  "lat" : -0.8167317802915021,
+                  "lng" : 100.3009541697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Arsyad Cell",
+         "place_id" : "ChIJ8SX3xETD1C8Rlkby_pDoNlY",
+         "plus_code" : {
+            "compound_code" : "58M2+RW Padang Sarai, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF258M2+RW"
+         },
+         "reference" : "ChIJ8SX3xETD1C8Rlkby_pDoNlY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jalan Padang Sarai, Padang Sarai"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,48 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3656767,
+               "lng" : 105.2461471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.364327119708498,
+                  "lng" : 105.2474950302915
+               },
+               "southwest" : {
+                  "lat" : -5.367025080291502,
+                  "lng" : 105.2447970697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gazebo Fokma Sejarah Unila Yow",
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102957960723318427589\"\u003emihardi reza\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI95Jiz7GcI2jEpPuGrtjSkodVwYbTkt0et2WS3E3iXZ-i6r01NTHLFzZ0ngr1oYm7q8J0LbscP-AowTTwIesE8sre9OOX9h1me0cPG1BvzpvLUM4nWgziMVwC6XBKWadDg7_NwW5PL41krUvnGT80KaaGVz3jfhrVebZ2MNQu3PWX3",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJvzgi5RPFQC4RsYqY27jEk-g",
+         "plus_code" : {
+            "compound_code" : "J6MW+PF Gedong Meneng, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J6MW+PF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJvzgi5RPFQC4RsYqY27jEk-g",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Gedong Meneng"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,81 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.596263,
+               "lng" : 103.6068705
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.594964719708498,
+                  "lng" : 103.6084476302915
+               },
+               "southwest" : {
+                  "lat" : -1.597662680291502,
+                  "lng" : 103.6057496697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "People's Struggle Museum Jambi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110702185829229464296\"\u003eYousuf Bin Abdul Jaher Bin Yaqoub\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJdJA2Io91hT2V19nG79WMiDwgmHHHWjjeb7yEf3qjJa39eFCABfiaJb_8ukRLExIVg_4naYgzeZ63kUy3m79p_DRQckzRIxXYM31H1iUzfMegGyADc4VrDBYlGRVzVTCyUrcVB02Pw3jykx6yGq3K6CyHDOFubz1a5MH0pPNwX36Dm",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJtQzX0OWIJS4Rv8TsWB9lUQ0",
+         "plus_code" : {
+            "compound_code" : "CJ34+FP Murni, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ34+FP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJtQzX0OWIJS4Rv8TsWB9lUQ0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 299,
+         "vicinity" : "Jalan Sultan Agung Lap. Banteng No.12, Murni"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6121928,
+               "lng" : 103.622812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.610782169708498,
+                  "lng" : 103.6242573802915
+               },
+               "southwest" : {
+                  "lat" : -1.613480130291502,
+                  "lng" : 103.6215594197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "PT. PML",
+         "place_id" : "ChIJm8YUTLiIJS4R-GlD1N8HK4U",
+         "plus_code" : {
+            "compound_code" : "9JQF+44 Tambak Sari, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JQF+44"
+         },
+         "reference" : "ChIJm8YUTLiIJS4R-GlD1N8HK4U",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Teuku Sulaiman No.34c, Tambak Sari"
+      }
+   ],
+   "status" : "OK"
+}

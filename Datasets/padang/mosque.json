@@ -1,0 +1,842 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLXknathsG50-31jFDiC9iZkPmUGisy18ycT4mpNhlrHtAk8GbM73bd9MxCzvjcNbCU7VmbQstOYgW_TDNdFqmhA3JpbO5TMGfN-CcV8zylPZ-H5qNcx4psfHTixv6cPGHnW0vy2EQd56PrAxCnukrcIOiY9gCh0YhA_bXyaDamnYE9D00RMg-krjIvyb_GR7lWTctLoZ1FPk9UKMmuCmw3V6syfgAgG0xYpLIyZ1rbTC0V-wr0HIezDgBS2U7fniZRJN-7PLC9Fm6ruAEcI9v7A7RlH3pJ8lI6V2M4vNb3sQJNFeuiBdy5nhqonBf26OdO4wtZXbYZJAQGTkEii9SV_twFQb1Foy2KHNhMybrmve3QiXGdsmNhb_UQeK9Mmd_Da7Gs5QxJvXDaRwvsRwWqVgdqFoHdcju6julHq3e5omwQzbMcTRs",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9356979999999998,
+               "lng" : 100.3917883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.934462119708498,
+                  "lng" : 100.3931696802915
+               },
+               "southwest" : {
+                  "lat" : -0.9371600802915021,
+                  "lng" : 100.3904717197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Raya Kebenaran",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104571930348811592684\"\u003eAndika Rida Putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9vWNcFuvM3xNYSR4XRTKMroWdNgdQeBi7MZbVjCMF1vekE1DMxqZLz59ug9e1Vkav5I2dm1NUdA5DCWRME0kFnrIxwm7kra6eN3CY7PLqxoKD7X2gQUl9HGCW07cdRRGkqYtOtXkLZ5oK4OlbfvTPCQrhzxQoCMIxeh0AvZjAA0af",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+         "plus_code" : {
+            "compound_code" : "397R+PP Anduring, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF2397R+PP"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 948,
+         "vicinity" : "Jalan Dokter Muhammad Hatta, Anduring"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9443788,
+               "lng" : 100.3610744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9431325697084979,
+                  "lng" : 100.3624303802915
+               },
+               "southwest" : {
+                  "lat" : -0.945830530291502,
+                  "lng" : 100.3597324197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Jihad Kp Perak",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100293591296315526027\"\u003edahnil koto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkeD6TvIeI6n7z0X-vw9nNvTdR5TZhwROBvhdbCCcsrWsmfW8s9GtgBgARvCf911zzu8JWZEpFMSbd0PZOfj_edpLhFRPczT05NKdfBYm9PI8-zw3ez0tiRGD18iDnzaBC6-9UipYJ5ErIU8jKJnxvNkZQUtaAWMrSBDLc-IZBq1kP",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJX2yCxTm51C8R5LZOeU-uHrQ",
+         "plus_code" : {
+            "compound_code" : "3946+6C Kampung Jao, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23946+6C"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJX2yCxTm51C8R5LZOeU-uHrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108,
+         "vicinity" : "Jalan Perak II No.2, Kampung Jao"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9541044999999998,
+               "lng" : 100.4092391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9527133197084978,
+                  "lng" : 100.4104622802915
+               },
+               "southwest" : {
+                  "lat" : -0.9554112802915019,
+                  "lng" : 100.4077643197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MUSHALLA MUHAJIRIN",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJM-RxB5G51C8RATV0qk7aSM4",
+         "plus_code" : {
+            "compound_code" : "2CW5+9M Tanah Sirah Piai Nan XX, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF22CW5+9M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJM-RxB5G51C8RATV0qk7aSM4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Tanah Sirah, Tanah Sirah Piai Nan XX"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9568945999999999,
+               "lng" : 100.4085578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9553813697084979,
+                  "lng" : 100.4097931802915
+               },
+               "southwest" : {
+                  "lat" : -0.9580793302915019,
+                  "lng" : 100.4070952197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Anhar",
+         "place_id" : "ChIJ7fu0NpC51C8R27pa6AeMcVQ",
+         "plus_code" : {
+            "compound_code" : "2CV5+6C Tanjung Saba Pitameh Nan XX, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF22CV5+6C"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ7fu0NpC51C8R27pa6AeMcVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Tanjung Saba Pitameh Nan XX"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9475393,
+               "lng" : 100.3930875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9462520197084978,
+                  "lng" : 100.3944722302915
+               },
+               "southwest" : {
+                  "lat" : -0.9489499802915019,
+                  "lng" : 100.3917742697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darussakinah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108741813347643788305\"\u003etaski aulia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLlGLeCD9UTxlPk3EmWPLNYLRZub0V8tfKofpD_lmHlSMZR58aCsQhByOqhEgHfSfOzgKJyQsfrH66IFKH5y3JzO_J-w2mra-oKscTrIn-DDTiqtKtDJx1KaLgp5efc-QTqQ1Sz6IqRl0KHxAx3JN8vYBHb8TO0FalZLLy3HxA-cBKD",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJkfftNnW51C8RsJywRG5heWU",
+         "plus_code" : {
+            "compound_code" : "392V+X6 Kubu Dalam Parak Karakah, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF2392V+X6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJkfftNnW51C8RsJywRG5heWU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82,
+         "vicinity" : "Kubu Dalam Parak Karakah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9251167,
+               "lng" : 100.3973421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9239409197084981,
+                  "lng" : 100.3986716802915
+               },
+               "southwest" : {
+                  "lat" : -0.9266388802915022,
+                  "lng" : 100.3959737197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "AMR Surau Tuo",
+         "place_id" : "ChIJmdx_tFW41C8RSmYgrG9_Jb0",
+         "plus_code" : {
+            "compound_code" : "39FW+XW Pasar Ambacang, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF239FW+XW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJmdx_tFW41C8RSmYgrG9_Jb0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Pasar Ambacang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9243182000000001,
+               "lng" : 100.3624681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.922865569708498,
+                  "lng" : 100.3635791802915
+               },
+               "southwest" : {
+                  "lat" : -0.9255635302915021,
+                  "lng" : 100.3608812197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Grand Mosque of West Sumatra",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110749344877618741433\"\u003eRinatul Hayati\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK6wg-d344Mhp2ADsAijyOULIF7PjhdosOEYrLaPBwTRBJgBCrXqj6gQL-7LQg0CHfnYvrs4jnDob0TJTBCLtY2h5jZXH7g1_auD_YTTjB4Y94aAtYoiMQYQYkOnEbi1AAYGdEkbJH_4DEv6tkyAUtz5HEjjFKUYDo-TCQ8GmeAtKvm",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ8xkjjdm41C8R03CQNCOI-us",
+         "plus_code" : {
+            "compound_code" : "39G6+7X Alai Parak Kopi, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF239G6+7X"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ8xkjjdm41C8R03CQNCOI-us",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14849,
+         "vicinity" : "Jalan Khatib Sulaiman, Alai Parak Kopi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8791639999999998,
+               "lng" : 100.343382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.8777888197084979,
+                  "lng" : 100.3447203302915
+               },
+               "southwest" : {
+                  "lat" : -0.880486780291502,
+                  "lng" : 100.3420223697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "RISMAM ( Remaja Islam Masjid Amal Muslimin )",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105866022100978112173\"\u003eZul Adri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKMExcLtlLAcPw0uEGSOLss3xF3VDo8UsvUSp5R7SxGJsyGHOxp3NCoS7BDhec6zzN-N42M_nuIC2TW6tAT12YI7k1GdsSHaionUKnpwBfd5gO11nkwBoDvLsltmlB3wAi8Fxp-aHLBfFQLLcXowevkwNJjynRFjThl8TljPUXI8IVl",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJGRTCd7HA1C8Rxyw9e4NpSwc",
+         "plus_code" : {
+            "compound_code" : "48CV+89 Parupuk Tabing, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF248CV+89"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJGRTCd7HA1C8Rxyw9e4NpSwc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Masjid Amal Muslimin Komplek Wisma Indah VII RT.4 RW.7 Kelurahan Parupuk Tabing, Parupuk Tabing"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8283493000000001,
+               "lng" : 100.392372
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.826944019708498,
+                  "lng" : 100.3937325302915
+               },
+               "southwest" : {
+                  "lat" : -0.829641980291502,
+                  "lng" : 100.3910345697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Banat Ar Risalah",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115394446455906296364\"\u003eAisha H Salsabila\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIYoIvRblJLDyormXoTiPHTAR1FdbnOlPsUCe00PF8YWRgbdfiquL0O8s-xqB04JQfMBLi8rf0FoJMpauO8WMYTEwUOGgGJpCS9JNr5hTyLJGh8a94s3uC_zcoxNPnzk8FoJa2dtWKtG34oxOYjO_8gBBloMkL-zy7APQU_3j5DwTne",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ8SdupInG1C8RGKSLxRcShB4",
+         "plus_code" : {
+            "compound_code" : "59CR+MW Balai Gadang, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF259CR+MW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ8SdupInG1C8RGKSLxRcShB4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Balai Gadang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8516277,
+               "lng" : 100.3277735
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.850330569708498,
+                  "lng" : 100.3290698302915
+               },
+               "southwest" : {
+                  "lat" : -0.8530285302915021,
+                  "lng" : 100.3263718697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darul Muttaqin",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101239407108110791817\"\u003eMenson Hardius\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK_i-ME23myhzzRhXeJLg7FCpqEC9MFWNcEgDHgvq5KAGcIddGyBi_nSfp2APX45p-30-JNZozv10NMbZNgqF8y4OcOq1YNwubnsY1DyIFyUcqECKFUnBDfocYM0HIDWiTeQZut8wEgTAoFkQEkOn8FBcWnwE-j4XG3xuwfecRSZ4pO",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ93dbLyDB1C8RsMdUYdciipc",
+         "plus_code" : {
+            "compound_code" : "48XH+84 Pasie Nan Tigo, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF248XH+84"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ93dbLyDB1C8RsMdUYdciipc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Pasie Nan Tigo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8395906,
+               "lng" : 100.3291055
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.838268169708498,
+                  "lng" : 100.3304073302915
+               },
+               "southwest" : {
+                  "lat" : -0.8409661302915021,
+                  "lng" : 100.3277093697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Prof. Dr. Abdul Khobir",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ6ZEz2T3B1C8R4u4kJpVBK5M",
+         "plus_code" : {
+            "compound_code" : "586H+5J Lubuk Buaya, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF2586H+5J"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ6ZEz2T3B1C8R4u4kJpVBK5M",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Masjid Al Amin,, Jalan Adinegoro, Lubuk Buaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.8352294,
+               "lng" : 100.313364
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.833972619708498,
+                  "lng" : 100.3147914802915
+               },
+               "southwest" : {
+                  "lat" : -0.8366705802915021,
+                  "lng" : 100.3120935197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MUSHOLLA IHDINASSHI ROTOL MUSTAQIM",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100136926741305014828\"\u003eDedy Maryadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL5uxWN3D_-_jCJVRsIZm6dS2RHz0GMpJjyxhtMH8S2PpGU6sXlp-eEER06TW5nB6Ofc_c9HKdpTxMMHXFMoASj7cSF2IZLvH0xH8ZwzwxHq3gtn-0mUme_jUuC2WTLZ04mzz7ft03v4Wx6bA43BzFHNImWqC4gYQXySYImDUpfl3yI",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJd1jPKQ3B1C8R33767Ydj9Qk",
+         "plus_code" : {
+            "compound_code" : "5877+W8 Pasie Nan Tigo, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF25877+W8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd1jPKQ3B1C8R33767Ydj9Qk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Pasir Jambak RT.01/RW.07, Pasie Nan Tigo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.1382716,
+               "lng" : 100.4942076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.136938469708498,
+                  "lng" : 100.4955988302915
+               },
+               "southwest" : {
+                  "lat" : -1.139636430291502,
+                  "lng" : 100.4929008697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MASJID KUBA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117391429828811476050\"\u003eHendra Antoni\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJErtQbHkeH4a2YxvgFC2TF9tafmX1N9dI_txnNs5p52FHxyue85s4OKsHrH9SDMcOQq_ZVWJnCF_E0yrcaQ7YjXx_IgTg5yM30PzjEJRBio3vbwehcdaynYipyCSe1gI1MSLJDfW_RYImHi1lDbDFTsiQQg7J3OtS-LDsyGCN2lXsz",
+               "width" : 2632
+            }
+         ],
+         "place_id" : "ChIJ0YShuRmp1C8Rp16--7NSZds",
+         "plus_code" : {
+            "compound_code" : "VF6V+MM Barung Barung Balantai, South Pesisir Regency, West Sumatra, Indonesia",
+            "global_code" : "6PC2VF6V+MM"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0YShuRmp1C8Rp16--7NSZds",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Barung Barung Balantai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.1415915,
+               "lng" : 100.4914717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.140073669708498,
+                  "lng" : 100.4929681802915
+               },
+               "southwest" : {
+                  "lat" : -1.142771630291502,
+                  "lng" : 100.4902702197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Lubuak Buayo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115399458261195962938\"\u003eSuara Relaksasi Alam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKYmaRKsfbXdgEEcCAY6qLHnC1HuSUQTJZCSsNeL1M155t52r_XaTAT5fuV97ejPbhZZDYdCApBKQ9ZltdQKrMz5B8Kjcwi5AJ3SDI6RmzRN1e-ZJZOt-pQKQA4IqJ0evnBPzOBJAmWNncy5FSvjqhJBrO-14ZZZPYuqvhfHCEkMrvL",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJccUJlxup1C8R9Hsd9fS7g4Y",
+         "plus_code" : {
+            "compound_code" : "VF5R+9H Barung Barung Balantai, South Pesisir Regency, West Sumatra, Indonesia",
+            "global_code" : "6PC2VF5R+9H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJccUJlxup1C8R9Hsd9fS7g4Y",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Barung Barung Balantai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.748152,
+               "lng" : 100.2592006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.746784669708498,
+                  "lng" : 100.2605751802915
+               },
+               "southwest" : {
+                  "lat" : -0.7494826302915021,
+                  "lng" : 100.2578772197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "masjid sikabu pilubang",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115560426430958695575\"\u003eMul Yadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwTuxmLPgKb2k9Ct5WrvZztDctVRyDDReu8-YsaTop2F18lywAwYMLQiQJDpBz0SW8_RmpG2dPhhOSk4Y1K2Or_-xUt7GMAo_eYX5xM4QeE8Kfb9DPXD9hniA1g0_DQvF8JAOdSRnlxHc4z63ADYOaz1J85XtN7H0oA5k-cgjFxN0S",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJHzLvYgLo1C8RQ8_DAw01ivI",
+         "plus_code" : {
+            "compound_code" : "7725+PM Katapiang, Padang Pariaman Regency, West Sumatra, Indonesia",
+            "global_code" : "6PF27725+PM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJHzLvYgLo1C8RQ8_DAw01ivI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Unnamed Rd,, Katapiang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.1712864,
+               "lng" : 100.5004273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.169947069708497,
+                  "lng" : 100.5018471302915
+               },
+               "southwest" : {
+                  "lat" : -1.172645030291502,
+                  "lng" : 100.4991491697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "masjid raya babul khairat koto pulai",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107525274827089707213\"\u003eanggi hadiwijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJxaV_LcUZvhC0KYMVb30zzGNoMQL7up-CMgX43l89rnDuhVM5kHcDatbKTfz7sSJe6JhFqjZML7fYnqF0afIIglwFbqB-LQzdQUIuaUngCuiPEMOabQEp4prythUKYeDKDOoea7oc9nzf6BisIqTB_bSEJY9a-qjn52bvXvOqQ5YFm",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJMxVPw7ip1C8RFAUx-MIEMZ4",
+         "plus_code" : {
+            "compound_code" : "RGH2+F5 South Barung Barung Balantai, South Pesisir Regency, West Sumatra, Indonesia",
+            "global_code" : "6PC2RGH2+F5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJMxVPw7ip1C8RFAUx-MIEMZ4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "South Barung Barung Balantai"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.7223024,
+               "lng" : 100.2779614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.721018969708498,
+                  "lng" : 100.2794183302915
+               },
+               "southwest" : {
+                  "lat" : -0.7237169302915021,
+                  "lng" : 100.2767203697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Raya Al-Muqarrabin Aie Tajun",
+         "place_id" : "ChIJQWzRDWrd1C8RoauY6wlXzts",
+         "plus_code" : {
+            "compound_code" : "77HH+35 Lubuk Alung, Padang Pariaman Regency, West Sumatra, Indonesia",
+            "global_code" : "6PF277HH+35"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJQWzRDWrd1C8RoauY6wlXzts",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Korong Kampuang Paneh Nagari Aie Tajun Lubuk Alung, Lubuk Alung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.7896817,
+               "lng" : 100.640061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.7883542697084981,
+                  "lng" : 100.6414591302915
+               },
+               "southwest" : {
+                  "lat" : -0.7910522302915022,
+                  "lng" : 100.6387611697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Makmur (LDII)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108600840094565035344\"\u003eWahyu Ahdika\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJqRhofYIK7-wCQ-zFq8iV6-s7jq5a8wRqj_7ezklSPdnsFOV66azQDpiLH42K13IrcEirKEklldK1bUE11niuUYXn2XtH7m5q-IqQg_aZeGr5KBMJ9jKoB-ZSD8QuRQ3Uv8lAZ-ipjvaV1uiencAvu2ixl9RPSQRAzNlWqh4m52WqK",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJD46pqD0zKy4R2DLnUemSBJ8",
+         "plus_code" : {
+            "compound_code" : "6J6R+42 Tanah Garam, Solok, West Sumatra, Indonesia",
+            "global_code" : "6PF26J6R+42"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJD46pqD0zKy4R2DLnUemSBJ8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Tanah Garam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.6720596999999999,
+               "lng" : 100.5345278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.6706296697084979,
+                  "lng" : 100.5358965802915
+               },
+               "southwest" : {
+                  "lat" : -0.673327630291502,
+                  "lng" : 100.5331986197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Jannatul Ma'wa",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107624889026597732172\"\u003eAditya juan Syah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJapEiqAk364df5dDq5UGUnNmobv8p06xvmphtE4j5jAP3OiFWp2-fV2JAuzMnISajNh6esz9EEg1EGEUDgOYB-mk6Er0FmeED8bDD5fllQYxMp9qa_rOCqXTSJ5Rhm7qYhMkIGGzZK4LOQGKl9ZZ7W2ik0qumfm1Y6DLics4KPL6ls",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJTb0dbvzT1C8RuDo0vby84bc",
+         "plus_code" : {
+            "compound_code" : "8GHM+5R Paninggahan, Solok, West Sumatra, Indonesia",
+            "global_code" : "6PF28GHM+5R"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTb0dbvzT1C8RuDo0vby84bc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Paninggahan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.6845169999999999,
+               "lng" : 100.2062264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.6832062697084978,
+                  "lng" : 100.2075558302915
+               },
+               "southwest" : {
+                  "lat" : -0.6859042302915019,
+                  "lng" : 100.2048578697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "SURAU KALAMPAIAN kp Gelapung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101079818210561036374\"\u003eBara Bere Official\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKWiErV5BL3rcAwk4sebwEqbzyNr-tI7vZl5ce7eNKCJ00WWd1oZTGpeeaWqq22Gk6gFjfmEWOQUZZmSZZ7Oc8_SRLlU2QS0971jsCT8A9LXWax9LoCt2nXKYS3AJ0ZSntxyX_dJ6g0GLcNSRv6X_TKGEh_WXbkh-dynkp2H5wlvX10",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJI8Oicd3m1C8RgB0vIbjcvYY",
+         "plus_code" : {
+            "compound_code" : "8684+5F Ulakan, Padang Pariaman Regency, West Sumatra, Indonesia",
+            "global_code" : "6PF28684+5F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJI8Oicd3m1C8RgB0vIbjcvYY",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Ulakan"
+      }
+   ],
+   "status" : "OK"
+}

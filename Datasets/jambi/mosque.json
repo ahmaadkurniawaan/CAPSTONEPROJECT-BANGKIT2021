@@ -1,0 +1,758 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLrahhpdvL1PlnWL3KUrTQUeo9CPz4N0ONcY81N9FN59IPA2Z-TQ0TB94S1YU6v9cJan_79aYhALDGZ2viM-rLfHDVJAx-tIr1zAI2BMkWNBTG0kAzdbRo6H9dDHnFM9XFGYvSd4tat0BCV966j-NdXfQn9HLx0Xbjmu1rcX2Lg2bmWdmBnc5Co18V_OGGrmAEE-tJ-VIwQRo3T7k6zz4yIj0u6pysXQFxWYmh02BNSTNre51GshY86x0yCO_OSkTFhWUd2ZqMO2gzuue2SwydMyYAERQPcLkhxtUywWPkS3dg_walYokwrA5OWJhd06mQdO277_fBgOs7K9jpie4F3qUcd7s_tEWk58mDvuCU45epOohR_dHJhHxgC6CnubshHDSxBqR8-OJmPIUNavD3kzaGixtKAn97qNRgSP9dnWsUlkNuDDdY",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6079937,
+               "lng" : 103.6150358
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.606652119708498,
+                  "lng" : 103.6163338302915
+               },
+               "southwest" : {
+                  "lat" : -1.609350080291502,
+                  "lng" : 103.6136358697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baiturrahmah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJYQAsXbiJJS4RFcrVhBicUp0",
+         "plus_code" : {
+            "compound_code" : "9JR8+R2 Talang Jauh, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR8+R2"
+         },
+         "reference" : "ChIJYQAsXbiJJS4RFcrVhBicUp0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Hayam Wuruk No.147, Talang Jauh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6098083,
+               "lng" : 103.6134449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.608469069708498,
+                  "lng" : 103.6147990302915
+               },
+               "southwest" : {
+                  "lat" : -1.611167030291502,
+                  "lng" : 103.6121010697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Ida refayanti",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112339183530775202314\"\u003eAkhmad Noor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKjkb9wGrEgC7mlIbJCwIAfS1WhUWameWfMV6Vjcnb5caWO0lPKzZ1H1wdDN4EE7v5t30k4YgfclES8g8XlyF05REDOu1Me5LK9yNjHavdGdwu6IAP27W4x2_bLf2o6z2pj3WVHplaaHA_bYck4fBrptG8KavRtTMGKrqO_kBnUN3O3",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJt46dWqKJJS4RRpYCoDrP2Qk",
+         "plus_code" : {
+            "compound_code" : "9JR7+39 Cempaka Putih, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR7+39"
+         },
+         "reference" : "ChIJt46dWqKJJS4RRpYCoDrP2Qk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Cempaka Putih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6101229,
+               "lng" : 103.6131203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.608773919708498,
+                  "lng" : 103.6144692802915
+               },
+               "southwest" : {
+                  "lat" : -1.611471880291502,
+                  "lng" : 103.6117713197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid MASJID AT TAQWA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJI_qswsCJJS4RrBd8baxxTh4",
+         "plus_code" : {
+            "compound_code" : "9JQ7+X6 Cempaka Putih, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JQ7+X6"
+         },
+         "reference" : "ChIJI_qswsCJJS4RrBd8baxxTh4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Cempaka Putih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.606004,
+               "lng" : 103.6122624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.604656519708498,
+                  "lng" : 103.6136112302915
+               },
+               "southwest" : {
+                  "lat" : -1.607354480291502,
+                  "lng" : 103.6109132697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mesjid Baiturrahim",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106278801811353340679\"\u003eDarmawan Kwok\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJDbYSEabaoc3DZSt2a4fDVR4ixXFFIsoPPjC-VEgKOoTHkpeVma59zkndkHj8SesGK980z6F8TNPGiWLCUP_srXSwTexTFC7HZ-D35fcQzX53_R8LzY-gUDIqVwW5qw6tsPmWxgghk-Rjsn56XGstThYpsFgRTV0B6MQwiBSfF1MHA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ6Yt3EOqIJS4RGocWAT3Or-s",
+         "plus_code" : {
+            "compound_code" : "9JV6+HW Cempaka Putih, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JV6+HW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6Yt3EOqIJS4RGocWAT3Or-s",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Lorong Kemang II, Cempaka Putih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6045101,
+               "lng" : 103.6141061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.603244019708498,
+                  "lng" : 103.6154152302915
+               },
+               "southwest" : {
+                  "lat" : -1.605941980291502,
+                  "lng" : 103.6127172697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mesjid as'adata'in",
+         "place_id" : "ChIJXTiXVQOJJS4RPJ_NoVzmA04",
+         "plus_code" : {
+            "compound_code" : "9JW7+5J Cempaka Putih, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JW7+5J"
+         },
+         "reference" : "ChIJXTiXVQOJJS4RPJ_NoVzmA04",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Cempaka Putih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6039267,
+               "lng" : 103.6143543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.602659119708498,
+                  "lng" : 103.6156702302915
+               },
+               "southwest" : {
+                  "lat" : -1.605357080291502,
+                  "lng" : 103.6129722697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid As Sa'adatain",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104985422417867396748\"\u003eAndry Priatna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK2buKPZmI6HTQPjTBb-vNGtEtvR80CVCWs_4hbsNrux6UCNp0RkvDxug7w_BrW3-P0oG3s1_z4BPKIvE8qUgGkpNFg1D9sHouM_RsQtNzxd0aadIgpMHYkfLQGInAoV3lF_lmGRSD25LD9B94wWy7x-WX2NSQhlS4WXpV6EaKjaTGE",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJA5Afa8KIJS4RWok2Y28ic9Y",
+         "plus_code" : {
+            "compound_code" : "9JW7+CP Cempaka Putih, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JW7+CP"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJA5Afa8KIJS4RWok2Y28ic9Y",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Jalan Kirana No.2, Cempaka Putih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.608599,
+               "lng" : 103.609314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.607269619708498,
+                  "lng" : 103.6103338302915
+               },
+               "southwest" : {
+                  "lat" : -1.609967580291502,
+                  "lng" : 103.6076358697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darus Salam",
+         "place_id" : "ChIJIYYfEeuIJS4RCtHCmXKTITQ",
+         "plus_code" : {
+            "compound_code" : "9JR5+HP Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR5+HP"
+         },
+         "reference" : "ChIJIYYfEeuIJS4RCtHCmXKTITQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.605167,
+               "lng" : 103.61824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.603711119708498,
+                  "lng" : 103.6195961802915
+               },
+               "southwest" : {
+                  "lat" : -1.606409080291502,
+                  "lng" : 103.6168982197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Ikhlas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJXdLF_MOIJS4RzrniJrb6Uic",
+         "plus_code" : {
+            "compound_code" : "9JV9+W7 Talang Jauh, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JV9+W7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXdLF_MOIJS4RzrniJrb6Uic",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "JL Paal 1 Muara Bulian, Muara Bulian, Talang Jauh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6066835,
+               "lng" : 103.6089771
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.605670419708498,
+                  "lng" : 103.6100598302915
+               },
+               "southwest" : {
+                  "lat" : -1.608368380291502,
+                  "lng" : 103.6073618697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mesjid As-saa'adatain",
+         "place_id" : "ChIJnSe3v-uIJS4R4oLd7kRQS48",
+         "plus_code" : {
+            "compound_code" : "9JV5+8H Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JV5+8H"
+         },
+         "reference" : "ChIJnSe3v-uIJS4R4oLd7kRQS48",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6139811,
+               "lng" : 103.6161469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.612543269708498,
+                  "lng" : 103.6174781302915
+               },
+               "southwest" : {
+                  "lat" : -1.615241230291502,
+                  "lng" : 103.6147801697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Azhar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108532649227259036264\"\u003eM. R. Efendi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIqfId7JV_vvJ4btiVZLXTTKbvn7ZmTt-kZEdYztC06bM4_m3m6hfolDW-nMSRyD_fUEmNNnNNN7194xexdShOV-Gqda4XWxZ98-NYJFjN_SQLhBP-TnF_3rPteKOTAja32qnv0KZzFzTuZ7ueuxwm3T_aW5AcpT4oRG-AfkbzFDVuW",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJXwTdVLyIJS4R7dGWzkqu0Sk",
+         "plus_code" : {
+            "compound_code" : "9JP8+CF Jelutung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JP8+CF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJXwTdVLyIJS4R7dGWzkqu0Sk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123,
+         "vicinity" : "Kelurahan Jelutung, Jelutung, Jelutung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.606325,
+               "lng" : 103.608756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.604670969708498,
+                  "lng" : 103.6099319302915
+               },
+               "southwest" : {
+                  "lat" : -1.607368930291502,
+                  "lng" : 103.6072339697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Silaturrahim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJSykC6uuIJS4RoLaQPWZ8eag",
+         "plus_code" : {
+            "compound_code" : "9JV5+FG Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JV5+FG"
+         },
+         "reference" : "ChIJSykC6uuIJS4RoLaQPWZ8eag",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.606325,
+               "lng" : 103.608756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.604670969708498,
+                  "lng" : 103.6099319302915
+               },
+               "southwest" : {
+                  "lat" : -1.607368930291502,
+                  "lng" : 103.6072339697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Amanah",
+         "place_id" : "ChIJSykC6uuIJS4RrlqFBKlvWDE",
+         "plus_code" : {
+            "compound_code" : "9JV5+FG Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JV5+FG"
+         },
+         "reference" : "ChIJSykC6uuIJS4RrlqFBKlvWDE",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.606325,
+               "lng" : 103.608756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.604670969708498,
+                  "lng" : 103.6099319302915
+               },
+               "southwest" : {
+                  "lat" : -1.607368930291502,
+                  "lng" : 103.6072339697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Hikmah",
+         "place_id" : "ChIJSykC6uuIJS4RBivDbSEyRpk",
+         "plus_code" : {
+            "compound_code" : "9JV5+FG Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JV5+FG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSykC6uuIJS4RBivDbSEyRpk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6140221,
+               "lng" : 103.6161787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.612693769708498,
+                  "lng" : 103.6173958802915
+               },
+               "southwest" : {
+                  "lat" : -1.615391730291502,
+                  "lng" : 103.6146979197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "markaz Jama'ah da'wah tabligh jambi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101705704267779024105\"\u003eMasalamahmad Alamahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKpPCP0nErSGv2Jcdu6MRD7v5RwANkO8a_WzhpkAaJI2W6oFPSmASz95FAtBmCt-MyXMuo9OL9p2lbQGHchGY-M4IBd6wvzKYT_RpxDI_jRau146BOB3pig2p8-W55DY0gDemIO_VUmIKR4seixGV2gnC0movsJLa2JU5HfxvwYqeb7",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJqS-9ib6IJS4RIStyDGuTLOM",
+         "plus_code" : {
+            "compound_code" : "9JP8+9F Jelutung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JP8+9F"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJqS-9ib6IJS4RIStyDGuTLOM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Hayam Wuruk No.73, Jelutung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6088836,
+               "lng" : 103.6204183
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.607502269708498,
+                  "lng" : 103.6217482302915
+               },
+               "southwest" : {
+                  "lat" : -1.610200230291502,
+                  "lng" : 103.6190502697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Syuhada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115076857898685953935\"\u003ekrawangan gypsum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJpU-ERiuBEFPLUqZQSH-NtdnF155iy1iBbVSu4TnvxvX9eTs6EykVAWmkcbnoRlAV8UkwAwMTYnAlnlMx8pwSQbGVNBD2fPZPIKbsOzyYpzw-BPWxcyjEYFqJPJj15jgwa3n4teEJhzLDr1DE1ovayn4zAyAsfrZZCuDiT1vh0jWYs",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJJ38qFbiIJS4Rm8Yob2rX9rU",
+         "plus_code" : {
+            "compound_code" : "9JRC+C5 Tambak Sari, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JRC+C5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJJ38qFbiIJS4Rm8Yob2rX9rU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jalan Jendral Sudirman No.350, Tambak Sari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6022689,
+               "lng" : 103.6150177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.600914369708498,
+                  "lng" : 103.6164187302915
+               },
+               "southwest" : {
+                  "lat" : -1.603612330291502,
+                  "lng" : 103.6137207697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mesjid Cempaka Putih",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105551191061090433279\"\u003eJu Wita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKlwTDrnRPjIM9P5puOats_Cge6H5ZCPbthJvpZ3r-XGC5KEb9RnIcWZiJOzh7KDzsZKa2HMrwOIyzLD7hUJZ4DDcwaxxP6t-NDs0LpcSmey5WtIuEe3ysJyOCoieKcMm3SB9ybvqWCDTGnStaxYbuCFH9zux3e7Q2lFiqLvhSat5uK",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJm8mM7sKIJS4RxZwXeD5xSVw",
+         "plus_code" : {
+            "compound_code" : "9JX8+32 Cempaka Putih, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JX8+32"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm8mM7sKIJS4RxZwXeD5xSVw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Haji Muhammad Bafadhal, Cempaka Putih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6144232,
+               "lng" : 103.6132652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.613136369708497,
+                  "lng" : 103.6146127802915
+               },
+               "southwest" : {
+                  "lat" : -1.615834330291502,
+                  "lng" : 103.6119148197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Maqomul Munajja",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103503157320402732600\"\u003eAdhia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLCzW7ahVVGoaGHSp_sp8SJp97aDT6gM7sWFhCOR5aoKYEYh_N66gRuI4k71-rDyMULPqBPgoU4TrC34ivG8uWiwNe3UfPojj4qI2_uYPhov-TUV6Afa2GUHQX2GyPbhjQMG6g4vebwppDE8c10lqserNfzYHgAbI68CLUWCP6KC7CE",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJqS70Dr6IJS4RhYpSqFtTawU",
+         "plus_code" : {
+            "compound_code" : "9JP7+68 Jelutung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JP7+68"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJqS70Dr6IJS4RhYpSqFtTawU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Jalan Gajah Mada, Jelutung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6079916,
+               "lng" : 103.6079459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.606702519708498,
+                  "lng" : 103.6090355802915
+               },
+               "southwest" : {
+                  "lat" : -1.609400480291502,
+                  "lng" : 103.6063376197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Munajjad",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ66jLeeuIJS4R5EE7YBHgw78",
+         "plus_code" : {
+            "compound_code" : "9JR5+R5 Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR5+R5"
+         },
+         "reference" : "ChIJ66jLeeuIJS4R5EE7YBHgw78",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.607827,
+               "lng" : 103.607682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.606523569708498,
+                  "lng" : 103.6088753302915
+               },
+               "southwest" : {
+                  "lat" : -1.609221530291502,
+                  "lng" : 103.6061773697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Al-Barokah",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113235985130488927406\"\u003eTaurus sss\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ4RDHmGYFGwWitnX4JWXVOJoDPcCLqOLw8CxZ8JOmHsCdTkj8SvmowB3LgNQ2lqV3K_tIAOCI6EDmnsBDAq4ohfDLpVCBvMUklTNm9FvF1sxP2WX2yh5X1lf_VFb1etzW4W_nMYqRPJ_mSoa9LIVRwAbJNLAYOP8HczbeJlDtH-bpK",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJo6xTf-uIJS4RAu61QO1_0us",
+         "plus_code" : {
+            "compound_code" : "9JR5+V3 Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR5+V3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJo6xTf-uIJS4RAu61QO1_0us",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6092549,
+               "lng" : 103.607599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.607909569708498,
+                  "lng" : 103.6089125302915
+               },
+               "southwest" : {
+                  "lat" : -1.610607530291502,
+                  "lng" : 103.6062145697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darul Ijtihad",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ5autyqyJJS4RNPvOPsI1-9o",
+         "plus_code" : {
+            "compound_code" : "9JR5+72 Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR5+72"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ5autyqyJJS4RNPvOPsI1-9o",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Lebak Bandung"
+      }
+   ],
+   "status" : "OK"
+}

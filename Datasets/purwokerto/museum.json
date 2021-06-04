@@ -1,0 +1,347 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423819699999998,
+               "lng" : 109.2255176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422598419708496,
+                  "lng" : 109.2268479802915
+               },
+               "southwest" : {
+                  "lat" : -7.425296380291501,
+                  "lng" : 109.2241500197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Bank Rakyat Indonesia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100245595352210048467\"\u003eMufid Majnun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIrz-DV5lrcW6VPLeOn-0EjZGcdfvUrQP890RGJjVXQu1zz5WyZUM58ZQy11JG5WfPqQLyN7pcvGV8m86HHLzCAc1KUoZ27tp3AEF_1CgFM5oZQ0GiVu-sDd6-xdqjrA_o86y-kLuo93-eY97gGdLMEWrt2U4cwWeahlcrGZmQWdmgZ",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJVVVVlXNeZS4RkqvigRHij3c",
+         "plus_code" : {
+            "compound_code" : "H6GG+F6 Kedungwuluh, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GG+F6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJVVVVlXNeZS4RkqvigRHij3c",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 513,
+         "vicinity" : "Jalan Jenderal Soedirman No.57, Pesayangan, Kedungwuluh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423913800000002,
+               "lng" : 109.2312254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422564619708497,
+                  "lng" : 109.2325719302915
+               },
+               "southwest" : {
+                  "lat" : -7.425262580291502,
+                  "lng" : 109.2298739697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Makam Ragasemansang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118191870945993640710\"\u003eUzank Sugianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJV7pP1fqDxRDm4zXEi-oBx81QBphqTnjY1gIpVEE4A0SyRA4Fq3v5drcTThsFut40atXII3sp8h9InYul47gccQshDOApq9ed1hDkNcSXlCnzKJRjVcGpZlBAF2ppBkl3uefINLLxbRn_J8qjRnkdpPhiqMXga65RWT5-_j6P1YU5T",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJFasP6a5fZS4RI5tm1gB5ig0",
+         "plus_code" : {
+            "compound_code" : "H6GJ+CF Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GJ+CF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJFasP6a5fZS4RI5tm1gB5ig0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Raga Semangsang, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.424651,
+               "lng" : 109.2285935
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423340719708498,
+                  "lng" : 109.2299344802915
+               },
+               "southwest" : {
+                  "lat" : -7.426038680291502,
+                  "lng" : 109.2272365197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Dekranasda Kabupaten Banyumas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112456479610507653936\"\u003eSharingan obito\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKKuL2lwmEuYFbKVTvjl540IR9nYXAyCfj92HqrlRTON0MQjFEmWXQ2FHLvDROV_cB5YEURtw9UlvwRtqtSyxwyzeORBGBuZMyvz1z-8fH3mQ--DQX6EozqExYhk6iCRZ6ZHDXt3veAgmc5mOkm-yRsLsErwdC3DMoSaE_e-Ykpv_CO",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJkUUxcItbZS4R1V1w_akTagM",
+         "plus_code" : {
+            "compound_code" : "H6GH+4C Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GH+4C"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJkUUxcItbZS4R1V1w_akTagM",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Jenderal Soedirman No.207, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.415993,
+               "lng" : 109.2322593
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.414678769708498,
+                  "lng" : 109.2336097302915
+               },
+               "southwest" : {
+                  "lat" : -7.417376730291503,
+                  "lng" : 109.2309117697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Classic Corner Pache Padepokan",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112560304218853651994\"\u003eNang27 Gragal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLh8JASkob8Mb4lI5aVvFRcy4ZsUCUSJK5hKnoz7gI6_7AY8BVT1Tz11wXEBOKD1iytji2gC64Sv-pkqYxwlRvHpT6K9AVUKQ9RL_ChVGm9hc_tieKccFbu-eP_hDQ3J0XkL2sjtQop4cOgmIxF28C0fwhinHyQbOyxF2EEN2ZfUVfL",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJc8MGSl5eZS4RBf3pEV5m7J8",
+         "plus_code" : {
+            "compound_code" : "H6MJ+JW Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MJ+JW"
+         },
+         "reference" : "ChIJc8MGSl5eZS4RBf3pEV5m7J8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Dokter Angka, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.419075999999998,
+               "lng" : 109.226954
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.417694019708497,
+                  "lng" : 109.2283118802915
+               },
+               "southwest" : {
+                  "lat" : -7.420391980291501,
+                  "lng" : 109.2256139197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "TUGU BAWOR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 313,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105723504670274138354\"\u003eTUGU BAWOR\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKY9CxDnZnWMArUyMGOrY1bBE_VSsnXVqk_ULAfWF3XoAGLsDfyqr6Fj58yJ8R_MT3zdhRpn8BFJmEDBbvHRkMNcnweaQqmAvQIMTpnsSgd1j69GJq3lkOk4Cz8MchdUBPqk9I3GHvXuS56AmnCcEY1QHcIxU_qxh722zwO7gf4rKgK",
+               "width" : 557
+            }
+         ],
+         "place_id" : "ChIJTVCGXLxfZS4RNkWmc_4YZnQ",
+         "plus_code" : {
+            "compound_code" : "H6JG+9Q Kedungwuluh, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JG+9Q"
+         },
+         "reference" : "ChIJTVCGXLxfZS4RNkWmc_4YZnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Jendral Gatot Subroto No.73, Pesayangan, Kedungwuluh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4258597,
+               "lng" : 109.2224271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.424517219708497,
+                  "lng" : 109.2237748302915
+               },
+               "southwest" : {
+                  "lat" : -7.427215180291501,
+                  "lng" : 109.2210768697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Underpass Jenderal sudirman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117638163622213795314\"\u003eKarima Yulianti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJrcoSVuWJON6iQ5R3MnaG9iN-c5JHceKN--NCtFgv0G69TncU9ZmI_CRpL_yPsujIOqkwQZLzBxsu3pPkiWc4W4z59luLMAKw2D0abI0OnkBZyy14cDAQMbG0G5YJ4qfpj7P0VGLazFQZwHaf6xAoG3UU7OsKnxF3IAgByXV1Ki7qT",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJt1_KpVpfZS4R1vE4vm8AXJM",
+         "plus_code" : {
+            "compound_code" : "H6FC+MX Bantarsoka, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6FC+MX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJt1_KpVpfZS4R1vE4vm8AXJM",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 177,
+         "vicinity" : "Bantarsoka, Bantarsoka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423775099999999,
+               "lng" : 109.221025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422384069708497,
+                  "lng" : 109.2223758802915
+               },
+               "southwest" : {
+                  "lat" : -7.425082030291501,
+                  "lng" : 109.2196779197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Halte Ojol St Barat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111035099130166437757\"\u003eURC BANYUMAS BERSATU\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKAbzijNhZ6xjCOTVCDTIxTvd7LhNwthPDHmo8iWpDAhrq5sBDskGVOELbeyQX_JdFS1Yus0iwfhVYA5PerqtLgKOAf34zNwnxK3Zm3wFfjm6E3ODOAEXrrZnBFoYs-yghOgDMNXG1EVh64uiUpgKLI9nj9boOHysz_HvQD9UX_4llh",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJbwSPJm9eZS4ROlnbE-jQNaw",
+         "plus_code" : {
+            "compound_code" : "H6GC+FC Bantarsoka, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GC+FC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJbwSPJm9eZS4ROlnbE-jQNaw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Bantarsoka, Bantarsoka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4214303,
+               "lng" : 109.251407
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420082619708499,
+                  "lng" : 109.2527009302915
+               },
+               "southwest" : {
+                  "lat" : -7.422780580291503,
+                  "lng" : 109.2500029697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Padepokan Mbah JINten",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJnSf-k8BfZS4RckWjhcp1fKk",
+         "plus_code" : {
+            "compound_code" : "H7H2+CH Purwokerto Lor, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH7H2+CH"
+         },
+         "reference" : "ChIJnSf-k8BfZS4RckWjhcp1fKk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Gelora Indah I, Mangunjaya, Purwokerto Lor"
+      }
+   ],
+   "status" : "OK"
+}

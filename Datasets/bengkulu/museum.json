@@ -1,0 +1,390 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.791358899999999,
+               "lng" : 102.2519556
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.789913269708497,
+                  "lng" : 102.2532171802915
+               },
+               "southwest" : {
+                  "lat" : -3.792611230291502,
+                  "lng" : 102.2505192197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Gedung Daerah Provinsi Bengkulu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100214860766549067227\"\u003eJananta Sastro diharjo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL4pWrfGtuFsIgCsw0C2nvoFspO-gCfP-A3fI48FcaOKdzK8Ja-5syFDd4SeVM0xypA82eJSPT9CckSdpd6Om_-DPXI2jYM2HnhjylTKaGL_SDeUnrI37cZzLi6-3CR0UA0fH1no5Vn1gvMpJCDXQcbQ5-O0tY80w7LP5N1US0axTY5",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJSc8Y4NivNi4RgzpKJwqhLxc",
+         "plus_code" : {
+            "compound_code" : "6752+FQ Pasar Jitra, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846752+FQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJSc8Y4NivNi4RgzpKJwqhLxc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 186,
+         "vicinity" : "Pasar Jitra"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7890472,
+               "lng" : 102.2618013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.787670469708498,
+                  "lng" : 102.2630990302915
+               },
+               "southwest" : {
+                  "lat" : -3.790368430291502,
+                  "lng" : 102.2604010697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kaganga Institute",
+         "place_id" : "ChIJi2qGYMKxNi4R5HmDfph-x8U",
+         "plus_code" : {
+            "compound_code" : "6766+9P Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846766+9P"
+         },
+         "reference" : "ChIJi2qGYMKxNi4R5HmDfph-x8U",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Lettu Zulkifli No.98, RT.14/RW.04, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7982448,
+               "lng" : 102.2653915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.796942269708497,
+                  "lng" : 102.2668456302915
+               },
+               "southwest" : {
+                  "lat" : -3.799640230291502,
+                  "lng" : 102.2641476697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Ibu Fatmawati Soekarno's House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107350195971868633913\"\u003eDesi A Prawita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL6uXytRbo73KLT2BQjZrt7R8vSjWw8lFjfw8wQxrunjl9p1w04zxQO2zIVy5GD5tSyOq-n4OQosKq9zSBPJ3zjaGzTQVnvhIxoUOQBJfOr7SbpK9BLWIM3x04isTLB7pRUb0uWyoGtGSYI2vxWT1ec0CLoe2_1RBh0FvLZf2C3pnjN",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJNecFGhiwNi4RumdM9A6TDdM",
+         "plus_code" : {
+            "compound_code" : "6728+P5 Penurunan, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846728+P5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJNecFGhiwNi4RumdM9A6TDdM",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 797,
+         "vicinity" : "Jalan Fatmawati, Penurunan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.801359,
+               "lng" : 102.2567105
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.799970069708498,
+                  "lng" : 102.2581108302915
+               },
+               "southwest" : {
+                  "lat" : -3.802668030291502,
+                  "lng" : 102.2554128697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Surau tak beratap",
+         "photos" : [
+            {
+               "height" : 1504,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110980094923854758687\"\u003eWawan Sopiyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVPCz8ReFCd1esIygnNI22ZbVL5xbRg2cfc1tUeSyKtiZC_Vty6id2eCPYOZZUeFOxrR4I5ipjLA8OMtW_IJBOLcbYiR4M9QMlzwh6Zv-oKClWKPHRvoC0VA4GDRwBr_kdENgmiT6tN06CMwHKBiYZPghuzwkTnZANyaiU-8O-6EFP",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJh71mv-WxNi4RG37eO6QsX10",
+         "plus_code" : {
+            "compound_code" : "57X4+FM Nusa Indah, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457X4+FM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJh71mv-WxNi4RG37eO6QsX10",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jl. Jemb. Pantai Panjang, Nusa Indah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7872865,
+               "lng" : 102.2520626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.785854969708498,
+                  "lng" : 102.2532962802915
+               },
+               "southwest" : {
+                  "lat" : -3.788552930291502,
+                  "lng" : 102.2505983197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Fort Marlborough",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104977233949597414422\"\u003eJohari Johari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLpaHPz4jqfa572Zqi_NoKB5tSIN2AyOt-RBtflTo9KdWx9e5ooIjD704B2ynKGg-GZuqzqgg65LfNwK3GAjSiYi22WwdU4Mc0AsuU-9pWLc480HpVI36D4WbkIfdW-IFZXhDG9bA6C6S7D2wiKAkEwFQFcYMwuxbXvfwb46CC01wsB",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJk_fbsLOvNi4R_Ul_nMaWH0s",
+         "plus_code" : {
+            "compound_code" : "6772+3R Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846772+3R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJk_fbsLOvNi4R_Ul_nMaWH0s",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kebun Keling"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.780002099999999,
+               "lng" : 102.2615623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.778747569708498,
+                  "lng" : 102.2633045302915
+               },
+               "southwest" : {
+                  "lat" : -3.781445530291502,
+                  "lng" : 102.2606065697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pantai Kualo Bengkulu",
+         "photos" : [
+            {
+               "height" : 2936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106837107201834560059\"\u003eWiro Heriadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJsgch2OPd4HtneR0vqxjerdhtw3x299-xabYxGtZi9AQXFLYoJQrVMfCdX9ClQl1qrTgBLDZ79xW2qyIUsHx3dxELCjOCPu-ypg66Z2Z7CXPSpSbyM7sDsx8AFLv6lXeIoYM8lsAT0trRud0UDzLk02I86f8WPkj0H2sO3OA-2lHmT",
+               "width" : 4195
+            }
+         ],
+         "place_id" : "ChIJVVVVJS2wNi4RX-qKfADfFNw",
+         "plus_code" : {
+            "compound_code" : "6796+XJ Pasar Bengkulu, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846796+XJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJVVVVJS2wNi4RX-qKfADfFNw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "Pasar Bengkulu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.796193,
+               "lng" : 102.273231
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.794807069708497,
+                  "lng" : 102.2745184302915
+               },
+               "southwest" : {
+                  "lat" : -3.797505030291501,
+                  "lng" : 102.2718204697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Anjungan Yansel",
+         "place_id" : "ChIJJcQeFT6wNi4RUAJUTLeqfOE",
+         "plus_code" : {
+            "compound_code" : "673F+G7 Sawah Lebar, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P84673F+G7"
+         },
+         "reference" : "ChIJJcQeFT6wNi4RUAJUTLeqfOE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "JL. Jati RT 001/08, 127, Bengkulu, 38227, Sawah Lebar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.8084167,
+               "lng" : 102.2627012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.807067719708499,
+                  "lng" : 102.2640501802915
+               },
+               "southwest" : {
+                  "lat" : -3.809765680291503,
+                  "lng" : 102.2613522197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kota Bengkulu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111181886022350988894\"\u003eMohammad Zainal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-7NSTMRGjX6tM-t-2IEYGyg8OczPgTx1hA5s6xO9VGKktK8e3PJFI3KKK3Y_7EmTWva01wvJdRY1lQyP64BDSZxFdIZOlP46vgtiTncr9834YlB1giTFP1iR2oSK49hJI2Hsgc6VJaFPXlWy-vsW-5Y1MFuddOzJ9NSYwtmx_g9bm",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ95uv3ASwNi4RQ_r0wyRt1gU",
+         "plus_code" : {
+            "compound_code" : "57R7+J3 Lempuing, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457R7+J3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ95uv3ASwNi4RQ_r0wyRt1gU",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 120,
+         "vicinity" : "Jalan Jembatan Pantai Panjang, Lempuing"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.8032411,
+               "lng" : 102.2736104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.801760719708498,
+                  "lng" : 102.2750895802915
+               },
+               "southwest" : {
+                  "lat" : -3.804458680291502,
+                  "lng" : 102.2723916197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Ahli Pompa Air",
+         "place_id" : "ChIJm7bJN0uxNi4Ry7qzeBtBVRw",
+         "plus_code" : {
+            "compound_code" : "57WF+PC Kebun Kenanga, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457WF+PC"
+         },
+         "reference" : "ChIJm7bJN0uxNi4Ry7qzeBtBVRw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Flamboyan Raya No.11 No.21, Kebun Kenanga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.8040956,
+               "lng" : 102.2729767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.802809569708497,
+                  "lng" : 102.2743520302915
+               },
+               "southwest" : {
+                  "lat" : -3.805507530291502,
+                  "lng" : 102.2716540697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Monumen ANGKASABOLA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJu3n5sXGxNi4R2eU_zWH2oX0",
+         "plus_code" : {
+            "compound_code" : "57WF+95 Kebun Kenanga, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457WF+95"
+         },
+         "reference" : "ChIJu3n5sXGxNi4R2eU_zWH2oX0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kebun Kenanga"
+      }
+   ],
+   "status" : "OK"
+}

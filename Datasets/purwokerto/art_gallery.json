@@ -1,0 +1,253 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4217138,
+               "lng" : 109.2264733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420471169708498,
+                  "lng" : 109.2277987302915
+               },
+               "southwest" : {
+                  "lat" : -7.423169130291502,
+                  "lng" : 109.2251007697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Lamia Craft Purwokerto (House of Seserahan)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112229419967882568816\"\u003eLAMIA Handmade Purwokerto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIDMWF7mLbCGBwbEqVNbivxyb0v0A1l-KNHmeNQKym2ZLPAfl2RosiwVqBWf2yZB0JAsE96P7j5L_3SPOJOe7QuoBglclU7ZFbamGEM4CPfgRwM5AZppvnrDW4hO_yXoy3ASlhcMM-Z-oXWvccO60X2g_88z7dO08FcOy05MN_Xjuwe",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJv6XaiWZeZS4RocFaNkOtLxE",
+         "plus_code" : {
+            "compound_code" : "H6HG+8H Kedungwuluh, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HG+8H"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJv6XaiWZeZS4RocFaNkOtLxE",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "Jalan Yosodarmo, Pesayangan, Kedungwuluh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4345849,
+               "lng" : 109.2388105
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.433236419708497,
+                  "lng" : 109.2401533302915
+               },
+               "southwest" : {
+                  "lat" : -7.435934380291502,
+                  "lng" : 109.2374553697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Rumah Aksara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117252133663201633183\"\u003eRumah Aksara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI8UILsWOK4sDhL4aHQAXYeoGdB4V6-NfkvPcidCk4VdDAZ2d4T7ze2cWIxftGYvVsviWKUxv2-7PjUO-p6D3csO2rP04XOnk6LGS5Fj4PtpZvkMzyBagf0o9SWoUn4rvxLW2DQtCMEfJgwmiey8JhxO_1ibrkxhDJ6aVt74-2yYufw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJzWKUBthfZS4Rt2W0pr7wWIo",
+         "plus_code" : {
+            "compound_code" : "H68Q+5G Purwokerto Kulon, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH68Q+5G"
+         },
+         "rating" : 5,
+         "reference" : "ChIJzWKUBthfZS4Rt2W0pr7wWIo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Gang Sidanegara 3 No.36, Penisian, Purwokerto Kulon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.417965799999998,
+               "lng" : 109.2465915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.416615819708498,
+                  "lng" : 109.2479327302915
+               },
+               "southwest" : {
+                  "lat" : -7.419313780291501,
+                  "lng" : 109.2452347697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Fine Art Market",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102686361305185873911\"\u003eFine Art Market\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKmgzIzcpke2KV_zk8jtFZo_gKRgWsIUnZxAY_VKH1wFsQewo086rURKK_eSuiOilRntgY8kl9n58zWCMc4zEk7d8P8F6TQTdkTr2T6RQ2bs8KUBMy09CHeK6xsEsVBOjo3gvWOlEZgcoPxzymms44Jx35n2e6siKn0BGWYDJEOinVW",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJSTyA6u9fZS4R2f9pPH_m7Xo",
+         "plus_code" : {
+            "compound_code" : "H6JW+RJ Purwokerto Lor, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JW+RJ"
+         },
+         "reference" : "ChIJSTyA6u9fZS4R2f9pPH_m7Xo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Professor Doktor Suharso Gang Kenanga No.17, Jatiwinangun, Purwokerto Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4170859,
+               "lng" : 109.2478967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.415770769708497,
+                  "lng" : 109.2492425302915
+               },
+               "southwest" : {
+                  "lat" : -7.418468730291502,
+                  "lng" : 109.2465445697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Amalia Gallery Kaligrafi",
+         "place_id" : "ChIJa7Inr5JeZS4RenkdMKBkBCQ",
+         "plus_code" : {
+            "compound_code" : "H6MX+55 Purwokerto Lor, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MX+55"
+         },
+         "rating" : 5,
+         "reference" : "ChIJa7Inr5JeZS4RenkdMKBkBCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "JL. Prof. Doktor Soeharso, No. 1183, Mangunjaya, Purwokerto Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.410569099999999,
+               "lng" : 109.2207192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.409215969708499,
+                  "lng" : 109.2220750802915
+               },
+               "southwest" : {
+                  "lat" : -7.411913930291504,
+                  "lng" : 109.2193771197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Hanz Garage",
+         "photos" : [
+            {
+               "height" : 5184,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100377582362127932569\"\u003eaqil hanif al anshori\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIciuFS7Wb1ULwGCpco7w95pLfoPL42-BmoO9pFGZXZoCOI6Zq9psoll2xngxNBzUefkTzQF3AUcW0igSI1vzGMLTqNFLq8rFtDPkZMKLgn30rpVe08-112bUnyYH5SQliJiNraPOdR5b-MJyRRMHVeZ6rjYsFAFziuNnqH3fpRiaS2",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJz67jhH9fZS4Rd0k6wwjXjWw",
+         "plus_code" : {
+            "compound_code" : "H6QC+Q7 Kober, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6QC+Q7"
+         },
+         "reference" : "ChIJz67jhH9fZS4Rd0k6wwjXjWw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Kober, Kober"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4399571,
+               "lng" : 109.2320755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.438608019708498,
+                  "lng" : 109.2334237802915
+               },
+               "southwest" : {
+                  "lat" : -7.441305980291502,
+                  "lng" : 109.2307258197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Lukisan/Seni Rupa Maha Pradnya",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104228629948679099373\"\u003etarkim taryo suwito\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKetVYHKbUYGm5o1UYwblPupk2yTgxTpMxiMMrG4lx7gl50sRnYA0i-OmlKrGem8BKo8q67CYTVPv2L2JWhZv4673NDS9JXqY_1vdjsTsb47DW14O0UIZ-cpPj5kbVrRl_IFqY8aRb7EpHXZY-XNERGdHKPH3Wv87RuF1FJz2PhyF86",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJkUgEr9VdZS4Rb1vCw8HW9iY",
+         "plus_code" : {
+            "compound_code" : "H66J+2R Tanjung, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH66J+2R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkUgEr9VdZS4Rb1vCw8HW9iY",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Jati 2, Bojong, Tanjung"
+      }
+   ],
+   "status" : "OK"
+}

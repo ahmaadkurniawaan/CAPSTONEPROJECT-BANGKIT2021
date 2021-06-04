@@ -1,0 +1,795 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKvajbz2kxGtRadQ11Os31U1s3ogHMNK2fx0iDtQZIQg-CYikGd-14Kd2EdqGb240E7IRb84LiunzPEoHVRpXU_qnI0RtCXAgqz0SoaMa5PVwdODnBJo7wkkE9Bsyj0uEayCrX6jJ5Nh6im2QOOtsxUftzxH8m9ta5QmsrWHi1djWdkw3oGLLjCHwgYfFIW5Rj7NwsDT2i7yBnll30XuHgKaA_UZ0RI-6FEGFxkStXJNW8ijhxCFWu3pofny6mrejS4UGmSNNmFG8SsNugbalDsyzVFDzuAujVKHL-Yych_c4rr5Y0K0NeE-Ira4UBZ-yKsHj2StZWDp9nsuFeohbW5qrDoIpyDHKepyc-fU7yxLaNHit-MfXw9daN36rzjFQWMKga66LJPC60t7B6BW6EAFug9sVrUX473DoZsPuzn2osJrXnmS7k",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9226601000000002,
+               "lng" : 100.3601326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9214428197084982,
+                  "lng" : 100.3614820802915
+               },
+               "southwest" : {
+                  "lat" : -0.9241407802915023,
+                  "lng" : 100.3587841197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Taman STMIK Indonesia Padang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104499336929329303917\"\u003eCalon Minantu Amak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIr7iCpzqkBK2OoJq0dsI50thzl6HLBv17ALMEzZMZZwwrR-fcP-OH6FADOsdQuRoJ0KMaIWRcEZIgl0oaHMw2_6B-cwwM22w6hoxHDoAZmmTiDgIJvf_lJ1RaBIZqgOLXXMh4TcAstLzwvE_y5dQ2WjgemxuoAv_VU0-OZyJd-Zs9l",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJQ5efvdC41C8REFqpsu-LlxI",
+         "plus_code" : {
+            "compound_code" : "39G6+W3 Lolong Belanti, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF239G6+W3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQ5efvdC41C8REFqpsu-LlxI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Lolong Belanti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9552701000000002,
+               "lng" : 100.3558283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.953924769708498,
+                  "lng" : 100.3569440802915
+               },
+               "southwest" : {
+                  "lat" : -0.9566227302915021,
+                  "lng" : 100.3542461197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Adityawarman",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104138721919639619391\"\u003eabdurrazak sp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJkhAUCVXpyqCMeD7HhsXuNXiOv4RDCETSFv5eNMB6r_75xFs1DJ01wndYXAYa7prhE1F-wFtIluz1tmE4I1mtTcNL2LJ6SsSjlNJuVTbMnoyXIcKOKkjMyceqafeY2Eek7_nK9o-ncPJVDu1yUBPS5kvmmjCWp5qFA2IPS8PIAk_XP",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJcRVmd0651C8Re8cvlAEemYE",
+         "plus_code" : {
+            "compound_code" : "29V4+V8 Belakang Tangsi, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V4+V8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJcRVmd0651C8Re8cvlAEemYE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2564,
+         "vicinity" : "Jalan Diponegoro No.10, Belakang Tangsi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.7868860999999999,
+               "lng" : 100.6367531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.785599269708498,
+                  "lng" : 100.6380068802915
+               },
+               "southwest" : {
+                  "lat" : -0.7882972302915021,
+                  "lng" : 100.6353089197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "yale a sol park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103825356845197805249\"\u003eChika Putri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLyZxh3CW2t2PIwwWx2nYMoPTzAoviU1xBNYCRZDJ-998vqamaeGdgjdY2LXl9n_RPjMOSD7iVp_DQTQB6DI8hHdwYWGSqFB37ySQyDduu6ZIVJDmtnvy6ml1Xul3c6Csc0VIAHdgOD1bQjzWeCphiKWghVq89LcoXm65LXtRf_DlnU",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJifFOVCMzKy4Rur8uKjFKzYg",
+         "plus_code" : {
+            "compound_code" : "6J7P+6P Tanah Garam, Solok, West Sumatra, Indonesia",
+            "global_code" : "6PF26J7P+6P"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJifFOVCMzKy4Rur8uKjFKzYg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Tanah Garam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.6257868000000001,
+               "lng" : 100.1196008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.624413169708498,
+                  "lng" : 100.1209414302915
+               },
+               "southwest" : {
+                  "lat" : -0.6271111302915021,
+                  "lng" : 100.1182434697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu Tabuik",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4962,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107467033689622715149\"\u003eYolviatama Aridelsya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK_4C6cbR8Z5tkfXqrV7VLbzZGwYvr2PtpyrSROCmOxe0SMq-HTTcWgVGqUCjATRg-XpwPs126QFyt0CPA7_D4HRfKDWcO1PunK3bgFG5MJ-jVoPpUZArmxePj79LK5X5R37Urk5miOhco4XXCSjvh10zGzp-JhSFCiZAQH7vAeu9o",
+               "width" : 3720
+            }
+         ],
+         "place_id" : "ChIJM1IoH_zi1C8RmXxSH46qAWs",
+         "plus_code" : {
+            "compound_code" : "94F9+MR Pondok II, Pariaman City, West Sumatra, Indonesia",
+            "global_code" : "6PF294F9+MR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJM1IoH_zi1C8RmXxSH46qAWs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 284,
+         "vicinity" : "Jalan St . Syahrir, Pondok II"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9470831000000001,
+               "lng" : 100.417181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.945667419708498,
+                  "lng" : 100.4186671302915
+               },
+               "southwest" : {
+                  "lat" : -0.9483653802915021,
+                  "lng" : 100.4159691697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Sekretariat AFTA",
+         "place_id" : "ChIJ-f___7-51C8RoK5EYmoegcE",
+         "reference" : "ChIJ-f___7-51C8RoK5EYmoegcE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Komplek GOR H. Agus Salim, Piai Tangah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9232959000000001,
+               "lng" : 100.4184318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.921928669708498,
+                  "lng" : 100.4195454802915
+               },
+               "southwest" : {
+                  "lat" : -0.924626630291502,
+                  "lng" : 100.4168475197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Taman Makam Pahlawan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110934892279665661173\"\u003eFATHUR RIZQI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLeKv80Gf8yb-roxV6aWmWI6tK5VAgPxJCrxZ6iefqRM7UgFJOX6H5p1iFbYy66bMIfwXuaNofWnjxWhGYxI48KleePCCJbyGd25dRlm534oMj205GGrUqnJ5ySBIjfUdMlDzLGaV2vYshF9y37pLJ55_aLVpJ5j_kPuKw6zkTf9CbI",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJk4hrxxa41C8RMIobSu_s4Js",
+         "plus_code" : {
+            "compound_code" : "3CG9+M9 Kuranji, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23CG9+M9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJk4hrxxa41C8RMIobSu_s4Js",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 188,
+         "vicinity" : "Jl. Raya Belimbing, Kuranji"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9313208999999999,
+               "lng" : 100.3879525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.929868869708498,
+                  "lng" : 100.3892993302915
+               },
+               "southwest" : {
+                  "lat" : -0.9325668302915021,
+                  "lng" : 100.3866013697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Anto akang",
+         "place_id" : "ChIJoQ-999e51C8Rz_1dJ25dEWI",
+         "plus_code" : {
+            "compound_code" : "399Q+F5 Anduring, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF2399Q+F5"
+         },
+         "reference" : "ChIJoQ-999e51C8Rz_1dJ25dEWI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Mahmud Yunus No.13, Anduring"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9668705,
+               "lng" : 100.3951985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9655279197084982,
+                  "lng" : 100.3965638302915
+               },
+               "southwest" : {
+                  "lat" : -0.9682258802915022,
+                  "lng" : 100.3938658697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Oom Farm",
+         "photos" : [
+            {
+               "height" : 2252,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114863948395758462908\"\u003eJose 1984\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwImWFlwel_ycWC-6Lt_XgA5KsAx8Hc5td2aZ48ZDLPfhp3luqBUyxPT2mA1SvSCZyihYtDTLfEK564FLsTgWnjb5rFKPhKz6g5u-N5ahnSuYTLZxaFHV0xlvtU22oA3-fei5TKbKb4Qxs2ZxMy5q7lA6EZAa3-q80FWW5vajyFK7w8H",
+               "width" : 1996
+            }
+         ],
+         "place_id" : "ChIJ0VAoIBO71C8RlyFLXaAeWXM",
+         "plus_code" : {
+            "compound_code" : "29MW+73 Parak Laweh Pulau Air Nan XX, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229MW+73"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0VAoIBO71C8RlyFLXaAeWXM",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Parak Laweh Pulau Air Nan XX"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9455252999999999,
+               "lng" : 100.3773168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9441900697084979,
+                  "lng" : 100.3785822302915
+               },
+               "southwest" : {
+                  "lat" : -0.946888030291502,
+                  "lng" : 100.3758842697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu Tigo Tali Sapilin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4896,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102747272035845826482\"\u003eSurya Budi Ariyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLqe2N_lESOtNPJDWnzYV9Gp-uAVvc1RyV5mb9tsGTQN7hA7a0Na7XT702tdSXwa1qgyktn6nRNKM-Hu1dK6jSsIOpGyttpTnYhAih2ygRU_cHUUWk4rmlHzVntqfEonQzdEG3q3cYk1O0AwTzfCeBYVsUcWqoh8obksCjUJQZU5sEE",
+               "width" : 6528
+            }
+         ],
+         "place_id" : "ChIJHynhmhS51C8RueSeyEUIBVI",
+         "plus_code" : {
+            "compound_code" : "393G+QW Simpang Haru, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF2393G+QW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJHynhmhS51C8RueSeyEUIBVI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "Simpang Haru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9152484999999997,
+               "lng" : 100.4311025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9141165999999995,
+                  "lng" : 100.4321302802915
+               },
+               "southwest" : {
+                  "lat" : -0.9186442000000001,
+                  "lng" : 100.4294323197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Bukit Balango",
+         "place_id" : "ChIJ9Xdyb2251C8RTlgOTDgBhJk",
+         "plus_code" : {
+            "compound_code" : "3CMJ+WC Kuranji, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23CMJ+WC"
+         },
+         "reference" : "ChIJ9Xdyb2251C8RTlgOTDgBhJk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kuranji"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9550057999999998,
+               "lng" : 100.3696005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9537291197084977,
+                  "lng" : 100.3711306802915
+               },
+               "southwest" : {
+                  "lat" : -0.9564270802915018,
+                  "lng" : 100.3684327197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Percetakan Padang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 957,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103000219158361379674\"\u003ePercetakan Padang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLP1OCendd5DADE_IIGWHB7ccA-ioWifJmCdwbeBNUTM4tl0vnMg4840WnJLk1Ii_9vukRRQh-h2EIzSMsnxkCNvJu963ejNxqN78-VFAk-bX1qiAmnXoqDeryqjY2gWeWQ6Z-zAac4LXSgQPfFxrKe5A8jNu-A0aGRORHrLkzpUY9H",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJI8WQLlO51C8RsF8c-tX5SWA",
+         "plus_code" : {
+            "compound_code" : "29V9+XR Ganting Parak Gadang, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V9+XR"
+         },
+         "reference" : "ChIJI8WQLlO51C8RsF8c-tX5SWA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Ganting depan masjid raya, Ganting Parak Gadang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9542723000000001,
+               "lng" : 100.3686496
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9529224697084979,
+                  "lng" : 100.3700009302915
+               },
+               "southwest" : {
+                  "lat" : -0.955620430291502,
+                  "lng" : 100.3673029697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pandam pekuburan ganting",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5664,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117543701550193538120\"\u003eRahmadio Agustafeli\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJYDWXWDnD8FO4rIwsVxn5xHWKMB0XXuBY6EAyJ5rjiHO1ewNW80Rp8uP1Q5aE0jdtc_HM-fPNd1LejMjxqrWliTDUrM_ynoVx9TmaNIuBu-_tBlLlZs97k9SpXWnuKQUT-rkBqK9JpA99WkN-_sZElg2gPsNT5Bu8oZTZbuOi9VC7A",
+               "width" : 4248
+            }
+         ],
+         "place_id" : "ChIJaVGsAGW51C8RaGKHar9F6g4",
+         "plus_code" : {
+            "compound_code" : "29W9+7F Ganting Parak Gadang, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229W9+7F"
+         },
+         "reference" : "ChIJaVGsAGW51C8RaGKHar9F6g4",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Belakang Masjid Raya Ganting, Ganting Parak Gadang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9521029,
+               "lng" : 100.3653049
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9507558197084979,
+                  "lng" : 100.3666543802915
+               },
+               "southwest" : {
+                  "lat" : -0.953453780291502,
+                  "lng" : 100.3639564197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Rumah Kelahiran Bagindo Azaz Chan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102549993121081962622\"\u003eRizal Guchie\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLCyRJCea3HjBfimH8bbRx5pcFCmct3Sju8448rdG4ugtmSBZupDsJP2Ek26YUiiWe87FSmunbR-MrmT4wdxCaeWfSwW714AgtT67Z1W0NKbsvQ0ua--uUuMNRGCrPaEsYsK0g1OYbEpfATlPsW7K3SpJF96EO0mxfe8t901yhzPnKu",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJG7L9_iK51C8RRq8o7GtcTjU",
+         "plus_code" : {
+            "compound_code" : "29X8+54 Alang Laweh, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229X8+54"
+         },
+         "reference" : "ChIJG7L9_iK51C8RRq8o7GtcTjU",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Alang Lawas Koto 1 No.17, Alang Laweh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9555147999999999,
+               "lng" : 100.3649642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.954166069708498,
+                  "lng" : 100.3663132302915
+               },
+               "southwest" : {
+                  "lat" : -0.9568640302915021,
+                  "lng" : 100.3636152697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Balai pemuda",
+         "place_id" : "ChIJ1Vh4cJq51C8RXmdPtogz6ok",
+         "plus_code" : {
+            "compound_code" : "29V7+QX Alang Laweh, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V7+QX"
+         },
+         "reference" : "ChIJ1Vh4cJq51C8RXmdPtogz6ok",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Alang Lawas Koto 1, Alang Laweh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9559351999999999,
+               "lng" : 100.3642719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9545086697084978,
+                  "lng" : 100.3656113302915
+               },
+               "southwest" : {
+                  "lat" : -0.9572066302915019,
+                  "lng" : 100.3629133697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Bagindo Aziz Chan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114771763360058140936\"\u003eBayu Haryanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKv62n3wFRbWfDFMXTdR6r2VIKKP-prFLLY9sWQjIBz_wBtyy2QzzX2rHV2bCbvISsAne_SRJwl7vvRKmJWpQ8AzW2SsaWaa1KdUJxUxhhYS9xKhxpv8t7E1KDsfsFwlT6Rzq2qqZy11KKkFqDE45Svok1nApuh-sR3mperCKPH_pdO",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJzbFJ2kS51C8RDfk1PrBAD44",
+         "plus_code" : {
+            "compound_code" : "29V7+JP Alang Laweh, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V7+JP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJzbFJ2kS51C8RDfk1PrBAD44",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Alang Laweh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9510025999999999,
+               "lng" : 100.3615223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9495870197084979,
+                  "lng" : 100.3629787302915
+               },
+               "southwest" : {
+                  "lat" : -0.952284980291502,
+                  "lng" : 100.3602807697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Padang City Gallery (Balaikota Lama)",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102501630578781325865\"\u003eOscar Adams\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzj2KkQepYnx4OghsxX9XyfKFM0ycb3Ssb6CfII20D3G5Xr2-wM-Nuh_d7_jGG_KdP9RECSY0dZlxshXcpwYAJNix1uG5uZP4I5intL4vY96_r8DfHrZB_iFwL84g_ozmSjYTc3dxYPHe3yii3vL91ZP0gjTWrNWqKX1deDsLyTwER",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ42FzGUa51C8RS_8w9Azhfvc",
+         "plus_code" : {
+            "compound_code" : "29X6+HJ Kampung Jao, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229X6+HJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ42FzGUa51C8RS_8w9Azhfvc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 385,
+         "vicinity" : "Kampung Jao"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9547927,
+               "lng" : 100.3604648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.953345669708498,
+                  "lng" : 100.3617950802915
+               },
+               "southwest" : {
+                  "lat" : -0.9560436302915021,
+                  "lng" : 100.3590971197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu Adhi Karya Bhakti Praja",
+         "photos" : [
+            {
+               "height" : 2264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117519201160007530396\"\u003eDicky Suryadinata\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJEBFQbgKJ0jlCDQb3cSjw5A4jq1QcqQWfmqkHdlVA0zt-E0TbIwyC7Hsikv8MufrFiBM07FYDqrZGK-6O_3GnQV1l_qwE3jJBd-fmzyMLXARea3f9d1fGDVOOO1n4foslyLgihxvF7lPgDgsCxCb4D8DXj5ZWmCxx3S4hNvj9Y18NY",
+               "width" : 4025
+            }
+         ],
+         "place_id" : "ChIJNeStqf-51C8Rm-S4xv-rJyI",
+         "plus_code" : {
+            "compound_code" : "29W6+35 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229W6+35"
+         },
+         "rating" : 5,
+         "reference" : "ChIJNeStqf-51C8Rm-S4xv-rJyI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9156222000000001,
+               "lng" : 100.3643788
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9142844197084981,
+                  "lng" : 100.3655927802915
+               },
+               "southwest" : {
+                  "lat" : -0.9169823802915021,
+                  "lng" : 100.3628948197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Benteng Jepang Gunung Panggilun",
+         "place_id" : "ChIJUw5VIGC51C8RDnuhEF3N5ho",
+         "plus_code" : {
+            "compound_code" : "39M7+QQ Gunung Pangilun, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF239M7+QQ"
+         },
+         "reference" : "ChIJUw5VIGC51C8RDnuhEF3N5ho",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Gunung Pangilun"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9157240000000001,
+               "lng" : 100.3641656
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9143772197084979,
+                  "lng" : 100.3654985802915
+               },
+               "southwest" : {
+                  "lat" : -0.917075180291502,
+                  "lng" : 100.3628006197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Wisata Benteng Gunung Panggilun",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100768171166608784835\"\u003edian dedi priyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJfpdf_HBWA0RUzABFBW3I_8VqbpOu9YFv292ZajqBU7_HvOXAxmUN4Mqbbx-02BdKd2hxHfw8BmA0HjzjM7SwvSSuSGCksBpZ1fJvX0BO-3g4lGYQ8wQo_2fLPKhuMUvznfnLMukdLPTHiBglBWZgjDCGmb8Saluea9DzHjfj3l-Ux",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJW5A2JWS51C8RXbHoCBeSYTI",
+         "plus_code" : {
+            "compound_code" : "39M7+PM Gunung Pangilun, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF239M7+PM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJW5A2JWS51C8RXbHoCBeSYTI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Gunung Pangilun"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9481667,
+               "lng" : 100.3556747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9467357697084979,
+                  "lng" : 100.3570230302915
+               },
+               "southwest" : {
+                  "lat" : -0.949433730291502,
+                  "lng" : 100.3543250697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kebudayaan Sumatera Barat",
+         "place_id" : "ChIJpTof9Em51C8R4cRr6OO66rc",
+         "plus_code" : {
+            "compound_code" : "3924+P7 Olo, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23924+P7"
+         },
+         "reference" : "ChIJpTof9Em51C8R4cRr6OO66rc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Olo"
+      }
+   ],
+   "status" : "OK"
+}

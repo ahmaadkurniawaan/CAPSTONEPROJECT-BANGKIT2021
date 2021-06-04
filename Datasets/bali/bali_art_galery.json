@@ -1,0 +1,853 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwL8K4UdAJqvHHcaH3e-qx6pv6Ma7dCVR15kxToNmyPBlkPfzVwVRODNBN0BVnT2QeY_PXPad8AUgWy4fwpxfckTmsGZC6EUrSd_hi8OpE8b3J3wlMSQFWffSRqwt932UBpTyhJrzClIh_6lebFNLZryvCEfVDWO_cQrt6zE2nlPfks4HJ7bc-LbW_Qceajl5J0oOfB4zXOc9nlARPon0fhc4WSZHyLYtLnbazRY76p66iYhcU5S1A2UYrUYnJlhmKE-K9agP8NME4ueWKx2aRF-qEktO3jAzsumuMaBMxaSoGYMt9ov1uisflfpPGuAtr6vn2nDeTHIpZMTnlGVftdORBYdVdbKCXaO4wTzqFIZob5_ylXR6d3PR464u-miffcOsdR0a6bED9z6c5G1adLRHBGBZH0qG746eIXkVIQXl4TxxCVilpVdjZbXTg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.495227399999999,
+               "lng" : 115.2977251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.493865919708499,
+                  "lng" : 115.2989693802915
+               },
+               "southwest" : {
+                  "lat" : -8.496563880291504,
+                  "lng" : 115.2962714197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "neoart bali",
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112000379195280542615\"\u003eneoart bali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJbPn8tkb9MQqvjVX1C2clF4OfJFHmkK2VLHAaOVwuKPAFJ42DJcFrDeoYqYAYIWOI1EMjczB9C7MftO6kCk6-mxH6gbPhMAkbSmGaBqzfdgwN4umiiRrE3KSdg_3gU0nxrf3Y0GVCPCxFYzw5I6WvX9KDRgT0UdyRuroxGFbBqa9it",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ3zs3xO8X0i0RJq_jm7uvDho",
+         "plus_code" : {
+            "compound_code" : "G73X+W3 Pejeng Kangin, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG73X+W3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ3zs3xO8X0i0RJq_jm7uvDho",
+         "scope" : "GOOGLE",
+         "types" : [
+            "primary_school",
+            "art_gallery",
+            "school",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "br.cagaan kelod, Jalan Raya Pejeng Kangin No.8, Pejeng Kangin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5286174,
+               "lng" : 115.3585207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.527314819708499,
+                  "lng" : 115.3598542802915
+               },
+               "southwest" : {
+                  "lat" : -8.530012780291504,
+                  "lng" : 115.3571563197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Nusa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105202461928091495253\"\u003eTaman Nusa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIDsT-2a7NVoYR7D02mpgSOamV83Bc1GoeQvrnqbN8mFlsj3EpLkaj_MvEkRQFzDCbzoilK9hOtNMBVy4SVAt5-XmDrlZGE1C9JEZh0WgEsjHnxblN_xpZNYVh6Hp9aCAdxWYqDN0CiMWaHNfRpiMNcS7O_nFhe_zgNyAoSGFH8nqVD",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJCdq44d0W0i0R5tjjXwnkbtM",
+         "plus_code" : {
+            "compound_code" : "F9C5+HC Sidan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF9C5+HC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJCdq44d0W0i0R5tjjXwnkbtM",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1358,
+         "vicinity" : "Jl. Taman Bali – Banjarangkan Banjar Blahpane Kelod, Sidan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.543256899999999,
+               "lng" : 115.272011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.541913969708498,
+                  "lng" : 115.2734046802915
+               },
+               "southwest" : {
+                  "lat" : -8.544611930291502,
+                  "lng" : 115.2707067197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Njana Tilem Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 420,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116381382028711889678\"\u003eNjana Tilem Gallery\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIoJiR8y2DnJfuIsW1SK_Ovr2i5v1tj53Nqe6SFTfq_PynFztPxs1r5mWFiObUyXhpsyUmV-bWRQPqGbeMLQbrtwh_ngG2SJWQ-Up3HGLKaaG2PedSnKJUxeBJ4pef0W2uivvgwNjmdIAVTfbgnFUvE11yEpgRSqfSSwmmMPecGhmMC",
+               "width" : 748
+            }
+         ],
+         "place_id" : "ChIJGTUvYo090i0RSRpw7dC_FyU",
+         "plus_code" : {
+            "compound_code" : "F74C+MR MAS, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF74C+MR"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJGTUvYo090i0RSRpw7dC_FyU",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Jalan Raya Mas No.116, MAS"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.512620999999999,
+               "lng" : 115.261366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.511217869708497,
+                  "lng" : 115.2625078802915
+               },
+               "southwest" : {
+                  "lat" : -8.513915830291502,
+                  "lng" : 115.2598099197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Komaneka Fine Art Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116300147828175051716\"\u003eWiyanto Kodrat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKqi1-zJSqC10sRZyDCla5l9dW7TMFAAk5R8fQ9TzDKwsfgFzxOyhmLPzJNYH5Ni4AMwjGB2JgsiSGSpR6pohLEgEiMl_BAIlwM_PM70QTYl_QqC6whxIIf9y4WbX-9QiXIJTI0dtyIY3LBx6hbE5gtIoxv1GYDAcNeqQ9t8Mtba02G",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJecL-2mw90i0RSSahNiTjwvQ",
+         "plus_code" : {
+            "compound_code" : "F7P6+XG Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7P6+XG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJecL-2mw90i0RSSahNiTjwvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 47,
+         "vicinity" : "Jalan Monkey Forest, Ubud"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.416498699999998,
+               "lng" : 115.2981522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.415112869708498,
+                  "lng" : 115.2995240802915
+               },
+               "southwest" : {
+                  "lat" : -8.417810830291502,
+                  "lng" : 115.2968261197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Manik Mas Handicraft",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105716708616208765292\"\u003eManik Mas Handicraft\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKaxBUnJeH2M8oOVdmcdV64l8ciCEcVnntuQIxNK_G9InsSGtJeAo1_XJjxwmDFYdxABn0wB0zUdlAoISP7z3ePKdS7u1yOYulrqVmpakerUHo8TDvpk_-khAk4Ve6rg2zu75WOMJXaSILQgIzW9tuSQtcydovSpGS9hJxxXXuKKh1K",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJb4jiebsY0i0RX-ReSWsmjOw",
+         "plus_code" : {
+            "compound_code" : "H7MX+C7 Kedisan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH7MX+C7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJb4jiebsY0i0RX-ReSWsmjOw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Bayad-Tampaksiring Br. Bayad, Kedisan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4236457,
+               "lng" : 115.310093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.422300519708497,
+                  "lng" : 115.3114420302915
+               },
+               "southwest" : {
+                  "lat" : -8.424998480291501,
+                  "lng" : 115.3087440697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "art gallery of Mr M Wayan Wetja's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112507862011277680393\"\u003eart gallery of Mr M Wayan Wetja&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJaOQz_rfidis3IJ1sG3-i3kWIMSltDKgDCOBBSxpTZyziOrWs10yzSO1l-1VqD3CV8P6LHHuPvzl1I_RPCvVohnHsARuSWmzlBLtaP7Xrh8Mf0UVX9Nho0hpojgJA4okS7935aFn2ciYANrMhFpzGz_O9JTPG-SIJ1Hd9jhSuWhfwH",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJQ9PG--oY0i0RtE361-9r1DM",
+         "plus_code" : {
+            "compound_code" : "H8G6+G2 Tampaksiring, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH8G6+G2"
+         },
+         "reference" : "ChIJQ9PG--oY0i0RtE361-9r1DM",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "gunung kawi rocky temple street, Tampaksiring"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.542078499999999,
+               "lng" : 115.2193415
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.540685419708495,
+                  "lng" : 115.2206784802915
+               },
+               "southwest" : {
+                  "lat" : -8.5433833802915,
+                  "lng" : 115.2179805197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "PT. Karya Tangan Indah",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112053357114865414298\"\u003eVenyoke Oke\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKY_pQt_cH0apXeE4VTREzQ5GKnlJW41e30TgMaSO6GiVJdpgU8CgK__z5SlvmEhBmqHWwj6DTKZWtUjVUNTmHRu2xzcfKdcVwI5HocNahN1DIte1zMvEcUnk13fjTkF6jMInGnNR0oekB8VXrRAoh_6PPs9mdkfKf4a0k3yJ9-rjZ1",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJx-h6olg80i0R-oH6nIQom1g",
+         "plus_code" : {
+            "compound_code" : "F659+5P Mambal, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QF659+5P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJx-h6olg80i0R-oH6nIQom1g",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "Jl. Banjar Baturning Desa Mambal, Abiansemal, Mambal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2545064,
+               "lng" : 115.1504172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.253142569708499,
+                  "lng" : 115.1517949802915
+               },
+               "southwest" : {
+                  "lat" : -8.255840530291504,
+                  "lng" : 115.1490970197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Saya Gallery",
+         "place_id" : "ChIJV-qxtC2J0S0REvpwGRe6BmA",
+         "plus_code" : {
+            "compound_code" : "P5W2+55 Pancasari, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QP5W2+55"
+         },
+         "reference" : "ChIJV-qxtC2J0S0REvpwGRe6BmA",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Laksmana No. 12X Benoa Kuta Selatan Badung Bali, Pancasari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.498953,
+               "lng" : 115.252869
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.497616219708499,
+                  "lng" : 115.2542719802915
+               },
+               "southwest" : {
+                  "lat" : -8.500314180291502,
+                  "lng" : 115.2515740197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Arifin's Art Studio and Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJlenxyDs90i0R-LgQMIR_2io",
+         "plus_code" : {
+            "compound_code" : "G723+C4 Sayan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG723+C4"
+         },
+         "reference" : "ChIJlenxyDs90i0R-LgQMIR_2io",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Raya Sanggingan, Sayan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.507864499999998,
+               "lng" : 115.2654077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.506668919708495,
+                  "lng" : 115.2666860802915
+               },
+               "southwest" : {
+                  "lat" : -8.5093668802915,
+                  "lng" : 115.2639881197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pranoto's Art Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106160862285030132716\"\u003eTojan Musik course\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJzaE7Cq1jp0-hcTu77Xv_SBjvlVRkHe-LkivQAUMdMcdplDfjnPW_C7-UEIYt8H8pgnWO0xdfOJu6uhmQKImGB0uhoGDogrVakrY_-7eAMMHMu3sX0IbzLjUQ2AhAQtZfL8SId4HEPrppQ-EGEX2QLwW7d6d7awutZZzVFky-4-91a",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJUQBN0ms90i0Rokm4JHC_xC4",
+         "plus_code" : {
+            "compound_code" : "F7R8+V5 Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7R8+V5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJUQBN0ms90i0Rokm4JHC_xC4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jl. Raya Ubud Kutuh Kelod Ubud Ubud Gianyar Bali, Ubud"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.493002599999999,
+               "lng" : 115.2536194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.491644419708496,
+                  "lng" : 115.2548267802915
+               },
+               "southwest" : {
+                  "lat" : -8.494342380291501,
+                  "lng" : 115.2521288197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wina - Widuri & Sena Art Gallery",
+         "place_id" : "ChIJOV3MLjE90i0Ryl8ddCkpyXQ",
+         "plus_code" : {
+            "compound_code" : "G743+QC Kedewatan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG743+QC"
+         },
+         "reference" : "ChIJOV3MLjE90i0Ryl8ddCkpyXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Raya Sanggingan Ubud Ubud Gianyar Bali, Kedewatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.455029999999999,
+               "lng" : 115.24274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.453643869708497,
+                  "lng" : 115.2444291802915
+               },
+               "southwest" : {
+                  "lat" : -8.456341830291501,
+                  "lng" : 115.2417312197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The Arts Gallery",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116559332698423346833\"\u003eDorkas Timur\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIfGQnSQoewIIHt0ePkgLbi9cKXmFQIxUvfua9sm2i0PWnWZZIN6SiWKUTPRkAb5TBBp_viHthtG-bricnpUtauwVEsIHJeJcnMXwH227NpCw2VMDezjCQYcLl6l791JkBsVIIjQOwNDt9-DtmCE3nZv4XsgeyuMmi_yYvwVYrtu8aL",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJO2WNXfsi0i0RpMlM62ixLrw",
+         "plus_code" : {
+            "compound_code" : "G6VV+X3 Melinggih Kelod, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG6VV+X3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJO2WNXfsi0i0RpMlM62ixLrw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Alila Ubud, JL. Raya Payangan, Melinggih Kelod, 80572 Bali, Indonesia, Melinggih Kelod"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.40171,
+               "lng" : 115.2952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.400360669708499,
+                  "lng" : 115.2966054802915
+               },
+               "southwest" : {
+                  "lat" : -8.403058630291504,
+                  "lng" : 115.2939075197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "CV.Pondok Prima Art Production",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108031373352363256993\"\u003ePuri Ananda villa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwItoWXQRcPub43uGArwmEYw0eVPF2cA7CnndiUQ02jY2KTB8qKXBMMP7blRWRoXbUHy45iuo11L8UnstdQK1pNBLriVs7x7SvNwE7TB3hQstg8XV4pRR1qVMskdl9_uLCmodhU8xyngIZ2_by-GCalITZHDLoFYopFOrF-ftYAull1B",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJrYtIr1If0i0RRKBjduaLZVY",
+         "plus_code" : {
+            "compound_code" : "H7XW+83 Sebatu, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH7XW+83"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJrYtIr1If0i0RRKBjduaLZVY",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jl. Banjar Sebatu, Sebatu, Tegalalang, Gyanyar, Sebatu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5290403,
+               "lng" : 115.1110038
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.5276746697085,
+                  "lng" : 115.1123092802915
+               },
+               "southwest" : {
+                  "lat" : -8.530372630291504,
+                  "lng" : 115.1096113197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Karikatur kaliaja",
+         "photos" : [
+            {
+               "height" : 388,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106804794778484621500\"\u003eKASUB channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLxffPv3zGgDRxdz3WpvNJUnXCfRr94Tw8NYxHeLkovuVU-O7oG_s6-FL-8k8d2RYZvg_q37AMNzzVJyKP_HisE2qmjWk-mTprOWkJxJw6p97iFWb5Olb2_ewXT_jeHn0UW9MoDT23D-zJhbZ9WlqzyQgmB7Tc2oCLr6a9WZGyucclL",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJu5jrV5I60i0RKq_LtQRUnLQ",
+         "plus_code" : {
+            "compound_code" : "F4C6+9C Samsam, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF4C6+9C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJu5jrV5I60i0RKq_LtQRUnLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Jl teratai kutuh Kelod, Samsam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.444226699999998,
+               "lng" : 115.2806657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.442876319708498,
+                  "lng" : 115.2820372802915
+               },
+               "southwest" : {
+                  "lat" : -8.445574280291503,
+                  "lng" : 115.2793393197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bali Evan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107334845392487291329\"\u003eMade Parta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKV7nYCshal5iaRWs3ZaGNu7Oj7eLXTWTKQmNZUFBv9wOjb-rIvCqdhrZDJnSN-KeLuWOM9PZwox4NaGvljn-DKtbh0nN01eMyYEyvQCOQZ77H02SvaWk1RaBeR4_OiZT2iBR3csy-ES3T9f-Iz6n7dsrs2LHpm4Mtl4YUipmpAAdk0",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJC4mViYAi0i0RaeDNGnSlCi8",
+         "plus_code" : {
+            "compound_code" : "H74J+87 Tegallalang, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH74J+87"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJC4mViYAi0i0RaeDNGnSlCi8",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Jalan Raya Tegallalang, Tegallalang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.422389700000002,
+               "lng" : 115.308699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.4210351697085,
+                  "lng" : 115.3100137802915
+               },
+               "southwest" : {
+                  "lat" : -8.423733130291504,
+                  "lng" : 115.3073158197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bali Art Carving and Manufacturer",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117801895979320342248\"\u003eMadejiwi Jiwi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJvj-NBeZ6x_031FGPt4eaAi_DoQ5B6aZItBUOETH6_0VJZ2JCe_gMrCPy-wDxFp8Loj7kgA9CO5O9jb7acpzVyS9jeIhsqbj9jTCNHQQcELzQunlSi1r3k-6aUteUaHbrd_uEfYbjS58Xu7gM94ffsJNeuSplzOOI4YUSNHjFDfG5q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJUcY7vOoY0i0RLEemRF2IAHo",
+         "plus_code" : {
+            "compound_code" : "H8H5+2F Tampaksiring, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH8H5+2F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJUcY7vOoY0i0RLEemRF2IAHo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Doktor Ir. Soekarno No.18, Tampaksiring"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.485974000000001,
+               "lng" : 115.249361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.484688719708497,
+                  "lng" : 115.2506974802915
+               },
+               "southwest" : {
+                  "lat" : -8.487386680291502,
+                  "lng" : 115.2479995197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Celeng Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103198971593543834115\"\u003eCeleng Gallery\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI6992AyAJUmtF6yPtQRsHLuAYfK1CCXZ08HiR5Vv8yIl1uyMTzxUcalcUPuTiICEtiFVxoKeeXVIqLuMCNUJzk14ymSJH2sTkhCAbDh8FZOOLjxkWBdev4sxRBn-rI5dN4c3XKE1v1fQnre36rKnO037miPD0fbmTxKqB3tSHXBk-k",
+               "width" : 1521
+            }
+         ],
+         "place_id" : "ChIJ8ztoS80i0i0RnnhhYLZo4gQ",
+         "plus_code" : {
+            "compound_code" : "G67X+JP Kedewatan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG67X+JP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8ztoS80i0i0RnnhhYLZo4gQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Raya Lungsiakan, Kedewatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.543277399999997,
+               "lng" : 115.1028998
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.541951519708494,
+                  "lng" : 115.1042813802915
+               },
+               "southwest" : {
+                  "lat" : -8.544649480291499,
+                  "lng" : 115.1015834197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Karikatur Kusuka",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108474383039655046956\"\u003eKarikatur Kusukart\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL5UcuGVVCN3daAVetxZE8WSmjS0LKjJNK0nGh5kwK1mdR-v4yE5Yx2u0vyCXx4Yc9hultXn8P3gryc3oCBANCseyLHCASsphb7g4pN2MnUKP5sUu4W6Mu8Cl3hSSVfAamjbSM6kleHOJAYCh1udgQktCIBaMPbInpRJow7lypGS3WP",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ_____3Mw0i0RGIpaP1AGmb4",
+         "plus_code" : {
+            "compound_code" : "F443+M5 Pangkung Karung, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF443+M5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_____3Mw0i0RGIpaP1AGmb4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Selingsing Kelod, Pangkung Karung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.489447799999999,
+               "lng" : 115.2532987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.488118969708497,
+                  "lng" : 115.2548458802915
+               },
+               "southwest" : {
+                  "lat" : -8.490816930291501,
+                  "lng" : 115.2521479197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Oman Gallery",
+         "place_id" : "ChIJvbqxjzM90i0RxmrmAp5_Fxo",
+         "plus_code" : {
+            "compound_code" : "G763+68 Kedewatan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG763+68"
+         },
+         "reference" : "ChIJvbqxjzM90i0RxmrmAp5_Fxo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Raya Sanggingan No.88x, Kedewatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4912703,
+               "lng" : 115.2533981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.489926969708499,
+                  "lng" : 115.2548050802915
+               },
+               "southwest" : {
+                  "lat" : -8.492624930291502,
+                  "lng" : 115.2521071197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tinarbuko Art Studio & Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114060578997529714364\"\u003eToni AL\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2FVCeMWOfhKLNhPwqdzOj0LT-62ZxSbpXSAgte8TNBYOxksdVtU2t_fNg2SR1vnkczBp8gJC3wOTjSHtUUHXtGbtxBxcMk8dNvByObjb_7bBot49g6uzi5AD_b6QDwFLCYoDhWYo-9dxSQIj2JzBzjYqLw0UMkj-4AEGtb600D3K1",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqwqJUDE90i0RCderUAUBpqw",
+         "plus_code" : {
+            "compound_code" : "G753+F9 Kedewatan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG753+F9"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJqwqJUDE90i0RCderUAUBpqw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Raya Sanggingan, Kedewatan, Ubud, Kedewatan"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.622774999999999,
+               "lng" : 96.85151549999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.624183580291502,
+                  "lng" : 96.85255683029149
+               },
+               "southwest" : {
+                  "lat" : 4.621485619708498,
+                  "lng" : 96.84985886970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Jati",
+         "place_id" : "ChIJvyAMlDTtODAReBEcJuU_odQ",
+         "plus_code" : {
+            "compound_code" : "JVF2+4J East Takengon, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVF2+4J"
+         },
+         "reference" : "ChIJvyAMlDTtODAReBEcJuU_odQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Sengeda No.10, Takengon Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7266432,
+               "lng" : 96.85475029999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.728016080291503,
+                  "lng" : 96.85609943029151
+               },
+               "southwest" : {
+                  "lat" : 4.725318119708498,
+                  "lng" : 96.8534014697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Baleatu",
+         "place_id" : "ChIJC8uOAf2TODARassyokp_sbI",
+         "plus_code" : {
+            "compound_code" : "PVG3+MW Bale Atu, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPVG3+MW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJC8uOAf2TODARassyokp_sbI",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Unnamed Road, Bale Atu"
+      }
+   ],
+   "status" : "OK"
+}

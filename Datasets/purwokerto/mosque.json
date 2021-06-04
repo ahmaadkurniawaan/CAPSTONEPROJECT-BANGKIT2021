@@ -1,0 +1,861 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwI-OFmsF6UcRM-c1Et2BzEPulFNR87yCN2gK4mtzvrBxq4mlEtfWWyPcF6cvIAyR8Ddu9VrUQk2o0nG8qOow_dTuSsnLkZiGoTGsZf_CGwpQ-qFb1VY8d6I5WpKsy7gsoj5ODoNZI58zLxtATOTGAdLfRCzdvPLGBrJ9FPphQ14fbH35vyaLGKURNPx9M-CHvj0TmooYmwgorPCAl0oZxuyH7erEapJ4HEd_GYaQU6BRsKl4lf-V1CJj5hU-C-PVrwGDTU9jaSmoKL8eHYmwofcrJMCgsc8OIG9Me7dzW-652GN9XKgfy0AG1EOFLc-PwGD74FnJ_HMVAf7Owa31npvRN2g-tPNJNnDV1lC5bNwHM_38naO1Qzb2MiWNmpxL-7wj8rqwBBkGboLiFUt9sL5vqfsJbj7gKx4JcGvibINwW2gT8MIFdo",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4244554,
+               "lng" : 109.2292282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423110969708497,
+                  "lng" : 109.2307332302915
+               },
+               "southwest" : {
+                  "lat" : -7.425808930291502,
+                  "lng" : 109.2280352697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Great Mosque Baitussalam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114633478596347565985\"\u003eMas Erwin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK22otN5oussFOxY8LRnNwzmaFe-bvIfbmUgh8LOFJQVk1y_z61dhT13V3xKoyV7WQkWRnC_o1vSPjtx32g779Io_Km1bcMUmR-ySexXWB5nx1Twl7MoEc12u8RfrGDt5CX0ZOnpBEZTEKjZb1yPyEx2MucTjmFIfAjWXjkBDPF_Q3P",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJdZWzcGReZS4RtySxyRxxzfE",
+         "plus_code" : {
+            "compound_code" : "H6GH+6M Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GH+6M"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJdZWzcGReZS4RtySxyRxxzfE",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1360,
+         "vicinity" : "Jalan Masjid No.1, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4104221,
+               "lng" : 109.2312234
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.409071819708497,
+                  "lng" : 109.2323956802915
+               },
+               "southwest" : {
+                  "lat" : -7.411769780291501,
+                  "lng" : 109.2296977197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darunnajah IAIN Purwokerto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103906957754223008086\"\u003eAlvin Hidayat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLWCJ2zW9WhzCE9vOGc8tePSbOtAuXl0-4-OIWsTSX04x8nEZqtzxwikcmliO5GhNQsnRN0D9bCWRkL0wG8SnSu5R0k8c3ig61MKQTicuWdrbGeZW3DFQcoMMEOA8jweIhr8zwnLWWGwifKQFHB1CX11gPWRHUGWHx41gwRm7SRZI8P",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJE9fhElleZS4RS4y7RzmXfnE",
+         "plus_code" : {
+            "compound_code" : "H6QJ+RF Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6QJ+RF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJE9fhElleZS4RS4y7RzmXfnE",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Jalan A. Yani No.40-A, Karanganjing, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.422622100000001,
+               "lng" : 109.2339156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.421341819708498,
+                  "lng" : 109.2352505302915
+               },
+               "southwest" : {
+                  "lat" : -7.424039780291503,
+                  "lng" : 109.2325525697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Al-Istiqomah",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113103095834039755366\"\u003eSalsa Fauziah Zein\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLMFbM9GTFULeZyCf5U-tQIYZkxI0H3sWjsSAwPoeMcDjCk-jfJgXjOXBa2Jb_WgxgZLNtNj_5Ip4j1LLIls5W1XMuVF5QVTf01iTSIkwQ8wcn0rEjiCWXFImsx8ewwYZbPfg_Cg9M_WRkKnWX9G79xxlJvou7KkyW65bKeaO-svR0",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJX5PKMGJeZS4RHQWw6J00xa4",
+         "plus_code" : {
+            "compound_code" : "H6GM+XH Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GM+XH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJX5PKMGJeZS4RHQWw6J00xa4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Kranji, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4215812,
+               "lng" : 109.2328981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420269019708497,
+                  "lng" : 109.2342447302915
+               },
+               "southwest" : {
+                  "lat" : -7.422966980291502,
+                  "lng" : 109.2315467697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Suranggayudha",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115211647383385713978\"\u003eKhoerul Anam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIyBC_WB-zDkstOkGGSd6KYRkrlrtfafGG9XUZhAsE_w0jHc5R0cg21Foc4_1p-OJGFxPsHTDcgsisBZqVaE-GkrJq6Qg_BMDM5_ya4C8gZKZM5d-eGZXmqbt_02hWXuC-D3cXJ17TqDgNCw8JzF5xdVYVmBdgNREGcB8QYTAB8bDZE",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ8-tmnGFeZS4REWOgjMwHtcw",
+         "plus_code" : {
+            "compound_code" : "H6HM+95 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HM+95"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8-tmnGFeZS4REWOgjMwHtcw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.422738199999998,
+               "lng" : 109.235063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.421478069708496,
+                  "lng" : 109.2364282802915
+               },
+               "southwest" : {
+                  "lat" : -7.424176030291501,
+                  "lng" : 109.2337303197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nushrat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103383617576395443135\"\u003eJayadih\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ6SRyRGEwKW4PC-_5Nyq76jlX2ype5saUbOziUWyhjRpnUVkLGFFB-RD6Neqq0jfd0imlZIfbQYPZo5rRxpFHKleSjVj6qlVmIA8CvP9WBmdbVwmt32nfBSLT7BIv-khVjh4tkQ-iqMg7zOmq0YAxSGYXPzbJUc1cD1wYG6o_x3DsQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRdF4h2JeZS4RDOPU5-foZYg",
+         "plus_code" : {
+            "compound_code" : "H6GP+W2 Kranji, Kabupaten Banyumas, Jawa Tengah, Indonesia",
+            "global_code" : "6P4FH6GP+W2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJRdF4h2JeZS4RDOPU5-foZYg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Jl. Kolonel Sugiri No.36 Cikebrok, Brubahan, Kranji"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.420961099999998,
+               "lng" : 109.2343597
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.419574569708498,
+                  "lng" : 109.2357173802915
+               },
+               "southwest" : {
+                  "lat" : -7.422272530291503,
+                  "lng" : 109.2330194197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Besar Jenderal Soedirman Purwokerto",
+         "place_id" : "ChIJ2WumMF9fZS4RhxJdxZN_mt0",
+         "plus_code" : {
+            "compound_code" : "H6HM+JP Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HM+JP"
+         },
+         "reference" : "ChIJ2WumMF9fZS4RhxJdxZN_mt0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Jendral Gatot Subroto No.66, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.422192099999999,
+               "lng" : 109.2355106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420843119708497,
+                  "lng" : 109.2368595802915
+               },
+               "southwest" : {
+                  "lat" : -7.423541080291502,
+                  "lng" : 109.2341616197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Sholahuddin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116858127703933050987\"\u003eRobikhun R\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVCBYOiHhQUxNncdZc2pQCjxVkw45adJPrUaAHPL-zUvDhvHoDDXw2UhDPzV4OwzzJXLRnV0uTnM_9FNhghvqnwQzUNKo_cbvedkJCYgaGKwDArF2GNemSCszK8JtVQcJKxbcWRevLhZeD_FOTcalMgIJDfH5INKbx46Ao9_cKqX6s",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJN3Et-WFeZS4RI_ErnJzJaYo",
+         "plus_code" : {
+            "compound_code" : "H6HP+46 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HP+46"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJN3Et-WFeZS4RI_ErnJzJaYo",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.421422300000001,
+               "lng" : 109.2315966
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420068269708499,
+                  "lng" : 109.2328552302915
+               },
+               "southwest" : {
+                  "lat" : -7.422766230291503,
+                  "lng" : 109.2301572697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid BAITURRAHMAN",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118030063794566645857\"\u003eAiraginrin channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK1SvNmg0DX0US1799W0Vx99xFtOvlcJtVm8c0o3Qv7qFTWf7kUXi4YUSa0zurV1jFBGEXy744-G4TyeakJ1f8OfrW9lAgWu-dUoNX7GEh_-5dcK461A2eGoeFL8g_eO1H21nisdvEjhdqyly1GJvhyGdXFsbcMzSlYCps3coolIf0v",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ6Rw_bGFeZS4R3QTnVBsEEJg",
+         "plus_code" : {
+            "compound_code" : "H6HJ+CJ Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HJ+CJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ6Rw_bGFeZS4R3QTnVBsEEJg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 115,
+         "vicinity" : "Jalan Raga Semangsang, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4206855,
+               "lng" : 109.2345879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.4194546197085,
+                  "lng" : 109.2359089302915
+               },
+               "southwest" : {
+                  "lat" : -7.422152580291504,
+                  "lng" : 109.2332109697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Besar Jenderal Sudirman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116087324302358980123\"\u003eristam iskanadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI9jfypjeWgoItk-U0t8w0kUDntDzSIQIiBUYcJ6d7oks7yiDUrSGLHpXftOUgfddPLibbUeWln97xt6Emp3YJULf_vRVeOF7iXT8RRdur_Jy_p6Edg_0uL9WNhjT08PqBOx806tz2RBkYYODA5q8nuXaFsVrda593b02g5HhFZa8o",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJzRJlxGFeZS4R1yoOJrq4iYs",
+         "plus_code" : {
+            "compound_code" : "H6HM+PR Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HM+PR"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJzRJlxGFeZS4R1yoOJrq4iYs",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1333,
+         "vicinity" : "Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.424711,
+               "lng" : 109.2337584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423310769708497,
+                  "lng" : 109.2351219302915
+               },
+               "southwest" : {
+                  "lat" : -7.426008730291501,
+                  "lng" : 109.2324239697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Soediro",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113788461672633145831\"\u003eivan marindra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKvkbokSyC8vvPsHAxnXqeQziH4LBxbPu19y6P0gEZTHNcrAnvdRSUjlXqxqs8zfyZnTkI_KKtUN_Kk2w3f1vL_zxdHYN4WWxN_I-A9cO8zZf78lL-37B3PXd3HyS5BQwNwf7DwXQIDHF9VTUd1ccVup7CxH_2y0URQLgxWaA0I0NRj",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJBbqhYWJeZS4R4n6AnfW4w7A",
+         "plus_code" : {
+            "compound_code" : "H6GM+4G Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GM+4G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJBbqhYWJeZS4R4n6AnfW4w7A",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Sarag Sereg No.17, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4210772,
+               "lng" : 109.2311235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.419738869708498,
+                  "lng" : 109.2326310302915
+               },
+               "southwest" : {
+                  "lat" : -7.422436830291502,
+                  "lng" : 109.2299330697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla An nur",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113723891373108738639\"\u003eQomaruddin Gallery\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIN1CniezaZ9uyjMBT9CPNF6kAHQxzkjVyuvUF8TDNKf8-Dza5vsbkotyxfwssZ1faREV0pTN4yW8Tdu12urmOq_DP5VrTkx56BJbAE_iLCAl4Fb7iVVZu0Bd9yFRQIDQ9FzUSLlo2DWTeOlySE2Wyf-1EpVL2_I30Uy5ZUImAH2arC",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJg54E9R9fZS4RA7F8ayufE6o",
+         "plus_code" : {
+            "compound_code" : "H6HJ+HC Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HJ+HC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJg54E9R9fZS4RA7F8ayufE6o",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Raga Semangsang, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4233572,
+               "lng" : 109.2362817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.421963619708497,
+                  "lng" : 109.2376775302915
+               },
+               "southwest" : {
+                  "lat" : -7.424661580291501,
+                  "lng" : 109.2349795697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al_Ikhlash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100410837838425158197\"\u003eReza Chandra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI-6HBtTJmkQokuHTdtku1R29lcPxdhZim9UDjJiQtgMqUzpApuJFWa4MqAQc5zmpgOaq7ysfrxgAaz3cNFWuSqkXRH87Rwx55hm4ae77MbGl12C93O_C4p_Ja-jr_fZ8aZudxLiStxHk3WrTF5sYMj04Jv6z8CGuqKjvLEiX4oT5VZ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJD2XP6IleZS4RKUytbckPV3A",
+         "plus_code" : {
+            "compound_code" : "H6GP+MG Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GP+MG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJD2XP6IleZS4RKUytbckPV3A",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Bayangkara No.12, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.419508299999998,
+               "lng" : 109.2313213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418005519708496,
+                  "lng" : 109.2327081802915
+               },
+               "southwest" : {
+                  "lat" : -7.4207034802915,
+                  "lng" : 109.2300102197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baabussalaam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107502471839778495590\"\u003eSulistyana Pratama Adi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLIlgR3lPkI3Tg0he4Z6vWJAS8KlJyaEyqXGPBgfABK_E-3FgSeeMxy1enx2tVKTcVXQpKmq_CBELP0R4pytmZsiKEbsRAFCHVOL1qr6Pj8JVnTD2J0jj0-0ZXS6RBkFbzB-5pDZh5OrZsfpnjaD_3oTnsH0sW6xoLS9LAWTasDOxWA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJPRasyUpfZS4RND2hhuA_y3o",
+         "plus_code" : {
+            "compound_code" : "H6JJ+5G Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JJ+5G"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJPRasyUpfZS4RND2hhuA_y3o",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Karangjengkol, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.420136900000001,
+               "lng" : 109.2362127
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418807519708498,
+                  "lng" : 109.2376534302915
+               },
+               "southwest" : {
+                  "lat" : -7.421505480291502,
+                  "lng" : 109.2349554697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid At-Takrim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116864173526983602326\"\u003eиндри хни\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ5XStl_Gb2pBHmCRG2P5exnFjSrALoEameHXzwiMyebk-SoPQjTnw3ZJvJIVw2U7qetCyDmD7issZl3D0ANFPfO9APKU9MNKSiSdMDz1gWgv2bUAs3Qh0TZjBOmWnul55gN4ufRZdU9LaxFLarORWC1GrvC4GVu4UoMxF1C4w_lrO8",
+               "width" : 1560
+            }
+         ],
+         "place_id" : "ChIJa8gZe4peZS4R1Trl-vHvkf8",
+         "plus_code" : {
+            "compound_code" : "H6HP+WF Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HP+WF"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJa8gZe4peZS4R1Trl-vHvkf8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Jalan Jendral Gatot Subroto No.69, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4267919,
+               "lng" : 109.2332357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.425382969708497,
+                  "lng" : 109.2346594802915
+               },
+               "southwest" : {
+                  "lat" : -7.428080930291502,
+                  "lng" : 109.2319615197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Baitul Amanah",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106285411244436382889\"\u003eindonesia bagus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIIFYNGfeUo6y6X0Mskaa_zKwt_WP0rowOkq-chbN1oNe-JLjFr0E23EXzDxGXMekd-0PiSnHJpS8DectaS3tjDmDtEsPkIFUAoHNxt95iUTmXfZLUqdw4w9yOGN5zyjm0AFj52WPYujnqlvntkBsfwIb-6R1mr7IiUkCJjD1ligvYV",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ4dFD22JeZS4RLO_vYanB0eM",
+         "plus_code" : {
+            "compound_code" : "H6FM+77 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6FM+77"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4dFD22JeZS4RLO_vYanB0eM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Kranjimuntang, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4203983,
+               "lng" : 109.2373462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.419016619708498,
+                  "lng" : 109.2388210802915
+               },
+               "southwest" : {
+                  "lat" : -7.421714580291503,
+                  "lng" : 109.2361231197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid ULUL ALBAB SMA Negeri 1 Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103057988037111274777\"\u003esubar al jazim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLUj09FO7oFfYkcC884SBOnS0vWmpJoHkxhyLFQroE5zXKrcywIbPLyqJoaMZ60U63FexIVRXpoQ_I8KTq1FL0YUVYw5AAvJbDs7QWAe9HfHeCpQTZDdDbK6O9Ke-beDKogISaNIxu0Xbg-lbgWaZozz4V31Na9f9c-dLPprfPcbGee",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJVUdtQ4peZS4R_HuHXCd6dbY",
+         "plus_code" : {
+            "compound_code" : "H6HP+RW Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HP+RW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJVUdtQ4peZS4R_HuHXCd6dbY",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "Tim., Karangkobar, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.421236399999999,
+               "lng" : 109.2378122
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.419921769708498,
+                  "lng" : 109.2392229802915
+               },
+               "southwest" : {
+                  "lat" : -7.422619730291503,
+                  "lng" : 109.2365250197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Bakorwil III",
+         "place_id" : "ChIJ14qqMIpeZS4Rub1fspxtqZw",
+         "plus_code" : {
+            "compound_code" : "H6HQ+G4 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HQ+G4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ14qqMIpeZS4Rub1fspxtqZw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Sitapen, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.419559,
+               "lng" : 109.236972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418160319708497,
+                  "lng" : 109.2381128802915
+               },
+               "southwest" : {
+                  "lat" : -7.420858280291502,
+                  "lng" : 109.2354149197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Fatah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 884,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107040175399672084078\"\u003eFiqi Culinary Art\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ8eGdKLQ6spgPOUIrsSxwDpjlpoT_BJZ1as4jIEL3qy8E9jPBdLfsg8GE17QV6ZIrcjQilJpryjnO7ApMywvK_ZNyzOk8AD4Zc42ypm4GHhGwbMEUCjEd3MWOdHTFFYQh77TuGrN8AjuC1wyOGLJSHVSxqpaETqtJkNhZuyhPt32NW",
+               "width" : 552
+            }
+         ],
+         "place_id" : "ChIJF-TBiopeZS4RA0cVeDYAD3M",
+         "plus_code" : {
+            "compound_code" : "H6JP+5Q Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JP+5Q"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJF-TBiopeZS4RA0cVeDYAD3M",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Sokanegara, Purwokerto Timur, Karangkobar, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.418388900000001,
+               "lng" : 109.2308777
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.417014819708498,
+                  "lng" : 109.2322455302915
+               },
+               "southwest" : {
+                  "lat" : -7.419712780291502,
+                  "lng" : 109.2295475697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baiturrahmah",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106285411244436382889\"\u003eindonesia bagus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL8V3W-fgU0TOt_V8H6SwULh5iHdvhdi0saTYzPV4LAgvgJ5PUnoU8q2GBbOHmsbZzI2YbP4nKb_UTzxOCy4a3LmS9hxR7vwt604F66HXfvKT1zx09anoFqH5P_0L0sxgHPmJfIcQ3WdUyZlKC7E3VIheH-D_JkgFzXdz0FgJLGP8vx",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJq3G421dfZS4RrH84mTfvAhs",
+         "plus_code" : {
+            "compound_code" : "H6JJ+J9 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JJ+J9"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJq3G421dfZS4RrH84mTfvAhs",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan A. Yani Gang III No.KELURAHAN, Pesayangan, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.418694400000001,
+               "lng" : 109.2367475
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.417345419708496,
+                  "lng" : 109.2380964802915
+               },
+               "southwest" : {
+                  "lat" : -7.420043380291501,
+                  "lng" : 109.2353985197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid SMK Ksatrian",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100060152540613867423\"\u003eMuhammad Sholeh Dipraja\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIaA1mLDjjjcivKJV3fqv1Kio9VaZ2rhi4M86fzfnTEPGiedQmBInLiIJi-EE016Z6MHPZ7re3mGduHJ7f-LHodlgn2RrTrqymsB81LnaatCxjtoRJPKUQHbdXG_MfAMJ4yqY7Neympr87Jj9V4jHSLh-9FWzUSPjt3AZGrPAN0DVAc",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJJyLgkmNfZS4R64mJh_zUNgI",
+         "plus_code" : {
+            "compound_code" : "H6JP+GM Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JP+GM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJJyLgkmNfZS4R64mJh_zUNgI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Ksatrian, Karangkobar, Sokanegara"
+      }
+   ],
+   "status" : "OK"
+}

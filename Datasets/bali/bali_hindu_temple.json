@@ -1,0 +1,978 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwK03z2n1XpJAD4ONiCBifszYJPMjB1y4Rr3A3ZfhMP1LL8T6OV-J6vDs-7ztCBkXpfgWl33rtkXiLcjFuMkIiF-hFeES0DPr6fvAoFqm-a9Fx_PqtpsoMIU284I91JqE0uUNkvD1FSR1pYHa61qzoUnW8gxoRcQw0qyjyQk5iKU6yE7Zq5s5l_bKDyV2v53UK_nRLQBwYnwmvnClXyeRT5WFHudp78D80afiUPoZKcC6r36RAebiB7_8I6AvewTJJO5SSsy_JLcAfgC17leirid37b_DeWYxpAoMkB-nJ-5eU3Vqlppqhydge095hY1u-hy0gEqiHpJ-xinJW-99LKUx7YF8EroIaBsYW4eBfpbZUehfXAl8DQ1xk4aB2BBNirszZFXNP_xzDlwd1jlKdYHFEZyrJFuMk77kZAFPqcKotASCW1zRukmUOkDjxU",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.518807499999999,
+               "lng" : 115.2585558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.516888119708497,
+                  "lng" : 115.2603250302915
+               },
+               "southwest" : {
+                  "lat" : -8.519586080291502,
+                  "lng" : 115.2576270697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Dalem Agung Padangtegal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104420489713970235234\"\u003eDerek Hill\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLOtPNCIEjorN0X2EyfVWZJ3Of4iJyBOyWQm0pUWmQIPwpi_jbsClW6ClKex62T6uqnI31Wcr1blQiIUfgn9F8pQAC8xoY6UBKDcnH9_MFU_lNuTe-fnZNe5anO-4F0Dr3YqtLV_7XuX61nq5vaXuWAOQcjgmoJcNmmhYKxeE3Z6Yx5",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJB4M3rQs90i0RG8xbNY04VoU",
+         "plus_code" : {
+            "compound_code" : "F7J5+FC Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7J5+FC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJB4M3rQs90i0RG8xbNY04VoU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 172,
+         "vicinity" : "Jalan Monkey Forest, Ubud"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.1269151,
+               "lng" : 115.0975153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.125520619708498,
+                  "lng" : 115.0989758302915
+               },
+               "southwest" : {
+                  "lat" : -8.128218580291502,
+                  "lng" : 115.0962778697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Desa Pakraman Buleleng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115842939342353616637\"\u003eMade Panter\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJQn2E3qaeE4vGdQPb0pzA9BaTr6jkLsDOcH_9AtyXUDtiSrMgki46kchGt2GNDCIXNfA3BB48UqaMR8TCpbd1CqfpikZI4js_PUTAr2Mv9NHbT9pZpzLmkQB72mLEThYqWL56XmTC6zgZRq_Swz3XFLBQ1Q7JlRnk9OgiovBpsj-_S",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJA_ASr4OQ0S0R2_4l79TSRg0",
+         "plus_code" : {
+            "compound_code" : "V3FX+62 Liligundi, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QV3FX+62"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJA_ASr4OQ0S0R2_4l79TSRg0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Jl. Mayor Metra Paket Agung, Liligundi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6545559,
+               "lng" : 115.2105979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.653201269708498,
+                  "lng" : 115.2118957802915
+               },
+               "southwest" : {
+                  "lat" : -8.655899230291503,
+                  "lng" : 115.2091978197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Maospahit",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114971967879782810978\"\u003eRaynardthan Pontoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIg56f8xZKFJbwIjUEwHEfp6NujPTPd2QtHudQN4mHC7c3R8QgB9ycISr2mt9kWkwOVqzI6rTf0Gfrr0B58RgvQUM6yGx91KO-son6nMWbTVlyNxNDcH4EJp0Q6PGFa-z_P2gGxuNBm1aWdb3Ze6RIvj2MmIPBTvXPJVYu4cf5Lrb_J",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJCYx_u6FA0i0RzkvmBKY813E",
+         "plus_code" : {
+            "compound_code" : "86W6+56 Pemecutan Kaja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q86W6+56"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJCYx_u6FA0i0RzkvmBKY813E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Jalan Sutomo No.6, Pemecutan Kaja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5416323,
+               "lng" : 115.1726013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.54050065,
+                  "lng" : 115.1737036302915
+               },
+               "southwest" : {
+                  "lat" : -8.545027249999999,
+                  "lng" : 115.1710056697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Taman Ayun Temple",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112068745368716703822\"\u003e林金城\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJtfFnHmDuDyZVjOgYGTdp5NpgNP3hMJ8xRyXScRffrxE34Gq5v4w2hwkNrjz1-xSZbuQq9JFTEHCEQuDkI1BHHrWR_pN_3HRej2xRyn7MWZUrsZDoub3gcwcCL4LQRLfrYFTpPZHHKh2l7RE45R3qN2WO43dZ489QkKEEjp6kdl07W",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJAUB625A70i0R7crEj_IvJq8",
+         "plus_code" : {
+            "compound_code" : "F55F+82 Mengwi, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QF55F+82"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAUB625A70i0R7crEj_IvJq8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5983,
+         "vicinity" : "Jalan Ayodya No.10, Mengwi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.415758600000002,
+               "lng" : 115.3151588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.414447519708498,
+                  "lng" : 115.3164675302915
+               },
+               "southwest" : {
+                  "lat" : -8.417145480291502,
+                  "lng" : 115.3137695697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Tirta Empul Temple",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112269215945643954578\"\u003eSims Widjaja\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI9k3zdRyJoYdZAo_wiuDkxq-3pAdl0EUOpLkB6p_5stN_V2uIWtNNh3IimIvo1d6sb83z2axtSwzw41fMgG1xT-sTHszA8jP4GKbnTrqzud8fS7AbgK_TMizQZXN4XWmb-bqVwoUYO8syTnCQ08KcMwiIY0hNyUn7nIjklVFgFFP6V",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJtTFh4PQY0i0RwewUdwFaolM",
+         "plus_code" : {
+            "compound_code" : "H8M8+M3 Manukaya, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH8M8+M3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJtTFh4PQY0i0RwewUdwFaolM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13345,
+         "vicinity" : "Jalan Tirta, Manukaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.3849047,
+               "lng" : 115.162226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.383420419708496,
+                  "lng" : 115.1635507302915
+               },
+               "southwest" : {
+                  "lat" : -8.386118380291501,
+                  "lng" : 115.1608527697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Pucak Pengadangan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117118304334236625812\"\u003ePura Pucak Pengadangan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLKzUrMXzCoF0GG4eGrXQZGSh_qnAV1jfp35qW8RN_YvN3IBivQqV0TqFaKyRPJL7U9qUWOj3WbXUSICVN_GOl1to6vOLc0VK88S9kJZ1h8u_GTG833E0MFPsJQ7BqS09mWyC-Fld0wnhFuedx3w6sNN4SWRpGIayQ8lvd1tegIYfIA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJAy_WdOkm0i0R1OJxI3XgUJI",
+         "plus_code" : {
+            "compound_code" : "J586+2V Senganan, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ586+2V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAy_WdOkm0i0R1OJxI3XgUJI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Banjar Dinas Pagi, Senganan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.263721899999998,
+               "lng" : 115.0912365
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.262415519708497,
+                  "lng" : 115.0925547302915
+               },
+               "southwest" : {
+                  "lat" : -8.265113480291502,
+                  "lng" : 115.0898567697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Ulun Danu Tamblingan",
+         "photos" : [
+            {
+               "height" : 536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102078204547216281958\"\u003eAries Buana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJvmn9h39F9cJKwC-oCqEZ8lklK31wvWlF5Y8KABxBtQlWWgH4Aagq4-41p2iNsSPRM35ZO_ZGN_TqO4YA2i6kpXNQUdBP_DaF4-SiQZaqEo9NZUdLe3hIe8VQqh70OMsIjK6371WtPTD-wj2mqvjabXAwr2SdbmiS70uE01lxRrHwv",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ9f8W2QKG0S0RelXb-wJBb10",
+         "plus_code" : {
+            "compound_code" : "P3PR+GF Munduk, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QP3PR+GF"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ9f8W2QKG0S0RelXb-wJBb10",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 67,
+         "vicinity" : "Jalan Danau Tamblingan, Munduk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2486905,
+               "lng" : 115.1011174
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.246133449999997,
+                  "lng" : 115.1018125802915
+               },
+               "southwest" : {
+                  "lat" : -8.249542850000001,
+                  "lng" : 115.0991146197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Ulun Danu Tamblingan",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116696075307193603933\"\u003eMad German\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLh_w5t802-QYjD1YR_nSxdiuXsfLGDjXtYhmxb9jL5lenbIS-n3o3AXcGANHrYVktLo6I0J7seUFVh-q5YG9f6_1GmpVVJYv3Ta6DcNxD7NKFULP10iRo-CdrnayQyJMoMuPpRb5dXvaPBMRecLnsT-N33fVyRPR4hgVo5eW5HL7UA",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJt5aYXFGP0S0RM-ZbgjBNSD0",
+         "plus_code" : {
+            "compound_code" : "Q422+GC Gobleg, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QQ422+GC"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJt5aYXFGP0S0RM-ZbgjBNSD0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Banyuatis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2757668,
+               "lng" : 115.0048246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.274452519708499,
+                  "lng" : 115.0061822802915
+               },
+               "southwest" : {
+                  "lat" : -8.277150480291503,
+                  "lng" : 115.0034843197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Prawangsa Ketewel",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115803803075439752559\"\u003eSila Artana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLHa7wREDjpURhGHNzs1juILxl328hF6Reny6XGA_aIAVDIyYCQTm-Y_bK4tjP2I_S8oYTndnmzmLP3dui4r8XKOudKleIqOXaffsBArng-dQANSDf5w3qhTKOnZ3-BXEJHTci-ZpNC-_I4TpWqH3iFvgZQp78NjYTMhWPK3OomSobj",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJt8mdALSG0S0RYEuI1YtqEY4",
+         "plus_code" : {
+            "compound_code" : "P2F3+MW Kedis, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QP2F3+MW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJt8mdALSG0S0RYEuI1YtqEY4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kedis"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2751807,
+               "lng" : 115.1668234
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.274144419708497,
+                  "lng" : 115.16769835
+               },
+               "southwest" : {
+                  "lat" : -8.276842380291502,
+                  "lng" : 115.16419855
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Ulun Danu Beratan Temple",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118193970222740972975\"\u003eraden fr\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKrj4ZhpwjqFbAdExCJ2MVJZI545V0ZvqjNNQ0Mrus8xr0SkzcahRhxvhTe4vDD_APNsFafbGcXnvFhQJkLQ7Zzt-xp4ErZpT_TnH60YJopMIfw5B4mjndbUfbGxzFCOeDWblIaFo10Q8l2210PBCkivH9hI9wISIucG4w6Z8IUcfBX",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJVwisn2yJ0S0RUxvb5GhlJBg",
+         "plus_code" : {
+            "compound_code" : "P5F8+WP Candikuning, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QP5F8+WP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJVwisn2yJ0S0RUxvb5GhlJBg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24700,
+         "vicinity" : "Danau Beratan, Candikuning"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.3720075,
+               "lng" : 115.1025803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.3710987697085,
+                  "lng" : 115.1041061802915
+               },
+               "southwest" : {
+                  "lat" : -8.373796730291502,
+                  "lng" : 115.1014082197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Luhur Batukaru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109687508019406038029\"\u003eHappy Bali Wedding\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwtel93tLElDcPOWqIC-HRTcQThNBQ-iyRtFl8-2NGzg7rLi99X6XNWo7UtFsqM48QOG0I3rQchyYoigQdMW4Xhw7O9q160tusAicTyUb3nL44aCH6QyEX8pKXP2yBqGnggxJrRQKjP6arsFYS_thuwbawEDmdOc_Ztzokw66ANq__",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSUBnb6VA0i0RhfvVfeZ3Gc4",
+         "plus_code" : {
+            "compound_code" : "J4H3+52 Wongaya Gede, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ4H3+52"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJSUBnb6VA0i0RhfvVfeZ3Gc4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1437,
+         "vicinity" : "Jalan Penatahan - Wongayagede, Wongaya Gede"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.343009799999999,
+               "lng" : 115.1774478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.341510119708497,
+                  "lng" : 115.1788487802915
+               },
+               "southwest" : {
+                  "lat" : -8.344208080291502,
+                  "lng" : 115.1761508197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Luhur Pucak Padang Dawa",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104170916647035209067\"\u003eGin Ariastra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9GPi1NVYCkhP4rupUKVxxh1dR1jkAtDwXMsdbJ6qj42kpdEV5J8_UcaVNvjzyZuklrQM2XwnUAOjGzgDfhc3ZgoUG1nwPnWzn62TJr0LWlqPnNWa9aaD2c1DxyMwC_Qb3vEFVN4jsf94_aGOiyJu8snP75kiFJKkAtekk_T9lnjGs",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ1wAYcE8n0i0Ra_Nq_m2N-38",
+         "plus_code" : {
+            "compound_code" : "M54G+QX Bangli, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QM54G+QX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ1wAYcE8n0i0Ra_Nq_m2N-38",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 76,
+         "vicinity" : "Near Unnamed Rd. Br. Apit Yeh, Ds, Bangli"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.394882299999999,
+               "lng" : 115.1130149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.393519869708497,
+                  "lng" : 115.1143958302915
+               },
+               "southwest" : {
+                  "lat" : -8.396217830291501,
+                  "lng" : 115.1116978697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Merajan Agung Pasek Batukaru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110936010179314498187\"\u003eMerajan Agung Pasek Batukaru\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIta14aKTO4XzlTh8y2pUoUx342_WdrsZX1npGy-WWtxDtCLrLzidK5yb2I2K6OqCNNKREC4gwPkTFUttuvYRPtJ_kQy2SNO1kFYTdVZgzkP4CaktGayTkn0T5SD0RsMVp7YGwStCqgfa_6N9NoBtkoCCRcwJ9UnZAxjY_D0CWTnTAE",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJddywc9En0i0RLXee5bFE76U",
+         "plus_code" : {
+            "compound_code" : "J447+26 Wongaya Gede, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ447+26"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJddywc9En0i0RLXee5bFE76U",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Jurusan Kerambitan Batukaru, Wongaya Gede"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.164546999999999,
+               "lng" : 115.0315822
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.163168519708497,
+                  "lng" : 115.0329170302915
+               },
+               "southwest" : {
+                  "lat" : -8.165866480291502,
+                  "lng" : 115.0302190697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Kawitan Leluhur Majapahit",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104166167752754965753\"\u003eA A Ngurah Sentanu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJJmRr45WwnILLhA0ZEZVu7U2QXnoMh_5Q5Pd8DC41JT3G-7fDEbKJvI_LFSXEg_L_q7opzgdrwXPZ0mivUmXHQBnlfvPWYwPW2LylXKSQTO7Cd7x6pCoGs4qlYihoPDCbMHmN7OJdrSY4pEmLUoYmRt7uA-8DvnURs0E5CdX1_qNwy",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJZU7caDub0S0R9i1YCxuozvg",
+         "plus_code" : {
+            "compound_code" : "R2PJ+5J Anturan, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QR2PJ+5J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJZU7caDub0S0R9i1YCxuozvg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Anturan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.376793400000002,
+               "lng" : 115.1668536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.375445819708498,
+                  "lng" : 115.1681927302915
+               },
+               "southwest" : {
+                  "lat" : -8.378143780291502,
+                  "lng" : 115.1654947697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Puseh Br. Keridan",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100277587003585711635\"\u003eDk Ven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKyknIHzDo76GqEFHSCNMNmWZtJe7vKYOKnHueSbgpS8-lGiW3gM7PPiwBR35RyRpAhQsV3FgAyeW-g9mwLPNEskx6bt-Jwlcu8RC7sgqqR5K87p4LqZrkPkCNtT5TViI4BqT0E-VdqKiEDaVNhFq3FRhJ5mFhaPU-3jTobtXarlXXN",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJvVOmwd0m0i0RMmcV2rGA2Tw",
+         "plus_code" : {
+            "compound_code" : "J5F8+7P Senganan, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ5F8+7P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJvVOmwd0m0i0RMmcV2rGA2Tw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Keridan,, Senganan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.3782721,
+               "lng" : 115.1670212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.376915319708498,
+                  "lng" : 115.1684283802915
+               },
+               "southwest" : {
+                  "lat" : -8.379613280291503,
+                  "lng" : 115.1657304197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Arya Kanuruhan - Tangkas Kori Agung Br. Keridan",
+         "photos" : [
+            {
+               "height" : 718,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100277587003585711635\"\u003eDk Ven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIQMLZxdV3-BPu_AG7XL4elKhO5Qrvggh4el72guy7nU9l1cdD67GVUNPMsdIJQl_xbkuZiBVCzRSRPr7hyitRzCbQzB0SevwxFHwnSyjb0E_msb3qeHAE9VJRENoo5GE0NOg8raN0NCHr7lvAPNYb_ty7hi-xdYzwJ0GBj8YGM3l_J",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ20gECt0m0i0RvZfolS2rX00",
+         "plus_code" : {
+            "compound_code" : "J5C8+MR Senganan, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ5C8+MR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ20gECt0m0i0RvZfolS2rX00",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Keridan, Senganan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.3797336,
+               "lng" : 115.1681911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.378474469708497,
+                  "lng" : 115.1694551802915
+               },
+               "southwest" : {
+                  "lat" : -8.381172430291501,
+                  "lng" : 115.1667572197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Baleagung Br. Keridan",
+         "photos" : [
+            {
+               "height" : 2369,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100277587003585711635\"\u003eDk Ven\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLaOZqPXA_YE-5nISNSRFUPJIXdOx7xcpsEYN1aATtkqWEsHptAUFpZgmkqLA4qj1NbeWdzamOqUAzl4dst3-AYdJesf04cWn378_BK5C5nnV5cXMEO-i36q5nstDiw-Jvzl7KBoOiI_KW4oTeNfH6__3VqiC21TOvENAdxO7J76N5x",
+               "width" : 3160
+            }
+         ],
+         "place_id" : "ChIJa3pT39wm0i0RyNQBVAEASh8",
+         "plus_code" : {
+            "compound_code" : "J5C9+47 Senganan, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ5C9+47"
+         },
+         "rating" : 5,
+         "reference" : "ChIJa3pT39wm0i0RyNQBVAEASh8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Senganan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.194274799999999,
+               "lng" : 114.9697373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.192925769708499,
+                  "lng" : 114.9710899802915
+               },
+               "southwest" : {
+                  "lat" : -8.195623730291503,
+                  "lng" : 114.9683920197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Geria Megati",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113320624013672820103\"\u003eYadawa Syndication\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJSYgS4eK8lvyDylWYAU6ktF6chhUVVwK7ewtY48QUV_LNGh9wl4hf0UUeR7sLImy4t-pOmu38evMjbm00KcX9nb8fuf6sRwypucfn3wLdp8GF6X62KWECx1HcnPArL_uR8g7KXNcqd397btx09Rt51gWFa1OAr2Rmg64bXG9yBX7oJ",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJn4aDiDmD0S0Rr01qquSISjg",
+         "plus_code" : {
+            "compound_code" : "RX49+7V Dencarik, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3PRX49+7V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJn4aDiDmD0S0Rr01qquSISjg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Br. Lebah, Dencarik,, Dencarik"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.311724699999999,
+               "lng" : 115.2252759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.310299219708499,
+                  "lng" : 115.2265134802915
+               },
+               "southwest" : {
+                  "lat" : -8.312997180291504,
+                  "lng" : 115.2238155197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura penataran Agung Bukian",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112684022472108878637\"\u003ePutu Aris Widyastana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIaMGZUhnbtsrP7U7cEK4XGP8JMrQtS9Vc2S-R2b88HsL8TYa8UaWIXDDGAyn3BsfMEeQqnXN12IbSI3LoBFze6gRE0OeDrd2V-Rz2tVSIh7Z14Xq-Ar-dst5LeN90FGkAHRzHYqkUgC-5ivR9IHOD2ulvugEd6Hfqf3pbFoP0gw0Dz",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJa7C65GWK0S0R1IOP3S1vnR0",
+         "plus_code" : {
+            "compound_code" : "M6QG+84 Pelaga, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QM6QG+84"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJa7C65GWK0S0R1IOP3S1vnR0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Br, Jalan Bukian, Pelaga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.388980099999999,
+               "lng" : 115.176676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.387629419708498,
+                  "lng" : 115.1780586802915
+               },
+               "southwest" : {
+                  "lat" : -8.390327380291502,
+                  "lng" : 115.1753607197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Br. Susut Desa Baru Kecamatan Marga Tabanan",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103949478930040049726\"\u003eFani Dw\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJb35qTl97jr69v5dsQJG8Q57ok7-YQ4rqAbOF-rY66qlnOsxyGgxXu0YIfzKyqdX7frpftLcWc1l6cD6CFTHZ_33vfv-hfVj2aUpSGvdc9mzGG57dtdexXiY_o5YJNMNL0dKFCtA-0Q18azlR6iI-Vnx-q6-KeHM9vsehy-Gewf8F4",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJx1VM58cm0i0RWmRbGdKt0Ss",
+         "plus_code" : {
+            "compound_code" : "J56G+CM Sulahan, Bangli Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ56G+CM"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJx1VM58cm0i0RWmRbGdKt0Ss",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Susut, Sulahan"
+      }
+   ],
+   "status" : "OK"
+}

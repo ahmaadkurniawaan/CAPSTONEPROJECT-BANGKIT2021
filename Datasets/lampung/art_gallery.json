@@ -1,0 +1,380 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3720648,
+               "lng" : 105.2579616
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.370690869708498,
+                  "lng" : 105.2593510302915
+               },
+               "southwest" : {
+                  "lat" : -5.373388830291502,
+                  "lng" : 105.2566530697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Dcois Photography Office",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJB09NxjfbQC4RAWzrfbvmIJw",
+         "plus_code" : {
+            "compound_code" : "J7H5+55 Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7H5+55"
+         },
+         "reference" : "ChIJB09NxjfbQC4RAWzrfbvmIJw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Labuhan Ratu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3567273,
+               "lng" : 105.2464643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.355428569708497,
+                  "lng" : 105.2477594302915
+               },
+               "southwest" : {
+                  "lat" : -5.358126530291502,
+                  "lng" : 105.2450614697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Eli (galeri tapis)",
+         "place_id" : "ChIJFZa9L-XFQC4RCh8GeYzefKs",
+         "plus_code" : {
+            "compound_code" : "J6VW+8H Rajabasa Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J6VW+8H"
+         },
+         "reference" : "ChIJFZa9L-XFQC4RCh8GeYzefKs",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl padat karya, Jalan Perum Polri Gang Cendana No.100, Rajabasa Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3545869,
+               "lng" : 105.2463221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.353267919708498,
+                  "lng" : 105.2477176802915
+               },
+               "southwest" : {
+                  "lat" : -5.355965880291502,
+                  "lng" : 105.2450197197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "dwptr project",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJIw-4ZoPFQC4RVdgLGcnYfbc",
+         "plus_code" : {
+            "compound_code" : "J6WW+5G Rajabasa Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J6WW+5G"
+         },
+         "reference" : "ChIJIw-4ZoPFQC4RVdgLGcnYfbc",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Rajabasa Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.370250200000001,
+               "lng" : 105.2686525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.368621869708498,
+                  "lng" : 105.2699197802915
+               },
+               "southwest" : {
+                  "lat" : -5.371319830291503,
+                  "lng" : 105.2672218197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Hansamakeup/Galery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109734768671719399165\"\u003eApril Donna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ5ggxIYN9Y5xBOEDmnmYtWW2EchNne4zWFQQPgnAvfq8Ke35I7hP37ZHjqZPmtDMPLWyPp86tey-O0ufEmTdoRKl2qWbRiGwN5sjHjrGgV534e-0Ax0ds5w_4Tdkb-SIA91EZq6tZomB70itkWmi2swemFsMw5n4MbECVQLv_3eZka",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJcWx4ronbQC4RAzNd2irVeSo",
+         "plus_code" : {
+            "compound_code" : "J7H9+VF Sepang Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7H9+VF"
+         },
+         "reference" : "ChIJcWx4ronbQC4RAzNd2irVeSo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Sultan Haji Jalan Sultan Pesirah Marga No.48, Sepang Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3667583,
+               "lng" : 105.2711936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.365392869708498,
+                  "lng" : 105.2725031302915
+               },
+               "southwest" : {
+                  "lat" : -5.368090830291502,
+                  "lng" : 105.2698051697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Rumah Ultah Lampung",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101028669937607966965\"\u003eRenie Hernasari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9gQ9P44Ran8YbJvBOn1_72LIXUGpDG2CufAkzl1Oj1uHO3xVZvXgFQD9bRd2h3kIAD4y8PwX4tojbX22kl9em8geNBhtImpIrcnEEnV1f3kVnkV_GqKeaPElTjD1vfVWyEcax3RsIa2qxSDbF55onkWCKSZe7rMkx0lDBgvCoozUL",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ75EPldbbQC4RJpGabiM1sk0",
+         "plus_code" : {
+            "compound_code" : "J7MC+7F Tanjung Senang, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7MC+7F"
+         },
+         "reference" : "ChIJ75EPldbbQC4RJpGabiM1sk0",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Tanjung Senang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3704328,
+               "lng" : 105.2460918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.369110269708497,
+                  "lng" : 105.2475176802915
+               },
+               "southwest" : {
+                  "lat" : -5.371808230291502,
+                  "lng" : 105.2448197197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Art.Lampung Galery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111922598574294562342\"\u003eCah Patrick\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIfsRil0CCNebRlH1KnqMYGuLNPuslrU6uzDCqaa3BAVGkRE6T4O3JzQ9OrTY7yk_krBPMovVyL3lTSZVa4a51UleGsN-vYxMnOXTWGDPUNTHsLqHoxy-IBI3Qln_ucmqv8h6SkVn8ymvkVDLvnYHoepISAj3A8XfzdKipRGptTjBUp",
+               "width" : 1100
+            }
+         ],
+         "place_id" : "ChIJ2SI4ssvaQC4RM8XRY_llT7M",
+         "plus_code" : {
+            "compound_code" : "J6HW+RC Gedong Meneng, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J6HW+RC"
+         },
+         "reference" : "ChIJ2SI4ssvaQC4RM8XRY_llT7M",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Abdul Muis 10 blok a. IV griya RT.10/RW.lk 1, Gedong Meneng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3761518,
+               "lng" : 105.2590308
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.374815819708498,
+                  "lng" : 105.2603796302915
+               },
+               "southwest" : {
+                  "lat" : -5.377513780291503,
+                  "lng" : 105.2576816697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The Joni's Bonsai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115169433893183551745\"\u003eDea_05 shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJt_bzPNsB8xemIW6qNHH6Yrng8j4T5xTwTIB8raunZlW3AjFT_2-YC_ezDmpVTijb54U2K7rcSR5W4P-799XfS2krGCFawhhZb4dzc9HUuhJltNl1ic7Tcm-U32RYRotInWrB3_vlco4aqsalVDV9V1lT6SsSNoMts93sd3clJz5dR",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJDwpPogLbQC4RNoVeDAx7hr8",
+         "plus_code" : {
+            "compound_code" : "J7F5+GJ Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7F5+GJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDwpPogLbQC4RNoVeDAx7hr8",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Labuhan Ratu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.376431699999999,
+               "lng" : 105.2590807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.375178419708497,
+                  "lng" : 105.2604350302915
+               },
+               "southwest" : {
+                  "lat" : -5.377876380291501,
+                  "lng" : 105.2577370697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Radar Bonsai Nusantara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111722779109293521030\"\u003eRadar Bonsai Nusantara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ0o3FRqgXZOhviq44Dq1OIJ-KPft9x-rhnN_qEiq-gkRjyPFIBolJJMeMAarAXgzER9JpQRRmIu8wEev_e3HAkze-uUlW9y5Dp4bq9cT8SGiDEFh--yHUpzpJmMzTvCgUWmXb4EFnQ9w2DWU1Ibr020PtSE3cE0kxKV0HTK7CIkuHQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJayDcwdDaQC4RNLMyogID7Ng",
+         "plus_code" : {
+            "compound_code" : "J7F5+CJ Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7F5+CJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJayDcwdDaQC4RNLMyogID7Ng",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46,
+         "vicinity" : "masuk mentok belok kiri, Jalan Nusantara II No.20, Jalan nusnatara 2 rumah pagar tembok kuning No.20, Labuhan Ratu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.344962,
+               "lng" : 105.2613787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.343619119708499,
+                  "lng" : 105.2627418802915
+               },
+               "southwest" : {
+                  "lat" : -5.346317080291503,
+                  "lng" : 105.2600439197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "adityARTistique",
+         "place_id" : "ChIJSUxHlZ3FQC4R8NDzooJxTW4",
+         "plus_code" : {
+            "compound_code" : "M746+2H Rajabasa Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67M746+2H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSUxHlZ3FQC4R8NDzooJxTW4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Gang Bambu, Rajabasa Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3719668,
+               "lng" : 105.2706917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.370618119708499,
+                  "lng" : 105.2720076302915
+               },
+               "southwest" : {
+                  "lat" : -5.373316080291503,
+                  "lng" : 105.2693096697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Yordan's Galleri",
+         "place_id" : "ChIJgXn2XSnbQC4RszibxWQY51g",
+         "plus_code" : {
+            "compound_code" : "J7HC+67 Sepang Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7HC+67"
+         },
+         "reference" : "ChIJgXn2XSnbQC4RszibxWQY51g",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Indonesia"
+      }
+   ],
+   "status" : "OK"
+}

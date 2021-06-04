@@ -1,0 +1,548 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.004628499999999,
+               "lng" : 110.4373145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.003284619708497,
+                  "lng" : 110.4385695802915
+               },
+               "southwest" : {
+                  "lat" : -7.005982580291501,
+                  "lng" : 110.4358716197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Omahe Mbahe 1598",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112880408115324041506\"\u003eTopan Segara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJKpdchjSqeAJkhXvx4bPMVnN2-IdVmzTO1tE1kExEgkWUsTjJoqQIGueBbF0M2YXVwiaRgsQJ94O7HmgB2GEldADNxVUerzWtGzdVWheiaPLlf8uCmZ1b2dYArHV2MbhemKeM5Yo-VcgBLrJ8-xYl-p9S2YrIIKu5XSWKM9Oz3X48",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJpXafEc6NcC4Ra9JTQTsT82Q",
+         "plus_code" : {
+            "compound_code" : "XCWP+4W Lamper Lor, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWP+4W"
+         },
+         "reference" : "ChIJpXafEc6NcC4Ra9JTQTsT82Q",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Sompok Lama No.66, Lamper Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.002496000000001,
+               "lng" : 110.4270938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.001134519708498,
+                  "lng" : 110.4284219302915
+               },
+               "southwest" : {
+                  "lat" : -7.003832480291503,
+                  "lng" : 110.4257239697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Barang Antik",
+         "place_id" : "ChIJBWlohZ2McC4R3faRd57SyY8",
+         "plus_code" : {
+            "compound_code" : "XCXG+2R Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXG+2R"
+         },
+         "reference" : "ChIJBWlohZ2McC4R3faRd57SyY8",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Wonodri Sendang Raya No.12b, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.006133799999999,
+               "lng" : 110.4272995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.004727069708497,
+                  "lng" : 110.4286598302915
+               },
+               "southwest" : {
+                  "lat" : -7.007425030291501,
+                  "lng" : 110.4259618697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AKABONCHU",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 285,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110086268879174397357\"\u003eAKABONCHU\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJyYhExdygeXtaOMDZ40N9IzZJrpbH8MNUpfT_ooU6vMbEtmCKHWdZqFcE2L0EN3G--hGu0v449_mzAR_OTrHcaplytzG2UoyK1C0qATkZUJdj-OACiKKCNxf3LlZKG-tK17Y18c4Nghaw3Ha6FNZ47bnJfO0mVdlQLqsS1dKce6Ipm",
+               "width" : 479
+            }
+         ],
+         "place_id" : "ChIJY3mHDCKNcC4RqcTl7FV63vQ",
+         "plus_code" : {
+            "compound_code" : "XCVG+GW Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCVG+GW"
+         },
+         "reference" : "ChIJY3mHDCKNcC4RqcTl7FV63vQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tegalsari Barat I No.4, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.006373999999999,
+               "lng" : 110.427412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.004892269708497,
+                  "lng" : 110.4288247802915
+               },
+               "southwest" : {
+                  "lat" : -7.007590230291502,
+                  "lng" : 110.4261268197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sienna Galery",
+         "place_id" : "ChIJp7aXuYKMcC4RYoP3nZLv6FA",
+         "plus_code" : {
+            "compound_code" : "XCVG+FX Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCVG+FX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJp7aXuYKMcC4RYoP3nZLv6FA",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Tegalsari Barat I No.12, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.996817199999999,
+               "lng" : 110.4317264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.995469819708497,
+                  "lng" : 110.4332398802915
+               },
+               "southwest" : {
+                  "lat" : -6.998167780291502,
+                  "lng" : 110.4305419197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "M Art Shop & Learn",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJfacSWYOMcC4RRiziDzyHinY",
+         "plus_code" : {
+            "compound_code" : "2C3J+7M Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C3J+7M"
+         },
+         "reference" : "ChIJfacSWYOMcC4RRiziDzyHinY",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "vicinity" : "Jalan MT. Haryono No.653, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.002423,
+               "lng" : 110.42474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000988369708497,
+                  "lng" : 110.4261926802915
+               },
+               "southwest" : {
+                  "lat" : -7.003686330291502,
+                  "lng" : 110.4234947197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pare Anom",
+         "place_id" : "ChIJI3oraGKLcC4Rc4A4ObyWss4",
+         "plus_code" : {
+            "compound_code" : "XCXF+2V Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXF+2V"
+         },
+         "reference" : "ChIJI3oraGKLcC4Rc4A4ObyWss4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "JL. Sriwijaya, No. 29, Kompleks TBRS, Semarang, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.014872700000001,
+               "lng" : 110.4326076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.013568619708499,
+                  "lng" : 110.4340487302915
+               },
+               "southwest" : {
+                  "lat" : -7.016266580291504,
+                  "lng" : 110.4313507697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Beranda Ratimaya",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJxRAU7OmNcC4RI8KZue4zi5s",
+         "plus_code" : {
+            "compound_code" : "XCPM+32 Jomblang, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCPM+32"
+         },
+         "rating" : 5,
+         "reference" : "ChIJxRAU7OmNcC4RI8KZue4zi5s",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Karanganyar Gunung No.6, Jomblang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.990953999999999,
+               "lng" : 110.424387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989569319708497,
+                  "lng" : 110.4257548302915
+               },
+               "southwest" : {
+                  "lat" : -6.992267280291501,
+                  "lng" : 110.4230568697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Lapak Sketch",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJsb_PNl-LcC4R2sVhff81aVA",
+         "plus_code" : {
+            "compound_code" : "2C5F+JQ Pleburan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5F+JQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJsb_PNl-LcC4R2sVhff81aVA",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Plasa Simpang Lima, JL. Ahmad Yani, No. 1, Pleburan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.990465199999999,
+               "lng" : 110.4241547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989184819708497,
+                  "lng" : 110.4254674802915
+               },
+               "southwest" : {
+                  "lat" : -6.991882780291501,
+                  "lng" : 110.4227695197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Ganesha Galery",
+         "place_id" : "ChIJM2cvzViLcC4RDD8CplABsQI",
+         "plus_code" : {
+            "compound_code" : "2C5F+RM Karangkidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5F+RM"
+         },
+         "reference" : "ChIJM2cvzViLcC4RDD8CplABsQI",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Ahmad Yani No.1, Karangkidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9905912,
+               "lng" : 110.4434617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989244069708498,
+                  "lng" : 110.4448423802915
+               },
+               "southwest" : {
+                  "lat" : -6.991942030291502,
+                  "lng" : 110.4421444197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "SABLON DAN SENI LUKIS",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118428282374924724511\"\u003eDedemittua Art\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJGQhnj6zIwHBwAqIamWc71JiN_97MB8jvAolFmsivULFTEednN-_AMbdORPcIGDM0LbRXnAaGrWmMyCFus6DnOwx03uEV8DhAG4epOlOizl6E2M5vSe8TdsQdZWCLn14n5Ox7ibx4p0n5xjHKXNzhegZNeFry38Ubvbqg9KNkjU6-3",
+               "width" : 844
+            }
+         ],
+         "place_id" : "ChIJsYeCKLyNcC4RmdCuwAy_ZOg",
+         "plus_code" : {
+            "compound_code" : "2C5V+Q9 Pandean Lamper, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5V+Q9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJsYeCKLyNcC4RmdCuwAy_ZOg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Bintoro VIII No.11, Pandean Lamper"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9905283,
+               "lng" : 110.4434392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989154319708498,
+                  "lng" : 110.4447973802915
+               },
+               "southwest" : {
+                  "lat" : -6.991852280291503,
+                  "lng" : 110.4420994197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Jasa lukisan pencil dan sablon kaos",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ8VI6oSKNcC4RLyV2bLjberY",
+         "plus_code" : {
+            "compound_code" : "2C5V+Q9 Pandean Lamper, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5V+Q9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8VI6oSKNcC4RLyV2bLjberY",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Bintoro VIII No.11, Pandean Lamper"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.018544500000001,
+               "lng" : 110.4263435
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.017166469708497,
+                  "lng" : 110.4276674802915
+               },
+               "southwest" : {
+                  "lat" : -7.019864430291501,
+                  "lng" : 110.4249695197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Villana Gallery Of Holy Sculpture",
+         "place_id" : "ChIJ20FNfn-McC4R0oNLd8gE5-o",
+         "plus_code" : {
+            "compound_code" : "XCJG+HG Jatingaleh, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCJG+HG"
+         },
+         "reference" : "ChIJ20FNfn-McC4R0oNLd8gE5-o",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Dr. Wahidin, Jatingaleh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0057909,
+               "lng" : 110.4510424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.004484519708497,
+                  "lng" : 110.4523808802915
+               },
+               "southwest" : {
+                  "lat" : -7.007182480291502,
+                  "lng" : 110.4496829197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "deur art",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106925785217269202142\"\u003ePrast Semarang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLhr1hw4IFBRd4UYZDyiBq6AdtZfdLMwfosoTVY_VRitLcE7KBgNyZnCAvYvUp79IStjAhpD2oZWTbDDFUQHGF92MVWaYRG9L4a2luAPCH7csXoyo-V1xz2A3DgJi_GhJSVGE3M_QRa0CLDIAR_D2pMQY1vHyy-8FZHYBy-wFqzscYr",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJD3UM3nWNcC4RAvpHLC67wx8",
+         "plus_code" : {
+            "compound_code" : "XFV2+MC Gemah, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXFV2+MC"
+         },
+         "reference" : "ChIJD3UM3nWNcC4RAvpHLC67wx8",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Gayamsari IV gang langgarsari II No.10, Gemah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0019171,
+               "lng" : 110.4151928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000735469708498,
+                  "lng" : 110.4160892302915
+               },
+               "southwest" : {
+                  "lat" : -7.003433430291502,
+                  "lng" : 110.4133912697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Java Aquascape",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106407570785918761259\"\u003eJava Aquascape\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxKpvZLhDbGN3yJpOwhHr84kKG6nyqumqrzb_sYApQ_OdQP3q1B889y8h1OfpTaNmPf8ykq83uQBJD4qRzbZXIy6o4ll0SR8cyxppampxXix3qy9QGuqj0aZVDYuM_ynM6-WGtjcgz0lWOkbnKW5l9_qMlXKjb4LRYYvU45hgwBdLL",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJwUZm5wSLcC4RhXvKNVv_lHo",
+         "plus_code" : {
+            "compound_code" : "XCX8+63 Lempongsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCX8+63"
+         },
+         "rating" : 1,
+         "reference" : "ChIJwUZm5wSLcC4RhXvKNVv_lHo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Lempongsari 1 RT.002/RW.003, Lempongsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9883613,
+               "lng" : 110.4433719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.987006069708499,
+                  "lng" : 110.4446897802915
+               },
+               "southwest" : {
+                  "lat" : -6.989704030291503,
+                  "lng" : 110.4419918197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "shadi art studio & gallery",
+         "photos" : [
+            {
+               "height" : 3879,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101850657456575643553\"\u003eAdi YK\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPVva6MOdInPXgyvXSQ6bJ-SMwwYGG11IQUxxaq28jpSYWVSuIXP7zw0wFgSPc3brZNFWz7fCaQWLVT6-Cw0kcF_OxtifWE8pC3psUTs9Sn-E0kLV-aHlOiPh7DRdZyFxIsmSvSm0m4DTokNpquhK74mr0WTZ2yR-QPUbSZgpUKOHs",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJsUFnwruMcC4RiOJe6mwtyoU",
+         "plus_code" : {
+            "compound_code" : "2C6V+M8 Pandean Lamper, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C6V+M8"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJsUFnwruMcC4RiOJe6mwtyoU",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Patiunus VIA Gang Buntu, Pandean Lamper"
+      }
+   ],
+   "status" : "OK"
+}

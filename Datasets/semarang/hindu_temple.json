@@ -1,0 +1,41 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.013048,
+               "lng" : 110.4483166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.011727869708498,
+                  "lng" : 110.4496868802915
+               },
+               "southwest" : {
+                  "lat" : -7.014425830291502,
+                  "lng" : 110.4469889197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Gapura KINIBALU TIMUR. RW 03",
+         "place_id" : "ChIJSQCvu9-NcC4RtcKSDd677mY",
+         "plus_code" : {
+            "compound_code" : "XCPX+Q8 Tandang, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCPX+Q8"
+         },
+         "reference" : "ChIJSQCvu9-NcC4RtcKSDd677mY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jl. Kinibalu Timur, Tandang"
+      }
+   ],
+   "status" : "OK"
+}

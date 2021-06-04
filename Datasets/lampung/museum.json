@@ -1,0 +1,360 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.362145199999999,
+               "lng" : 105.2579132
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.360736569708497,
+                  "lng" : 105.2593027802915
+               },
+               "southwest" : {
+                  "lat" : -5.363434530291501,
+                  "lng" : 105.2566048197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Musholah nurul huda ll",
+         "place_id" : "ChIJ9yi7JXDFQC4Ry-LmbRkamdI",
+         "plus_code" : {
+            "compound_code" : "J7Q5+45 Labuhan Dalam, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7Q5+45"
+         },
+         "reference" : "ChIJ9yi7JXDFQC4Ry-LmbRkamdI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Labuhan Dalam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.366605,
+               "lng" : 105.2528402
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.365223469708496,
+                  "lng" : 105.2542912302915
+               },
+               "southwest" : {
+                  "lat" : -5.367921430291501,
+                  "lng" : 105.2515932697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "GRIYA ALECIA",
+         "place_id" : "ChIJv7iiAjfFQC4RJoOIMfWnHDc",
+         "plus_code" : {
+            "compound_code" : "J7M3+94 Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7M3+94"
+         },
+         "rating" : 5,
+         "reference" : "ChIJv7iiAjfFQC4RJoOIMfWnHDc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan TK Transmigrasi, Labuhan Ratu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.366920799999999,
+               "lng" : 105.2529029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.365604519708497,
+                  "lng" : 105.2542549802915
+               },
+               "southwest" : {
+                  "lat" : -5.368302480291502,
+                  "lng" : 105.2515570197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "GRIYA ALECIA",
+         "photos" : [
+            {
+               "height" : 405,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117288194322046535044\"\u003eSanti Yosefa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI1gXCl-Tlv4H2XndNMVR-eoLC0BXyQUqfBKhA1OJONq7cJQzW7MR-l6kP0VdboeqLJMo-6nbo218YDvClSjfwicI0W-SsYhgB6V1yf8xg27xu7Rmb95x-XgOX_JIwI3vymZCJihGNQjVvaoc6AgEgHDxWWbBGV0bFyFYsr-_HLjIir",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJO3DkAQbFQC4RoEwYSSeQZss",
+         "plus_code" : {
+            "compound_code" : "J7M3+65 Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7M3+65"
+         },
+         "rating" : 1,
+         "reference" : "ChIJO3DkAQbFQC4RoEwYSSeQZss",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan depan TK. TRANSMIGRASI, Labuhan Ratu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.368977399999999,
+               "lng" : 105.252515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.367634919708498,
+                  "lng" : 105.2538893302915
+               },
+               "southwest" : {
+                  "lat" : -5.370332880291501,
+                  "lng" : 105.2511913697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Anak kopdar lampion's",
+         "place_id" : "ChIJ2TqhnujbQC4R-NsX9BBDCRY",
+         "plus_code" : {
+            "compound_code" : "J7J3+C2 Gedong Meneng, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7J3+C2"
+         },
+         "reference" : "ChIJ2TqhnujbQC4R-NsX9BBDCRY",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Professor Dokter Ir. Sumantri Brojonegoro, Gedong Meneng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3692701,
+               "lng" : 105.2503733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.367936869708498,
+                  "lng" : 105.2516937302915
+               },
+               "southwest" : {
+                  "lat" : -5.370634830291503,
+                  "lng" : 105.2489957697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Anak kopdar lampion's",
+         "place_id" : "ChIJ99mfVujbQC4R0wXmm6JJX7k",
+         "plus_code" : {
+            "compound_code" : "J7J2+74 Kampung Baru, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7J2+74"
+         },
+         "reference" : "ChIJ99mfVujbQC4R0wXmm6JJX7k",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Bumi Manti IV, Kampung Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.367878500000001,
+               "lng" : 105.2488172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.366504019708498,
+                  "lng" : 105.2501599802915
+               },
+               "southwest" : {
+                  "lat" : -5.369201980291503,
+                  "lng" : 105.2474620197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "REL KERETA KAMPUNG BARU",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102301611361782904537\"\u003eBengkel Mobil\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL7Jv7UGzP5Roa4W8grpyZ1H5UWbqj4-f1haKZWaOi5eDFqXGfvtHLhm1fpMJFsIjFEh2oMdv7NajYfPGd7uUJD66FuAlDYPP5U1bI5Wph3l_cyRXPJrK5MD7RQYJ-1wpU8OU2ERBInZP5k4Qh4lfvfUgFtg757Qd6fgErGQSXAk-GT",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJp0eytljbQC4RWbgT64P6NEo",
+         "plus_code" : {
+            "compound_code" : "J6JX+RG Kampung Baru, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J6JX+RG"
+         },
+         "reference" : "ChIJp0eytljbQC4RWbgT64P6NEo",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Unnamed Road, Kampung Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3742467,
+               "lng" : 105.2512631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.372924019708497,
+                  "lng" : 105.2526407802915
+               },
+               "southwest" : {
+                  "lat" : -5.375621980291502,
+                  "lng" : 105.2499428197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "™SCURTY",
+         "place_id" : "ChIJe657X4jbQC4RI0CzOryrGU4",
+         "plus_code" : {
+            "compound_code" : "J7G2+8G Kampung Baru, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7G2+8G"
+         },
+         "reference" : "ChIJe657X4jbQC4RI0CzOryrGU4",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kampung Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.375703199999999,
+               "lng" : 105.2603226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.374285069708498,
+                  "lng" : 105.2616525802915
+               },
+               "southwest" : {
+                  "lat" : -5.376983030291502,
+                  "lng" : 105.2589546197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Sawah Grage",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113039136171462936181\"\u003eswamp garage motorcycle\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKuZ_VaBqolSBqsr6lZJ5UU2u5q8sDHgxa9-5atqtz9er-x43PusuTcaRG5KpijljBBg-Zrg7WeKs8lZYXTMxS8iNwoNBbKVg2h1m7FIjmjGalQEa5F0_W0-oSIGaBr9mnjS69vi_FzlE87hlnj39VtA3RhV9JvulHtFH9Qjk2_VK_w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJnXqOdBvbQC4RrpOidIOGsME",
+         "plus_code" : {
+            "compound_code" : "J7F6+P4 Sepang Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7F6+P4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnXqOdBvbQC4RrpOidIOGsME",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Sepang Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3746974,
+               "lng" : 105.266043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.373350819708498,
+                  "lng" : 105.2674276802915
+               },
+               "southwest" : {
+                  "lat" : -5.376048780291502,
+                  "lng" : 105.2647297197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Mahkota Dipuncak Nur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 588,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113883913615773802028\"\u003eKedatun Keagungan Lampung\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI-6zahhmrGQWpqoHBBCJbGVKs3iVHmAu8DIQN9vb9YROW7gdNlSS0zmazC1K2J20Mt6zJimnmhyCGS2NJ45CLrQI-Kp4hA4ZWVg_tCu6M68OA915NC5XDsJeogoQ5Hs3HPcLj-dtq2dFic5FP4c1HYHa6rZPrlZ_oOdh-XEjLI6PM0",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJt29cdpXbQC4RBQpkXo6S5D8",
+         "plus_code" : {
+            "compound_code" : "J7G8+4C Sepang Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7G8+4C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJt29cdpXbQC4RBQpkXo6S5D8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Sultan Haji No.45, Sepang Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.371652499999999,
+               "lng" : 105.2711175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.370407469708497,
+                  "lng" : 105.2724715302915
+               },
+               "southwest" : {
+                  "lat" : -5.373105430291501,
+                  "lng" : 105.2697735697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "GS Collection",
+         "place_id" : "ChIJRe3vElLbQC4RJ5Zru8Ece5w",
+         "plus_code" : {
+            "compound_code" : "J7HC+8C Sepang Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7HC+8C"
+         },
+         "reference" : "ChIJRe3vElLbQC4RJ5Zru8Ece5w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Nangka No.19, Sepang Jaya"
+      }
+   ],
+   "status" : "OK"
+}

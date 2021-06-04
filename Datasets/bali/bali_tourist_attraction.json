@@ -1,0 +1,980 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKCOBuO0XwSC9Q5RZueRkCbMHeTSwkkWarwysJ_yfXjm5VN2Jc1ll8pFYvORiyl8o1M4NJj4_mKdJ3ItesT9zHudrSHg21Nrx2a3W7BCUgSfskFETGSJXYnrZtoWNrFu9xBavprF7WhvzAzzrZhMWik9YYeOKbNiKSBYy8UW9iYtYqOKFElCTZ0K_sbmEsfqvlTZQpxiEQvH_JcegCY_ayXZF4wuQu9WmWx3MgVoqaeND7ruZjVG8LfaEaqRvxn0z4DfJwz8iLJdbbuw4yMgo89_Q_rXTXyl9I9Oa9D28MHtlnDR9dsRJT-xT4K7uedGkhB5HlgPTzXciJNjubGd9yadjS1gQ2EvsBHZ5Fmf5ooajk9t9by_qaPcbSgPZUrw11oZTgRfZKNWf1vdvCcsMuvJ8MCmCvNb6UtbAny3q2qBVJDNoBV2dvIfXu5eU2zqZ0TZ5c",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.518807499999999,
+               "lng" : 115.2585558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.516888119708497,
+                  "lng" : 115.2603250302915
+               },
+               "southwest" : {
+                  "lat" : -8.519586080291502,
+                  "lng" : 115.2576270697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Dalem Agung Padangtegal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104420489713970235234\"\u003eDerek Hill\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQUyHmU_axLE1QWl_dX4fiwtOd-bx8qFh2yfX62TyaXq351_GklXuGDH3x5sy5oQp9JnhAz8I97oH2epVw7RYFQqjIMEKvYgS3BBUs1QyxrddWCJ67GcEj_IZ1QAdxa6RoA0qDq0mcxOqYTrQwMd7QOSzhwIGP4PEpbjdefxaHllUc",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJB4M3rQs90i0RG8xbNY04VoU",
+         "plus_code" : {
+            "compound_code" : "F7J5+FC Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7J5+FC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJB4M3rQs90i0RG8xbNY04VoU",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 172,
+         "vicinity" : "Jalan Monkey Forest, Ubud"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.648484999999999,
+               "lng" : 115.123589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.647204869708498,
+                  "lng" : 115.1250311802915
+               },
+               "southwest" : {
+                  "lat" : -8.649902830291502,
+                  "lng" : 115.1223332197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Kubudiuma Bali",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3174,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100256262231621457558\"\u003eKubudiuma Bali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKlSH0RKsPz23Vbl7LSX9ZWkaMKuEw-QhtRLFo7meQLi6Kyx5uLX91lITQtlmGA95xYuMFo0MZwdHUXrmAtyMJ9mrNtvET06jj7CnFzQXHkjUFSQCXZYAcMyJe71RjGRL8FYQ4X1alejjUr6yQ6beZ7H6hj0y9bT41HvSMcz8A6v6gX",
+               "width" : 5082
+            }
+         ],
+         "place_id" : "ChIJRe-ngHE40i0RPfCGt4NFJv8",
+         "plus_code" : {
+            "compound_code" : "942F+JC Pererenan, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q942F+JC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJRe-ngHE40i0RPfCGt4NFJv8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 182,
+         "vicinity" : "Jalan Pantai Pererenan Canggu No.150, Pererenan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.540743899999999,
+               "lng" : 115.1246357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.539420819708496,
+                  "lng" : 115.1260596302915
+               },
+               "southwest" : {
+                  "lat" : -8.542118780291501,
+                  "lng" : 115.1233616697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Great Mosque Tabanan",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115891273468218114617\"\u003eSupri Yatno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKiMOr73zpxI7Lc2_eL--kpv7D64jBQ8RvAxIqj02AQ93PGe02ILMOgQKeedCVoQteRhvi3qIdq0IOi3wwwZSG4rbu9fr1EIgfn0z5OwhbD2ejYIGr9cXU5Seluc5p5lOH8ZGbogq9ooqf21ttBAdJSFmO1CNYv4wunPiTtL7A5S5Qx",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJq_Rv7ls60i0RBTh_QPEYxjc",
+         "plus_code" : {
+            "compound_code" : "F45F+PV Dauh Peken, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF45F+PV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJq_Rv7ls60i0RBTh_QPEYxjc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 483,
+         "vicinity" : "Jalan Kamboja Desa No.14, Dauh Peken"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.518751099999999,
+               "lng" : 115.2585973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.5174328697085,
+                  "lng" : 115.26162045
+               },
+               "southwest" : {
+                  "lat" : -8.520130830291505,
+                  "lng" : 115.25656945
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Sacred Monkey Forest Sanctuary",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109834167782990581860\"\u003eAngel Thomas\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL7SKHJPhyfedMZFzlFiwLlW3ZMCF84rVUjLgyIPlw0nouI589FNje_I_byN-76v8JoiYgra43ZkM90aN6oSktveVdnDcY_leG6tpXhrnUav8gdgj0Id2oOOv8tPC2WGoSd6dVRcO-uD559ECZc1Iiz_2k0p0gO0c-rew6LE-MZnPko",
+               "width" : 5000
+            }
+         ],
+         "place_id" : "ChIJZ5sY9kM90i0RVsPvSxZD7LY",
+         "plus_code" : {
+            "compound_code" : "F7J5+FC Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7J5+FC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZ5sY9kM90i0RVsPvSxZD7LY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33639,
+         "vicinity" : "Jalan Monkey Forest"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5178335,
+               "lng" : 115.263708
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.516444619708498,
+                  "lng" : 115.2649268302915
+               },
+               "southwest" : {
+                  "lat" : -8.519142580291502,
+                  "lng" : 115.2622288697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "name" : "Bebek Bengil",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2664,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102530273831302905594\"\u003eYgang Wen\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK-L_KEJtdIt9eS_jspBTn27hyZdnoLYd3EDyy3asvBQK5lwKeQcrng1-F_vEiA4GqgjDNcMTDN3tdga5aOltCPJG5IGG9TuVY92p9vc4JZbpWlRulM7PdXq6vOhNWqClWBE0pvBZULlC-46f9H5MetLRlGWKphKXNkzCcW0PBUzbtE",
+               "width" : 5920
+            }
+         ],
+         "place_id" : "ChIJ5W4eP3I90i0RAk_HSeL7s7E",
+         "plus_code" : {
+            "compound_code" : "F7J7+VF Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7J7+VF"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ5W4eP3I90i0RAk_HSeL7s7E",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4454,
+         "vicinity" : "Jalan Hanoman, Ubud"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.512620999999999,
+               "lng" : 115.261366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.511217869708497,
+                  "lng" : 115.2625078802915
+               },
+               "southwest" : {
+                  "lat" : -8.513915830291502,
+                  "lng" : 115.2598099197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Komaneka Fine Art Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116300147828175051716\"\u003eWiyanto Kodrat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI4mxcG70v17x1fUm_oLImrZnoREC6U7_ok5r4CuG3sweSbhAsqtdgRu0WU5VmadZS4JDom7Qi7rcDOS6TuNHIlE54xtF0X9D4tG_mMer0ihHgbQB-MM55do_3EE9Y7OU4leZgUdme9qbW3R4DPhLmZbbB4ElowGT3gVeB5NmGsQ6i_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJecL-2mw90i0RSSahNiTjwvQ",
+         "plus_code" : {
+            "compound_code" : "F7P6+XG Ubud, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7P6+XG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJecL-2mw90i0RSSahNiTjwvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 47,
+         "vicinity" : "Jalan Monkey Forest, Ubud"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.662461799999999,
+               "lng" : 115.1471318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.661184069708497,
+                  "lng" : 115.1485039302915
+               },
+               "southwest" : {
+                  "lat" : -8.663882030291502,
+                  "lng" : 115.1458059697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Finns Recreation Club",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102110754410010345297\"\u003eJeremy Kurniawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKMHBtF8rKlsL4n7qLJKFzxGHy_QIudSmvzDG5xCd36Sn1xYvihCpLkrqwDTaNcaCYpXJH9JCpY2PnSrsHi8Pk8rSAdPKcxKGtPbAcDOfNAFACw52Jh_PhFCY8ZD3XP4juERJuO10SeKhKf9OiJB8edCWz3iCJVOgnWGSrhRNdkmfk5",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJwWuGNoI40i0R_uVXfvLIqi0",
+         "plus_code" : {
+            "compound_code" : "84QW+2V Tibubeneng, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q84QW+2V"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJwWuGNoI40i0R_uVXfvLIqi0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 83,
+         "vicinity" : "Jalan Pantai Berawa Canggu, Tibubeneng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6742472,
+               "lng" : 115.2152484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.672877469708496,
+                  "lng" : 115.2166739802915
+               },
+               "southwest" : {
+                  "lat" : -8.6755754302915,
+                  "lng" : 115.2139760197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid An-Nur - Denpasar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111709058113171988011\"\u003ebayu permana_7\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL5L7bMPyAwtuiOf5ev5cMYiMqCGLcwLUzGjV-7M1hPlKVwz9ujZFUeDn1jyzTvKsj79HmXqwcasxw4Tgbl9zY664q_Re3mhVGrriBrI6EoN8foqej5qPL0VcV9Jcc4R7W3k4QaEQJuS_uWKz9RX9M4CbJa_YUEb086ytczESg6hhLK",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoWbyNOpA0i0RI8fqng6FlCA",
+         "plus_code" : {
+            "compound_code" : "86G8+83 Dauh Puri Klod, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q86G8+83"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJoWbyNOpA0i0RI8fqng6FlCA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1181,
+         "vicinity" : "Jalan Diponegoro No.192, Dauh Puri Klod"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.675142199999998,
+               "lng" : 115.2606639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.673633269708498,
+                  "lng" : 115.2620421802915
+               },
+               "southwest" : {
+                  "lat" : -8.676331230291501,
+                  "lng" : 115.2593442197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Ihsan - Sanur",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104709059361085347757\"\u003eHaris Ruliyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIdYOzKplRiaQwSt8Y07FZWqMdXXdrFZ5VXnXE31ndtSzK5DiRwb_11y1RPPKsnuV4EiX39fDHF_BpQkzZjYA4fWmnWolerKT_3ayV48GNg7X03gT2KbhUucbovB0htSd0WT9V-Djgu9aIdRn4prbq5qiNyzrm3s11BuE44fVmfFgJk",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJv82whjhA0i0RCfbGbVRknZg",
+         "plus_code" : {
+            "compound_code" : "87F6+W7 Sanur Kaja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q87F6+W7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJv82whjhA0i0RCfbGbVRknZg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2173,
+         "vicinity" : "Jalan Hang Tuah, Sanur Kaja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.621212999999999,
+               "lng" : 115.086807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.619464069708499,
+                  "lng" : 115.0884158302915
+               },
+               "southwest" : {
+                  "lat" : -8.622162030291504,
+                  "lng" : 115.0857178697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tanah Lot",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 487,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115348551340047492204\"\u003eAlex Marks\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIPJATLxV-EYw3qKDmbLJ4bw5bAKncVI4rrYJN9BvH7oZgRsMUD9yidlWKs3RQeRcsqT1KqfhFmlABOTIpjHBdeGxs3k99IbAOfJaLC87148fx4jZcIWmCcGjeqAvcw0X6tXNQHaJcrMw9F69s-Rt7K-0I8NWJhAET0wYbMhaW66by6",
+               "width" : 730
+            }
+         ],
+         "place_id" : "ChIJq95xT4I30i0RaU3j93Diq8o",
+         "plus_code" : {
+            "compound_code" : "93HP+GP Beraban, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3Q93HP+GP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJq95xT4I30i0RaU3j93Diq8o",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68203,
+         "vicinity" : "Beraban"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.59998,
+               "lng" : 115.25185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.598374519708496,
+                  "lng" : 115.2532283302915
+               },
+               "southwest" : {
+                  "lat" : -8.601072480291501,
+                  "lng" : 115.2505303697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Bali Bird Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2681,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112093792326030009892\"\u003eBali Bird Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ3eaInXbWgjzE0cGiDwgeLgGk0tqBf6MzzPxRcp5UVrd072VNGUFe2xOPgZkfVjZqO8QZoXQ3DsQ_b79pVJYM7XPEycQIv2T_Brf9yHbHdjOMjWTysh6JKtYF4YUr2ozVox4mNlLy0x8mTUO51u6dPMOjGKX2oDH7H-DdDZg8t_Qb4",
+               "width" : 4016
+            }
+         ],
+         "place_id" : "ChIJD0zF-k4-0i0RLDhW9qwgiV8",
+         "plus_code" : {
+            "compound_code" : "C722+2P Batubulan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QC722+2P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJD0zF-k4-0i0RLDhW9qwgiV8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "zoo",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 8593,
+         "vicinity" : "Jl. Serma Cok Ngurah Gambir Singapadu, Batubulan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5841064,
+               "lng" : 115.348051
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.582757419708498,
+                  "lng" : 115.3494069302915
+               },
+               "southwest" : {
+                  "lat" : -8.585455380291503,
+                  "lng" : 115.3467089697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Bali Safari and Marine Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117380989453852358580\"\u003eChaya Manob\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIG31u5BNsffJfknV2k7rHm6dHx-BbiVlrvG-p0oblYR8VvKPxXiWk7L6iWjimjlcSC1y1yJigZD0ckQ4NhdZs2DLYFx6ODJ5shQIPH7bVlVZB8mEHKWi7OVqdl3NFCr9PBgpX1uedwZSd0-he3k9qq2oMbgkZetHCPoQixI1abyt2o",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJOX0fuEYU0i0R7FQubHicszQ",
+         "plus_code" : {
+            "compound_code" : "C88X+96 Serongga, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QC88X+96"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOX0fuEYU0i0R7FQubHicszQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "zoo",
+            "tourist_attraction",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 14129,
+         "vicinity" : "Jl. Profesor Jalan Professor Doktor Ida Bagus Mantra No.km 19,8, Serongga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5416323,
+               "lng" : 115.1726013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.54050065,
+                  "lng" : 115.1737036302915
+               },
+               "southwest" : {
+                  "lat" : -8.545027249999999,
+                  "lng" : 115.1710056697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Taman Ayun Temple",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112068745368716703822\"\u003e林金城\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI3x-QuTBOS8sMP8aZORXYQnYGGdrWRACXqK9t5pIWrqQLkC32HkMsoZG6Tlono0Ifc2aja5mvpqrBGR4Z4AnkwVwn4v0gzLfFmAgGaiprSWhr3FwNBJfQTqnMQghnSwiYmwuWv5oKFB4bNeZoMGrBafwyzI6AuIPWvMC8ljeo6V5sn",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJAUB625A70i0R7crEj_IvJq8",
+         "plus_code" : {
+            "compound_code" : "F55F+82 Mengwi, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QF55F+82"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAUB625A70i0R7crEj_IvJq8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5983,
+         "vicinity" : "Jalan Ayodya No.10, Mengwi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.415758600000002,
+               "lng" : 115.3151588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.414447519708498,
+                  "lng" : 115.3164675302915
+               },
+               "southwest" : {
+                  "lat" : -8.417145480291502,
+                  "lng" : 115.3137695697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Tirta Empul Temple",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112269215945643954578\"\u003eSims Widjaja\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKf3yX7Uf8FzM1LVBn419a08MxrJfzbA_YB72iXlv5acBzLNphUASShQF7OjU3FkrpuMjkfAlPmqVqLUTRhDeHp5siWcJw4tuwtTCPYz4jmfdDR77tHn6AwM-qWUU6nTQYC4smboXmTnXUOzR9edgGaDa91VRODXsCEjpgVGlkYqP2K",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJtTFh4PQY0i0RwewUdwFaolM",
+         "plus_code" : {
+            "compound_code" : "H8M8+M3 Manukaya, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH8M8+M3"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJtTFh4PQY0i0RwewUdwFaolM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 13345,
+         "vicinity" : "Jalan Tirta, Manukaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.473311199999999,
+               "lng" : 115.2496229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.471960269708497,
+                  "lng" : 115.2509526802915
+               },
+               "southwest" : {
+                  "lat" : -8.474658230291501,
+                  "lng" : 115.2482547197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bali Rafting Adventure",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113076978288899793852\"\u003eCokorda Sarotama\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKqr-525YiEHV0gmcwv10C7Olf84pRRya336ewii-YTQFLMxS03r2FKNxCfBzL9cDifwirCGl-2Qx4eSr9IYiYBuHGXJcoSznyYIMAEmq-1zpLm-yM0bTWw-bgmgptKT5F1eRD9N1csiv7Gkkrv4rC2Tl9lfGfHsQsBOBTSgfeMkkxh",
+               "width" : 3450
+            }
+         ],
+         "place_id" : "ChIJg-L-gfdA0i0RNDASD7i24TQ",
+         "plus_code" : {
+            "compound_code" : "G6GX+MR Kedewatan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG6GX+MR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJg-L-gfdA0i0RNDASD7i24TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Jalan Raya Kedewatan, Kedewatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2477687,
+               "lng" : 115.0972032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.246512319708497,
+                  "lng" : 115.0985928302915
+               },
+               "southwest" : {
+                  "lat" : -8.249210280291502,
+                  "lng" : 115.0958948697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Bali Jungle Trekking",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 638,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107770278312083030732\"\u003eBali Jungle Trekking\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJmISpytl4rtIsm5QnJ1QtM5GlH1XDHPotvVwqyxG4_aqAQcSQG_0bvF_BaGFYZY85iI8yEkckpfhWWueAI1J0ml_BykJCtBaLCDqZJ13ZAjDE2nyeSB2-Yh8MZDRn-j2oCHtDqBNlxxA5Z4KJfGCSoQbxPeRhbAboE07i0SjolXL4c",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ2fv8BH5A0i0RYT4LHgnZOmI",
+         "plus_code" : {
+            "compound_code" : "Q32W+VV Munduk, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QQ32W+VV"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ2fv8BH5A0i0RYT4LHgnZOmI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Raya Wanagiri, Munduk"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.451266,
+               "lng" : 115.2800766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.449905519708498,
+                  "lng" : 115.2813717802915
+               },
+               "southwest" : {
+                  "lat" : -8.452603480291502,
+                  "lng" : 115.2786738197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "BALI TREKKING TOUR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 887,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102731952790947276517\"\u003eBALI TREKKING TOUR\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLsaLo-Cm8wn3uEWSGzsYWVorO3d2nKurhIS9JzmKxwZ8-NuCeH4A5-HLMFBZwKI-KrnH-aPHM2-e0NXK_gNQkd8HKJ0n95jzeEC313v38bDQa9G9qwlOPEGAfiwWpnI7OUGQ3au-yCdpFV8mCczEMHCX0oPmLoF11dobNXRjlmFRJZ",
+               "width" : 1242
+            }
+         ],
+         "place_id" : "ChIJvzF8dlE90i0RYlWaFuqXgWg",
+         "plus_code" : {
+            "compound_code" : "G7XJ+F2 Tegallalang, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG7XJ+F2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJvzF8dlE90i0RYlWaFuqXgWg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Jalan Sekuih, Banjar Gentong, Tegallalang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.358295999999999,
+               "lng" : 115.300301
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.357225719708497,
+                  "lng" : 115.3021208802915
+               },
+               "southwest" : {
+                  "lat" : -8.3599236802915,
+                  "lng" : 115.2994229197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Pemulan Bali Farm Cooking School, Ubud",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108106909862721004281\"\u003ePemulan Bali Farm Cooking School, Ubud\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL_bWkgsgNeSve6tLXEQNK5AedcE2HP4zCUMD_40Sn-UGE3cQCo-cpIrZnwOGoZbentKFD3TYdvlyHL-GjiG4y5s5g7LdMnHiH8n4_6jnxCZQWjuPWaMtMvJ4OClOF1smTDrgLDmOgR28h0oYFqL5Lm5DTWTvNt0EUuHiXp7ys7SBNL",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJq6N3zHcf0i0RYHZzviq1TaY",
+         "plus_code" : {
+            "compound_code" : "J8R2+M4 Taro, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QJ8R2+M4"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJq6N3zHcf0i0RYHZzviq1TaY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "park",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 65,
+         "vicinity" : "Banjar Patas, Taro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.124947299999999,
+               "lng" : 115.0967777
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.123424219708498,
+                  "lng" : 115.0980924302915
+               },
+               "southwest" : {
+                  "lat" : -8.126122180291503,
+                  "lng" : 115.0953944697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Buleleng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108834463904151462528\"\u003eMeiga Rini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVmQ2YsJzAnSqAO56gp749r9MrsMwanVPZPkxy7IqpyCCtPSxKCB2W41pPkkt9aDmPA8HjssAbTc2t60jDB7FYfVCu1fN_oKCmZ2LoHEy6QN1_z9e3bvRuQh_Nl6PXWEMKAqVKQTibKrVJo1n1Pr4Tt8XztTNXysgpxbEyI9fbwVdY",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJCwul24KQ0S0RZhc-QjVeCbA",
+         "plus_code" : {
+            "compound_code" : "V3GW+2P Paket Agung, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QV3GW+2P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJCwul24KQ0S0RZhc-QjVeCbA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143,
+         "vicinity" : "Jalan Veteran No.23, Paket Agung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.247520999999999,
+               "lng" : 115.1477516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.246122919708498,
+                  "lng" : 115.1488575802915
+               },
+               "southwest" : {
+                  "lat" : -8.248820880291502,
+                  "lng" : 115.1461596197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+         "name" : "Taman Denbukit Camping Ground",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116613975989121430961\"\u003eAnto Brasta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJoAfODt3CSQkxuWzSHcoew7u0yJ38fSOpxA93hvQkbLHm9yVwFUsc-DnwRM1owJxWAb1T6z4BorSOLNMU620WZYXPAKAj_RcEXYCivOJmg8zpbdf_AHzIollOz2cZ4PxMfKHC34UXtKYdqKg-Nli_hi91lIh-XP5j5bDXiY1piwm0e",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ8bB7i9OO0S0RZBBwg0pqAvw",
+         "plus_code" : {
+            "compound_code" : "Q42X+X4 Pancasari, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QQ42X+X4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ8bB7i9OO0S0RZBBwg0pqAvw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "campground",
+            "tourist_attraction",
+            "lodging",
+            "park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 204,
+         "vicinity" : "Desa Bedugul, Jalan Sugriwa Dasong Pancasari, Pancasari"
+      }
+   ],
+   "status" : "OK"
+}

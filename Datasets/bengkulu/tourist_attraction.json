@@ -1,0 +1,892 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJr4QjjTZIev4d-FpIwbNUG1UObrHcAxeIjE4cI7DrYiCG0hn7QJYdDqrsGHQPTXzifasoCLF0kwUuzRhOoGLtSHvXletEMc8p-EQ-H3vmojfzLs_IbVjxTTy9F7hCv9PdrI3gGMgxK4lW_u4O0iq3NGFf5ug92XH7xlA9ayU6XPfedhEIAdakWdylN8rAZJEET1pDz5QoKyUuy9SOqOCJNy3uKyRPcthcsBZ4T7ekq6cXU4RkXQArOevq22KOFsisqh9M7UyLR1xd68LZp7bJwBi-HC3K1ughXYLulGWcbXSWfGWY6OdBFebH7mCItWC15q1bpDGcgHs9fwvR-ngMcEgxp-6fvl-JcxIR33oHoDSVR8c_erHFW_lYs8cwR_5Zj_rNW6uefWaMHqRM-SE7sUMwTiMjV5DNZNo_K19KJxfwNholM3xSU0nLZ2zy2SrwW9Io",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.797353,
+               "lng" : 102.2659886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.796043769708498,
+                  "lng" : 102.2673542302915
+               },
+               "southwest" : {
+                  "lat" : -3.798741730291503,
+                  "lng" : 102.2646562697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Ratu Samban Monument",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109715952775570535824\"\u003eChoirul Anwar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLl7YvIbaVjZBwQrkOcBm3Yo4zqNlAft3lrlgxjAU9pFopQa3R__XE8nk4gpDpXTfOSg3M5cO0y5YIu-ZVkPZbGdCASqye_Bpknq-sLyHwksq3Hh2xYt_8SP1nR1tWjEsiR1tlmKIO1LFsxMnfJ_4WUH3ZlINJM8n82YNxiucsuX1Ie",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJOcZqqiKwNi4Ru_UX-x05Vtc",
+         "plus_code" : {
+            "compound_code" : "6738+39 Anggut Atas, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846738+39"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJOcZqqiKwNi4Ru_UX-x05Vtc",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2394,
+         "vicinity" : "Anggut Atas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.798011499999999,
+               "lng" : 102.2561655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.796666219708498,
+                  "lng" : 102.2575152302915
+               },
+               "southwest" : {
+                  "lat" : -3.799364180291503,
+                  "lng" : 102.2548172697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Robert Hamilton Monument",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100482808673019731420\"\u003eIrwin Gaylor\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJN2aiD_JHg2Jk8jWNmMCQdYWHfjtxk7v4RKZp4KxTVc5mrPAGXlBpzSawRXV6lntyUkvfYyHKum1qb649rzz8h0cnmkrqiO4RnZF-wHGpIe-sUiXBqPf8fBPb4-Nkjhg-zA1ItLYkmcrde9O8CXpB1XfQS-HuKFIh9neKJ6Gi-fXJx",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJB9Lb8h-wNi4Rqz3fExNrzkw",
+         "plus_code" : {
+            "compound_code" : "6724+QF Pasar Melintang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846724+QF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJB9Lb8h-wNi4Rqz3fExNrzkw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "Pasar Melintang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.8001128,
+               "lng" : 102.2589817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.798505969708498,
+                  "lng" : 102.2603494302915
+               },
+               "southwest" : {
+                  "lat" : -3.801203930291502,
+                  "lng" : 102.2576514697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "At-Taqwa Grand Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106190707941718417836\"\u003eAGUNG HESTIYONO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK2JKRgYdl2l2N-1SjMZDRXi_0NW3xKtOvUSf6LXNrKVlhzC2S3_LEEaMZqM1QI7MuCougdGhT6XZukkAaDVtQZZnqiZByEhooLt_8LUZMc-viQOcB9dVC_t5KTB_i042FCBoglFwv-k1VsGSj-VlG_bJAYBgszwk1wwpMuCkuVXxBq",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+         "plus_code" : {
+            "compound_code" : "57X5+XH Anggut Atas, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457X5+XH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1815,
+         "vicinity" : "Jalan Soekarno Hatta, Anggut Atas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.787323,
+               "lng" : 102.2516757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.785963519708498,
+                  "lng" : 102.2530090802915
+               },
+               "southwest" : {
+                  "lat" : -3.788661480291502,
+                  "lng" : 102.2503111197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Benteng Marlborough",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 343,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110976598569962785183\"\u003eBenteng Marlborough\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKDPRtz9IOGaJnXh0apYrxbWFKxh86aL-pusvbu5FOZKpH4KWQaJFESEq5mKqlYY98i3t0Ou4BuQApadqAcjLuzu6RN8H1qTWAYV9DdTA9rt4amDbUR-HV_QBDoYk7wc-glEny1vZEr31EJzdtxg0SBZidXeH9iPgoa0gbId2Jpr6U",
+               "width" : 608
+            }
+         ],
+         "place_id" : "ChIJB3DwedevNi4RTX5KxvRDATw",
+         "plus_code" : {
+            "compound_code" : "6772+3M Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846772+3M"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJB3DwedevNi4RTX5KxvRDATw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7359,
+         "vicinity" : "Jalan Benteng, Kebun Keling"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.792415199999999,
+               "lng" : 102.2621108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790973419708497,
+                  "lng" : 102.2633761302915
+               },
+               "southwest" : {
+                  "lat" : -3.793671380291502,
+                  "lng" : 102.2606781697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Jami Mosque Bengkulu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103184644944886664144\"\u003eAnns\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIV5UyH_L8GhQww7GNQBV2kQnpxyHc2Q0I9MmU3tf8JSF_NnMNH1YeMTc014II6dX5CkC_WbA-P25WFoxPzSc9aLYYPYMnO81w5Wgi2Yx3P-DRU0DoQnISxFaYy5bfRMPSPch6rqrHRKSorqVIuR3jM_ulBx_OjibMoeelLnQP5OqMk",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+         "plus_code" : {
+            "compound_code" : "6756+2R Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+2R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2122,
+         "vicinity" : "Jalan Letjend Suprapto, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7968617,
+               "lng" : 102.2657098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.795540869708498,
+                  "lng" : 102.2670305802915
+               },
+               "southwest" : {
+                  "lat" : -3.798238830291503,
+                  "lng" : 102.2643326197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Simpang Limo Ratu Samban",
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110429247403534679958\"\u003eVIRGO RIAND\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJjLVo7PvrNDOSpuo4kiFe1WrsYN4USU_q9dlb43DoNZ7ZRYw4pKMwG_kTDE80yN4pNZ9bfZfPPdeYjqz6IhUJM8N9fT_ugunqW9iG1SPYg0fB6Vb3vR0lJMEBQYhl1_OE-lG1wLl0jXs8t9PYus2miEO2JjSowue-By8J8rC-3jQs9",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJHQtjk46xNi4R1U_Xnfs5KBA",
+         "plus_code" : {
+            "compound_code" : "6738+77 Belakang Pondok, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846738+77"
+         },
+         "rating" : 5,
+         "reference" : "ChIJHQtjk46xNi4R1U_Xnfs5KBA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "simpang lima"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.790347999999999,
+               "lng" : 102.2540716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.788972619708497,
+                  "lng" : 102.2553396802915
+               },
+               "southwest" : {
+                  "lat" : -3.791670580291502,
+                  "lng" : 102.2526417197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Monumen perjuangan",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100428041739496418696\"\u003eIndrata Sardjoe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLmU5ZyFlo6qZBMGZfaHSoK01H-DYHqXBSC9Gx5WNQQ8CnWSQFJrPEicZ-uOgNZDF84A8MLBRJG4R8g7M0nVRvUJRbauj-9FFP7H--J-S0670wFxg8CK3GOSP6AcksUiQZKhoJLTr6jptNjCqxuokYmVFfciWazfPa1w3ozYksrjsMl",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJEQ7NjtivNi4R8MoSAkPxe6w",
+         "plus_code" : {
+            "compound_code" : "6753+VJ Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846753+VJ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEQ7NjtivNi4R8MoSAkPxe6w",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Khadijah, Kebun Ros"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7905042,
+               "lng" : 102.2538248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.789120919708498,
+                  "lng" : 102.2551705802915
+               },
+               "southwest" : {
+                  "lat" : -3.791818880291502,
+                  "lng" : 102.2524726197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Monumen Bengkulu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100428041739496418696\"\u003eIndrata Sardjoe\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJMnwGY_t9gGNCfJ5VaRKarHiVNfLlTqIdImesepe7AHqb-tNwLCEkNJJ1VZMQ0aOeyspbFQixSt6SuWALw2CmxgX5Q0J_-S5q8bpGLQEzr_xH8d5MzBH856sKs3Lg-y13dqSEkNC0vIsGxmOrnFoOD-iIh7KDYIxxviUVBCRaDpGw0",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJnbDIiNivNi4Rx2i1bN7w514",
+         "plus_code" : {
+            "compound_code" : "6753+QG Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846753+QG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJnbDIiNivNi4Rx2i1bN7w514",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "Kebun Ros"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.792763699999999,
+               "lng" : 102.2531497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.791388619708496,
+                  "lng" : 102.2544630802915
+               },
+               "southwest" : {
+                  "lat" : -3.794086580291501,
+                  "lng" : 102.2517651197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The British Colonial Cemetery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106046708661194260365\"\u003eAdriansyah Putera\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKHDZrI94D6RkE8NwLr4dnLVSvFhQ744uWoVs4GMuTHrU1AyUFZSK6_Gyw2V3Bqs-wKKvv8PVyUWm3Z2-kjI27NFyZ3m_93v3td0Wos8VSlgebFfAyfu40Fr_YggaR3Tw9F0JF16JTtTpBP3R9yrlrIBpKu416dTTzfkEOJZNLIPA-O",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJWVTkNN-vNi4RCxAoz2N8i2Y",
+         "plus_code" : {
+            "compound_code" : "6743+V7 Pasar Jitra, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846743+V7"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJWVTkNN-vNi4RCxAoz2N8i2Y",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30,
+         "vicinity" : "Jalan Rejamat, Pasar Jitra"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7993615,
+               "lng" : 102.2551106
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.797959519708497,
+                  "lng" : 102.2565279802915
+               },
+               "southwest" : {
+                  "lat" : -3.800657480291501,
+                  "lng" : 102.2538300197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Pantai Berkas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117041805664386924879\"\u003eBeni Apindo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL7vIC4iHVfmnDAtlj2eOZ7-sUZV9FyCYra5We_ai54UFXLtbiwLOnCX2r_QdJpbj_K7b5NOZeD9Yd5fRKfJKqArDDh3N30JGRMczDdkKYvkZBWKJOIj-6HuM7-Nn_7wuY0Jq8P45hQaczBgRgzIej2w5IAhbq_aFYp6-ZSlyiGy0GT",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ87-P2R-wNi4R8nCST9WA3bg",
+         "plus_code" : {
+            "compound_code" : "6724+72 Pasar Berkas, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846724+72"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ87-P2R-wNi4R8nCST9WA3bg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2213,
+         "vicinity" : "Pasar Berkas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7904162,
+               "lng" : 102.2508914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.789260619708497,
+                  "lng" : 102.2521601802915
+               },
+               "southwest" : {
+                  "lat" : -3.791958580291502,
+                  "lng" : 102.2494622197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "View Tower",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106046708661194260365\"\u003eAdriansyah Putera\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJkjIIseT5yIS71ZpRYAiiN1mKL_khmtTTBV8-Ar_1XNOvFv3HGD9AAjf0IUG1Higngf4W65mOXlPy95IssYuf44ElGMgVzGx-7zWYE6A84-o37iXsrO7pwb5koPQP8yMqo-27O1NLfy-AX02sezExxzdOssUnqHlErC_t7CHWDREs5",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJeTjzCdmvNi4RGco2T_84iAw",
+         "plus_code" : {
+            "compound_code" : "6752+R9 Malabero, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846752+R9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJeTjzCdmvNi4RGco2T_84iAw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 954,
+         "vicinity" : "Malabero"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7841863,
+               "lng" : 102.2661509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.782880519708497,
+                  "lng" : 102.2674641302915
+               },
+               "southwest" : {
+                  "lat" : -3.785578480291502,
+                  "lng" : 102.2647661697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pesisir indah tour travel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113322751747303563171\"\u003eKiki Pesisir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJuwFuLmsPYNh2tl9T0Dl9eLWgDCCu62kWZo8znVPmNbpwjFxqQj1kkfw-dly9bRnDU2GIC03UvF1XuMEH7-TJnmLTOdVaXMt6wj2-qHLXO_ACa3npAAtQIDXWJz7pRYWksX2lrBSwkAtoclo_CWbTrN0Mr-9n0AmSDW3tY8oZAyxGm",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJo0BcBjvvOS4RKQadopxEk8M",
+         "plus_code" : {
+            "compound_code" : "6788+8F Kampung Bali, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846788+8F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJo0BcBjvvOS4RKQadopxEk8M",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Kampung Bali"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.799876,
+               "lng" : 102.2539398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.798483769708498,
+                  "lng" : 102.2553356302915
+               },
+               "southwest" : {
+                  "lat" : -3.801181730291502,
+                  "lng" : 102.2526376697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Panjang Bengkulu, Indonesia",
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116933889178419926260\"\u003eMuhammad Ilyas\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ0zo7R_EqeLLMoLZlrPLQcTle5T6v2wG-C-Gy9b339Hll-A4ZtPgiEchkh41Nno8D8fzTD2FWoSldhrLQxk6kjdCAHGFGbOtk1ZHbG9CIR7LX3ZwU0LpT9R92wq41birj9sX2SThHKhhHZqv255ScY3QcQQuIeddeJLPVEcEy0r0E1",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJ9dnkHlyvNi4RF8BpC_jPRC0",
+         "plus_code" : {
+            "compound_code" : "6723+2H Pasar Berkas, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846723+2H"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9dnkHlyvNi4RF8BpC_jPRC0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Bengkulu City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.787318,
+               "lng" : 102.2519157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.786108219708497,
+                  "lng" : 102.2534863302915
+               },
+               "southwest" : {
+                  "lat" : -3.788806180291502,
+                  "lng" : 102.2507883697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Fort Marlborough Bencoolen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104243316628592322956\"\u003eKemas Erwan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVrrjVlkuEE7m4-wnOnkph4dKU7ydxIX_FwTKG5o3yYoBpZQESC2Ft_GPe-RPkzIPso5ZpJGQOiAiuIJAPDiQIW4DIfqgduJky3lSppDNC9nBaPcTpFtYZhb6jORq3-K3vudFLZvqQdX1jbgSAgqvsJ3cgLJLQEKqTiYc_ZHk5XtQk",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJZ11o1FGvNi4RVHpC12EGVAY",
+         "plus_code" : {
+            "compound_code" : "6772+3Q Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846772+3Q"
+         },
+         "reference" : "ChIJZ11o1FGvNi4RVHpC12EGVAY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Benteng No.1, Kebun Keling"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.8017417,
+               "lng" : 102.2565011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.800260219708497,
+                  "lng" : 102.2578852802915
+               },
+               "southwest" : {
+                  "lat" : -3.802958180291502,
+                  "lng" : 102.2551873197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Bonsai, Bengkulu",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105796937109446076683\"\u003eSuwarno S\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK0zUmSxeyFm-s0YP5qqleUgREvzXXvimACZ-BikRtPvsRZaTvW-YSjZ2HhXwZ41bRetZ8Wvs-jUNYyqMVw2tGgSXnW9nEBDvGAxT7wOQdUqgMoOOzYQpcCalPsRmgIqP5RtFZm0Ig1y3aMOPMDzrw8qIXVsZiVLfK0Bn6-Y8s1AGHZ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJt5bwOfyxNi4RIFA98UrIdxw",
+         "plus_code" : {
+            "compound_code" : "57X4+8J Anggut Bawah, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457X4+8J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJt5bwOfyxNi4RIFA98UrIdxw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Anggut Bawah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7849049,
+               "lng" : 102.2534603
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.783555919708498,
+                  "lng" : 102.2548092802915
+               },
+               "southwest" : {
+                  "lat" : -3.786253880291502,
+                  "lng" : 102.2521113197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantai Tapak Paderi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106046708661194260365\"\u003eAdriansyah Putera\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKWGQnPC5vSC13GHpqkoUmL1LFp7wZdEOEJbZZyUeyl15ZHa7AFcWMn0ab0aA9P5qSNsTiZzWG9zohmaOcR-z-9BW586NgUAcWksradSZtMC0G5tN7lMWDYM7am6KNbFJ_PszyeRFMUO01-u7xIBPofWEMWysn0Lpw4mDcswOq1x7OV",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJL9dYb9avNi4R2vvNkPO7Dys",
+         "plus_code" : {
+            "compound_code" : "6783+29 Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846783+29"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJL9dYb9avNi4R2vvNkPO7Dys",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 340,
+         "vicinity" : "Kebun Keling"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7887117,
+               "lng" : 102.250701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.787446169708498,
+                  "lng" : 102.2519849802915
+               },
+               "southwest" : {
+                  "lat" : -3.790144130291503,
+                  "lng" : 102.2492870197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Thomas Parr Monument",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114174562675331030308\"\u003eHaska Zani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK7iBCkhpCg7RZCrcW3L-n6v8qIlf_b37Hj2ediOutrV2YcGozmceqDk_kMq7KXt4ocDLn7pE7ZxukLQ4XQK8WhI-YWwdH-1B61QgpzHCU5sxUi0rk7y_TbcqokJsPJ3c7atQthlgrqQvaGZvkIoWpHz74Ij498JYOsAgnxlJly2c_Z",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJz4OFutmvNi4R1QDybOAnwJA",
+         "plus_code" : {
+            "compound_code" : "6762+G7 Malabero, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846762+G7"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJz4OFutmvNi4R1QDybOAnwJA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 383,
+         "vicinity" : "Malabero"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7839525,
+               "lng" : 102.2530935
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.782858819708498,
+                  "lng" : 102.2542912302915
+               },
+               "southwest" : {
+                  "lat" : -3.785556780291502,
+                  "lng" : 102.2515932697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sandal Jodoh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106307066816353518490\"\u003eBagus Setiyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwILGSM4sU6oXMgXY1EPSvAQXF_-U9Mis9wsWPGVxiYUhdY8OoNjGD3alus9r41h5Ega8ys2W6t65Y5it9jEbxEImDUKKUBgILJD1ngMSO4bLPhzPrOHCg_uk3nynPl8PVOfFEc607cKJ5d66kauaIW_2SmhpkMINdN5Q3w3tEYsFHAx",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ6eLfQdavNi4Ri6TAP25NTfA",
+         "plus_code" : {
+            "compound_code" : "6783+C6 Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846783+C6"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ6eLfQdavNi4Ri6TAP25NTfA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156,
+         "vicinity" : "Pantai Tapak Paderi, Kebun Keling"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7864398,
+               "lng" : 102.2508613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.785031919708498,
+                  "lng" : 102.2521688302915
+               },
+               "southwest" : {
+                  "lat" : -3.787729880291502,
+                  "lng" : 102.2494708697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tugu Pers Bengkulu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102052759117223466813\"\u003eYogi Maulana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIj-1Nt1XMmJwSo8fSLZkagt4DONvAWpxArPAVLgbC4D5juuu3jvZelQ8rV11d8k7unxhjmAaQJUnTcU8ai7Tv_9JRUYd83ZGwktY4bPrDRZ4KxKfoMefm9AD0CIHVtydZ-4qEDeQZ2ViZf3m298yMpCK54QoJ49sm1mR12Fqmtlin0",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJrc1XE9evNi4RyRyo1yUozb4",
+         "plus_code" : {
+            "compound_code" : "6772+C8 Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846772+C8"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJrc1XE9evNi4RyRyo1yUozb4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35,
+         "vicinity" : "Kebun Keling"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7808484,
+               "lng" : 102.2615962
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.779581319708498,
+                  "lng" : 102.2631893802915
+               },
+               "southwest" : {
+                  "lat" : -3.782279280291502,
+                  "lng" : 102.2604914197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Pantai Jakat",
+         "place_id" : "ChIJIZwo1tuxNi4RF_heIiCj5X4",
+         "plus_code" : {
+            "compound_code" : "6796+MJ Pasar Bengkulu, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846796+MJ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJIZwo1tuxNi4RF_heIiCj5X4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Pasar Bengkulu"
+      }
+   ],
+   "status" : "OK"
+}

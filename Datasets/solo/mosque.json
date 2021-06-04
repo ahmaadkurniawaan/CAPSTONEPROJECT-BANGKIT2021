@@ -1,0 +1,837 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLD52umsoDrO8vLlYXWUa335hesZakuJiR77Os62tHj9fklkp37dk-pzzfw_P26QfJ8PK_Mz8jMifl6pkx74B75oOlj2aou8Q902VCm-Dh-KgZULxvtg2ilDNgVU9TRm7Xi6xa_hXSBee-rHi6mquTe43Nm0UpeGim-5m6q1UHGkwMRLy4lEVphWewDwnvt92hWJBD8Z1h_jxcp4AndrQd6CstgIxHfG8TwnkKu9AMHwGYkCuf9yBF8QvV12eRGo5S7OlpSjejVASqq3L9-h1ffonE9HYZ2z-B3txis0xq1Qbw83oR_ixq03Ank0YiZmu6x9Y5DLfPfbxg6FzVd16Ln6sAzNG24h7GwGzAXpDScz028PWvIPkT50OCVPZJHmmzPFlytbtrv5Ee9Ll1nAqeb4-uB1i7d5bkbtexdCT-O6aXwZVDchbw",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577059500000001,
+               "lng" : 110.8275458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575779519708499,
+                  "lng" : 110.8288754302915
+               },
+               "southwest" : {
+                  "lat" : -7.578477480291504,
+                  "lng" : 110.8261774697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "His Majesty's Paramasana Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107683241086832721561\"\u003eMuhammad Yunan Andipa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIrqTxsS5EgCyg5_t-cfseBOpVGVk1atAWaZLWTGZuOOrNWkYRKLv4VHXv3iC7mcguhsqetrhx_xJvKlZ-uPj2VFdIEM0de3fT8zy-OkohH3UJxhdae1CIVBjUPDTQpJ3W_Zs_5sg-F_mMWNiOKtm9PByAEGODrJ3YwLmpZLlE5HIew",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQ2OsMGYWei4RyhtoZr5PYT8",
+         "plus_code" : {
+            "compound_code" : "CRFH+52 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+52"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJQ2OsMGYWei4RyhtoZr5PYT8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.581122400000002,
+               "lng" : 110.8272702
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.579785819708498,
+                  "lng" : 110.8287361802915
+               },
+               "southwest" : {
+                  "lat" : -7.582483780291502,
+                  "lng" : 110.8260382197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Islam",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100795835577179001458\"\u003eAhim Fa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI2iHXStYWLa10iVhiwItp5urEW-lBoz4BcdFcXD_u89Y2pwpYu21v5w1uuSvwhfFZZxgNFjoILXEguoqxs_FRLzHe7gtVR9ptytVvFhxJRuOrtTOlb8Ph_MlNXk1R2LxsPZhO-spDztH1HTzZmqrLdDQa6SVPXs_fo9Vkd3jOUCRH7",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJW5pW4mgWei4RDbsG9jfSc7A",
+         "plus_code" : {
+            "compound_code" : "CR9G+HW Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR9G+HW"
+         },
+         "rating" : 4,
+         "reference" : "ChIJW5pW4mgWei4RDbsG9jfSc7A",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Lumbung Wetan, Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.579754399999999,
+               "lng" : 110.8239105
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.578393069708497,
+                  "lng" : 110.8252063302915
+               },
+               "southwest" : {
+                  "lat" : -7.581091030291502,
+                  "lng" : 110.8225083697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Waro'ah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100795835577179001458\"\u003eAhim Fa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKX22lDSWF8_bsQcHT904qOfaqkpUjvaJmhB5YcG-RqlLZUFNQqeCSiAwbS94XF02L5idIpWbDKWCrC3z0cA9eKsQVJCMJGwvuxIgw8oUbPtdF_E-jpKfqhyjdGevUfqnlJC62W7LY8hyF4P5RHv0ZjqM4Sq9GMOi16BmKHsOcm32AR",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJMcjHuGgWei4RYO0OmpwQ33o",
+         "plus_code" : {
+            "compound_code" : "CRCF+3H Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRCF+3H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJMcjHuGgWei4RYO0OmpwQ33o",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Jalan Wirengan, Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5810071,
+               "lng" : 110.8156113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.579470069708498,
+                  "lng" : 110.8169924802915
+               },
+               "southwest" : {
+                  "lat" : -7.582168030291503,
+                  "lng" : 110.8142945197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Jamsaren Surakarta",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116080554222285512789\"\u003eMasjid Jamsaren Surakarta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKOn3WbariRXDYtN9_Gcfr5_jiGNHagVYFavTsufAiPmMKDZwlJ8X96B_U10KKblfA3liV2pGgcrgDG7NkN3k8SHUCzWsL5qGOq_TalAKpebyIDgtxCPv9Zsd0PrDv-wVC6t7j0VpvxH71GxP1cqCqdITyFTJxwyQRhSf7UpNlTE8dV",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJm2mZ43AWei4RuGTP60D9NME",
+         "plus_code" : {
+            "compound_code" : "CR98+H6 Serengan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR98+H6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJm2mZ43AWei4RuGTP60D9NME",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 62,
+         "vicinity" : "Jalan Veteran No.263, Serengan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.573918800000001,
+               "lng" : 110.8303923
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572708769708497,
+                  "lng" : 110.8317994802915
+               },
+               "southwest" : {
+                  "lat" : -7.575406730291502,
+                  "lng" : 110.8291015197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid SABILILLAH BETENG SOLO",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2998,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116747868463881003093\"\u003eAziz Hafidz\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL2mgbwXEdaFa3FY7w1nwUUzJgdPmJ5ovFw69l4vFd_m7QM9JcXEoniGRkTRxfunZTZlZbX3eYMoqoMrDqAtg76irPm_eXUWmzLynCIELZ6DndANZJL7pckEI8aJCNk1gc2kRMRIUi4mZntUnUPdnJcvpSCOKTnUZOJz1883hT2D5tE",
+               "width" : 3998
+            }
+         ],
+         "place_id" : "ChIJ8QPPQ2cWei4RUUNw7iuheS4",
+         "plus_code" : {
+            "compound_code" : "CRGJ+C5 Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGJ+C5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ8QPPQ2cWei4RUUNw7iuheS4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 211,
+         "vicinity" : "Jalan Kyai Gede No.14, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.573357100000001,
+               "lng" : 110.8296134
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572064669708498,
+                  "lng" : 110.8309439302915
+               },
+               "southwest" : {
+                  "lat" : -7.574762630291502,
+                  "lng" : 110.8282459697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid PGS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104980510212956026173\"\u003eDarmawati Indraswari\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLUs9Y1cFo9y3dL689DMytgZ6rfxDYWsi0adE-HXRyPK6nPhZEJaemHgyXH-eZOvBD11RianDuLrqaaipWUAXmq6dNz1GR1LMt4ZGwXYp4c8r023YR2JxXkZyi6LqVTeeiGnVBkM06cRpJf6Fuqm2JdY8kqaBrj6N_7J8yQC19IOkVC",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJMYUpN2cWei4R0HI0qZZjTFg",
+         "plus_code" : {
+            "compound_code" : "CRGH+MR Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGH+MR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJMYUpN2cWei4R0HI0qZZjTFg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68,
+         "vicinity" : "Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.575808099999999,
+               "lng" : 110.8303341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.574473419708497,
+                  "lng" : 110.8317540302915
+               },
+               "southwest" : {
+                  "lat" : -7.5771713802915,
+                  "lng" : 110.8290560697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Fadhilah Muslimin Mosque",
+         "photos" : [
+            {
+               "height" : 3472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111785717723960083315\"\u003eKatiman Najib\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI3jCUtBcZlFJQWaGNY19HGSYdUZDDZ7ZCYkf5XlWf-DvTDGUBgAL-_iFK6mCPuuFYzhSOiiMCIeW9C2xvNmBGc9DmQ7A-1PyZaLC06GbKs3MAef1LMFeULi7ZWYf_QD7QVpTPmS5JB5LDt-jgDSotUPEsgDSbj2R8rkxAHlc2getRK",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJO1rfm2cWei4R3IP_xGjNLl4",
+         "plus_code" : {
+            "compound_code" : "CRFJ+M4 Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFJ+M4"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJO1rfm2cWei4R3IP_xGjNLl4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jalan Senopati No.12, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.573426,
+               "lng" : 110.828405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572152119708498,
+                  "lng" : 110.8297295802915
+               },
+               "southwest" : {
+                  "lat" : -7.574850080291503,
+                  "lng" : 110.8270316197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Aqdamil Ummahat",
+         "place_id" : "ChIJ-RbM12YWei4RyxR7dyZfWwc",
+         "plus_code" : {
+            "compound_code" : "CRGH+J9 Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGH+J9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ-RbM12YWei4RyxR7dyZfWwc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Pasar Cinderamata Alun Alun Utara, Jalan Pakubuwono, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5746628,
+               "lng" : 110.8322146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.573303869708497,
+                  "lng" : 110.8335666302915
+               },
+               "southwest" : {
+                  "lat" : -7.576001830291502,
+                  "lng" : 110.8308686697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid AR-ROHMAH",
+         "place_id" : "ChIJHzrqfQYXei4R3xfVftARna0",
+         "plus_code" : {
+            "compound_code" : "CRGJ+4V Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGJ+4V"
+         },
+         "rating" : 4,
+         "reference" : "ChIJHzrqfQYXei4R3xfVftARna0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5748909,
+               "lng" : 110.8323911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.573691069708499,
+                  "lng" : 110.8337745302915
+               },
+               "southwest" : {
+                  "lat" : -7.576389030291503,
+                  "lng" : 110.8310765697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "An-Nur Mosque",
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113585856590790028723\"\u003eShidiqWeddingCard dot COM\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxYKkaBrvVHtkskz8AkaALRoQpDt7pFK-CbQfF_55y909RlMN8lfiSz-gNq-9mbyqxydSyGRvqY_HWHoGSKXwf0cidOc2NCP-MYiVsfp2IBaJA-QVDPUqZFU5T3WS1Jf_18pAJBndrGb8-zcGCh7BJ7YmWZK_EgOqB1qSwD28HUzAA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJS0F9nF0Wei4RbIiU5S627Fg",
+         "plus_code" : {
+            "compound_code" : "CRGJ+2X Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGJ+2X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJS0F9nF0Wei4RbIiU5S627Fg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47,
+         "vicinity" : "Jalan Kapten Mulyadi, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5745748,
+               "lng" : 110.8274407
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.573312269708499,
+                  "lng" : 110.8289769302915
+               },
+               "southwest" : {
+                  "lat" : -7.576010230291503,
+                  "lng" : 110.8262789697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Agung East Gate",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 563,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109370835897896773904\"\u003ehallo 1\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLYaon_Hqa6H61diT0Egg76hGhX-Uz7c73Ys38r6B2rTZEbpxZVlUBFkJsPVuWhtVMu-1YMs9M08jsLTwbP_nj6DuBSuvZ3lK20MpamfODyKS4zeGl8fBQHwC03kA5IaiE6FMHsrn3-4WVO-bGKFgi23VWCv3ykfi6Qb4I3fgAZTHv7",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJcyl572YWei4RiP_OEWyCd60",
+         "plus_code" : {
+            "compound_code" : "CRGG+5X Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+5X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJcyl572YWei4RiP_OEWyCd60",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 668,
+         "vicinity" : "Depan Ps. Klewer Timur, Jalan Alun Alun Utara No.3, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.574106599999999,
+               "lng" : 110.8274066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572619969708498,
+                  "lng" : 110.8287906802915
+               },
+               "southwest" : {
+                  "lat" : -7.575317930291503,
+                  "lng" : 110.8260927197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Kantor Sekretariat Bersama Masjid Agung",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116125407843048050260\"\u003eHamid Alima\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkeFQfD7pnlt0Zt2loi5hz4tTknLIHMeWqJjcwn7CxDqadkYDcYxTk5KviurWgyHbkLijTxtow1FcvKwWwexfFRbafyuqbIbY8ZZh5hT1RqiRgq4lNdspE57TPMyc3zX29PWe0x7OXGI5BiLzLBCm51xBozmEFSv3vDGe75s9WSS_m",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJP0B69eIXei4RM4M-n8UFW_8",
+         "plus_code" : {
+            "compound_code" : "CRGG+9X Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+9X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJP0B69eIXei4RM4M-n8UFW_8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jl. Masjid Besar No.1, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5768857,
+               "lng" : 110.830912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575534769708498,
+                  "lng" : 110.8322613802915
+               },
+               "southwest" : {
+                  "lat" : -7.578232730291503,
+                  "lng" : 110.8295634197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Islam",
+         "place_id" : "ChIJq9L8AkMWei4R24K_FN13-Ek",
+         "plus_code" : {
+            "compound_code" : "CRFJ+69 Pasar Kliwon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFJ+69"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq9L8AkMWei4R24K_FN13-Ek",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Lumbung Wetan, RT. 02 RW. 7, Baluwarti, Pasar Kliwon, Pasar Kliwon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.574046399999999,
+               "lng" : 110.8270368
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572544519708497,
+                  "lng" : 110.8284247302915
+               },
+               "southwest" : {
+                  "lat" : -7.575242480291502,
+                  "lng" : 110.8257267697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Menara Masjid Agung",
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117173188589993331122\"\u003eTri Utami Setyaningrum\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKzY4hQMJx3w2EIqcHVd0dUPJM2_xgCsRDazxqwGcYRJdsOzxuyJJKSAtQReOKXtLD7XXoC21CMc66WUjd7yILhsdT2_3TNun7Y1aq14-oGXjYSFvUoFr6VJmHilWy2fszw-KPwuEjjT6OFO2X2IunqZC0JHWHmJ2GXnZoXInrutRKj",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJga91v2YWei4RWB-lJrZd8gI",
+         "plus_code" : {
+            "compound_code" : "CRGG+9R Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+9R"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJga91v2YWei4RWB-lJrZd8gI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Jalan Masjid Agung, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577044099999999,
+               "lng" : 110.83133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575655519708497,
+                  "lng" : 110.8326897802915
+               },
+               "southwest" : {
+                  "lat" : -7.578353480291502,
+                  "lng" : 110.8299918197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Salamah",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112672880313068693199\"\u003eJoko Ady\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwItUvAfOy7xHrHv-cr6knAE4cvC_Xg3rXzOHxayvqOtiP7R16vFLZhzO3dhZYAnqPpUA5YlNwm_ikPujt6M_O_tfje_oD5AdbAXO6eOJZJM5JMj84s7Oexu6EkNozMLz20nKc3-7gfe0Hqmm88FDR-MsEaqp22452vruFd1qL38zwTL",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJRw1M9mcWei4RCxwID5Syqg0",
+         "plus_code" : {
+            "compound_code" : "CRFJ+5G Pasar Kliwon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFJ+5G"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJRw1M9mcWei4RCxwID5Syqg0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54,
+         "vicinity" : "Jalan Kyai Mojo, Pasar Kliwon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.573010800000001,
+               "lng" : 110.8271616
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.571650619708499,
+                  "lng" : 110.8284717802915
+               },
+               "southwest" : {
+                  "lat" : -7.574348580291502,
+                  "lng" : 110.8257738197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Kauman",
+         "photos" : [
+            {
+               "height" : 4624,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100293668286253309438\"\u003eWahyu H Rahar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKFctHyyPrNuQRPxQfNlqCbroEPyBgwUFNIKvpUkq1nsUOZI_NKTcnzBz5GdGsj4bn-KXFWzuxGE3wy5s6zAGmhpE378ApB4UprSRTElpSfpj4Vbe1k4HgF7MOvd-cggiSEqShLXywKgDZiZjwVGiEOiCjG9prF5zPBipukux5IJr2X",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJpQPCbKMXei4RU-44dEzEo-8",
+         "plus_code" : {
+            "compound_code" : "CRGG+QV Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+QV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJpQPCbKMXei4RU-44dEzEo-8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Los DD No. 5 Pasar Batik Cinderamata, Jalan K.H Hasyim Ashari, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.574410400000001,
+               "lng" : 110.8267734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.5730134,
+                  "lng" : 110.8286001302915
+               },
+               "southwest" : {
+                  "lat" : -7.5758054,
+                  "lng" : 110.8259021697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Great Mosque of Kraton Surakarta",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102145024264120219365\"\u003eJoko Wibowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJkG3p6QHrOwUZXDg7oSnfAp1ooTvvHmfoRI1EmP6p8gQeg1hxXZ_tbXCdzA4CLvY6ImtXDCAP159Fmb9mqLNGWKSby4z0LElBX9A6DGvhMVOPujAWuMUfPezd30i4rbjtmUaXhTR4PpK_camxR3EamXAutI9oSueC0akSUmUfTANBK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJW9yD5WYWei4RNnF5JDPvIhY",
+         "plus_code" : {
+            "compound_code" : "CRGG+6P Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+6P"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJW9yD5WYWei4RNnF5JDPvIhY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5852,
+         "vicinity" : "Great Mosque Street No.1, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5744132,
+               "lng" : 110.8267728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572991599999999,
+                  "lng" : 110.8286045802915
+               },
+               "southwest" : {
+                  "lat" : -7.575869599999999,
+                  "lng" : 110.8259066197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "North Door of the Great Mosque",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103168907868732903956\"\u003eHerdiyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJKp9cjmpT5kSQracsqj9TendcRusu0JIA4rPFyuKMHwsSWc6KCk1QuC_rYvmTywSULEDRAc9vWnNVtoH-Db2JN_QU4Co0NyaFBEE4zboUvCnyjDCCfmh_oJQGkgcZ9MQQGdvTk4Y8fOB1YbLCy-3i9rCrt9ofjoYgoWqm-oRny1G1y",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ7UR-uGYWei4RHaHjTAPwLug",
+         "plus_code" : {
+            "compound_code" : "CRGG+6P Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+6P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ7UR-uGYWei4RHaHjTAPwLug",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 106,
+         "vicinity" : "Jalan K.H Hasyim Ashari No.41, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.571104099999999,
+               "lng" : 110.8293036
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.569816969708497,
+                  "lng" : 110.8308764802915
+               },
+               "southwest" : {
+                  "lat" : -7.572514930291502,
+                  "lng" : 110.8281785197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Hidayah Kantor POS Indonesia Solo",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102367216517466774398\"\u003eM Syukri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIQfC1Xo5PI2b967bd_BAVtCFLfQcKMZt2M0fB-yAZBliSdDFAU4fQsGU9LBGfRG15QYAffL8NXMGquILGZnwnUdB4wkeD5moHMZjaBhyjzKp97p-NBDRDf_udntdTzcnqNR3BsHHskLepjeYHm5tuP0n_PLQ-BWQ5qHzswM0C0j98f",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJHbqY72AWei4R3SH2sjUbIUw",
+         "plus_code" : {
+            "compound_code" : "CRHH+HP Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRHH+HP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJHbqY72AWei4R3SH2sjUbIUw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34,
+         "vicinity" : "Kampung Baru, Kp. Baru Ps. Kliwon, 57111, Jalan Jendral Sudirman, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5747171,
+               "lng" : 110.8336128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.573476019708497,
+                  "lng" : 110.8349946302915
+               },
+               "southwest" : {
+                  "lat" : -7.576173980291502,
+                  "lng" : 110.8322966697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Ar-Rihab",
+         "place_id" : "ChIJReCrr10Wei4RO6bmNhEAWKA",
+         "plus_code" : {
+            "compound_code" : "CRGM+4C Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGM+4C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJReCrr10Wei4RO6bmNhEAWKA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Kapten Mulyadi No.117, Kedung Lumbu"
+      }
+   ],
+   "status" : "OK"
+}

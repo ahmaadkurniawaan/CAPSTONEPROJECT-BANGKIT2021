@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6140807,
+               "lng" : 103.6264395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.612796619708498,
+                  "lng" : 103.6276850302915
+               },
+               "southwest" : {
+                  "lat" : -1.615494580291502,
+                  "lng" : 103.6249870697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Trans Studio Mini Jambi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113671165523740332582\"\u003eIrwan Sengeti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIciixxjnzIuGNvc5mjED7iSX57emmXDvzw8QUw2WxOaFfSdRuNkHj-cukQZZ88jJ0wRo5tLkHWwdcXuuL47SPTQIxsbK74Bn1z2rD1DM5wESb1Aov8RpwKUilZYjUMVQc37sSR23_6LmbSCHpJN63JbfLAPOX_8L0qAbNLvE1Ni9L9",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJccf-0umJJS4RsEMYv4HKjTM",
+         "plus_code" : {
+            "compound_code" : "9JPG+9H Tambak Sari, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JPG+9H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJccf-0umJJS4RsEMYv4HKjTM",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Tambak Sari"
+      }
+   ],
+   "status" : "OK"
+}

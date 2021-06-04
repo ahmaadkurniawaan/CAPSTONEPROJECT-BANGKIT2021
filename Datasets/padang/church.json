@@ -1,0 +1,808 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLINNxnaBo0m88WQlRCSS-ccMpdFJ5_In5wDObxQKySxFZ5yJMB78O-63HIsYSY4Yj4oh_Vc0QKYaEPycKRkLuh9QDtTrJzKlOBOCdYByyUb7ZDXv-atbQ3uZMpgv3k_0TGe74VLzDIDf3rtovfkAWdkk34O-brbCHdRp_tEu-F2t5Wq3dkkEdLmzdwGKidEMUTQJ_UW0g2MC8ujvHHlD4TW8h2aUnQVpI_SfXwFjhZ1duv2XP57lFQT2Z9QyGXhJ3TnvlTRIYojEBcmMQq9jdFTUnSogj9QEhqck8aQFvgrpz0VSW0UGnJg8UtU8RzjNGvvTg5Ls7ltgTfaZEUV9ow-35axy-t2lx30bI0Rmn_lGnNebsv-8M3ecwxaBKICHf0UG7y65EcvbGuPz1L6YXK1YofRGinISwti5T7Q7oeJJ7FgMqF3mY",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.958843,
+               "lng" : 100.3642997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9574535197084978,
+                  "lng" : 100.3658084302915
+               },
+               "southwest" : {
+                  "lat" : -0.9601514802915019,
+                  "lng" : 100.3631104697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristen Kalam Kudus",
+         "photos" : [
+            {
+               "height" : 774,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108580006795693998586\"\u003eTiara M. Sinaga\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKg09PiXqFYA1GJWj9EGXaJagpdWURmRdVoCk0UCYqBslyUP_fsL18C0i6TfXeZwdx_O-Te6-OHpWWbmglq6m72zIW-1QaDN93bLO18l1Y5OPJ8McVpFs58hA5WccCYn_xqY9ODSweP-clG6-zXPB8gcmDEJZ2n7QWejpm_jq6nyul7",
+               "width" : 1032
+            }
+         ],
+         "place_id" : "ChIJP5FN7Fq51C8RyLQOKrGN_VU",
+         "plus_code" : {
+            "compound_code" : "29R7+FP Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+FP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJP5FN7Fq51C8RyLQOKrGN_VU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Jalan Kampung Nias V No.31, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9470831999999999,
+               "lng" : 100.417181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9456674697084977,
+                  "lng" : 100.4186671302915
+               },
+               "southwest" : {
+                  "lat" : -0.9483654302915018,
+                  "lng" : 100.4159691697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "HKI PANGKALAN BUN",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101418590676128323156\"\u003ePoppy Julita Simanjuntak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKortNozjLCaotx1nvVvEA2F-dQ4AaoIgAT_pnYnqxO5rXhOYNG6XOr-LsaVTYtO5t5w3ZyS4X4eXJL-ZupBFrwkwKINH2o8f_9IJBZcApQ7VI-JxrvDkZ9i4Fl2WUkIvR6INcZfrr9W3jax0fDudhh1z4nt4kcMzZt2KV9eb0HJyqr",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJb1TGdce51C8Rumrz8sNn408",
+         "plus_code" : {
+            "compound_code" : "3C38+5V Piai Tangah, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23C38+5V"
+         },
+         "reference" : "ChIJb1TGdce51C8Rumrz8sNn408",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Padang Cucul No.RT 21, Pasir Panjang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9559875999999999,
+               "lng" : 100.3656174
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9546348197084981,
+                  "lng" : 100.3668910802915
+               },
+               "southwest" : {
+                  "lat" : -0.9573327802915022,
+                  "lng" : 100.3641931197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKNR Padang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJq7hb0EW51C8R_I7vlVw4KA0",
+         "plus_code" : {
+            "compound_code" : "29V8+J6 Ranah Parak Rumbio, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V8+J6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq7hb0EW51C8R_I7vlVw4KA0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Kampung Nias VII No.8A, Ranah Parak Rumbio"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9488769,
+               "lng" : 100.3629415
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9474802697084981,
+                  "lng" : 100.3644439802915
+               },
+               "southwest" : {
+                  "lat" : -0.9501782302915022,
+                  "lng" : 100.3617460197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB Efrata",
+         "place_id" : "ChIJo2UQSu-51C8RgOxF4d4ppUw",
+         "plus_code" : {
+            "compound_code" : "3927+C5 Sawahan, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23927+C5"
+         },
+         "reference" : "ChIJo2UQSu-51C8RgOxF4d4ppUw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Bgd. Aziz Chan No.19, Sawahan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9488586000000003,
+               "lng" : 100.3628815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9476140197084981,
+                  "lng" : 100.3642346802915
+               },
+               "southwest" : {
+                  "lat" : -0.9503119802915022,
+                  "lng" : 100.3615367197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB Jemaat Efrata Padang",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103737053162863821397\"\u003eOgy Tahulending\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKidLC-g-FZm7Qp2FHL9BF08mc_4AGcpI-fnCrWRNqufoThqH29pN4x0BqEQxo5Ef8-JREQDBKHF9P_ZkV8JfKHZoSmHwsZRb3E5iGcJoRHTFo5MCbx6Tu5Af4KkggwuyJaQoxdiymtZBq7z-nAbL0mEfDqLnqZ8oRPlnpJzB0HyVMo",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ1Rwbu0e51C8Rhddxcwh5a_8",
+         "plus_code" : {
+            "compound_code" : "3927+F5 Kampung Jao, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23927+F5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ1Rwbu0e51C8Rhddxcwh5a_8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51,
+         "vicinity" : "Jl. Sst Bagindo Azizkhan No.19, Kampung Jao"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9583056,
+               "lng" : 100.364978
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9569285697084978,
+                  "lng" : 100.3663091302915
+               },
+               "southwest" : {
+                  "lat" : -0.9596265302915019,
+                  "lng" : 100.3636111697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI JEMAAT EBENHAEZER PADANG",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100835991082479528275\"\u003eFredy Natanael Pandeiroth\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK5yyFCCllCrTFUeW0C9zSfQoyqXoDYyT40oiS21RPgbBEcTlLg98OV7hf0_mCGZpeHNRGKQZewpeCEqiXA4eiebRJdcNPqDmqx_OAPoYWtrCRw3iF0YrlHPWdkGzRlu1jqk3C5fPLByc9POfA7AMrUs2FKV0Y4fcEcIbtrlzETpRF0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJDxA0JRK51C8R26QDVI3fDhw",
+         "plus_code" : {
+            "compound_code" : "29R7+MX Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+MX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDxA0JRK51C8R26QDVI3fDhw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Jalan Kampung Nias No.VI, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.957514,
+               "lng" : 100.3645061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.956208619708498,
+                  "lng" : 100.3657620302915
+               },
+               "southwest" : {
+                  "lat" : -0.9589065802915021,
+                  "lng" : 100.3630640697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Getsemani Padang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111385263687379563420\"\u003eGBI Getsemani Padang\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIQD_UaJYpG8NdRb5H8YN-qTeMG5Vr4CoAA40EGxR8pngky2xYgkibRpaBSzqqJ-rrO1x7JQpowThWZUWFXfaazo69qT1SYOPoU6U66i0f7l_tttcF-hTNf890LMR5LAYYZzcQZMlg_3tBLY9DE0JnG2hI0YKworevHZLknlJE_sWRt",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ5aXKImG51C8RmO-1LtJei4Q",
+         "plus_code" : {
+            "compound_code" : "29R7+XR Ranah Parak Rumbio, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+XR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ5aXKImG51C8RmO-1LtJei4Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Kampung Nias V No.46, Ranah Parak Rumbio"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9366102999999999,
+               "lng" : 100.3618675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9352316697084979,
+                  "lng" : 100.3629320802915
+               },
+               "southwest" : {
+                  "lat" : -0.937929630291502,
+                  "lng" : 100.3602341197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik St. Fransiskus Assisi Padang Baru",
+         "photos" : [
+            {
+               "height" : 622,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112489915719797657960\"\u003eNew Crusader\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIVH3hdAnUZLIA7QkkwAcAM5MXgcOXLksyH6S9CQmVqNx9zM12_7UW81f661TFHfJ18Szd5lsOdM6iQkE86zrBEYWsMu_mbmFeNaj0mOj67KsJ-fm_PmAO5gHfx09gcnCzaLBn46250aRlVcnzThTaZLj7mo8ucmDAgIGDhXnSmUEFb",
+               "width" : 996
+            }
+         ],
+         "place_id" : "ChIJ4V3x8zm51C8Ry3abgpTnamM",
+         "plus_code" : {
+            "compound_code" : "3976+9P Jati Baru, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF23976+9P"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ4V3x8zm51C8Ry3abgpTnamM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 72,
+         "vicinity" : "Jalan Jendral Sudirman No.50, Jati Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9596857000000001,
+               "lng" : 100.3648673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.958270019708498,
+                  "lng" : 100.3663131302915
+               },
+               "southwest" : {
+                  "lat" : -0.9609679802915021,
+                  "lng" : 100.3636151697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kemah Injil Indonesia Jemaat Padang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103373596606551565611\"\u003eRonal Pasaribu58\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwISpD4qERZ62fAkn19dWE6DHA53fQjr5mmtHUf3LANBlVKbh8wG7T2QWdj6eMPYjxH29IqDKjeQRFDrMyZ3WA3WGTHGrpjkDoLufzuCzzSrHfHXRONt7L_wid6wlVfv1hdNCiArODheiqgnOfTXAoog1UW4nWj1_oJUl-GC7zpTM8RM",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJF9BmStW51C8RjUzsnzOgxaU",
+         "plus_code" : {
+            "compound_code" : "29R7+4W Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+4W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJF9BmStW51C8RjUzsnzOgxaU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Pasar Malintang No.17, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9593120999999998,
+               "lng" : 100.3643306
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9580242197084978,
+                  "lng" : 100.3657284802915
+               },
+               "southwest" : {
+                  "lat" : -0.9607221802915019,
+                  "lng" : 100.3630305197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GEREJA GKSI ANUGERAH PADANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 302,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117968955412060404345\"\u003eGEREJA GKSI ANUGERAH PADANG\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJzVhP9xsvCCRKnsr3GWTqK9WMfsY-aO85NAolC5zbvVcd32VxJERnQ-84in1ECean8_fAoAW8OTmiJy8dGmBjUZUZby6c5nzEx67Ka1_rVNIC8KwUpbPuKO2nVL0U7gf9-t-5njlwyjBNx4U4BnnWMXmtoZSKuHZ_8qyBI5p2ibvOj",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJh0ZHh1C51C8RZ_tlKk-Oxwo",
+         "plus_code" : {
+            "compound_code" : "29R7+7P Ranah Parak Rumbio, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+7P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJh0ZHh1C51C8RZ_tlKk-Oxwo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Jalan Arif Rahman Hakim No.29, RT.006/RW.02, Ranah Parak Rumbio"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9593313999999998,
+               "lng" : 100.3643292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.958037969708498,
+                  "lng" : 100.3657226302915
+               },
+               "southwest" : {
+                  "lat" : -0.9607359302915021,
+                  "lng" : 100.3630246697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja",
+         "place_id" : "ChIJV0bkxDO51C8RdsEcwmAQOV0",
+         "plus_code" : {
+            "compound_code" : "29R7+7P Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+7P"
+         },
+         "reference" : "ChIJV0bkxDO51C8RdsEcwmAQOV0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9573897,
+               "lng" : 100.3628198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.956064469708498,
+                  "lng" : 100.3642247302915
+               },
+               "southwest" : {
+                  "lat" : -0.9587624302915021,
+                  "lng" : 100.3615267697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBKP Padang",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109810088963464418096\"\u003eesron tarigan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKZYFyNoISfft7etglhtI7AomArNkROg8ZfnCkbRRJ-ryUzTQpilKZzPZxnHW03cX8CqaJnRWxHRmfapovjk-BrH4BObO0astJk9wept0lb1i4mkgD8PZknA0GQJAhnPNdFi3QyB_wFcraswwtZy-HR1Af6-vbWO3ev2DcFunyfS0MC",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJSwOOw1q51C8RNUk0dHq_sNo",
+         "plus_code" : {
+            "compound_code" : "29V7+24 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V7+24"
+         },
+         "rating" : 3,
+         "reference" : "ChIJSwOOw1q51C8RNUk0dHq_sNo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Kampung Nias II No.8a, RW.05, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.957944,
+               "lng" : 100.362865
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9565760197084981,
+                  "lng" : 100.3641618802915
+               },
+               "southwest" : {
+                  "lat" : -0.9592739802915022,
+                  "lng" : 100.3614639197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja GBI",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100897969306325188772\"\u003eucak ope\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKDMmnQp6y1rM0sj-VJIX3moguoKbIFqCMM3ZthXKH-vKhuBP0AkJtTGWGsAkcb8x7DPn1v3LxNAxbdzoFxyphs7j_oL3l3cCS0tFg2nBFtMQ1yDNXaEEuhWvev_7LXAR0bwD-U19_BygmY8QwIsi8IdpHpLUwXwS5N0a4MDQ8kQFYC",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJJ2ei6Vq51C8RMFHfacrtxy4",
+         "plus_code" : {
+            "compound_code" : "29R7+R4 Belakang Tangsi, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+R4"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJJ2ei6Vq51C8RMFHfacrtxy4",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27,
+         "vicinity" : "Jalan Kampung Nias II No.6-BC, Belakang Tangsi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9580013000000003,
+               "lng" : 100.3628719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.956628619708498,
+                  "lng" : 100.3641565802915
+               },
+               "southwest" : {
+                  "lat" : -0.9593265802915021,
+                  "lng" : 100.3614586197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Eben Haezar Padang",
+         "place_id" : "ChIJ6WiB61q51C8RepQzNdAVjDo",
+         "plus_code" : {
+            "compound_code" : "29R7+Q4 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+Q4"
+         },
+         "reference" : "ChIJ6WiB61q51C8RepQzNdAVjDo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kampung Nias II No.21, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9592398999999999,
+               "lng" : 100.3630102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.957868019708498,
+                  "lng" : 100.3643688302915
+               },
+               "southwest" : {
+                  "lat" : -0.9605659802915021,
+                  "lng" : 100.3616708697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Solagracia Kampung Nias III",
+         "place_id" : "ChIJ2aI4g-G51C8Rizp0JqjPA74",
+         "plus_code" : {
+            "compound_code" : "29R7+86 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229R7+86"
+         },
+         "reference" : "ChIJ2aI4g-G51C8Rizp0JqjPA74",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kampung Nias II, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9614986000000001,
+               "lng" : 100.3635645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.960267019708498,
+                  "lng" : 100.3650724802915
+               },
+               "southwest" : {
+                  "lat" : -0.9629649802915021,
+                  "lng" : 100.3623745197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Agape Padang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106031028023941396093\"\u003eYaman syaputra waruwu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ5-tu4zCju8OxgEMilLSnzXXuExJmpmqhK06bE16iFxDswxv8fmMIbKLL6XcnfyCdM1kQrSmwrDtiPdjp_jRiFbKLtI0EsJEK1049MxSPGWlFTiuDPkZA0dNtPg1MRmii5u0HMk4bzfjMHJ4xqPhFaWR-EScmTPN30gZ7HQKm78eNg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJt4Cwm1m51C8RdaKhL_EIK74",
+         "plus_code" : {
+            "compound_code" : "29Q7+CC Kampung Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229Q7+CC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJt4Cwm1m51C8RdaKhL_EIK74",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Pasar Borong III, Kampung Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9544062000000001,
+               "lng" : 100.3610666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.953116019708498,
+                  "lng" : 100.3624107802915
+               },
+               "southwest" : {
+                  "lat" : -0.9558139802915021,
+                  "lng" : 100.3597128197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja BNKP",
+         "photos" : [
+            {
+               "height" : 545,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102694046095218479592\"\u003eaji sal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJOJ4FKsJ4swFDdp-cSniReS_kp39cHx4Gl7xySEn6lr4F5uJHGlb0LoWHlSQoxkZwprVpIOLXgHQ-vwqE1QLK1v3IBIEjaIOcceXTMMj5p0ruFoLN1LVC0UcBkJoM2UzeU9s4sigcDSHZiai4OIplrCpplGnNJiDdzuh21Wfpd9gDN",
+               "width" : 419
+            }
+         ],
+         "place_id" : "ChIJ82Q9fkW51C8R5jXzPYDgELo",
+         "plus_code" : {
+            "compound_code" : "29W6+6C Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229W6+6C"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ82Q9fkW51C8R5jXzPYDgELo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53,
+         "vicinity" : "Jalan Karya No.6, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9571399999999999,
+               "lng" : 100.361811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9557643697084979,
+                  "lng" : 100.3630428802915
+               },
+               "southwest" : {
+                  "lat" : -0.958462330291502,
+                  "lng" : 100.3603449197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Rayon 19",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107572578943535415536\"\u003eDiana Yuliastuti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJMoycJf6WfD9PcOnD5ONPdfx1cMBh7Y37vtQZ9RyvA3gVxM4d0EYreprYcalutexdGvhqTb80EXyzyY-hiUUyLYbbh6bOO32M-rhPpPsyCxDQlxRwQJlyd0aXEBpyXR2q_Xfow4fsxC-rKuNx4ciWAPyGOjlduf6VoBCFucUE4vVXt",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJyXFHsFq51C8R7VShzXVhs2s",
+         "plus_code" : {
+            "compound_code" : "29V6+4P Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229V6+4P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJyXFHsFq51C8R7VShzXVhs2s",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jl. Bong,, Padang, Sungai Sapih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9605613,
+               "lng" : 100.3627088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.959164669708498,
+                  "lng" : 100.3641503302915
+               },
+               "southwest" : {
+                  "lat" : -0.9618626302915021,
+                  "lng" : 100.3614523697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKSI JEMAAT PADANG",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106084958130003291273\"\u003eALFHA GUSTI NOVANOLO MARUHAWA\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJBuNAGnf-WlNRqtO9wmZKnhZqamgw_Pz3l4rnujevmXsWui3_-T_1JekqViXs15mL1wJaWikmGPfVOQmAurEmxM2bgiIyXnVJOZd_53CgjOMoWfIOV_7xG3NlmOATu7IoZzZzXb62DBOZste0KrgzVheVIbacqG4WT5Hjr3wXX6NZx",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfzkwRA651C8RGP6yzARJ0VI",
+         "plus_code" : {
+            "compound_code" : "29Q7+Q3 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229Q7+Q3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJfzkwRA651C8RGP6yzARJ0VI",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Niaga No.267, Belakang Pondok"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -0.9615224000000001,
+               "lng" : 100.3630904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.9601909197084978,
+                  "lng" : 100.3644554802915
+               },
+               "southwest" : {
+                  "lat" : -0.9628888802915019,
+                  "lng" : 100.3617575197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Injil Seutuh Indonesia Ekklesia",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115623230489273297331\"\u003eAndre M Resdian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwsypdwJ4mlxnKbHRjQ1REf6jlcba0XIQf6cuYaAZuLkRjwmWV-aE4R6WhNHilbkrKJMlE6wmYVYENdngYSKYCOgTJBwf6S-Ti05_WG06jD93Nia8mXZCgd0I9h-4VSV7vT-b0ALo23KTVjZs46Xekxdr0z3xijMLCsp1c4QF-8nkG",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJkz07gFe51C8RV6la0XEy-lA",
+         "plus_code" : {
+            "compound_code" : "29Q7+96 Kampung Pondok, Padang City, West Sumatra, Indonesia",
+            "global_code" : "6PF229Q7+96"
+         },
+         "rating" : 5,
+         "reference" : "ChIJkz07gFe51C8RV6la0XEy-lA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "JL. Kalenteng No.299, Kampung Pondok"
+      }
+   ],
+   "status" : "OK"
+}

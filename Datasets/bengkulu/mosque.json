@@ -1,0 +1,668 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKpMMgf3Cgcy93rsQ3uLNmk0DL4hrWgtUsWYG1gYc-lUAynftQILnW19mOa3fNttHENXZS9otrG1tG1I_DUTj68K7S94DEsXpRjBasabHLdF1CoCptveIh8qKJUGeUJ4Two1GVnB-QvTUGqy-ovUCKLb73IZNW19XRCh6ZC1WOQKpCLDF34G6XtGf9qHAQbo7_60SFo559kX1v3GxfU7VfrsnZ5bRhBymF9_UdW__LO02HkosdJKIjcsdc5lpIMXmiUQceiXQZD72Y1JNRe7hh7xeJesAONjPjQZDj1SB3LWWsPrAXSYnnfOGN_NpXrwhaLbWQEU_zKctHf4Sv6L5mrONPCzTZGyWoOSHVpDHJcCCj2R3mySLjjPjqy2Ni_zjgmEFcJjiGzOWltIgVEEU-GWPNqH0be1nI2ImasiMKuxgDONMOEdh8",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.8001128,
+               "lng" : 102.2589817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.798505969708498,
+                  "lng" : 102.2603494302915
+               },
+               "southwest" : {
+                  "lat" : -3.801203930291502,
+                  "lng" : 102.2576514697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "At-Taqwa Grand Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106190707941718417836\"\u003eAGUNG HESTIYONO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ4SHGK9VYmBM1u-QkcHU94aZ7_6GMoZGwBgnvgg_GeLFjDHkbcKbTAS7USEwtP8Z7DdfM2kp5u0bU0crP0dkjWepTAd2P9qNTXsft8XsBenC7leYoRH3Xp8aa1r3yyfXkVDTv35vscuFZeodA4rZ0qEcZJIZ0reDP6s9I66tkzIK36",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+         "plus_code" : {
+            "compound_code" : "57X5+XH Anggut Atas, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P8457X5+XH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1815,
+         "vicinity" : "Jalan Soekarno Hatta, Anggut Atas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.792845099999999,
+               "lng" : 102.2607641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.791436569708497,
+                  "lng" : 102.2621143802915
+               },
+               "southwest" : {
+                  "lat" : -3.794134530291501,
+                  "lng" : 102.2594164197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Seluma",
+         "place_id" : "ChIJVWFej-qxNi4Rbq_dXi6_P6A",
+         "plus_code" : {
+            "compound_code" : "6746+V8 Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846746+V8"
+         },
+         "reference" : "ChIJVWFej-qxNi4Rbq_dXi6_P6A",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Pintu Batu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7921464,
+               "lng" : 102.2602701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790957419708498,
+                  "lng" : 102.2616081302915
+               },
+               "southwest" : {
+                  "lat" : -3.793655380291503,
+                  "lng" : 102.2589101697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Sakauma",
+         "place_id" : "ChIJm1YRqSawNi4Rp5ky_RiNG1E",
+         "plus_code" : {
+            "compound_code" : "6756+44 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+44"
+         },
+         "reference" : "ChIJm1YRqSawNi4Rp5ky_RiNG1E",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "JL Rinjani, Pondok Pesantren Pancasila, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7927923,
+               "lng" : 102.2618511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.791391719708499,
+                  "lng" : 102.2631961302915
+               },
+               "southwest" : {
+                  "lat" : -3.794089680291503,
+                  "lng" : 102.2604981697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Jamik Culinary",
+         "place_id" : "ChIJJ06x9COwNi4RaIaaVAdhZoc",
+         "plus_code" : {
+            "compound_code" : "6746+VP Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846746+VP"
+         },
+         "rating" : 1,
+         "reference" : "ChIJJ06x9COwNi4RaIaaVAdhZoc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Jendral. Sudirman No.202, Pintu Batu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7920671,
+               "lng" : 102.2619957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790713319708498,
+                  "lng" : 102.2633409302915
+               },
+               "southwest" : {
+                  "lat" : -3.793411280291502,
+                  "lng" : 102.2606429697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Huda",
+         "place_id" : "ChIJ3ZIncySwNi4RdrxMkdba5N8",
+         "reference" : "ChIJ3ZIncySwNi4RdrxMkdba5N8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7920671,
+               "lng" : 102.2619957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790713319708498,
+                  "lng" : 102.2633409302915
+               },
+               "southwest" : {
+                  "lat" : -3.793411280291502,
+                  "lng" : 102.2606429697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Ikhsan",
+         "place_id" : "ChIJ3ZIncySwNi4RRoy1qehGyo8",
+         "reference" : "ChIJ3ZIncySwNi4RRoy1qehGyo8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7920671,
+               "lng" : 102.2619957
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790713319708498,
+                  "lng" : 102.2633409302915
+               },
+               "southwest" : {
+                  "lat" : -3.793411280291502,
+                  "lng" : 102.2606429697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Istiqomah",
+         "place_id" : "ChIJ3ZIncySwNi4RRV2xtoTQ9H8",
+         "reference" : "ChIJ3ZIncySwNi4RRV2xtoTQ9H8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "JL Perumnas Sidomulyo, No. 12, Gading Cempaka, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.792415199999999,
+               "lng" : 102.2621108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790973419708497,
+                  "lng" : 102.2633761302915
+               },
+               "southwest" : {
+                  "lat" : -3.793671380291502,
+                  "lng" : 102.2606781697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Jami Mosque Bengkulu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103184644944886664144\"\u003eAnns\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLW1AOaPZLqS0BhQ4u8ijnvbdZ_tHbgc_ylUUze4UlgrxLL-of8PrMFPJ4uBGsSoCQ8pqVCTNUjsu2spgqAP7HJjRZikab2XgRLmUYBzATpLjqpWbCFWrywNJcJniKBtmSpNkMm2HBidStrxord12V8OEtex3qlgm7UtXd97VBY5n5_",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+         "plus_code" : {
+            "compound_code" : "6756+2R Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+2R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2122,
+         "vicinity" : "Jalan Letjend Suprapto, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7924505,
+               "lng" : 102.2622305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.791203769708497,
+                  "lng" : 102.2635895802915
+               },
+               "southwest" : {
+                  "lat" : -3.793901730291502,
+                  "lng" : 102.2608916197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid soekarno",
+         "place_id" : "ChIJjwoEYNuxNi4RFfCJU85W7Mc",
+         "plus_code" : {
+            "compound_code" : "6756+2V Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+2V"
+         },
+         "reference" : "ChIJjwoEYNuxNi4RFfCJU85W7Mc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.794090499999999,
+               "lng" : 102.2594648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.792734619708499,
+                  "lng" : 102.2608100302915
+               },
+               "southwest" : {
+                  "lat" : -3.795432580291503,
+                  "lng" : 102.2581120697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Nurul Hidayah Mosque",
+         "place_id" : "ChIJk81QaSGwNi4R_j2tvoWqHXY",
+         "plus_code" : {
+            "compound_code" : "6745+9Q Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846745+9Q"
+         },
+         "rating" : 4,
+         "reference" : "ChIJk81QaSGwNi4R_j2tvoWqHXY",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Sudirman III, Pintu Batu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.794297200000001,
+               "lng" : 102.2615727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.792948219708498,
+                  "lng" : 102.2629216802915
+               },
+               "southwest" : {
+                  "lat" : -3.795646180291503,
+                  "lng" : 102.2602237197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Nurul Yaqin Suprapto",
+         "place_id" : "ChIJPUIfWLuxNi4RT1r8qsMNK2A",
+         "plus_code" : {
+            "compound_code" : "6746+7J Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846746+7J"
+         },
+         "reference" : "ChIJPUIfWLuxNi4RT1r8qsMNK2A",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Letjend Suprapto No.2, Kebun Gerand"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.790162599999999,
+               "lng" : 102.2603918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.788840219708497,
+                  "lng" : 102.2617994802915
+               },
+               "southwest" : {
+                  "lat" : -3.791538180291501,
+                  "lng" : 102.2591015197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Siti Fatimatul Zahra",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114432530715438381262\"\u003eAfif Afandi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzjF061r77mTA2xYWnnY08e8jxfjM2JijeJkrJmL52hul6HfI6wsXXUN8N0WhmYriPz56FZ0RtKS5M5JWQTmKfZF5xUjwwUpphzi6HcIUdk5rQHmdvxeCFbKCRXqfsdrdV3aRbEvo6hczU_-jJQvXq1v41czSgjLSXIyU4XiY9kWO2",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ-2rCNqmxNi4RneJrSa4mxc4",
+         "plus_code" : {
+            "compound_code" : "6756+W5 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+W5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ-2rCNqmxNi4RneJrSa4mxc4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7900745,
+               "lng" : 102.26054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.788723619708498,
+                  "lng" : 102.2618832302915
+               },
+               "southwest" : {
+                  "lat" : -3.791421580291503,
+                  "lng" : 102.2591852697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Mukminin",
+         "place_id" : "ChIJlWSsKiSwNi4RtxrIMyStlW4",
+         "plus_code" : {
+            "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+X6"
+         },
+         "reference" : "ChIJlWSsKiSwNi4RtxrIMyStlW4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7900745,
+               "lng" : 102.26054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.788723619708498,
+                  "lng" : 102.2618832302915
+               },
+               "southwest" : {
+                  "lat" : -3.791421580291503,
+                  "lng" : 102.2591852697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Jihad",
+         "place_id" : "ChIJlWSsKiSwNi4RqkrrmWyChIU",
+         "plus_code" : {
+            "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+X6"
+         },
+         "reference" : "ChIJlWSsKiSwNi4RqkrrmWyChIU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7900745,
+               "lng" : 102.26054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.788723619708498,
+                  "lng" : 102.2618832302915
+               },
+               "southwest" : {
+                  "lat" : -3.791421580291503,
+                  "lng" : 102.2591852697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Darul Akrom",
+         "place_id" : "ChIJlWSsKiSwNi4REiroyEIYQxA",
+         "plus_code" : {
+            "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+X6"
+         },
+         "reference" : "ChIJlWSsKiSwNi4REiroyEIYQxA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7900745,
+               "lng" : 102.26054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.788723619708498,
+                  "lng" : 102.2618832302915
+               },
+               "southwest" : {
+                  "lat" : -3.791421580291503,
+                  "lng" : 102.2591852697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Muttaqin",
+         "place_id" : "ChIJlWSsKiSwNi4RqHfuEjyyC6g",
+         "plus_code" : {
+            "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846756+X6"
+         },
+         "reference" : "ChIJlWSsKiSwNi4RqHfuEjyyC6g",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.791574699999999,
+               "lng" : 102.2578984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790252319708498,
+                  "lng" : 102.2591573302915
+               },
+               "southwest" : {
+                  "lat" : -3.792950280291502,
+                  "lng" : 102.2564593697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Munawwaraoh",
+         "place_id" : "ChIJT8qw3yawNi4RI0pC9ayFU5U",
+         "plus_code" : {
+            "compound_code" : "6755+95 Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846755+95"
+         },
+         "reference" : "ChIJT8qw3yawNi4RI0pC9ayFU5U",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan KH. Ahmad Dahlan No.48, Kebun Ros"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.791574699999999,
+               "lng" : 102.2578984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.790252319708498,
+                  "lng" : 102.2591573302915
+               },
+               "southwest" : {
+                  "lat" : -3.792950280291502,
+                  "lng" : 102.2564593697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Ikhlas",
+         "place_id" : "ChIJT8qw3yawNi4RcS4rcFFal0g",
+         "plus_code" : {
+            "compound_code" : "6755+95 Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846755+95"
+         },
+         "reference" : "ChIJT8qw3yawNi4RcS4rcFFal0g",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan KH. Ahmad Dahlan No.48, Kebun Ros"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7952376,
+               "lng" : 102.2621933
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.793785419708497,
+                  "lng" : 102.2635129802915
+               },
+               "southwest" : {
+                  "lat" : -3.796483380291502,
+                  "lng" : 102.2608150197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Muhajirin Kebun Geran",
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103503142148149906186\"\u003eArsela Ari Murti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLGqEvjEmxa-rqqvkpuKmVGU9XaU_rqr0iYfshLnDwD_QJG9eGexRIMK3KIfRNhRlZpYVTN_Fp7sBCR9OYnbvZg0kiA-08ekS0BlKYXTPXh4RCPYGyDRCK1yIWCJ8oRUqCUJ9Z5P4vFXD0u0pk8LDIaoy4jwuPurxGnqZVf4I043m1E",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJieLxSyKwNi4RwdFTPh1dLrU",
+         "plus_code" : {
+            "compound_code" : "6736+WV Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846736+WV"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJieLxSyKwNi4RwdFTPh1dLrU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49,
+         "vicinity" : "Jalan Cendrawasih, Kebun Gerand"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7954796,
+               "lng" : 102.2619841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.794134419708498,
+                  "lng" : 102.2633031802915
+               },
+               "southwest" : {
+                  "lat" : -3.796832380291502,
+                  "lng" : 102.2606052197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Atiep",
+         "place_id" : "ChIJrV3qziOwNi4RY4WyYPlkUtw",
+         "plus_code" : {
+            "compound_code" : "6736+RQ Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846736+RQ"
+         },
+         "reference" : "ChIJrV3qziOwNi4RY4WyYPlkUtw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Cendrawasih No.23, Kebun Gerand"
+      }
+   ],
+   "status" : "OK"
+}

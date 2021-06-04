@@ -1,0 +1,894 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwJp02GURz9hjg8lO4VMDDPDRG2t0H4AV8ObOBB9MQ-LWfXGaz8EDeS-yETfVeHJlHA6DF-6d_SKQyDny8HcPrskFob3IHBRE6pBixtEUWb6vey1ZbrygfThZTiW4gkXCz2hQODTYG63vn21TSSYu_Z939Hh5AJgPmaPix-7_Bo0JK4rGAfTbJwBMZLpx-94njZC906xKN-WMXmAfL_-OKEWxd77VnuqNTDWj6Q44xEzecVfPKTXqw7-D7YW7zoSWGXDMcsEmGIjY_nySAzJ3ic9F25AMAZT1tEm8mfOn19K2qhZP2urSy1bwoR4KZjW-Hv0gqzkquMiBc9c5TrVW2sNDO3MTTCQd9l0xSDU07iC6MNwFXWF3RXcepl_kiyC1YLnp9Kg54JdxgA8EbBAb6TQyDbcEgjBKOpj2VeBI8OqSx7lYsNZ4wE",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.540743899999999,
+               "lng" : 115.1246357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.539420819708496,
+                  "lng" : 115.1260596302915
+               },
+               "southwest" : {
+                  "lat" : -8.542118780291501,
+                  "lng" : 115.1233616697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Great Mosque Tabanan",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115891273468218114617\"\u003eSupri Yatno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIuF1ovfI8VdnPLF3ohBnUk1_tKsIv2tWF4-Nno9ltFWTWcUTCfW-XxlRCQmf2uXJrk_i0pEggppYH_QKfRxlve_h1352O7V0rHO__BS3MvNF8nzTdkn1baw_a7zqybHL353rnaaEicEzZddRyVNUBrNOrXGaZFuhUcbrBJwkCtl76p",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJq_Rv7ls60i0RBTh_QPEYxjc",
+         "plus_code" : {
+            "compound_code" : "F45F+PV Dauh Peken, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF45F+PV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJq_Rv7ls60i0RBTh_QPEYxjc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 483,
+         "vicinity" : "Jalan Kamboja Desa No.14, Dauh Peken"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6742472,
+               "lng" : 115.2152484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.672877469708496,
+                  "lng" : 115.2166739802915
+               },
+               "southwest" : {
+                  "lat" : -8.6755754302915,
+                  "lng" : 115.2139760197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid An-Nur - Denpasar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111709058113171988011\"\u003ebayu permana_7\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJTExj5kHPO-t_fMOBcNodMbGA-K0LGNHPVWZWzcPBC5fCx74NEhzMgMIyf2zWhzsmeraiR9DgsBibRZVbZ86MMUWd--TAzDxwHUhltp3TczRHxOW4-qJ8_tYcfZ749Ufc4ee3RcnjBZpTaDjBZkxv5llzslptVNVnlO0GPjzVvj189",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJoWbyNOpA0i0RI8fqng6FlCA",
+         "plus_code" : {
+            "compound_code" : "86G8+83 Dauh Puri Klod, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q86G8+83"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJoWbyNOpA0i0RI8fqng6FlCA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1181,
+         "vicinity" : "Jalan Diponegoro No.192, Dauh Puri Klod"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.675142199999998,
+               "lng" : 115.2606639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.673633269708498,
+                  "lng" : 115.2620421802915
+               },
+               "southwest" : {
+                  "lat" : -8.676331230291501,
+                  "lng" : 115.2593442197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Ihsan - Sanur",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104709059361085347757\"\u003eHaris Ruliyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJdZJ6dLJ83eHoc8wVuUywxy7mp7zNArsZS1XJuJPauYa0GA-KqITfDL5AufNKdKyXa0rgpHqC4OLFgim7eVMj_AeoKzieVbMIGGwszJaJbAtC4ZQb3flnZzEYh6WBhTlJr0i0Y32z5154C0usVYfRLqFxWgkoMXX-j6OtmcXpsawVE",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJv82whjhA0i0RCfbGbVRknZg",
+         "plus_code" : {
+            "compound_code" : "87F6+W7 Sanur Kaja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q87F6+W7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJv82whjhA0i0RCfbGbVRknZg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2173,
+         "vicinity" : "Jalan Hang Tuah, Sanur Kaja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.200752999999999,
+               "lng" : 114.856836
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.199482469708496,
+                  "lng" : 114.8581890302915
+               },
+               "southwest" : {
+                  "lat" : -8.2021804302915,
+                  "lng" : 114.8554910697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Jami Nurul Akmal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111207147529979002244\"\u003eMasjid Jami Nurul Akmal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJI5DUX7XJcGpTdbYaQJba4ZfMMzQ-XA9NFHShkD3LQ-3OCpTIAcTCPOQJQNWTxcIooMLfsOW7A3o6ektzZntz6zhfBIgVruDqzz-E7lUEeON-ItWfJtHYoKuC6cZCpr8IDMRFTga04krLN-2TsJKnpZ0tWGq5CDWbYZV3fP9K3pfX_",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKXssszJ40S0Rp547FvZ8h-Y",
+         "plus_code" : {
+            "compound_code" : "QVX4+MP Celukan Bawang, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3PQVX4+MP"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJKXssszJ40S0Rp547FvZ8h-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "Celukan Bawang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5430162,
+               "lng" : 115.3251744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.541662069708497,
+                  "lng" : 115.3265797302915
+               },
+               "southwest" : {
+                  "lat" : -8.544360030291502,
+                  "lng" : 115.3238817697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Great Mosque of Al-A'la Gianyar",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109907837227820828395\"\u003eBang Ramdhani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIuV5or6t3GFjH8mk2gXIys-vMDzRF4SLuKjBUiW8wV7v_VKS-8Piw_y3XD-tNXPhjcoiMQAjcDvWSwfcX7LnOj9dKGNf44iPiIhyQwoUL8dTIMPsyWdLRDPgSpEP-HPQXvdjRjZmAAl7Lrzep52hk7XVXferwDx_vLVhduCEmwcd3g",
+               "width" : 4001
+            }
+         ],
+         "place_id" : "ChIJK_Cq_GMW0i0R-LVEWcwohP0",
+         "plus_code" : {
+            "compound_code" : "F84G+Q3 Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF84G+Q3"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJK_Cq_GMW0i0R-LVEWcwohP0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 376,
+         "vicinity" : "Jalan Kesatrian No.16, Gianyar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.624310999999999,
+               "lng" : 115.2056193
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.622955069708498,
+                  "lng" : 115.2069211302915
+               },
+               "southwest" : {
+                  "lat" : -8.625653030291502,
+                  "lng" : 115.2042231697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitus Shabirin",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112639429149433168367\"\u003eTribudiono Adisuyitno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJiQlDA4ZXNhfET-1BDfvcYLU3_CNm6TJA-LKg0iL-GnLq3KmURlQPRPUPkw9Q05zxLo5_5YxXA2_4_kjokymKHEPZfyBmEDatOpXQG-3kBS5Jrrwe0mL82ZqziAT6L9Z-mAyiPdnLvYD4JO0vmQmQlEa0jE8pP-AtIgB6X16G4lJ4n",
+               "width" : 925
+            }
+         ],
+         "place_id" : "ChIJHfa19Ts_0i0RqrqwFlNYmBk",
+         "plus_code" : {
+            "compound_code" : "96G4+76 Ubung Kaja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q96G4+76"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJHfa19Ts_0i0RqrqwFlNYmBk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75,
+         "vicinity" : "Jalan Tunggul Ametung III A No.15 - 15A, Denpasar Utara, Ubung Kaja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.647603499999997,
+               "lng" : 115.14564
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.646279819708498,
+                  "lng" : 115.1470014802915
+               },
+               "southwest" : {
+                  "lat" : -8.648977780291503,
+                  "lng" : 115.1443035197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Al Hasanah Mosque",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106872021899376215182\"\u003eBadron Hisham\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKGnw2zpwDKayLcIMwGQHLGNIdvBWuTN_-EaIuiFJjPBOEYl3v5g9tdHHEDf1Ron7y6CeL1T8V9FJKsAbR-GksSMRc5QNdUIq8gxEfz2e_ccOLVegtcaKueXfe6WcpRSPwNU8WbpbDrAyTMWGsfCGLW87ROMrUTUbTicyjVB1qlyUUB",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8VlhXIE40i0Rs7LOUAXiEDo",
+         "plus_code" : {
+            "compound_code" : "942W+X7 Tibubeneng, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q942W+X7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8VlhXIE40i0Rs7LOUAXiEDo",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 542,
+         "vicinity" : "Jalan Krishna X No.174, Tibubeneng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.662026299999999,
+               "lng" : 115.1826639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.660602169708497,
+                  "lng" : 115.1839958302915
+               },
+               "southwest" : {
+                  "lat" : -8.663300130291502,
+                  "lng" : 115.1812978697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Musholla Syuhada",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105119839574052143977\"\u003eYulfitry Rahmawita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLo8Zo7cpfnqp4_E8xQ-SHeYNcWMVUuPhPuIOBEX2Uk1iysLUbA0-t65D1MeM0-pJnXLlGHjBDY_GPLRwxGq2i5Opvf1M8THexAIg_ZDWDUw3lQy3um1ocO61fpKdZ7G0HTVxNHjVGyRdG_dh3zFoNDutDDEL7GbBkGd9Nq6IqCcfdZ",
+               "width" : 4016
+            }
+         ],
+         "place_id" : "ChIJDeV5-FFH0i0R3CJMtq7K0-I",
+         "plus_code" : {
+            "compound_code" : "85QM+53 Padangsambian Klod, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q85QM+53"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJDeV5-FFH0i0R3CJMtq7K0-I",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145,
+         "vicinity" : "Jalan Padang Indah IV, Padangsambian Klod"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6583264,
+               "lng" : 115.2135685
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.6570460697085,
+                  "lng" : 115.2148965302915
+               },
+               "southwest" : {
+                  "lat" : -8.659744030291504,
+                  "lng" : 115.2121985697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Raya Ukhuwwah Denpasar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105412281916771797649\"\u003enizar kauzar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzl2AzBIPgvaK8lEKFvctd_1bK1TSvc5Qvu-EhLuhNY73NuS87luPs4j8id1m2BGMnSpaSmbw3NAdFlkhxi3U5W76u-WHA6f9x3_A2i_sQ4wvlIq81DfKo4aRbgUsPxNTDiO6kk6tXsyb7p00zHRJWO-vObBuMylNH314544P15QwM",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ22BcZZhA0i0RogjN6yOAB98",
+         "plus_code" : {
+            "compound_code" : "86R7+MC Dauh Puri Kangin, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q86R7+MC"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ22BcZZhA0i0RogjN6yOAB98",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 565,
+         "vicinity" : "Jalan Kalimantan No.19, Dauh Puri Kangin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.667077799999999,
+               "lng" : 115.1931052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.665621519708496,
+                  "lng" : 115.1944427802915
+               },
+               "southwest" : {
+                  "lat" : -8.668319480291501,
+                  "lng" : 115.1917448197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "IKMS Bali",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100878496921892709052\"\u003eocke agustino\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwISqB6L7rjmY9QAE6OINLqz2ONWFS69KRSMUcce10SXw7GYlSVN1g2VE8BWmvirS8N4WyAs2_JlVAO1TKFsL_079Ng_I2kDrKUeveRf5LF0Ux4PRQIM6YfV-XEgU6KMEmRDKFDeSLORH9tq6BfzQ27dEQu7wS70dYlLVZBoDbsLORba",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJe_AlcrRA0i0RqRM20RV8OCU",
+         "plus_code" : {
+            "compound_code" : "85MV+56 Tegal Harum, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q85MV+56"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJe_AlcrRA0i0RqRM20RV8OCU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 280,
+         "vicinity" : "Br. Sari Buana, Jalan Gunung Lebah No.25, Tegal Harum"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6701338,
+               "lng" : 115.2144355
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.668836619708497,
+                  "lng" : 115.2157879802915
+               },
+               "southwest" : {
+                  "lat" : -8.671534580291501,
+                  "lng" : 115.2130900197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Level 21",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115506755683291401181\"\u003eSurya Lesmana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKr4thBsYS1DPSbppmWAl3EjO3wJJT0lltI4OEfQJsUgg_BrpwloDAPlhJiSnFL7irFdHokV1-SJI9lIzihs2oYeBR2qAXIzMnTmugvTkSpm-sdx3hV28Mpl58Dfysa8WJg29g4KHOs8A9tZngwge0C6jSTlwaE18q4VxaxkDYOKOoD",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJAQAAN5VA0i0RG6Nc5QcVv38",
+         "plus_code" : {
+            "compound_code" : "86H7+WQ Dauh Puri Klod, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q86H7+WQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJAQAAN5VA0i0RG6Nc5QcVv38",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "Jalan Diponegoro No.B 12, Dauh Puri Klod"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.687424499999999,
+               "lng" : 115.2259508
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.686029819708496,
+                  "lng" : 115.2272966802915
+               },
+               "southwest" : {
+                  "lat" : -8.688727780291501,
+                  "lng" : 115.2245987197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Baitul Mukminin BKDI",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111709058113171988011\"\u003ebayu permana_7\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIrC0A7uld12rRrILJMsjo_8DJfobYCgXjiaS43dsnRjwqP22PUQz3oewQm2FWQg01J8lOTxQAWY5PnqzTUVRpjkTfysUYL7_UIzeIi9WFM-V3cCcDQRiB81-Blb7lKVo7kY4CEuLAnEHgWXIeuAuhAwOm2HyfT42fr6EX2GynZgSJE",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJO2bXIf1A0i0RNnfBVofkHP8",
+         "plus_code" : {
+            "compound_code" : "867G+29 Dauh Puri Klod, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q867G+29"
+         },
+         "reference" : "ChIJO2bXIf1A0i0RNnfBVofkHP8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tukad Batu Agung No.3, Dauh Puri Klod"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.713185299999999,
+               "lng" : 115.1843815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.711889469708495,
+                  "lng" : 115.1857197802915
+               },
+               "southwest" : {
+                  "lat" : -8.7145874302915,
+                  "lng" : 115.1830218197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Yatim",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111660785768983127663\"\u003eIbnu Mulyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJE8u1kl8jQUH05CMTvASvVkBUCNv1FezBmVCuwajazMAho-LgGQwtwaWn2mccbpII6KF1Nz_QQXEd_aNwQR3lzHPTbT331bRYBQnkNW5udO19fggxXD0gKwY2qnURJhembG8wEjU5ZSe7sDoc4xi3pZYQ4gVo0g9vN8efLMbZ8h9Zb",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEwy-9LVG0i0RaZP_bYMewCg",
+         "plus_code" : {
+            "compound_code" : "75PM+PQ Kuta, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q75PM+PQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJEwy-9LVG0i0RaZP_bYMewCg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89,
+         "vicinity" : "Jalan Merdeka Raya IX No.21, Kuta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.716741799999999,
+               "lng" : 115.1696194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.715392819708498,
+                  "lng" : 115.1709683802915
+               },
+               "southwest" : {
+                  "lat" : -8.718090780291503,
+                  "lng" : 115.1682704197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Beach Walk Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110368034269802773753\"\u003eery hardani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJYlrFnxMqByIzF2bhCtArY7UPmUhaUpwgsGfw5udkcBhLZN1FtjsKm0HifkxNgqMLzqyNmERROQphNRdID0bjZwDjpDUIFTrK-BFPVOivbqNUenRpi-NExPj7L7d8sOPfM8P4j9NeI82eRfCqyVKl_1dn0Z1uu5IaRIdO8MVivwto",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0aoB3r5G0i0RuwJpsfFQPt4",
+         "plus_code" : {
+            "compound_code" : "75M9+8R Kuta, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q75M9+8R"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0aoB3r5G0i0RuwJpsfFQPt4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 229,
+         "vicinity" : "Kuta"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.7146372,
+               "lng" : 115.1813988
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.713292269708498,
+                  "lng" : 115.1825919302915
+               },
+               "southwest" : {
+                  "lat" : -8.715990230291503,
+                  "lng" : 115.1798939697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Ar-Rahmat Mosque",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112544061017815321727\"\u003eMasjid Ar-Rahmat Kuta Bali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIUy6Um-DE1HCFCpe0wEMWeFjNkQ3FgvxnS4yb8rFtkXlnwSrwqhH4ttL2r80bpiIK4yIBDtZXathcZn9FTttfIl20qbbZoT6RXvW_TwcCuayL4RfEY6wKMNv4v7bYJH81Violq439YKya1hcKrcbXaCRxfdD_rNsb8jrVm5ISldENC",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJcQsiQbZG0i0RXOiVmPhKcO0",
+         "plus_code" : {
+            "compound_code" : "75PJ+4H Kuta, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q75PJ+4H"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJcQsiQbZG0i0RXOiVmPhKcO0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2446,
+         "vicinity" : "Jalan Raya Kuta No.75"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.3405389,
+               "lng" : 115.0919509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.339189919708499,
+                  "lng" : 115.0932998802915
+               },
+               "southwest" : {
+                  "lat" : -8.341887880291504,
+                  "lng" : 115.0906019197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Hussaini imam bargah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106305874017520059559\"\u003eislam Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJK3RnIiYJDo2DoutCL0vHh5gDgdFaOhkKH9ksrQZV0WfcXVK2x4Mae9F_66CnGjbdUZ7VZ5x0OeIsKAaE_J8lLdM-LJLwoKAE-d0RhfzfE1SkSNBYns42zOvJjzIAEWPQ6W373UQsEdzkrGKzfsNcuDsqPOPTynbC13enNmk2nAgU",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJB-mnNcsp0i0Rb8uwItKigpU",
+         "plus_code" : {
+            "compound_code" : "M35R+QQ Wongaya Gede, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QM35R+QQ"
+         },
+         "reference" : "ChIJB-mnNcsp0i0Rb8uwItKigpU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Bali chhack mundia sahi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2485608,
+               "lng" : 115.1519391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.247366369708498,
+                  "lng" : 115.1533764302915
+               },
+               "southwest" : {
+                  "lat" : -8.250064330291501,
+                  "lng" : 115.1506784697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Al-Falah Mosque",
+         "photos" : [
+            {
+               "height" : 1856,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110685015195360341491\"\u003eUrwah Barqi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL_2UG3eqGWKXCZkuE3MkDRN5vp_whKeoZnAAwmFPJZVHcIeke5O8mXRV3rJGkjeOcxN7s7k247Jcd3v7rEuKWPnFE4e3fyuT3lLX5bEeePmKI0LUCgGyUuM39jZpxSC3Dju1_NwvQk9L1NJoHLG_4hCufrAmSHSLDJt3FyaEzyymob",
+               "width" : 2928
+            }
+         ],
+         "place_id" : "ChIJ6c8Mi9KO0S0RAkihwLIdT_c",
+         "plus_code" : {
+            "compound_code" : "Q522+HQ Pancasari, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QQ522+HQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ6c8Mi9KO0S0RAkihwLIdT_c",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 59,
+         "vicinity" : "Jalan Raya Bedugul, Pancasari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.248603800000001,
+               "lng" : 115.1520174
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.247376469708499,
+                  "lng" : 115.1534359302915
+               },
+               "southwest" : {
+                  "lat" : -8.250074430291502,
+                  "lng" : 115.1507379697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "مسجد الفلاح",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109998833520307675912\"\u003epemikir kini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-oGqA1A9SU6C4hgkbjFaIEOQvwPy003oPrD19l7MYDyEBYX9uqNQv_JIyZWfvMqFiJueUL0XD1iuATYRK8Skpyf5_sQ_3v4aRTf1qPo7RsTd5VKQhZBh7wWUXHSQvjHekm6rKrGNA5cVELbaEpROOGCsdpHDKQdU9bdGXuwjrPQXe",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOagATb-P0S0R13LooxN8ZQQ",
+         "plus_code" : {
+            "compound_code" : "Q522+HR Pancasari, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QQ522+HR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJOagATb-P0S0R13LooxN8ZQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Raya Bedugul, Pancasari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.278228799999999,
+               "lng" : 115.1580326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.276879769708497,
+                  "lng" : 115.1593808302915
+               },
+               "southwest" : {
+                  "lat" : -8.279577730291502,
+                  "lng" : 115.1566828697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Miftahul'ulum Kebun Raya Bali",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115926122761202866608\"\u003eRajif Iryadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKDoevbTrbjQeEohDkrAUa5BNmhiv_B06j3RZiUAlo3L3Julwp-mCgcv9g3GZ8G1FrymPqbszRS22CfTUniTeGqvAcBHc0te3uxkt1vPmUnw8kOuBLofRlpvGILvUTY1U-6dESB7d63Jw5ECKbTsK3d_ZTzqbISRbEi0g156esJF1TY",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ259HnhGJ0S0RXQkLBjU9MMo",
+         "plus_code" : {
+            "compound_code" : "P5C5+P6 Candikuning, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QP5C5+P6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ259HnhGJ0S0RXQkLBjU9MMo",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Candikuning"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.282013299999997,
+               "lng" : 115.1593265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.280682469708497,
+                  "lng" : 115.1606884302915
+               },
+               "southwest" : {
+                  "lat" : -8.283380430291501,
+                  "lng" : 115.1579904697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Alhikmah",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114386362491903941541\"\u003eRam Jungle\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL8b5fRj09Bp-iefmbEVYxcUbcB4p8sGIvZM4F0Lx-44L3JW0EtA0RVfMKVaaXheX56s3HAZXPEpmhNn28WaWW7859_iMzQF5WXaKPTN1a0iQj2hODboYaa21gp3dhTDhqg76GLyA9b4htQdKGwuqcAgVKZmsw9IYNpKELLaPjx1Yl0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJXydx3w2J0S0RV7aJwSmkOeQ",
+         "plus_code" : {
+            "compound_code" : "P595+5P Batunya, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QP595+5P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJXydx3w2J0S0RV7aJwSmkOeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Jalan Baturiti Bedugul No.19, Batunya"
+      }
+   ],
+   "status" : "OK"
+}

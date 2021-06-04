@@ -1,0 +1,858 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLjINzYtfOwVZBB-LP15u47C2ShoGPocusm1S-odK3MKg95Qu4TqnSZbYaqPsj4f0jKK4CmAzO5VGE1Tk0lrXXstxB-SMcW5N7fBjzP0kc947ZcZrRat4gAGyXigjD3tnrkUk72JiFM8h_eJbV8dfnoPDGwHQ_uSDxfwBlZMnnWeGRFnysth3p5ywveynl8ZlhKFJxHSdZSc2sY9o1_I40SdBAnVPfWQN4tRc1o4bSC5NfMpPj1f9RSQ4-Ci-MYBhG2OlRLE2UrtocF5k4HTNy4kIHx5sfShW5zBUn3Izo6xQ-yKGeiaIqSraOSV4F-DhktB7MczQcnZ3oh5pcXuku9lvchb2gH_wDD88rItUpAIpZ4mp6ZGsQ3KVzqGOJIJVMUVwnTc1knoTj-aOeVw2ntsS49G_j5XhDrbmEJfXx0T4n386OyWJ8",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.571929700000001,
+               "lng" : 110.8307158
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.571048069708498,
+                  "lng" : 110.8319450302915
+               },
+               "southwest" : {
+                  "lat" : -7.573746030291503,
+                  "lng" : 110.8292470697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Vastenburg Fortress",
+         "photos" : [
+            {
+               "height" : 503,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101524361083906325069\"\u003ejnt mojosongo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJTPRIcNpuiual4Ng2tAOqQyuC16lbVNpkQakSbBlgO2s2NEQL11hv64oY9EU4WSmaORci7a9_OjCXKG_gGB1hoUp6kq0Cr0AtxY6vIizWoC4Y5v8evu-HOd-yC3kHlcxcj0_ucfmy6AmsKOFyLIWsIE4LO18a2KQz77srUARVpEEFB",
+               "width" : 798
+            }
+         ],
+         "place_id" : "ChIJpZwOp4cWei4Ra6amudZGx4A",
+         "plus_code" : {
+            "compound_code" : "CRHJ+67 Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRHJ+67"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJpZwOp4cWei4Ra6amudZGx4A",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11844,
+         "vicinity" : "Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.568793599999998,
+               "lng" : 110.8163394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.567339769708496,
+                  "lng" : 110.8176795302915
+               },
+               "southwest" : {
+                  "lat" : -7.5700377302915,
+                  "lng" : 110.8149815697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "House Of Danar Hadi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104421813497450949712\"\u003eCendana Adyassa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ1wKPcOD4u_l-Cp937s0FBJJzfLI6KLQT9ypZM-M-kPa8YqSYlV5SY1ENCQ2ec0qc300WO4RWW0uzz1eb3E76FVCn8aeHvkbdwn_HW8hXhUM5EUn7OR_1XXkAMCz5gRLPdcZ1x_ZVDV1KWiYNitmoddfREzSJ5w540trI8oF8S-2aO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ03VkgX0Wei4R3tR66WDpFhk",
+         "plus_code" : {
+            "compound_code" : "CRJ8+FG Sriwedari, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRJ8+FG"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ03VkgX0Wei4R3tR66WDpFhk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1481,
+         "vicinity" : "Jalan Slamet Riyadi No.261, Sriwedari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5649892,
+               "lng" : 110.818091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563681219708497,
+                  "lng" : 110.8195851302915
+               },
+               "southwest" : {
+                  "lat" : -7.566379180291502,
+                  "lng" : 110.8168871697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Pers Nasional",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108592760905455757763\"\u003eanggitaa pratiwii\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIByILbdndhziTJqmtzH9qsHdB8eGmpE5rolBnOfJZ5lgbH_DurAujYydJkdt2iLR4uiWIIkd_ZI7h0hjACZt7nevYORC0xJzc5DIGw0ffDEMzs8D2i1n-5z1J2gT2t8-RBt-N_ScZPbdtPOivdOfitsTpd6LmAzwqvPjTyOahA4WzL",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJkYi7CIYWei4R7r7LGt-fUu4",
+         "plus_code" : {
+            "compound_code" : "CRP9+26 Punggawan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRP9+26"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJkYi7CIYWei4R7r7LGt-fUu4",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 172,
+         "vicinity" : "Jalan Gajahmada No.59, Punggawan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.568734499999999,
+               "lng" : 110.814392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.567052619708496,
+                  "lng" : 110.8158375302915
+               },
+               "southwest" : {
+                  "lat" : -7.569750580291501,
+                  "lng" : 110.8131395697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Radya Pustaka Museum",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112092222407693339694\"\u003eMileadhamar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKYyY5LEYO0t527P6mCmRLhJsvv68Hc_-Fx2xsNJfaWK3oDmp1ECTBDjWOI_HJh2OzNxbL-TAcjk6nJThJh4R7yXPFS3ygBvUHNKaMRcFMyacKjEChiC9EjCsx3Vkzad6SfUbbYptByX6I-yis13FvNhGPrLUfnpIwig3GoFYc4KWPq",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJhe_X930Wei4RwPk_FtjGje8",
+         "plus_code" : {
+            "compound_code" : "CRJ7+GQ Sriwedari, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRJ7+GQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJhe_X930Wei4RwPk_FtjGje8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 696,
+         "vicinity" : "Jalan Slamet Riyadi No.275, Sriwedari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.579999399999999,
+               "lng" : 110.8265991
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.578662619708497,
+                  "lng" : 110.8279976302915
+               },
+               "southwest" : {
+                  "lat" : -7.581360580291502,
+                  "lng" : 110.8252996697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Keraton Surakarta",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117400304574502291090\"\u003eShinta Putri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLi4zWWfvATk5gAQcH3sWU5wMjHUc6KmBtpuL-htJN6t_-BCYcsd3brmg2mVVW1LEdjbZBk4kgRJajxaPEGyb9Jug5Qcc0Toc_1ojxgloJojP02yn16fc3T25Tm2V7gBTEp3DHiO0aDFbbkwWlxx0bo_draRQazcXToaYa6myQwP5Ao",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJTWdNfmgWei4RPQQ-nxpLbEc",
+         "plus_code" : {
+            "compound_code" : "CRCG+2J Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRCG+2J"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJTWdNfmgWei4RPQQ-nxpLbEc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2288,
+         "vicinity" : "Jalan Sidikoro, Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.575066899999999,
+               "lng" : 110.8297541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.573701069708498,
+                  "lng" : 110.8310447802915
+               },
+               "southwest" : {
+                  "lat" : -7.576399030291503,
+                  "lng" : 110.8283468197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Fandi Antique",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1488,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112508147928692097082\"\u003eWafa Zian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJrdjQUUK-5GtJ_pKd_Psm5M3tszOHoNxmou6vKVmFEJWWBPLw9LxeZ2TCJuZu9nZxsxfIsXsmBShWCgZ6CVqDCiQ1-tHxbB_86pNXyx04F_A5PNGwdW1vly4I0GhisxBbz5mDL-Qi5tS9wbhBhDScK6vPcluUj-tuPXcWZ52qd0F1p",
+               "width" : 1984
+            }
+         ],
+         "place_id" : "ChIJLZF8DGcWei4RrtuT1G17TM8",
+         "plus_code" : {
+            "compound_code" : "CRFH+XW Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+XW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJLZF8DGcWei4RrtuT1G17TM8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.575138499999999,
+               "lng" : 110.8302116
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.573823569708496,
+                  "lng" : 110.8315537802915
+               },
+               "southwest" : {
+                  "lat" : -7.5765215302915,
+                  "lng" : 110.8288558197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "PAM Swakarsa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104799533340979027564\"\u003eOm Sugiharto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLlxp4sZSeDotuV27v6u2VLI6b3bQbfWONNHZgoKQGpbGy3FHBdJ1IPeHBTQALJZ4t5Bq19JrrY-bAwozEpKx8bY-phbKbM5cwRGHWirYSGp0IQ1uOMVv0LvCERN8LmBqiHLLbE6IQQaUtQ2TRfzzXtk2Mk_bSldhqPBuGbB-XDdfF3",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJh0tpdGcWei4R1eUt355UblU",
+         "plus_code" : {
+            "compound_code" : "CRFJ+W3 Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFJ+W3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJh0tpdGcWei4R1eUt355UblU",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.572693099999999,
+               "lng" : 110.8292902
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.571363319708498,
+                  "lng" : 110.8306978802915
+               },
+               "southwest" : {
+                  "lat" : -7.574061280291502,
+                  "lng" : 110.8279999197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pos Satpam",
+         "place_id" : "ChIJI9X-iaoXei4RhRmR0Cxz6j0",
+         "plus_code" : {
+            "compound_code" : "CRGH+WP Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGH+WP"
+         },
+         "reference" : "ChIJI9X-iaoXei4RhRmR0Cxz6j0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.576058499999999,
+               "lng" : 110.8284376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.574584119708496,
+                  "lng" : 110.8298302302915
+               },
+               "southwest" : {
+                  "lat" : -7.577282080291501,
+                  "lng" : 110.8271322697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pagelaran kraton surakarta",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110207172834463352333\"\u003eD&#39;lestari hoki\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhorHyDSCqpXXQxDoh8P0Py-FF2QUxeR_v042N1Iy9COEkiXCjdw8GrRQJI9yosC1Irg9u34-oVbfBKHjDXZfwFINEV6Po8RRdgIGFss6rdelwop_8LvQWf8CGh1OGKh5MtEH-h2680a3APNYLrmXdHkI0uBhDcHrIFCsZdaId1O3o",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJeaY-aIIXei4RtT3t96zL8DU",
+         "plus_code" : {
+            "compound_code" : "CRFH+H9 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+H9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJeaY-aIIXei4RtT3t96zL8DU",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5768319,
+               "lng" : 110.828446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575535619708496,
+                  "lng" : 110.8298719802915
+               },
+               "southwest" : {
+                  "lat" : -7.5782335802915,
+                  "lng" : 110.8271740197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Bangsal Angun - angun",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107891243801936587283\"\u003eNugroho Sakri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLUTrgxT-Jn8o9S7CPZkXq4fq0GC-B8AnwLD3-bTx-QRwoPekuupEvKBPdW22B0DiCSi683NdDedeH5dzAjXkFiQdIOZStHPzDfb8lHWUqiMtb3x0ytrJYXzwHTwQe5SkhORi0w5FzI47Y-0-nusi41C9BojDRV5LiimJjjTbgxfxXI",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJF31JNWYWei4RLjZgedGsN7g",
+         "plus_code" : {
+            "compound_code" : "CRFH+79 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+79"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJF31JNWYWei4RLjZgedGsN7g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.576846200000001,
+               "lng" : 110.8281565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575600669708497,
+                  "lng" : 110.8294806302915
+               },
+               "southwest" : {
+                  "lat" : -7.578298630291502,
+                  "lng" : 110.8267826697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Bangsal Witono Surakata",
+         "photos" : [
+            {
+               "height" : 537,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118067576373687751260\"\u003eDatuk Kalu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKQpuEMymkeZNwwBepqnCdiVb3YvYFKMBra1qu53gnpflOwozcmAz5YWNHEnsNwVRGZYu6sE2OiileQ2_xHLsP5lrjdaHHycHxdCI8pZ8yB2p1lzp7Bd9lCMb7ZqioAGviJl_K9uazOVOkjooXC_b20buFvrjODOtDSBr_lTAShmFu6",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJPwPpNWYWei4RGf5EZrN0hVk",
+         "plus_code" : {
+            "compound_code" : "CRFH+77 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+77"
+         },
+         "rating" : 5,
+         "reference" : "ChIJPwPpNWYWei4RGf5EZrN0hVk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5743362,
+               "lng" : 110.8265748
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572935319708497,
+                  "lng" : 110.8277221302915
+               },
+               "southwest" : {
+                  "lat" : -7.575633280291501,
+                  "lng" : 110.8250241697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kauman Surakarta",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101915860940798184960\"\u003eRidwan Gumay\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJRJZQdnozjEa7H69EalSU3tRmIhKW2Iw6S-Va7YtYGL4SyDpyyB0fhXe4HbvGOU7P8b3b0TMlhcYD3AHc0fpKYHZXkDhMwEwxCsS6LJF7vqfoJx5xf6Mb9Z48vpWnFirclafIdyQZuGe356-eq00koTL8nqos36FGke9aBkTIZELU",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJT7YqrAoXei4R3pi3TCpkBXQ",
+         "plus_code" : {
+            "compound_code" : "CRGG+7J Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+7J"
+         },
+         "rating" : 5,
+         "reference" : "ChIJT7YqrAoXei4R3pi3TCpkBXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Masjid Agung, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577368900000001,
+               "lng" : 110.8283216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.576013969708499,
+                  "lng" : 110.8296721802915
+               },
+               "southwest" : {
+                  "lat" : -7.578711930291504,
+                  "lng" : 110.8269742197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Es Degan Kraton Solo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111557089750314720005\"\u003eDwi Hartanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJMvJ6TxRZlt_7APW5UE1RCUXUVbk__eCcGC8FSuobNAoHklgVE9AyIll_L1Ga5SxVgGyYRfLXpc9X64cV7Ip_xDFqx43pcPrg5HonDOA-hnJo2NJzmoY2S-uaEvDqMd4l4bbKndb-9AIldKsgXb7rjsF1US1hrQK0Ru5Wfw5fxSLAp",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJnf4cGEsXei4RooPpmgAA-RI",
+         "plus_code" : {
+            "compound_code" : "CRFH+38 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+38"
+         },
+         "reference" : "ChIJnf4cGEsXei4RooPpmgAA-RI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577656700000001,
+               "lng" : 110.8309592
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.576301269708498,
+                  "lng" : 110.8322820802915
+               },
+               "southwest" : {
+                  "lat" : -7.578999230291503,
+                  "lng" : 110.8295841197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Jemparingan Pager Boto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111021893348348455248\"\u003eHerlambang Adi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK5SoIZw2xPeJueQqG2-dlYCiMEclu_rELnhtvfRhp1riQo78W6cgy-S3xBwR9VEI3KH0xgeyWzdjjqM3re_VHX3bSRUodgFMZYE-2JIS_dHY06IGCXuQ1gqoJk5dTy0vQKwLSiBHZYFcgUIGTXuPeh-jbOWpR7v_TMBohelMXN9I9v",
+               "width" : 585
+            }
+         ],
+         "place_id" : "ChIJQz515FgXei4ROiNeEvxgTNs",
+         "plus_code" : {
+            "compound_code" : "CRCJ+W9 Pasar Kliwon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRCJ+W9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQz515FgXei4ROiNeEvxgTNs",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Pasar Kliwon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577815299999999,
+               "lng" : 110.8305148
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575965119708499,
+                  "lng" : 110.8319610302915
+               },
+               "southwest" : {
+                  "lat" : -7.578663080291504,
+                  "lng" : 110.8292630697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Besalen keris MLOYOKUSUMAN",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 721,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111990245685040495324\"\u003eRony Christ\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ6SBURpn-CC5qgHjYVM4Bh7xXrJfYq0ls5ARwxtoae6kbRPchdzZvUIkbMSBtvSF0lyEXYkiSUuRNZen59iYpkEMDoFOVOqay8FtIWzWWgEov1djS59x6Rsvr9Fb2Prb2moC-ztZ_wLAd53XHsgGJBEnGeWP_94UAGoGWtR3xcDm11",
+               "width" : 721
+            }
+         ],
+         "place_id" : "ChIJmef3QPwXei4R-mbNDqo3_XA",
+         "plus_code" : {
+            "compound_code" : "CRCJ+V6 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRCJ+V6"
+         },
+         "reference" : "ChIJmef3QPwXei4R-mbNDqo3_XA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Untung Suropati No.6, Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577123200000001,
+               "lng" : 110.8277814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575708369708498,
+                  "lng" : 110.8291467302915
+               },
+               "southwest" : {
+                  "lat" : -7.578406330291503,
+                  "lng" : 110.8264487697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kantor LOKET MASUK MUSEUM KRATON SURAKARTA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114906514994702198528\"\u003eSuryo Adimijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKgMeKIttIQXUvioDFKWfguAwLPS8Sacm6yiPqVcLfrQ6I8_lrRPhspxEymU5pAn895sgv8yTx3Vdi_Wan344PqzuEt7uC94TWdc4wKcnTTuAMAPEobGJZ5FntjUA6PROc-NMI5fU57zglyNvGleOgR9yRbrbXpZeqbDWTtlGWZOq5d",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ4Za6MGYWei4RVZ9pvu1foAo",
+         "plus_code" : {
+            "compound_code" : "CRFH+54 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+54"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ4Za6MGYWei4RVZ9pvu1foAo",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577342999999999,
+               "lng" : 110.8280792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575992119708496,
+                  "lng" : 110.8293801802915
+               },
+               "southwest" : {
+                  "lat" : -7.5786900802915,
+                  "lng" : 110.8266822197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Gerbang Utara Keraton",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111247290706925110898\"\u003eIwan Setiawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLHQtvVzCddB8LP8-gQR9dlNCkwXG274xbjkfgcbBrK_-ZCRlF7e95x7cS-Sc1Z_W5WTQxboEVCQGoJtgf0VVMRUC0Fzqvjq0WzlTXjrNK8ItxKL53NdaN0N2N70YRgcMOQHKn9aEYdslbBQBc7JNGf1Udd7G55lbPJ9ZacGAsC827g",
+               "width" : 3328
+            }
+         ],
+         "place_id" : "ChIJp6eLMWYWei4RLsTGYOX86PY",
+         "plus_code" : {
+            "compound_code" : "CRFH+36 Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+36"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJp6eLMWYWei4RLsTGYOX86PY",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Sasono Mulyo, Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5703988,
+               "lng" : 110.8297408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.569138619708498,
+                  "lng" : 110.8310673802915
+               },
+               "southwest" : {
+                  "lat" : -7.571836580291501,
+                  "lng" : 110.8283694197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Bank Indonesia Surakarta",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116175984413111261766\"\u003eDhani Prasetyo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKZmyIjsGbmlqJ4Uw4hKCwbsWR9u-l7BnQnt_Uoc6k-NMxOzTSkVWVi62rJ3Tn8_tWSG6ywQhNi9EOAWBGi85w9e-zuxQfUbLimS3yOWqOHuXZ9QnzYHI7xYlIngRYtMqn-vdBUEdak4dQTn0UVbY56n5hz-21bpl-Kb9ScTFs9RBVT",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJqaWj9WAWei4RYDO9tz8eeac",
+         "plus_code" : {
+            "compound_code" : "CRHH+RV Kampung Baru, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRHH+RV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJqaWj9WAWei4RYDO9tz8eeac",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 136,
+         "vicinity" : "Jalan Ronggowarsito No.2, Kampung Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.578416699999999,
+               "lng" : 110.8292763
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.577107619708499,
+                  "lng" : 110.8306133302915
+               },
+               "southwest" : {
+                  "lat" : -7.579805580291503,
+                  "lng" : 110.8279153697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Kasunan Keraton Surakarta",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117229530610907210674\"\u003eMasDah Driver Kece\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKzKGoeBGrAVA7c82iSLVY85eg71hua4ttEL2zRHF7DjPngkfxBKh4S408H_zesRiE_CETOb-RcUUFDx1j8O7OfnXLexXft_kXJXqx8JvIhyk9Uw2mT5bCm64jfLyZUF-GuRzQxHblpPutQmFyPAA5PzeYttSL_2W0jI-a0IDfR9IIk",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJGQD0MmYWei4RgGRT4NGe1w0",
+         "plus_code" : {
+            "compound_code" : "CRCH+JP Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRCH+JP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJGQD0MmYWei4RgGRT4NGe1w0",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 491,
+         "vicinity" : "Baluwarti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5770389,
+               "lng" : 110.8267985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.575686269708497,
+                  "lng" : 110.8281484802915
+               },
+               "southwest" : {
+                  "lat" : -7.578384230291502,
+                  "lng" : 110.8254505197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "SASONO PUTRA",
+         "place_id" : "ChIJZ8QWXaIXei4R0tEBvyw15Ns",
+         "plus_code" : {
+            "compound_code" : "CRFG+5P Baluwarti, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFG+5P"
+         },
+         "reference" : "ChIJZ8QWXaIXei4R0tEBvyw15Ns",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Sasono Mulyo, Baluwarti"
+      }
+   ],
+   "status" : "OK"
+}

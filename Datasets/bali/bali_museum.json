@@ -1,0 +1,882 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLH3qlXAGhj1YOBsYcr5hQ8jo6eGBK73GeyIwTzwX6GBjHP9iYF2cXLIgpFZuiz4excBX7yIO0LutB8bvUXZwQRWcNf7Ig613eKhedMco47MavZtsVtFfvoh6ZGQ4yXNcrITz-xggSPRDMO1KgWFn24Ymu_c3Ug7Nimip1dvk_N16gKz7dHrwITZ4UKzA5zRYhbDysr3PAjWH6pv4A46gKmGFCOr0SJCqdwAY3eupwZqFX1BFge1Xw0zF_VifCmahPyQQdz-n1wwFBP00-ls6Byv_J_k9ufMf38ludAUQl3Bti-bpzGMjzqEnHDodPDyZsFsNv6I269PiedHr8GEiKQ17J9IRfN0mBwieIDHiIp9iAyJczH88wxwoGdoOCiEB6jsvfeoPbSUbR44Ro2lhGyRgnexc_R7rE6u9EkWjK5FoeXQuH4BE8",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.524001400000001,
+               "lng" : 115.2647145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.522652819708499,
+                  "lng" : 115.2661570302915
+               },
+               "southwest" : {
+                  "lat" : -8.525350780291504,
+                  "lng" : 115.2634590697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Arma Museum & Resort",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104136849255779628794\"\u003eCarlos Gumiel Puy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJS9fmsvEst3ERi2XL7dAp7z-_1429jE407DnUVztsY4OX3-ic8JsRNftBabbytwYmUSpP_eVkMneXrUX8Iv5U-G08buqS4vNgfLhoWljmChA3tBMPSgLUkOu0EQJjkEnZRAkaGMHqiRLe7oO-UObCRb1zslzuFpXQoZ0IfiaJ4XEUH",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJU_Y875490i0RJ4yuoaj6Tj8",
+         "plus_code" : {
+            "compound_code" : "F7G7+9V MAS, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7G7+9V"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJU_Y875490i0RJ4yuoaj6Tj8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 677,
+         "vicinity" : "Jalan Raya Pengosekan Ubud, MAS"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.416498699999998,
+               "lng" : 115.2981522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.415112869708498,
+                  "lng" : 115.2995240802915
+               },
+               "southwest" : {
+                  "lat" : -8.417810830291502,
+                  "lng" : 115.2968261197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Manik Mas Handicraft",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105716708616208765292\"\u003eManik Mas Handicraft\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL0hicEbCVkFohGTSGN2K-R8J85OvFidyDIQnHW1jfD58YLahyP_y8u3G3_YxxitWkZ1UbrzKvdoZa-V6Os5Wk24nQwIoOVEc9jvMgwlPo3pv2rIKAf_GYvR2lOCj7SiFacLzKERobq5ZS7GT9nN6_3ziFXFnmLO8gh0ZnoydoH_gls",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJb4jiebsY0i0RX-ReSWsmjOw",
+         "plus_code" : {
+            "compound_code" : "H7MX+C7 Kedisan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH7MX+C7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJb4jiebsY0i0RX-ReSWsmjOw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "museum",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Raya Bayad-Tampaksiring Br. Bayad, Kedisan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.124947299999999,
+               "lng" : 115.0967777
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.123424219708498,
+                  "lng" : 115.0980924302915
+               },
+               "southwest" : {
+                  "lat" : -8.126122180291503,
+                  "lng" : 115.0953944697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Buleleng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108834463904151462528\"\u003eMeiga Rini\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwInDqm6AcpMkc-6H_exdy3ZC8UKjPBbnC_VDLxnecU3oKqfdX0H7-D3GxI5g__oJ0rxmaOghElv63N6Gr7bPn273Zxu4rKkUaIh0kcRcaTbAbJMrHRNTgoCeXWGaAZd2-OY4egA1r4mC056ag_UsuKd2KM3NhUDK0wLfSywa4Jn7Y08",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJCwul24KQ0S0RZhc-QjVeCbA",
+         "plus_code" : {
+            "compound_code" : "V3GW+2P Paket Agung, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QV3GW+2P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJCwul24KQ0S0RZhc-QjVeCbA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143,
+         "vicinity" : "Jalan Veteran No.23, Paket Agung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.3598377,
+               "lng" : 115.1671184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.358488719708498,
+                  "lng" : 115.1684673802915
+               },
+               "southwest" : {
+                  "lat" : -8.361186680291503,
+                  "lng" : 115.1657694197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Amazing Angseri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104043790258065073997\"\u003ejanuji mj\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwISryqvxnVueXmGa21gNsJlAjDDIx7T-VHW5r-fmghim6NxPrUneVH8yPTY0KEc4JoxAUlDGNttEiw1TxmBuS2HUC9N_B8EbtiwKEFOXR_v-i5WZC3UFgDFBLZrU4MWXnjH2xd6stsb-MPpwKGsqPdCdkN22LhcdJcVYeruvPafuqTB",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJP-EzOj0n0i0Rlp5NTyfZ8CQ",
+         "plus_code" : {
+            "compound_code" : "J5R8+3R Bangli, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QJ5R8+3R"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJP-EzOj0n0i0Rlp5NTyfZ8CQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Bangli"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.1244254,
+               "lng" : 115.0971764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.123092969708498,
+                  "lng" : 115.0984605302915
+               },
+               "southwest" : {
+                  "lat" : -8.125790930291503,
+                  "lng" : 115.0957625697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Puri Kanginan Buleleng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100256456812461636606\"\u003eTW Project Official\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL0G-GwW_VRhv6GiOeAZM-3NolwPLgpJrzIU5jLJjKAW6uED4dcB4Kls-jyS4kr4jOAImi5t-wGg2PclKrPRs31eb5ZDdO74Cs-GfK1ey_mFLcjkkC4ZmDAGE6AL_cD75tpbHLpET7iSFwpcK1iAV_SI0OSSkI2sc3YccaLJ5NEeTxM",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJFU_mJ4OQ0S0R9SOUJsOCMp0",
+         "plus_code" : {
+            "compound_code" : "V3GW+6V Kampung Singaraja, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QV3GW+6V"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJFU_mJ4OQ0S0R9SOUJsOCMp0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 57,
+         "vicinity" : "Jalan Gajah Mada, Kampung Singaraja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4850382,
+               "lng" : 115.0957953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.483762869708498,
+                  "lng" : 115.0972343802915
+               },
+               "southwest" : {
+                  "lat" : -8.486460830291502,
+                  "lng" : 115.0945364197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Griye Br Lebah Timpag Tabanan",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115317497738107096911\"\u003eNana Arsita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJYcd5x1GKYDaBj87Clypho7qMnH3uPeAOHKx1nLm1ne8dGQtVSGK9KM7IDF2w-v39_LR8nxKk70yy8-aOJ2q2U4wdpBLL4jUJl_hlyV3o3CzcpUY8LH3sj0EB-faDerj747wKfUFJGI6ixJB0aJ8ka52yjJQ-2apdb7MlNsCYZbELU",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJh6wR0P4v0i0ReYPW7RecG14",
+         "plus_code" : {
+            "compound_code" : "G37W+X8 Timpag, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QG37W+X8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJh6wR0P4v0i0ReYPW7RecG14",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Raya Timpag, Timpag"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.079803499999997,
+               "lng" : 115.1600014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.078519519708495,
+                  "lng" : 115.1613551302915
+               },
+               "southwest" : {
+                  "lat" : -8.0812174802915,
+                  "lng" : 115.1586571697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Rumah Gedong Bungkulan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103687252968204679421\"\u003eAry Ary\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK29GA3TEQ8dFB4ZZBiwbhZWwklB24R1u6BPo8EuEF9PgrMH1Nu9tiO9qeC4GgvXtRAvOeHlyu0h-r-5xl3FExd5djzmkcua_BZU3Ia-1BdmZ9xw8nyg4u5Zl_L1YAggkRFKCXG4XEbe82A9pkMY0tXaxsmk-1rGOnvS4rASNs9vQzF",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJFR4ApsiW0S0R5Nci7qTCuBE",
+         "plus_code" : {
+            "compound_code" : "W5C6+32 Bungkulan, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QW5C6+32"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJFR4ApsiW0S0R5Nci7qTCuBE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Jalan Raya Bungkulan, Bungkulan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.078848299999999,
+               "lng" : 115.1701156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.077545569708498,
+                  "lng" : 115.1714709302915
+               },
+               "southwest" : {
+                  "lat" : -8.080243530291501,
+                  "lng" : 115.1687729697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Pasraman ATMAN BUDDHI DENTA CIWABUDDHA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117201480174152122067\"\u003eKetut Prasada\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJlRZDvc5aAy-WrZHao6rneBKbjv3-A_JAlALMVXJ-2CH1GoAsz8983UBGEyebV1EKZjX5T5Jdno96jPIjU869IOuquX7STwKn9Zi1GfB6iouffAcxgWzG7S_uz-h6ELooVZraMxQY2gc9Fxg58CPzoLtR341wVAGp3K_OrWwpjZxAN",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJmyBt4rmW0S0Re0wbT2FJnK4",
+         "plus_code" : {
+            "compound_code" : "W5CC+F2 Kubutambahan, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QW5CC+F2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJmyBt4rmW0S0Re0wbT2FJnK4",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Kubutambahan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.380923200000002,
+               "lng" : 115.2792018
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.379635919708498,
+                  "lng" : 115.2805291802915
+               },
+               "southwest" : {
+                  "lat" : -8.382333880291503,
+                  "lng" : 115.2778312197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "I Made Suparsa INKAI Dojo Genijaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116840627768277309448\"\u003eDUEG CREATIVE\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKgdfO4dB-nXczbNGjV6bFaVlV0JsqAblB7pkdMdTUJ0uMMrQ_uKm4t6Dyn9enOfnyLCyqMxKYacHIVwG9FUoW9vcVCNa8XExL4b4z2qAfqekcPzheMcuCO-MEVMwqov5k9ZF1vmOfA99Emo_vS9kw7w8U6z7xMzcw7XOR7wLq11p8o",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJYa0u6d4h0i0Rh5fiXCkEih4",
+         "plus_code" : {
+            "compound_code" : "J79H+JM Taro, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QJ79H+JM"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJYa0u6d4h0i0Rh5fiXCkEih4",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Jalan Raya Taro Kaja, Taro"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.499602399999999,
+               "lng" : 115.0568151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.498234969708498,
+                  "lng" : 115.0580136802915
+               },
+               "southwest" : {
+                  "lat" : -8.500932930291501,
+                  "lng" : 115.0553157197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Taksu Ageng Kontruksi",
+         "place_id" : "ChIJRR8sIigw0i0RAGhLz4zW55g",
+         "plus_code" : {
+            "compound_code" : "G324+5P Bantas, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QG324+5P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRR8sIigw0i0RAGhLz4zW55g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Megati, Selemadeg Timur, Bantas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.502265099999999,
+               "lng" : 115.0393291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.500932019708497,
+                  "lng" : 115.0406929302915
+               },
+               "southwest" : {
+                  "lat" : -8.503629980291501,
+                  "lng" : 115.0379949697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Balai Banjar Dinas Munggu",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101979165535228120910\"\u003eRiandwiputraa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKB7AXb_oK4IGbgt31amPzOhiPaW9DspAS8H4EFUn1tkIELGxJbaYbDo6fQoJubDOg2brR4SBGtIhBAU-KJaFU-DqcSkkBg8cy2TR0XqCL8mn7_AvBlDWJR8gpcqoUW5BEjdgSCvLhsh6aVcVPMgOr4NKH6w8PgXfOhjhZZHof0iO07",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJnxjft9Ax0i0RDqJerY2_Roc",
+         "plus_code" : {
+            "compound_code" : "F2XQ+3P Serampingan, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF2XQ+3P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJnxjft9Ax0i0RDqJerY2_Roc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "Jalan Serampingan, Sarampingan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.418467099999997,
+               "lng" : 115.2818745
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.417099119708498,
+                  "lng" : 115.2831980802915
+               },
+               "southwest" : {
+                  "lat" : -8.419797080291501,
+                  "lng" : 115.2805001197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Krishna Garuda",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115236302633111520940\"\u003eOka Mahardika\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKFBn-YlxWk_k2vC33IxmgTJKDqQtYINSMVh9TznofN2VRaeNDcH4qj96a9VI3O4eJMvmtpnqxd-KmNVSFFk2t4aC_cqbBZwUiGHY21uiCrT3SQBg8lGK0rA8RKpvCwNVQigg1kiRlqjQulSU1ydfUrEc91ZpiBEzKeTY1rxtFDQiWA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJM9vWJgoi0i0RNxkMdGqXmjM",
+         "plus_code" : {
+            "compound_code" : "H7JJ+JP Kedisan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH7JJ+JP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJM9vWJgoi0i0RNxkMdGqXmjM",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Pakudui, Kedisan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.455277400000002,
+               "lng" : 115.2605721
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.453915569708499,
+                  "lng" : 115.2618851302915
+               },
+               "southwest" : {
+                  "lat" : -8.456613530291504,
+                  "lng" : 115.2591871697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Five Art Studio",
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108143312961375943817\"\u003eFallah Zakqy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwILwmCECkwTWFC4yD_yytFXQ7LSUkTA9M_MpEpEYdzH1d2pxi5kP38lwBjDRJ8XmqXx8I5JohI9OX_P_O2Z9OR2_vmqx5i1JuiWYjfwfrgjgwsyJNOZWpoXWoK56lcvGxlUQuBL5V0kmeQE-zqqzvLWn6Zk5iJFZFwoPb2xk3ZE0G_c",
+               "width" : 450
+            }
+         ],
+         "place_id" : "ChIJSyOKyewi0i0RxqDCAXMQBag",
+         "plus_code" : {
+            "compound_code" : "G7V6+V6 Keliki, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG7V6+V6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJSyOKyewi0i0RxqDCAXMQBag",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Jalan Raya Keliki, Keliki"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.521267999999999,
+               "lng" : 115.221119
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.519692069708496,
+                  "lng" : 115.22204485
+               },
+               "southwest" : {
+                  "lat" : -8.522390030291501,
+                  "lng" : 115.21834145
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Runa",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113670911915299625223\"\u003eVin Chun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLVCdWuv7PCotwO-C9LHFZllDkcKAPag_qFU0zTpM9n1LJ91wUfdG6ZTVPXVNrk1JDU5PfaC5ZW_0FNkG_Nt0vsgAI-1_iM6oA6XKiIOr-FM8azYRx5Emwtl-WFwaTiIToJIEB3UWMkBZPHvQHhN7DEnowZVrzIThn5JTqH6IiQyVvU",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJM719BPE80i0RThX2jVuPqgg",
+         "plus_code" : {
+            "compound_code" : "F6HC+FC Abiansemal, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QF6HC+FC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJM719BPE80i0RThX2jVuPqgg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Banjar Abiansemal Lodtunduh Ubud Abiansemal Abiansemal Badung Bali, Abiansemal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.088282999999999,
+               "lng" : 115.2641473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.086903269708497,
+                  "lng" : 115.2655112302915
+               },
+               "southwest" : {
+                  "lat" : -8.089601230291501,
+                  "lng" : 115.2628132697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Symon's Art Zoo",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115818192211609668048\"\u003eRonald Bierl\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLPoidxfuYBMozdoqYlldm8B0sVnA1JDuCir3_bpaNTT_na7zCB9PJURM47grN7Ei9RFgsCmm2EumjdQfcjfpyJEczsK1KzOOAnCS64yqLxvJVmHVbQWX9Xmq3GeTRpRBXlwMvcxtxbpa5EW2Cy_59euhw5VtXL4DNHsUxBzoTQ1YbG",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJyVeJJlyT0S0RvFa_ob3gROQ",
+         "plus_code" : {
+            "compound_code" : "W767+MM Pacung, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QW767+MM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJyVeJJlyT0S0RvFa_ob3gROQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79,
+         "vicinity" : "Jalan Airsanih - Tejakula, Pacung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.449544699999999,
+               "lng" : 115.2804355
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.448186919708496,
+                  "lng" : 115.2817137802915
+               },
+               "southwest" : {
+                  "lat" : -8.4508848802915,
+                  "lng" : 115.2790158197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Puri Agung Tegallalang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115219780810846985001\"\u003eni putu rusmayani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLn58h8f2aayHW3b8kvvew3jqk84sCQGzp6DdxhcWrB0IpDaNoSJDN5sqqNNlmKDNSabrDhaUiLW0tsBkDZBD7JINi5wN1qnw0E7C1F2mcVPTpa8iXbNHsdwcFljKwOv4IEGQkNOYFI6-Rf7md8Dq9vHYfvOdck83DcvqJfHxqYoTod",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ9UwCzIMi0i0RY_2HelJN6JA",
+         "plus_code" : {
+            "compound_code" : "H72J+55 Tegallalang, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QH72J+55"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ9UwCzIMi0i0RY_2HelJN6JA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Jalan Raya Tegallalang, Tegallalang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5369087,
+               "lng" : 115.1258741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.535620119708497,
+                  "lng" : 115.1273668302915
+               },
+               "southwest" : {
+                  "lat" : -8.538318080291502,
+                  "lng" : 115.1246688697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tabanan Anom Palace",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 702,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102023833188654967523\"\u003ePuri Anom Tabanan Palace\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ-PrO6xDKPmxwU34aQZKMa22yQG6SdVyL2kW8RRguY2dO5khBYK5BWabrCJecMvxny_ZOsS2A085XWznUcwNQJgBWzg-7tpJfYZxZIsXpOGJAymQy9YoI7x6SDe74QzczYyx3yWOBstMo6JtGvBDa6QtxXEF9NFv6gUxCmnA-szTEv",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJewxI5Vg60i0RStqXAEtoVog",
+         "plus_code" : {
+            "compound_code" : "F47G+68 Dajan Peken, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF47G+68"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJewxI5Vg60i0RStqXAEtoVog",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 363,
+         "vicinity" : "Jalan Gunung Agung No.5, Dajan Peken"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.2837608,
+               "lng" : 115.3645457
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.282581069708497,
+                  "lng" : 115.3658994802915
+               },
+               "southwest" : {
+                  "lat" : -8.285279030291502,
+                  "lng" : 115.3632015197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Geopark Batur",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110700571927395259045\"\u003eYudhi Widiastomo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK-Vz0NvftI5663iJQ3ge8yfpynJlBrkNElwMkJkF8UryFMIlrfRk6ldequYxmDZNC9xBReUHWudNWuagVCX4knfRiAWdtQ6JPkP0kpaRt19kzTnKUnJa1uVmTJyChS-WUgfBioh20rsBYO9XEfM06JqGHOPfj89uJ6crpfNcuyIv1D",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9eEG4rJgei4RXAgfDABWo2Q",
+         "plus_code" : {
+            "compound_code" : "P987+FR South Batur, Bangli Regency, Bali, Indonesia",
+            "global_code" : "6P3QP987+FR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ9eEG4rJgei4RXAgfDABWo2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 987,
+         "vicinity" : "Jalan Raya Penelokan, Batur Selatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.452124999999997,
+               "lng" : 115.3073591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.450759719708497,
+                  "lng" : 115.3086818802915
+               },
+               "southwest" : {
+                  "lat" : -8.453457680291502,
+                  "lng" : 115.3059839197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "The Sukarno Center",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113216246330002848214\"\u003emidi3 lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkKLjsUEE6bEsMkWgQ9nK5Jp91pfJlXZ_dt2NvQMivjYt2Ucgpk3jqxYs2UX2gvhbxSMVRWq0iyoVJN_iMU6-FdwIaRJm9Q2kid165x-Z3erDJKe4uPS5z7gaWD9O7ZreDmthd9JsdBofiOnj0_XNL4JhsV9EQGccwIsb_iKNBtNnb",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRSJMVF0Y0i0Rnm86-ZGbltk",
+         "plus_code" : {
+            "compound_code" : "G8X4+5W Sanding, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG8X4+5W"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJRSJMVF0Y0i0Rnm86-ZGbltk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 313,
+         "vicinity" : "Jalan Pejeng Kaja - Tampak Siring No.751, Sanding"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4832889,
+               "lng" : 115.2801039
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.481907469708499,
+                  "lng" : 115.2812475802915
+               },
+               "southwest" : {
+                  "lat" : -8.484605430291504,
+                  "lng" : 115.2785496197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Bima Urbia Factory",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103508742396494448507\"\u003ebima urbia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIn_Bp31Z75zUyd7ZqKYjE21rRowa-mq-1hHslmc3ZrO-hiZL02HDEFI1bDNfTqQVR7QD23b5dYtuFOvA87BsOwQw2MxejwNf5E-Iy3vY1N6hcQcGoBAQJusqwPMYJgwxI9xIL6ySCEurGuU1q8BYqYPT_lyKjKyelSsTXlMV6tNotx",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJUdsEL6si0i0Rt769GMhaB18",
+         "plus_code" : {
+            "compound_code" : "G78J+M2 Tegallalang, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QG78J+M2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJUdsEL6si0i0Rt769GMhaB18",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Raya Banjar Gentong, Tegallalang"
+      }
+   ],
+   "status" : "OK"
+}

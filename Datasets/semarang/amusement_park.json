@@ -1,0 +1,141 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001551999999999,
+               "lng" : 110.4239669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000099369708497,
+                  "lng" : 110.4254365802915
+               },
+               "southwest" : {
+                  "lat" : -7.002797330291502,
+                  "lng" : 110.4227386197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wonderia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112949419199027489017\"\u003eRaden Mas Wiranta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL4PTeP495AH2KygkUbHN17RDi_OLYiYvgRZXhccC6-OfY5etFIkdKVjEr1_Whwtoo9aLXD-XzjE-LBKwJ-7SP3X0B7ZnDIFedG7y6unH9kSqbi3XQDQF2-zDC8PpuCNYIY14s6TnoK9iPJlORU3uJ6zta6pr3GiEFiL9p5f2dKzle0",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJIdCPfGKLcC4RSaP26bW6L50",
+         "plus_code" : {
+            "compound_code" : "XCXF+9H Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXF+9H"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJIdCPfGKLcC4RSaP26bW6L50",
+         "scope" : "GOOGLE",
+         "types" : [
+            "amusement_park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 822,
+         "vicinity" : "Jalan Sriwijaya No.28, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0077146,
+               "lng" : 110.4244745
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.006393919708498,
+                  "lng" : 110.4258374802915
+               },
+               "southwest" : {
+                  "lat" : -7.009091880291503,
+                  "lng" : 110.4231395197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "I LOVE U NITNOT ❤️",
+         "photos" : [
+            {
+               "height" : 2208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112751175361548885627\"\u003eAkbar Rzky\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKGLUiNtlJLeaolC9Gy5TDEB-vrtiPRj5-UIz0Y4ip2iq0G4f26beMA9SKWHGPXLnGmLTsZANZUyBZ1qatYaIuYv4dIVXQLlM-tyOU2ylk_xBZN2LJKnOTyDq-9_WH92p5VPnEz_Gy6ZKhIXciwpv6sTZ-o-7z05cLJFcz5I2KQgcVS",
+               "width" : 1242
+            }
+         ],
+         "place_id" : "ChIJtVMGskyLcC4RP5dCmhcNtrE",
+         "plus_code" : {
+            "compound_code" : "XCRF+WQ Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCRF+WQ"
+         },
+         "reference" : "ChIJtVMGskyLcC4RP5dCmhcNtrE",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tegalsari Barat No.56, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9926073,
+               "lng" : 110.4205092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.991209869708498,
+                  "lng" : 110.4219274802915
+               },
+               "southwest" : {
+                  "lat" : -6.993907830291502,
+                  "lng" : 110.4192295197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Water Fountain and Statue of Kartini",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105002065819406586692\"\u003eRivai Hidayat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKO2ZV1PxTqdmpMa7WDuuaC-c3TsGTqG0kVAfJnJB_sNWlKuQcPmtXDclSXTsy-81ajj6LQn-41DoMIEFmerDqeQTqGlp0zHRlQh8t4MAEpTPpU5mMtZwya00JMYlIjQHnmLYz49bV7WxFbPWgGuHrqF2F-tKw29ucmH0PLNVD2hDNL",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJYdTkI1yLcC4RqC2yibRClzQ",
+         "plus_code" : {
+            "compound_code" : "2C4C+X6 Mugassari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C4C+X6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJYdTkI1yLcC4RqC2yibRClzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Mugassari"
+      }
+   ],
+   "status" : "OK"
+}

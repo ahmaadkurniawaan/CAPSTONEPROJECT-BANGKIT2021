@@ -1,0 +1,842 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKrTeHpJBtY_AOG0UQfx7NaeGUHWTzvAKB1S3v4zgb9jt7gM3i3db9x5Q7sfF8Mbv9Yl8zFHTtBkHWtdhLLwFyyWAtc1W5U_mNw0lGfhaIpBwgynKgshBdvt-I4tkHsbttgtk0JVb7Mo1z3xjHG7bX6dZkn6tu4AqoOBKqs7zTPDnI3v8zukdkRJfrX4DMhaOUacwW_qnPxTa5KVhBl0FaasvjqC75qBuH1-0E_Lw2ZahLrrDHXfpgNzXvBhXaahFPX8v3MrG1rLnzXW5tJKs945iFHhhiMKa1lU8akpiAy1xlLRiRzVaMCEfsenpx4ckJTHp4YXSp5s-kixdLTJJHXS_FVlVeCkNogZrEC3V9CbqF9r1axMS2-AmVwHCY492ZyHWE_oq4vcB8fQv00PbBRrBgySFqv4m33wD1zN4kEBRumhk-zOcI",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.594071399999999,
+               "lng" : 115.1745758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.592791719708497,
+                  "lng" : 115.1760114802915
+               },
+               "southwest" : {
+                  "lat" : -8.595489680291502,
+                  "lng" : 115.1733135197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB Jemaat \"Galang Ning Hyang\", Abianbase",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117999231193119963294\"\u003emade widiatmoko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLW6E3tGuSRpSB5DlKEefLrj_OvQLckQdRC3jWh56xiMGHSqLbup_a_p0F4NkV8dgQBpNOtVOvl27DRY72yG54h8doM63t3v8jVm4OdJ2GyAf6hbUCWOlOvZatdFzFirRGgZWt71xRuD8TWqWfo-hgN5M8V2-x5s-voMpFjCx6KRk8",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJj_pJUDg50i0R7kLPWH50GM4",
+         "plus_code" : {
+            "compound_code" : "C54F+9R Abianbase, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QC54F+9R"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJj_pJUDg50i0R7kLPWH50GM4",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Jalan Raya Abianbase, Abianbase"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.541667800000001,
+               "lng" : 115.2657913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.540332219708498,
+                  "lng" : 115.2671378802915
+               },
+               "southwest" : {
+                  "lat" : -8.543030180291503,
+                  "lng" : 115.2644399197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI Sinar Kasih",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108258987206211134774\"\u003eWisnu Jibonk II\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLlX34lXyDtpYG3mt4EhOhXhzzHDVr5sePq05pmsj-agtj9dzYyXvUZ1jOi6x83g4hRmXa5Bk_klULrFlSO3ebfVl14RnAd1IC8u_oMLrTUJhmdmNSo72_yaW48jUvuW8CTTsoJFptTKN-o652_IS4L37vfa-ZoV4mkSKE2SsRWbtam",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRzbuhZM90i0RcyfRxeVXLPM",
+         "plus_code" : {
+            "compound_code" : "F758+88 MAS, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF758+88"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJRzbuhZM90i0RcyfRxeVXLPM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Jalan Ambarwati No.1, MAS"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.1266908,
+               "lng" : 115.0795563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.125354619708498,
+                  "lng" : 115.0809136302915
+               },
+               "southwest" : {
+                  "lat" : -8.128052580291502,
+                  "lng" : 115.0782156697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kemah Daud",
+         "place_id" : "ChIJlcnIG0lDBAURGyTumDgtrnc",
+         "plus_code" : {
+            "compound_code" : "V3FH+8R Baktiseraga, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QV3FH+8R"
+         },
+         "reference" : "ChIJlcnIG0lDBAURGyTumDgtrnc",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Laksamana No.156, Baktiseraga"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.125181999999999,
+               "lng" : 115.0874556
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.123687069708497,
+                  "lng" : 115.0888190802915
+               },
+               "southwest" : {
+                  "lat" : -8.126385030291502,
+                  "lng" : 115.0861211197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Singaraja Church of Christ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJC_Jm3Xma0S0RDAnMRHCI2ks",
+         "plus_code" : {
+            "compound_code" : "V3FP+WX Banjar Tegal, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QV3FP+WX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJC_Jm3Xma0S0RDAnMRHCI2ks",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Pahlawan, Banjar Tegal"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.192277099999998,
+               "lng" : 114.9466886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.190861419708495,
+                  "lng" : 114.9480340302915
+               },
+               "southwest" : {
+                  "lat" : -8.1935593802915,
+                  "lng" : 114.9453360697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB Jemaat \"Pelangi Kasih\", Tangguwisia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101421731869623788148\"\u003evalen tine\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIOh1QVQ5t6bhxUaIvOl7mELTVCqV1L8ZugPBAI3br1qGeWOg-_nuRaGNcDaRXVORM_s9uhHHPNIMp85m5b9vuAJGqhbGVGe5Xgi4nhOTF25_JweSKg5y7FYu2NFjT-svYu-UzE53reFV2U7y9r42k2xb0n0HHcIoxHC3JPFLgX03ID",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJq4R2T9CC0S0R1Z8n2oZuhkI",
+         "plus_code" : {
+            "compound_code" : "RW5W+3M Tangguwisia, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3PRW5W+3M"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJq4R2T9CC0S0R1Z8n2oZuhkI",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Sudirman No.20, Tangguwisia"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.536461899999999,
+               "lng" : 115.1312525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.534971119708498,
+                  "lng" : 115.1326494302915
+               },
+               "southwest" : {
+                  "lat" : -8.537669080291503,
+                  "lng" : 115.1299514697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Santa Maria Immaculata",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111586310061555175312\"\u003eYohanes Doddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLSGN-XZiXIfzF9RgUcZHce91Qx81CSfktB1Kap8uzVV46JRS3uS4YIWzlE0dQagKjR9ESEFsyANIwzkhO2rDiBNb_J0W7o8QboqxgQC4CG7ne-ubqU9_q4KgWLTDbHfIhrf7VLg9MB0zrWCUj9NtL28BfRJfv7jglLZdvAmKLGo87e",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJiTgWUaNG0i0RmH7qqeKTEBE",
+         "plus_code" : {
+            "compound_code" : "F47J+CG Dajan Peken, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF47J+CG"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJiTgWUaNG0i0RmH7qqeKTEBE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 112,
+         "vicinity" : "Jalan Singosari No.3A, Dajan Peken"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.546837199999999,
+               "lng" : 115.1244827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.545472419708496,
+                  "lng" : 115.1257492802915
+               },
+               "southwest" : {
+                  "lat" : -8.5481703802915,
+                  "lng" : 115.1230513197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI Jemaat Tabanan",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109883463340537126273\"\u003eChrista Ruhulessin\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkXA8K1DZZqDa973oa16QFr990krR_vs5LwC4YpEiGbqLQp3ngaa-VpHznmkSPH-iG_S8vlkeG1nThW_8lloNKEb1mba7Z6vrhkfCZCxCyyy95vLmwoFJ5BixTNQtp_SImZltirhsEuHFMAWEgwcn-os-tq5lc8jcZaGqoiIrvmpEz",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJE1SEkEQ60i0RW_Jyxh_uk-w",
+         "plus_code" : {
+            "compound_code" : "F43F+7Q Delod Peken, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QF43F+7Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJE1SEkEQ60i0RW_Jyxh_uk-w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31,
+         "vicinity" : "Jalan Mawar No.29, Delod Peken"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.558413699999999,
+               "lng" : 115.047829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.556967919708498,
+                  "lng" : 115.0492778302915
+               },
+               "southwest" : {
+                  "lat" : -8.559665880291503,
+                  "lng" : 115.0465798697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB Jemaat \"Suluh Kasih\", Tibubiu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101992822180491481374\"\u003eGKPB Jemaat &quot;Suluh Kasih&quot;, Tibubiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLzsNXiIh18DRVm-0ZHRf8dUhM1jSqryIcCm4OUQVwjBe0hscfdpCnDsF2dGet9kSWisVtMi6WYjHvJ_23uZYZ0gaW4lbSTMzKp5aXnnFV7FLVIdLDNL29CUX2AVgLOYI06G97eFb1kjrUmMC9yFPEvIoCUv1HU4YQnYOH5B9ACjAlS",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEanuNuAw0i0RQlWbkcjAA4c",
+         "plus_code" : {
+            "compound_code" : "C2RX+J4 Tibubiu, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QC2RX+J4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEanuNuAw0i0RQlWbkcjAA4c",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Tibubiu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5092699,
+               "lng" : 115.273676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.507936669708497,
+                  "lng" : 115.2750531302915
+               },
+               "southwest" : {
+                  "lat" : -8.510634630291502,
+                  "lng" : 115.2723551697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kemah Injil Indonesia Bukit Shalom Ubud",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106785756113300829677\"\u003eMargo Adi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKj9TMNT41AqrUXPxJXkQ4l0kkbrj6Ti0M4nFqd7JwwZ0XsJQPM1_FDhZh3Nlq9IjVL9idmtIe2dga66A7YrnGkGZrLOviOyeFbJvnc3f_1kR5LUVi-m4_9zTTyTzSzj0jDG0dZlXh6lKuiMPBOX9tsHcn1M-h0aRZ3G-CD6J9P1Unm",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJF90TcmY90i0RRmz3wSJZHWc",
+         "plus_code" : {
+            "compound_code" : "F7RF+7F Peliatan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF7RF+7F"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJF90TcmY90i0RRmz3wSJZHWc",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42,
+         "vicinity" : "Jalan Gunung Sari, Banjar Ambengan, Peliatan, Ubud, Peliatan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4677218,
+               "lng" : 115.352032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.466372469708496,
+                  "lng" : 115.3533484302915
+               },
+               "southwest" : {
+                  "lat" : -8.469070430291501,
+                  "lng" : 115.3506504697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kemah Injil POS PI Bangli",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105183738281546881174\"\u003ePurnama Wayan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ2R3b4lnVBzLwr_BYPeVfXp66OVPPQm43HMpiLNkPqbUwOk3-LBrNQgRQlKZ8A6lPqqCRoGtxHFsvRiMkvZ3GISZEfdkiBxBp5uSydVs509YE58ydWt8P_bxqQxJ5QsQt9ZWCcQttGASAQ5YPaeS75GD5Pkn0nOiznEobOEbyYwRKp",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ6-6438IZ0i0RMzITSlFh22g",
+         "plus_code" : {
+            "compound_code" : "G9J2+WR Bebalang, Bangli Regency, Bali, Indonesia",
+            "global_code" : "6P3QG9J2+WR"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ6-6438IZ0i0RMzITSlFh22g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Tirta Taman Sari I, Bebalang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6170299,
+               "lng" : 115.1794329
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.615685169708499,
+                  "lng" : 115.1808821802915
+               },
+               "southwest" : {
+                  "lat" : -8.618383130291503,
+                  "lng" : 115.1781842197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB Jemaat \"Hosana\", Kwanji",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115867109778074618822\"\u003emerry sayuna\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwITxDmliHhBHgkDstTsG2sa_8VNRYabgUkEd6QtdzBB-Ci_WoAHuORnrhlw1mS2fTZgopvSGpcYsEIxVa_E1y3AVnWRs5OIlWJiyXMwdZMpSv0sbIrMZmRbDDYU3YjbkugjS6yiZsIJFbl1J0Kwl3-qD5OLzaNvLAW-3AZ6JSqLoOLt",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJF5ORLNc40i0RVjpFetbyq7g",
+         "plus_code" : {
+            "compound_code" : "95MH+5Q Dalung, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q95MH+5Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJF5ORLNc40i0RVjpFetbyq7g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36,
+         "vicinity" : "Jalan Tibung Sari No.5, Dalung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.625879599999999,
+               "lng" : 115.1593559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.624564519708496,
+                  "lng" : 115.1607079802915
+               },
+               "southwest" : {
+                  "lat" : -8.627262480291501,
+                  "lng" : 115.1580100197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GTI Bukit Zaitun",
+         "place_id" : "ChIJyUK-1Og40i0Rim8xJ0eE10U",
+         "plus_code" : {
+            "compound_code" : "95F5+JP Dalung, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q95F5+JP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJyUK-1Og40i0Rim8xJ0eE10U",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Beringin No.80, Dalung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6273933,
+               "lng" : 115.1523964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.626020619708497,
+                  "lng" : 115.1537051302915
+               },
+               "southwest" : {
+                  "lat" : -8.628718580291501,
+                  "lng" : 115.1510071697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Catholic Church of the Holy Spirit of Babakan Parish",
+         "photos" : [
+            {
+               "height" : 333,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102694046095218479592\"\u003eaji sal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKlylNcsJ5pKG0Qc339C4wUoni5PqHjCrfHeyddTLnZGKh9dYLOP0C__Jy4m1V1Eq1nvHqpj1SHu8n5je11FS1O8biriSwGGH6Lwb7Pu4m28by2Q0NaA23CowQoz3ftD_PeeK4mwk9NHuhrSWnMTE5rJ2vrY17gQA1reWe6m1o3spxx",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJryYz6PE40i0RsqCn6oIxzdI",
+         "plus_code" : {
+            "compound_code" : "95F2+2X Canggu, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q95F2+2X"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJryYz6PE40i0RsqCn6oIxzdI",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 63,
+         "vicinity" : "Jalan Raya Babakan Canggu No.54, Canggu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6312725,
+               "lng" : 115.1765723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.629870169708498,
+                  "lng" : 115.1780872302915
+               },
+               "southwest" : {
+                  "lat" : -8.632568130291503,
+                  "lng" : 115.1753892697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB Jemaat \"Yudea\", Padang Luwih",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105999272879095906278\"\u003ePrince Denil\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIR2eX3k7F_X2KPWRKNSPdgoq9qRz5XW-o1OVjnHXXKv9Jr-rAA5X2WG3LLkqfiZU_h8gz79iXrvRvX6xr3EaBXKf3JBVdJX28CNcFvNNHymG5qVA9dhuK70TjhFpI7ldBncKkEqQuiqavVeOQvY-7lVzRX3UkFSmZzObZR9la-fZpT",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJgcGP58c40i0RJ6iyxcUkqHo",
+         "plus_code" : {
+            "compound_code" : "959G+FJ Dalung, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q959G+FJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJgcGP58c40i0RJ6iyxcUkqHo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "church",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 76,
+         "vicinity" : "Jalan Raya Padang Luwih, Dalung, Kuta Utara, Dalung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5534216,
+               "lng" : 115.3269031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.552071819708498,
+                  "lng" : 115.3283319802915
+               },
+               "southwest" : {
+                  "lat" : -8.554769780291503,
+                  "lng" : 115.3256340197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Santa Maria Ratu Rosari",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111251787664536656229\"\u003eGarry sugiarto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLi1PETcd7E4RDboaB7Kx5UCICBddp00HZOMzBc9iGfZ233XqNqwSb92OUnW-WpqduziLnn26Pg_hIAkwuec98M8KEEqszgQ0tNqcP7huvgkMmrrd62NZhjfXgoA8jw3GncGOAz0KG4N9T5OUySbUa6S8s4afpqTy9cNu7z3pRiRzmC",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJI4qb_2k_0i0RTTD22X4aYw8",
+         "plus_code" : {
+            "compound_code" : "C8WG+JQ Abianbase, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QC8WG+JQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJI4qb_2k_0i0RTTD22X4aYw8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 186,
+         "vicinity" : "Jalan Mulawarman No.92A, Abianbase"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6175,
+               "lng" : 115.224885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.616011869708498,
+                  "lng" : 115.2262048802915
+               },
+               "southwest" : {
+                  "lat" : -8.618709830291502,
+                  "lng" : 115.2235069197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI ROCK Center Lembah Pujian",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 337,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103978020420171449692\"\u003eROCK Center Lembah Pujian\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxgynPgjEQdlp5NGjxXCpghCoRTsUEDBofoyVaKwGl8MoTlMO6caCroSfYk0H59lbukCYBKxDhPg7vW_U_AQxWDSpQCbOcTHD9bAPzRkEkoxAE3HrctDcqZqeGCambhQx6UFs05XWsWstU3Y2vPR5spKvyjGCoIX67KBn6ZMfKXGz8",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJKbymLgU_0i0Rxz4fc3YPuOw",
+         "plus_code" : {
+            "compound_code" : "96JF+XX Peguyangan Kangin, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q96JF+XX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJKbymLgU_0i0Rxz4fc3YPuOw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 790,
+         "vicinity" : "Jalan Antasura, Peguyangan Kangin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.630001399999999,
+               "lng" : 115.1906203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.628769569708499,
+                  "lng" : 115.1917909302915
+               },
+               "southwest" : {
+                  "lat" : -8.631467530291504,
+                  "lng" : 115.1890929697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Katolik Yesus Gembala Yang Baik",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107752821015934253397\"\u003eGerardus Maranto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL18QBCkssXn1mIWjgf4LJP1g0qaJRaT-jpOV8cqpCi-_5CE8MVCgDdVgGuckowAdf_dsrlpsiBxDLV4PC5KpxNj7XzOMiHdKPcMym5QlLr2lP96XTW0dNNrCzde2vyeO8_fNrziAODWTwi_o3zX5b-tG1XfMtGlNYjI2yGxXH7lUp5",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ1R2FFjU_0i0R60BremIUslI",
+         "plus_code" : {
+            "compound_code" : "959R+X6 Ubung, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q959R+X6"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ1R2FFjU_0i0R60BremIUslI",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 174,
+         "vicinity" : "Perumahan Ciputra, Jalan Sari Dana C No.6, Ubung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.636549,
+               "lng" : 115.192945
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.635147569708501,
+                  "lng" : 115.1942919302915
+               },
+               "southwest" : {
+                  "lat" : -8.637845530291505,
+                  "lng" : 115.1915939697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GEREJA BETHANY BULUH INDAH DENPASAR",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110702086952461186154\"\u003eGereja Bethany Buluh Indah Denpasar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLgRY9ieZ3bWrlGvTA05dIlXu_r579SbsKLhIU4bOT85nLfPyyJpYuFQovHiIkYoM392ALcHlbvt0SxnlH2Kk77fU0NWu4z7vdOTdPbt3OAm38t8lXRzNVgeP87wmaGNHLb9pAv2R1Z4JaQJsg3NiWK7IJ8kfpMxvHFqwhn6ZCGqwWp",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJRf5vdkw_0i0Rkq2bmGlhPac",
+         "plus_code" : {
+            "compound_code" : "957V+95 Padangsambian Kaja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q957V+95"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJRf5vdkw_0i0Rkq2bmGlhPac",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Jalan Gatot Subroto Barat No.47 B, Padangsambian Kaja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.6354746,
+               "lng" : 115.1989272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.634199919708497,
+                  "lng" : 115.2002464802915
+               },
+               "southwest" : {
+                  "lat" : -8.636897880291501,
+                  "lng" : 115.1975485197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIBI Friendship",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108379387134671659996\"\u003eDian Caroline\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIvD0ihhkwHjM5VPDfEZZ5oRSLlAQ4Yi9nwEHHz-0Gd30jLb7rVWR4f7BFUmB-q4M3O_I1ztZ92TCVq99nmZr-qciioRSbFSc40klOJmzLSQRcJaqJ8vjA5Yynvt_AJxxYqLNsLphUt_qyZBF3_Wzte_1xWxv3F-q2UstAYeMdRIcSd",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJYxTLyEg_0i0RTkH2AHMt3Jw",
+         "plus_code" : {
+            "compound_code" : "957X+RH Ubung, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q957X+RH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJYxTLyEg_0i0RTkH2AHMt3Jw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "No.111, Jalan Pidada No.5, Ubung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.648884599999999,
+               "lng" : 115.1448681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.647564419708496,
+                  "lng" : 115.1461904302915
+               },
+               "southwest" : {
+                  "lat" : -8.650262380291501,
+                  "lng" : 115.1434924697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB Jemaat Canggu Permai",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105417662934793932872\"\u003eHendrik Hidayes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJj_uxuFujptPulW3jmOlqHgNLIgF0olJJBO_3IMhabEM2yQkUhqwlUODE_JEF6-xGFwTiLsQH5zeqYBbAqBSBIJIq_f9YGzuM09MvnhZ3OP2K7weSrdam4IZqyxzw9CniumZlTE5AOGUtBrm-0sJKyk4LPyAguUhundTm0lHIBzTeI",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJK5cX3IY40i0Ry_TxycRpqAs",
+         "plus_code" : {
+            "compound_code" : "942V+CW Tibubeneng, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q942V+CW"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJK5cX3IY40i0Ry_TxycRpqAs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Jalan Krishna X No.174, Tibubeneng"
+      }
+   ],
+   "status" : "OK"
+}

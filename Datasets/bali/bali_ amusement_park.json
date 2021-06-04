@@ -1,0 +1,963 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwL4L1160w1wRVYue26lSfohIv6ekCXM6UhjQ3KRDUbSniqqLysgL-JkwpCovDdUitaiqCiE-Gb5oqzYuK1B1hz9-gJUSDCJWScoVs3mfCagatAnHpgvzyaUqzIpUJjYwW8U7hTpFJpvirt6Y0tTRXL8N6zK7CXbAgUU85vgiJ4EfX3KrpeGiQX2ak10Ap3YHQ2IJSfrGKQ3g_UXpgLTNHOCrCvv73gcCAITkXoXzTsrrt0nTdCR2hJXYUOke_qHYtzs90HjHpagLDTrxRyCgyHQ_igvpQfuWpaUUDxPbKMNN6dCXpSsvYTY4kTt3AfajUHMlqqmsg1rZEnKx1Bv80dqiULtYg76KGZHwKmG5m_WXwkt0ZYkd5BqiqM0C3At6DEugRmTRqXQq_Lp4dQg_DaghsT_Igs8Lv4jhnjGo2Y-sA_O0JXAByCmbtBUkc3i0g",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.662461799999999,
+               "lng" : 115.1471318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.661184069708497,
+                  "lng" : 115.1485039302915
+               },
+               "southwest" : {
+                  "lat" : -8.663882030291502,
+                  "lng" : 115.1458059697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Finns Recreation Club",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102110754410010345297\"\u003eJeremy Kurniawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ3PpiABNfUBvP07kJDG7_TpTw63wOOtoKfLtDn3NxtlTdZOXhe6J8H6FaWMREOGz5te452U3QbDHMeL5Y6GTxIUoDyjAKsSWyn5CRVVST7BW9IHhA083rnTo8J025WN82xx0BJJqG71tBqMhgx6BY2JlW_IGuonOkfZ-uUwBk78ZV4",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJwWuGNoI40i0R_uVXfvLIqi0",
+         "plus_code" : {
+            "compound_code" : "84QW+2V Tibubeneng, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q84QW+2V"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJwWuGNoI40i0R_uVXfvLIqi0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 83,
+         "vicinity" : "Jalan Pantai Berawa Canggu, Tibubeneng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.300838600000001,
+               "lng" : 115.160651
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.299433769708498,
+                  "lng" : 115.1618558302915
+               },
+               "southwest" : {
+                  "lat" : -8.302131730291503,
+                  "lng" : 115.1591578697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "The SILA'S Agrotourism",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3504,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116180242637599908703\"\u003eDolly Foroji\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLkRGR_32WyMiEDv_GJK8jHWitdbPzIrzGDhNPrm4h9Q_QH06h7LJV07xDMT584wYHpIqH0AZi6tlwAZZpjUvjFhnTIQqfsID9t2Zw90CvnkFrMVvDR9HAF3N4s8I2F42Q7qQfcEXzchdVxUFqFsfhqlZ2DSVt0OXKcmanXC9kGdw1A",
+               "width" : 4672
+            }
+         ],
+         "place_id" : "ChIJ-2Zw47yJ0S0RRdldgViSw_M",
+         "plus_code" : {
+            "compound_code" : "M5X6+M7 Candikuning, Tabanan Regency, Bali, Indonesia",
+            "global_code" : "6P3QM5X6+M7"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ-2Zw47yJ0S0RRdldgViSw_M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2075,
+         "vicinity" : "Candikuning"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.1658904,
+               "lng" : 115.0127363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.164607519708497,
+                  "lng" : 115.0140705302915
+               },
+               "southwest" : {
+                  "lat" : -8.167305480291501,
+                  "lng" : 115.0113725697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "True Scuba",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114990854675970666121\"\u003eTrue Scuba\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ0z45uKjwjORX6IiDKiWcq_WXmQN3Ewlj9_wwqpSm13XkTyCh37e2G8YKimdiR3pkNCcEpYVtRzDkdcA9AUS2BmlETXwY4WEH6Gmztq6ujZq5Gg9MuHfCDGzQBlTFUMuKJxGLswJX4oCY7sqfJ5nypInbj8UpXDAVwf9HfENDQICY_",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJz902B3yQ0S0R2yaWcqnPJjQ",
+         "plus_code" : {
+            "compound_code" : "R2M7+J3 Kaliasem, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QR2M7+J3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJz902B3yQ0S0R2yaWcqnPJjQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "amusement_park",
+            "school",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Adirama Beach Hotel Lovina, Jalan Seririt~Singaraja, Kaliasem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.179010299999998,
+               "lng" : 114.994318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.177461969708498,
+                  "lng" : 114.9956170802915
+               },
+               "southwest" : {
+                  "lat" : -8.180159930291502,
+                  "lng" : 114.9929191197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Krisna Funtasticland",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108851219049042749933\"\u003eJoannes Rhino\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKv9WZppuP9oRstg1cOJc-x8W476WqHKT4dvi7fI_A_B13fRoYAWAiWZzMnS_k31gSfKgZXT9Q0DYXXrV3MqklV7b-W8M6bqjqBTuVu2vliisSd3zs62mKYxAeEvvcvG7cQs-BsBqYBy93VBRaeOXTP-vXkzLqw0NEzSWcV6SSPWaer",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJEU9nwVSD0S0RGn_P6OQOseo",
+         "plus_code" : {
+            "compound_code" : "RXCV+9P Temukus, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3PRXCV+9P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJEU9nwVSD0S0RGn_P6OQOseo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3303,
+         "vicinity" : "Jalan Seririt- Singaraja, Temukus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.153324699999999,
+               "lng" : 115.0313713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.152001069708497,
+                  "lng" : 115.0327432302915
+               },
+               "southwest" : {
+                  "lat" : -8.154699030291502,
+                  "lng" : 115.0300452697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Ocean park north bali adventures",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109103878124823439558\"\u003ekadek rudi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKcuAIuc7R3fjPD0WSovschjNPFMQuGuawB9BXxarG-DUv8AusEQA1dgikyd0M90sJ-jy84Plh4UC4kFEULsRXTEljbfMYU69kDzXUuqbSE4fVqcJtQ6sYAWmM1TkdFqVf2zcsaaGHt3lfMWTdu5wchCmd_m5e4n9P4ZtqcK_r-t2Qt",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ-z9c0xab0S0RH4Gomthyv5o",
+         "plus_code" : {
+            "compound_code" : "R2WJ+MG Anturan, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QR2WJ+MG"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ-z9c0xab0S0RH4Gomthyv5o",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Anturan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.1805412,
+               "lng" : 114.9865288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.1793122197085,
+                  "lng" : 114.9878786302915
+               },
+               "southwest" : {
+                  "lat" : -8.182010180291504,
+                  "lng" : 114.9851806697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Krisna Water Sports",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106142168547611828079\"\u003eemha1992\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLRUwvqBH6MtlPUCQ0m5L3ZuKxgAV1NB1iR0n7X5vsWVZ2dhOaWJVrjZ06gvy37Hh0B292qK44apDNtJkOYEqT4N8x901oPYR_9ySOaK9u2X6wwwTN6BAvEIjaGsI465Q2aurwZS9MUtYFp87G3SLu5IcHzEee2otoQjk5pwOAXuIve",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJb4Iru7Kc0S0Rmj0L9Q5qMrE",
+         "plus_code" : {
+            "compound_code" : "RX9P+QJ Temukus, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3PRX9P+QJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJb4Iru7Kc0S0Rmj0L9Q5qMrE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 490,
+         "vicinity" : "Jalan Seririt - Singaraja, Temukus, Banjar, Temukus"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.458932000000001,
+               "lng" : 115.221619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.457577769708497,
+                  "lng" : 115.2229693302915
+               },
+               "southwest" : {
+                  "lat" : -8.460275730291501,
+                  "lng" : 115.2202713697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Alam Tirta Outbound",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108566647721815105420\"\u003eDoddy Permana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJPXd1O6bXinjy5t_cdLzKY5NvhvEgzCrn7H8Dp1FtMN9WPx5V52GeE5gS8qPGIOUYVftdSizZxTd1ewhqjrUJfFnafNbS05M8ZhsUkVl2N5amyWJLPnHf-G6fOaEULUNDSGwvLSnKyyJRNB8nd_MM4v35kY4lwAdGl-8D9g-iMX2OL",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJM55nNRAj0i0RLFgA9kPyYMM",
+         "plus_code" : {
+            "compound_code" : "G6RC+CJ Carangsari, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QG6RC+CJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJM55nNRAj0i0RLFgA9kPyYMM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 380,
+         "vicinity" : "Banjar Samuan Kangin Desa Carangsari, Kecamatan Petang, Carangsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.077759799999999,
+               "lng" : 115.2171964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.076538669708498,
+                  "lng" : 115.2185013802915
+               },
+               "southwest" : {
+                  "lat" : -8.079236630291501,
+                  "lng" : 115.2158034197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kolam Renang Air Sanih",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113001127489453822316\"\u003eRisafra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKygOjhQtRxe2k0Lrl7736SP4meTYHN6EPWudiKTTwfvKi5Ur4O4dpOtptq11_oYR-3T71V5lH50uiGEE4_R2enp4oEFFegr1PMMjCM8cSfoymr3m_cr4Tbo0y0QBiivv-plsGdzza3qYpJmigpJ9r6OaldrQHfOBpwrwkQqC7xzwC4",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJx7-WN3KU0S0RYl_h0mlnUIk",
+         "plus_code" : {
+            "compound_code" : "W6C8+VV Bukti, Buleleng Regency, Bali, Indonesia",
+            "global_code" : "6P3QW6C8+VV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJx7-WN3KU0S0RYl_h0mlnUIk",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1438,
+         "vicinity" : "Jalan Raya Air Sanih, Bukti"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4888466,
+               "lng" : 115.2398112
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.487484219708499,
+                  "lng" : 115.2411646302915
+               },
+               "southwest" : {
+                  "lat" : -8.490182180291503,
+                  "lng" : 115.2384666697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bali Swing",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105271802479812931918\"\u003eNguyen Van Dung\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLWfzkDASsHM4NN2b_upWftcITEAijBpSTkrxHY6B87ZyinvH4FTD0efX_i8ICmgK8FA23diHU0qLW-JjqlbjBx1NSppykZMhmYJNUKtS021_26EmHGap3JfgPwGRKV9jDK1c9J1tVZ3B5bVmpdZp1cPmK6zs8B7FpBMVbnmEETZto",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5ZiPtys90i0RUok0dF7Lh9w",
+         "plus_code" : {
+            "compound_code" : "G66Q+FW Bongkasa Pertiwi, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QG66Q+FW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ5ZiPtys90i0RUok0dF7Lh9w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 6470,
+         "vicinity" : "Jalan Dewi Saraswati No.7, Bongkasa Pertiwi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.250312899999999,
+               "lng" : 115.3994025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.248873219708496,
+                  "lng" : 115.4007035802915
+               },
+               "southwest" : {
+                  "lat" : -8.251571180291501,
+                  "lng" : 115.3980056197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Toya Devasya",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1461,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110324436994698683269\"\u003ePriagung U\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL_F-FPD4NlE57Re703I4lofJso1F1KLNB07HFLD84uK-Q85b5AqbG1wBm3hGxlMTKx4xy1O54wpD6tKVtmbZ2Fv_quN2TayEK_VFGqt05SEu4Jl_F3NRXxgiMH_8ZnByqZIot57r6wbBr_cWnvg6xIEBuWWR7zwmM8S6-XIhrIIUqa",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJHbk8Jb_20S0R1v43gfUf4-4",
+         "plus_code" : {
+            "compound_code" : "P9XX+VQ Central Batur, Bangli Regency, Bali, Indonesia",
+            "global_code" : "6P3QP9XX+VQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJHbk8Jb_20S0R1v43gfUf4-4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "lodging",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3942,
+         "vicinity" : "Central Batur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5615468,
+               "lng" : 115.2172939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.560221119708498,
+                  "lng" : 115.2187119802915
+               },
+               "southwest" : {
+                  "lat" : -8.562919080291502,
+                  "lng" : 115.2160140197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Agro Tourism Sutera Sari Segara",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109541000747440104310\"\u003eSatia Prawita\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJg2-cZsRLPZqlh9bN5iFFTCoz8c8MyIi4WG09tu4OcXlyOnCXRR9bcMFPK12Q6NJtuyu-IdPNgy3Q-diD-farY5hli-spZXuPVzRBzo6Kw5ZWGe6zp7LVMdaYiv_Ov0DnukIaiG0L3h29bkRZxspXtC33aKv1r-QyhYTIajJ2aRqh3",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJW-fg_yA80i0RAftJbMXX_0A",
+         "plus_code" : {
+            "compound_code" : "C6Q8+9W Sibang Kaja, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3QC6Q8+9W"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJW-fg_yA80i0RAftJbMXX_0A",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "Br Lateng, Sibang Kaja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.5350547,
+               "lng" : 115.3360606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.533675269708496,
+                  "lng" : 115.3376291302915
+               },
+               "southwest" : {
+                  "lat" : -8.536373230291501,
+                  "lng" : 115.3349311697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Waterboom Bukit Jati",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118337731952216061917\"\u003e神美\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJNMNDbc7cNu1lNVHUUFqlcyHZrOKDAPnfmhWtGGrrlV8YBQMH_vzETtOogHqm1BPW31YDeT7RmkGW9dIZUpCJjj371W9wnEmLxAnI-SOUqiv_GKfFSkddHNzIFZUQZa2v9ZyWPROSzsw6UPmGAkWycqAni_m7JQtwjxvL1WDPksW7I",
+               "width" : 5333
+            }
+         ],
+         "place_id" : "ChIJ82Ct__UW0i0REgPu_-WB_zw",
+         "plus_code" : {
+            "compound_code" : "F87P+XC Samplangan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF87P+XC"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ82Ct__UW0i0REgPu_-WB_zw",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195,
+         "vicinity" : "Gianyar, Samplangan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.535079999999999,
+               "lng" : 115.3361846
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.533708769708495,
+                  "lng" : 115.3376940802915
+               },
+               "southwest" : {
+                  "lat" : -8.5364067302915,
+                  "lng" : 115.3349961197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Waterboom Bukit Jati",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110956367966298386606\"\u003eJuan Lavalle\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJPKtMEFl3bQvMHXlyayEd9i1sZiuOsKhyT6bw7TXhPVImsyPD5M4UZvnYk-Efb0rDOLnEldkNh0_COinyJUQSFIhF5X0DLIVqYWVsVOap_SnmIuOAh3h2Lns8CQIDVyEQ3tE17mfNYah62qx8iPBnwfnMkVTr5WBYFWT5Xdo0yaeF_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqcodp_YW0i0RAcVsPzg0als",
+         "plus_code" : {
+            "compound_code" : "F87P+XF Samplangan, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QF87P+XF"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJqcodp_YW0i0RAcVsPzg0als",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 611,
+         "vicinity" : "Jalan Bukit Jati, Samplangan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.627383600000002,
+               "lng" : 115.1932738
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.626058519708499,
+                  "lng" : 115.1946771302915
+               },
+               "southwest" : {
+                  "lat" : -8.628756480291504,
+                  "lng" : 115.1919791697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "CitraLand Waterpark",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2918,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102810004038259930366\"\u003eCitraLand Waterpark\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLORo1RfXZYqSegDIgK9U9-wYKEhxwP06nqqEMw68wBuQD0m_n2XpPVSNaSAj797rhlrvIuRM_U4ZMqnso_nzJBvA4QzPC1vtXCqdDcIF_ptOjX0Gt7WObDEUSGPG41sf3scU84iBM3fJq_fDY9M8e-rZyAm8YaWv_8yhK_BWgpVoeI",
+               "width" : 4378
+            }
+         ],
+         "place_id" : "ChIJqZ1qazQ_0i0RlSSmznZwXpE",
+         "plus_code" : {
+            "compound_code" : "95FV+28 Ubung Kaja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q95FV+28"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJqZ1qazQ_0i0RlSSmznZwXpE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2258,
+         "vicinity" : "Perumahan CitraLand WA : +62 8996065053, Jalan Cargo Permai, Ubung Kaja"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.642098999999998,
+               "lng" : 115.1424617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.640680819708496,
+                  "lng" : 115.1437279802915
+               },
+               "southwest" : {
+                  "lat" : -8.643378780291501,
+                  "lng" : 115.1410300197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Segara Madu Water Park",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 1066,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103237133001445811291\"\u003eTaman Segara Madu Water Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJJhLrqzMmeHCYsT07rPqsC5e7a0ZBB-57G9pRzAO19LdT5zlloKrBd0uosiGgjZYf1z7H7CXhXu4kziuXe8yNq7_eYrrMnvrk3YgkjRuI5EiSEaQkWa5H9Vv1Ma7wpjDuTBDpsI4DPsD-OFGXzzrNJqprBDxBGWxPVXGhck5reTxbT",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJp2IjzIk40i0R3inbB6DK5C4",
+         "plus_code" : {
+            "compound_code" : "945R+5X Canggu, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q945R+5X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJp2IjzIk40i0R3inbB6DK5C4",
+         "scope" : "GOOGLE",
+         "types" : [
+            "amusement_park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 894,
+         "vicinity" : "Jalan Pantai Batu Bolong, Canggu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.571808099999998,
+               "lng" : 115.3271584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.570459119708495,
+                  "lng" : 115.3285073802915
+               },
+               "southwest" : {
+                  "lat" : -8.5731570802915,
+                  "lng" : 115.3258094197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Keramas Water Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105730819037389179993\"\u003eKeramas Water Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLDk-CAYbnayTajjjUuwmlSAVpqQ0HFn6Ck-Jqd79RNyfqZmivnBQLMufdx9ApgQpHUcII5dQo5QlT8FIZ2kbBV_up9q2F8dvm9HZYxyvxHC5ZRDITDUXmkI9oWJ89ebKaCN4x61cwSFf1F9XQAPhNSe9lmaleF-X58d7bkmKNrGjFD",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJozizjs0V0i0R_-sKWzeSgtw",
+         "plus_code" : {
+            "compound_code" : "C8HG+7V Keramas, Gianyar, Bali, Indonesia",
+            "global_code" : "6P3QC8HG+7V"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJozizjs0V0i0R_-sKWzeSgtw",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1086,
+         "vicinity" : "Jalan Maruti, Keramas"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.4287277,
+               "lng" : 115.438195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.427399469708497,
+                  "lng" : 115.4393662302915
+               },
+               "southwest" : {
+                  "lat" : -8.430097430291502,
+                  "lng" : 115.4366682697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Lapama Rafting starting point",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107744612442066587115\"\u003eJosephine Yao\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIWsY-bpImZb7YXrwcupj-QPPcw4CPJHIyKnPfHwpvHyCpOwawFPJ0cG_BlxiMLfkaTUVA-m_sv0WtyFF5YnKRwKSlP58efpw874ypIZ--ZQ2pBDNGd7AqIeOL_KUMJszcLoPZ5h7BLrz2zTnZRm3yHODr95SWvUQo1cW6gBo6fzFoO",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJd6Sfthwb0i0Rx2CuVlHDoHU",
+         "plus_code" : {
+            "compound_code" : "HCCQ+G7 Rendang, Karangasem Regency, Bali, Indonesia",
+            "global_code" : "6P3QHCCQ+G7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJd6Sfthwb0i0Rx2CuVlHDoHU",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Rendang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.631947,
+               "lng" : 115.228748
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.630606319708498,
+                  "lng" : 115.2300592802915
+               },
+               "southwest" : {
+                  "lat" : -8.633304280291503,
+                  "lng" : 115.2273613197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "BALI TOUR",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 300,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107429993242338882094\"\u003eBALI TOUR\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJb-HLorqcjgwvHTYCAwbm9R0FlCpp-PwPkqKR9uhCIKwaCQVzmH7y2GXNgY4AjaauLSjEw3Tpvwv5G7XQCY_k8W6ng8ILkOQah-ScNrlBkSyJXS_YljkLihzsYtI1RGRJFLIhWBhSDgoghg2z56dgUp-jJA_oZ8mvebc3_stpkPPBO",
+               "width" : 870
+            }
+         ],
+         "place_id" : "ChIJr6ahEHM_0i0R1gycQ3LDNFs",
+         "plus_code" : {
+            "compound_code" : "969H+6F Tonja, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q969H+6F"
+         },
+         "reference" : "ChIJr6ahEHM_0i0R1gycQ3LDNFs",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jalan Seroja, Tonja"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.662557699999999,
+               "lng" : 115.147928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.661207969708498,
+                  "lng" : 115.1492753802915
+               },
+               "southwest" : {
+                  "lat" : -8.663905930291502,
+                  "lng" : 115.1465774197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Splash Waterpark Bali",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 843,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116862548372425444023\"\u003eSplash Waterpark Bali\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKfdqiWRPs0Ld9zpp_D4yzVi3GadfVzEuyIUq_twTNfuk4grvUkqVGSoO5uhY-xnHAQddbSkbgxoZkUd4gXzrO4xQ7yPPwacgQRE8R4d4o4G-M-qGmXwCvzVDofx8i2fz1aNJenpENvT1AQ2kICYfC-WtV9MfGWoWNXcjVJ3NqsGfVO",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJZYIV8HlH0i0ReCVM2Rw6wV0",
+         "plus_code" : {
+            "compound_code" : "84PX+X5 Tibubeneng, Badung Regency, Bali, Indonesia",
+            "global_code" : "6P3Q84PX+X5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZYIV8HlH0i0ReCVM2Rw6wV0",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 326,
+         "vicinity" : "Jalan Pantai Berawa, Tibubeneng"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -8.65629,
+               "lng" : 115.222099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -8.654959469708499,
+                  "lng" : 115.2235429802915
+               },
+               "southwest" : {
+                  "lat" : -8.657657430291502,
+                  "lng" : 115.2208450197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bali Marina",
+         "place_id" : "ChIJ24BeDptA0i0RfPPpAr_nVRw",
+         "plus_code" : {
+            "compound_code" : "86VC+FR Dangin Puri, Denpasar City, Bali, Indonesia",
+            "global_code" : "6P3Q86VC+FR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ24BeDptA0i0RfPPpAr_nVRw",
+         "scope" : "GOOGLE",
+         "types" : [ "parking", "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Benoa Harbour Marina, JL Raya Pelabuhan Benoa, Dangin Puri"
+      }
+   ],
+   "status" : "OK"
+}

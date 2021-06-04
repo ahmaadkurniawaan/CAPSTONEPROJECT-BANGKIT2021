@@ -1,0 +1,720 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKYZ0O7qqYFt3KAJDEUzUfzICV2TgaiQy2ldZQ1vo0yFXWStoqMGJa4v1gRNIbZp-yOOUXLOFL8GEKkVQ4Oqdt3IA14jvehBcLTAqHX8b7kQxdMyBGfIOSjVS4XJzrF7UShXIaPwTncoFSNeWCB1GNP_9oEkfZQvrWwS45I4TqSINY056f94wwX0-dhH02b-nnRN1izhD6cu_knwO5oAkiYjizqKmCT7gMrtlGpnAkOZM4qI2F3RSUoDfs6z_HuY5lS5crH7o7rTF7vorJVT422El2AXelLuaVwr3MRd1JMdy4GNAJ2yjvh3VQ-_RxSseZA5nZNSWcdJDPwYS0gLfok8KzgZFyr1tegjxkwRR_WlFu5CbznIdxfeygPJmNitu5XOblCOwOpfcExLpBhdp3V7HPtjXwcw6oSH1MykwRxQ0C34UbIMv4",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6220513,
+               "lng" : 96.8289259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.623431880291502,
+                  "lng" : 96.8300857802915
+               },
+               "southwest" : {
+                  "lat" : 4.620733919708497,
+                  "lng" : 96.82738781970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Ridwan Tansaril",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115743527173950269863\"\u003egelas gayo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLn_QqIxoQxXYZFDSaUDIdrKAfGl52SBql1FOFhOoe9wOqjgl3LqNczWOeBxbryPVuF_D_Y6uMcdaeVxUUF9qIB5OQbaHXHBWWdFozI34_IPC67NtMZAzmDfsb9LRuwO_mJPoaLvaM8YIUyd1i8tCYdalzWfwyd-aJEVsqlzACOvCeL",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJDzGbwrToODAR3qMlJ1MaeA0",
+         "plus_code" : {
+            "compound_code" : "JRCH+RH Pendere Saril, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRCH+RH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJDzGbwrToODAR3qMlJ1MaeA0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Tansaril Bebesan, Takengon, Pendere Saril"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6235309,
+               "lng" : 96.8413872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.624907330291502,
+                  "lng" : 96.84268593029151
+               },
+               "southwest" : {
+                  "lat" : 4.622209369708497,
+                  "lng" : 96.8399879697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Menasah Ar-Rahmah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101097323390148060150\"\u003eMustafa Kamal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIjBSz_-l41KbjB0YPYYO7t0TdMsB_5AWGC1eo8Ic61fB2w7S1xOYsp4le8X6H7QWhp7ZvFyxYvXgu1aPqCEl87tqUOBfKr-1_Cqbr1qLYEUlPmmyc37oSt3TM8-B8aPZ5Uw1jTBIet3CBZExyh6YAEhNlWNDEEOqkycRlYpT2Qk5Gm",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ2T49Rw_sODARXBmiBZNKWa4",
+         "plus_code" : {
+            "compound_code" : "JRFR+CH Blang Kolak II, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRFR+CH"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ2T49Rw_sODARXBmiBZNKWa4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Blang Kolak II"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.621681099999999,
+               "lng" : 96.84518469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.622878480291502,
+                  "lng" : 96.84644908029151
+               },
+               "southwest" : {
+                  "lat" : 4.620180519708497,
+                  "lng" : 96.8437511197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushala Setdakab Aceh Tengah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102321596435335341597\"\u003eSMS Video\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIwwZMVa9_1Kg-CxPu9FZbXvwKZuFCVFviSOpWriDdX8NAlH0FTMCoZUgvp6mnX8fqxoa1OA1JK4NL3Ycjfm3n2pJA660oTswkcCk_aL5-GbHmvpIW7wvn8gJ6nXWLuNps88QqcvRGeJDIqGmv35t2d8MqELLstb2HuKVsnowOBZEWM",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJjRL9TwXsODAR-ltf7GuOQU8",
+         "plus_code" : {
+            "compound_code" : "JRCW+M3 Asir Asir, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRCW+M3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjRL9TwXsODAR-ltf7GuOQU8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Asir Asir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6232722,
+               "lng" : 96.8509797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.624618430291502,
+                  "lng" : 96.85234618029149
+               },
+               "southwest" : {
+                  "lat" : 4.621920469708497,
+                  "lng" : 96.84964821970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mersah AL-IKHLAS",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113027038138192811004\"\u003eMuzammil Ashfa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIKNSbsLvs8FiJ6wIGCPNF0GxNXmKRsWCcGhTr97qSXDV6qkIYIlJT6FCLM2GGeORsxVSolV4DkhY6AfSJymzzzDHuulKTF6qJcS922JnAoebpy1c8hI_v5S07lU6zDBhDzFmzodFCk3OtbIS0YcC_RiQ6iwZHunye-5WMPw1B-dFbJ",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJh_BWsxDsODARc-qlj7ziMlw",
+         "plus_code" : {
+            "compound_code" : "JVF2+89 East Takengon, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVF2+89"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJh_BWsxDsODARc-qlj7ziMlw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Jalan Sengeda, Takengon Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.698583399999999,
+               "lng" : 96.86068520000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.6999946302915,
+                  "lng" : 96.8620435302915
+               },
+               "southwest" : {
+                  "lat" : 4.697296669708496,
+                  "lng" : 96.85934556970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Usuludin",
+         "place_id" : "ChIJR6O5sDmTODARNEuRViZVUk8",
+         "plus_code" : {
+            "compound_code" : "MVX6+C7 Serule Kayu, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRMVX6+C7"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJR6O5sDmTODARNEuRViZVUk8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Serule Kayu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4776609,
+               "lng" : 96.74491169999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.479124030291501,
+                  "lng" : 96.7464304302915
+               },
+               "southwest" : {
+                  "lat" : 4.476426069708497,
+                  "lng" : 96.74373246970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Menasah Kala Wihilang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJmRCx24jdODAR9vFxzYTpAq4",
+         "plus_code" : {
+            "compound_code" : "FPHV+3X Pantan Musara, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRFPHV+3X"
+         },
+         "reference" : "ChIJmRCx24jdODAR9vFxzYTpAq4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Pantan Musara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7348308,
+               "lng" : 96.9138487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.736137780291503,
+                  "lng" : 96.91517603029151
+               },
+               "southwest" : {
+                  "lat" : 4.733439819708498,
+                  "lng" : 96.9124780697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Menasah Al Ridha Hakim Wih Ilang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJe2J7iX2SODAR7-2bjsf_1Q0",
+         "plus_code" : {
+            "compound_code" : "PWM7+WG Hakim Wih Ilang, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPWM7+WG"
+         },
+         "reference" : "ChIJe2J7iX2SODAR7-2bjsf_1Q0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Hakim Wih Ilang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.736683699999999,
+               "lng" : 96.91306109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.738138580291502,
+                  "lng" : 96.91445408029151
+               },
+               "southwest" : {
+                  "lat" : 4.735440619708498,
+                  "lng" : 96.9117561197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Haq Hakim Wih Ilang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111136138270094394107\"\u003eIhwanul Hakim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLfAeGfvrAahWNmB1TZQcJrIXRFBTErx-2P420lrf7dwfoe7-E5KfkONnBinbGqtcLvwDsM6Op7cCK2AdjFBIT0S998p3eRJ2cnGRuXetlUgwv47a6Oh9Ny7mJjqZRU7GE_B5CVBqoCjgUDSELSSReGSpbE-P_GCGBkkFXnnOTUGE6e",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRfzwqH2SODAROaSoOInyOvc",
+         "plus_code" : {
+            "compound_code" : "PWP7+M6 Hakim Wih Ilang, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPWP7+M6"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJRfzwqH2SODAROaSoOInyOvc",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Hakim Wih Ilang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.725839399999999,
+               "lng" : 96.92824469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.727162130291503,
+                  "lng" : 96.9296650802915
+               },
+               "southwest" : {
+                  "lat" : 4.724464169708498,
+                  "lng" : 96.92696711970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baitul Makmur Remang Ketike Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJVyeyEHuNODARqDUX1kr7fE4",
+         "plus_code" : {
+            "compound_code" : "PWGH+87 Remang Ketike Jaya, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPWGH+87"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJVyeyEHuNODARqDUX1kr7fE4",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Remang Ketike Jaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.749954,
+               "lng" : 96.9324448
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.751231930291503,
+                  "lng" : 96.9337852802915
+               },
+               "southwest" : {
+                  "lat" : 4.748533969708499,
+                  "lng" : 96.9310873197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Menasah Baitul Muttaqin Jadi Sepakat",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106241856559369238828\"\u003eamin hidayat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIopJCqjMl9SeiMXiruBPkKgfH1_2lEm1a8DTx3TH_xLeaJzMRN5gAq6MgjPKTmkdR7wLNLnJHq7M3p1dn2dF-nd4FEDFheUOBrWf-i4X8V6J0QuhcbZIvwKqBDECKbjDeqdXNUoMKwJOVVQP7O5kJ0GCEenJ7LJMRyf3X24ECD4JD0",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJfVVtHZKNODARDIQ91kyCJRE",
+         "plus_code" : {
+            "compound_code" : "PWXJ+XX Jadi Sepakat, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPWXJ+XX"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJfVVtHZKNODARDIQ91kyCJRE",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jadi Sepakat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7493723,
+               "lng" : 96.93850089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.750613230291503,
+                  "lng" : 96.9398381802915
+               },
+               "southwest" : {
+                  "lat" : 4.747915269708498,
+                  "lng" : 96.9371402197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Baiturrahman Sidodadi",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100187231962097903560\"\u003eDardiri Dardak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJGe2pz3iyoqLQcHi24b9lMSxMOgS70TcSPPw-JmBbu_CkNSUvhO056LCSSBZq2nLUGquTbiTt2wfHjPpyswm84PuzOyBOOAZHiqe2zOLDWVj-QmMuoHLRt0u68_wKH_6Xn88VVtI5tI-SQMZU9c8KydcoqneH9tCBUCQsXmjRJ90gp",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJf7TkmJaNODARw9hcsM6SQuI",
+         "plus_code" : {
+            "compound_code" : "PWXQ+PC Sidodadi, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPWXQ+PC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJf7TkmJaNODARw9hcsM6SQuI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Sidodadi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6409269,
+               "lng" : 96.7788461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.642401330291502,
+                  "lng" : 96.78036693029152
+               },
+               "southwest" : {
+                  "lat" : 4.639703369708498,
+                  "lng" : 96.7776689697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Iklas",
+         "place_id" : "ChIJVVVVVUTqODAR-nmmenq5gaM",
+         "plus_code" : {
+            "compound_code" : "JQRH+9G Atu Gajah Reje Guru, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJQRH+9G"
+         },
+         "reference" : "ChIJVVVVVUTqODAR-nmmenq5gaM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kute Nireje, Lut Tawar, Atu Gajah Reje Guru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6308852,
+               "lng" : 96.78694209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.632262930291501,
+                  "lng" : 96.78835938029151
+               },
+               "southwest" : {
+                  "lat" : 4.629564969708497,
+                  "lng" : 96.78566141970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid",
+         "place_id" : "ChIJgVWncR_rODAR6h32odRl-qs",
+         "plus_code" : {
+            "compound_code" : "JQJP+9Q Atu Gajah Reje Guru, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJQJP+9Q"
+         },
+         "reference" : "ChIJgVWncR_rODAR6h32odRl-qs",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Atu Gajah Reje Guru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6612992,
+               "lng" : 96.77448919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.662602680291503,
+                  "lng" : 96.77580818029149
+               },
+               "southwest" : {
+                  "lat" : 4.659904719708498,
+                  "lng" : 96.77311021970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "MASJID AL-FITRAH",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJeWqIs_PqODARy6SL_B5U8Zk",
+         "plus_code" : {
+            "compound_code" : "MQ6F+GQ Tapak Moge, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRMQ6F+GQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJeWqIs_PqODARy6SL_B5U8Zk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Tapak Moge"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.638707999999999,
+               "lng" : 96.801267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639996730291502,
+                  "lng" : 96.80257513029152
+               },
+               "southwest" : {
+                  "lat" : 4.637298769708497,
+                  "lng" : 96.79987716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Mukminin",
+         "place_id" : "ChIJVZtKz7DrODARYmV4LfL8RlM",
+         "plus_code" : {
+            "compound_code" : "JRQ2+FG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRQ2+FG"
+         },
+         "reference" : "ChIJVZtKz7DrODARYmV4LfL8RlM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.638707999999999,
+               "lng" : 96.801267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639996730291502,
+                  "lng" : 96.80257513029152
+               },
+               "southwest" : {
+                  "lat" : 4.637298769708497,
+                  "lng" : 96.79987716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Ikhlas",
+         "place_id" : "ChIJVZtKz7DrODARP8FI_LXpAnY",
+         "plus_code" : {
+            "compound_code" : "JRQ2+FG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRQ2+FG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJVZtKz7DrODARP8FI_LXpAnY",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.638707999999999,
+               "lng" : 96.801267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639996730291502,
+                  "lng" : 96.80257513029152
+               },
+               "southwest" : {
+                  "lat" : 4.637298769708497,
+                  "lng" : 96.79987716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Iman",
+         "place_id" : "ChIJVZtKz7DrODAR9nKkFfUao9k",
+         "plus_code" : {
+            "compound_code" : "JRQ2+FG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRQ2+FG"
+         },
+         "reference" : "ChIJVZtKz7DrODAR9nKkFfUao9k",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.638707999999999,
+               "lng" : 96.801267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639996730291502,
+                  "lng" : 96.80257513029152
+               },
+               "southwest" : {
+                  "lat" : 4.637298769708497,
+                  "lng" : 96.79987716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Lalu Lintes",
+         "place_id" : "ChIJVZtKz7DrODARXG3MCV4X7Ec",
+         "plus_code" : {
+            "compound_code" : "JRQ2+FG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRQ2+FG"
+         },
+         "reference" : "ChIJVZtKz7DrODARXG3MCV4X7Ec",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.638707999999999,
+               "lng" : 96.801267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639996730291502,
+                  "lng" : 96.80257513029152
+               },
+               "southwest" : {
+                  "lat" : 4.637298769708497,
+                  "lng" : 96.79987716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Rahmatillah",
+         "place_id" : "ChIJVZtKz7DrODAR5RvCGF7G6RU",
+         "plus_code" : {
+            "compound_code" : "JRQ2+FG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRQ2+FG"
+         },
+         "reference" : "ChIJVZtKz7DrODAR5RvCGF7G6RU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.638707999999999,
+               "lng" : 96.801267
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639996730291502,
+                  "lng" : 96.80257513029152
+               },
+               "southwest" : {
+                  "lat" : 4.637298769708497,
+                  "lng" : 96.79987716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Mursalin",
+         "place_id" : "ChIJVZtKz7DrODARCfH4S_Pb6kk",
+         "plus_code" : {
+            "compound_code" : "JRQ2+FG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRQ2+FG"
+         },
+         "reference" : "ChIJVZtKz7DrODARCfH4S_Pb6kk",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ulu Nuih"
+      }
+   ],
+   "status" : "OK"
+}

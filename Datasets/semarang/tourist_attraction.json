@@ -1,0 +1,680 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0096491,
+               "lng" : 110.434191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.008367519708496,
+                  "lng" : 110.4355123302915
+               },
+               "southwest" : {
+                  "lat" : -7.011065480291501,
+                  "lng" : 110.4328143697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "name" : "Terminal Buku Pustaka Sarwaga",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109521523678804939710\"\u003eManunggal Florist\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK6aCSGLBDGU0SFEjAjq3UVCFuBDGsX6ckCaZ3PvtYHrRjMZt40WLw02f9mTHhycEgbC_dMbV4mzXWvbXHMpOJA--NzD91vx6N_2wLladSWy7zHnJDQa8r7iehv7tyBz8t2wpYVCpaPB6-lY447F6oluIgvJVDqeJy-JMTqsaiz0KWn",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ3xsyO4SMcC4RZtk1KsTin0s",
+         "plus_code" : {
+            "compound_code" : "XCRM+4M Jomblang, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCRM+4M"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ3xsyO4SMcC4RZtk1KsTin0s",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Jalan Jomblang Sari No.4, Jomblang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.010495799999999,
+               "lng" : 110.4319231
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.009137269708498,
+                  "lng" : 110.4331423302915
+               },
+               "southwest" : {
+                  "lat" : -7.011835230291503,
+                  "lng" : 110.4304443697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+         "name" : "Vihara Tanah Putih",
+         "photos" : [
+            {
+               "height" : 1184,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105429704090701796891\"\u003eKristina Dee\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIMrWYLtNVt0faE26gvm1N1tqvHwMS2_5kIRz7ISEXi57C_a2ybSSgsX8T9TasYiVfaj4zefZ55i6HtP-ITOtwJ7Ggu0n-iEzi_1jKW7U6cq3PSc_NfacQVaRcM0BdzPtq9IJegnjy05f_ke0LIAmJAsZNQgIyikhqhJ8sVGQ9oDzZC",
+               "width" : 2144
+            }
+         ],
+         "place_id" : "ChIJ11OM8IOMcC4RY4hFU9JrbC8",
+         "plus_code" : {
+            "compound_code" : "XCQJ+RQ Jomblang, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCQJ+RQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ11OM8IOMcC4RY4hFU9JrbC8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 589,
+         "vicinity" : "Jalan Dr. Wahidin No.12, Jomblang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.000684199999999,
+               "lng" : 110.4491076
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999321719708498,
+                  "lng" : 110.4504374302915
+               },
+               "southwest" : {
+                  "lat" : -7.002019680291502,
+                  "lng" : 110.4477394697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Bermain Kel. Gayamsari",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109709340144061127267\"\u003edavid rizky\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKwKMLnvEfxAFug7rFDY0IVStcB0YzaaGtmq8dIaVNfagxaRyx2niNOt9SKfU5tHAoQ5sv8UXr2chDzBbbiOrpYlBsFIk0JNWhXAO0UaarqHoNDftzhShh1p-UwMl6TKDEISgRyvgcVFZXgI7VYYppnO5xhCTTMvSvIINn4g3wcmE_V",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJoREAR5OMcC4RzjlBGdd8ncE",
+         "plus_code" : {
+            "compound_code" : "XCXX+PJ Gayamsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXX+PJ"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJoREAR5OMcC4RzjlBGdd8ncE",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40,
+         "vicinity" : "Gayamsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.989147899999999,
+               "lng" : 110.4222729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.987827519708497,
+                  "lng" : 110.4235843802915
+               },
+               "southwest" : {
+                  "lat" : -6.990525480291502,
+                  "lng" : 110.4208864197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Baiturrahman Great Mosque",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102660403562395934556\"\u003eGilang Prastya Lesmana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIfP8drkXyapMurkIT8gi6VzybuKYnzjsNeQCq3w7oo8qUFO3CGd84UpmM2CCCRznbGMoYbp9zbn5Ol9mB7rDba5Ey5C0_k5Esl0bkmK1wW82JQ-jv2ERowTk4nFfoKo5YpO49R1NAhdTqKx8oYOHRxY5eYChIydYQ0eM98KKtywPA9",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJp2vrE1mLcC4RjJGfmnF8sLo",
+         "plus_code" : {
+            "compound_code" : "2C6C+8W Pekunden, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C6C+8W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJp2vrE1mLcC4RjJGfmnF8sLo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4337,
+         "vicinity" : "Jalan Simpang Lima, Pekunden"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0012905,
+               "lng" : 110.4277746
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999817869708497,
+                  "lng" : 110.4292269802915
+               },
+               "southwest" : {
+                  "lat" : -7.002515830291502,
+                  "lng" : 110.4265290197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Sendang Wonodri",
+         "place_id" : "ChIJL92wyK6NcC4RK3BladDklMw",
+         "plus_code" : {
+            "compound_code" : "XCXH+F4 Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXH+F4"
+         },
+         "reference" : "ChIJL92wyK6NcC4RK3BladDklMw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Wonodri Sendang Raya No.2a, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.010736599999999,
+               "lng" : 110.4326203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.009637319708496,
+                  "lng" : 110.4339805802915
+               },
+               "southwest" : {
+                  "lat" : -7.0123352802915,
+                  "lng" : 110.4312826197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Dalem Kusumadipuran",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106244918749993806052\"\u003eGenjix Ceria\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL2MDMyum90RR6OJw4opwHtB97-pHqyGdWYkWEonLXfCn_d4umuaL7kuAqdWK6VnEHrtDg4HYCyedFuXNMhYX2RRNwh6g3yrQeAGtuFT8i2SGUVHhJEYaOYo4PzwHUeCyc70S99YwoDgPysLJyfs5nrrvvSFM8ubtmGL513kpKDu_w6",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJLa3jy3qNcC4RgIW5FKd8IGQ",
+         "plus_code" : {
+            "compound_code" : "XCQM+P2 Jomblang, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCQM+P2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJLa3jy3qNcC4RgIW5FKd8IGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Tanah Putih II No.2, Jomblang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001751,
+               "lng" : 110.4412919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000364969708498,
+                  "lng" : 110.4426634302915
+               },
+               "southwest" : {
+                  "lat" : -7.003062930291502,
+                  "lng" : 110.4399654697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Curug gondorio",
+         "place_id" : "ChIJZ_IFseSNcC4RGWcGPB4yGA4",
+         "plus_code" : {
+            "compound_code" : "XCXR+7G Lamper Tengah, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXR+7G"
+         },
+         "reference" : "ChIJZ_IFseSNcC4RGWcGPB4yGA4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Lamper Mijen Raya No.302a, Lamper Tengah"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0029553,
+               "lng" : 110.4242623
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.001067919708499,
+                  "lng" : 110.4257973302915
+               },
+               "southwest" : {
+                  "lat" : -7.003765880291503,
+                  "lng" : 110.4230993697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman Budaya Raden Saleh (TBRS)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106577498418287969728\"\u003eGeoffrey Yu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLbnwXsyITHu4VbZSiYvAGxyHvUgK6TGzJZoRWfVCgX4L35EJ9f6MO75zXbv5WP2UQN7XGfYHobQoa8J3EjJ39lVy85-GeFrMjbZVoy2Qf6QfMJ3sFAKbN6Po-sUVbO0gJVthy0WJg7YLL_PzHKwKcZu_qP-ZHbvpqtRU-XONG8BE6p",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJVVVVFaOMcC4RaVEM5BxHj_o",
+         "plus_code" : {
+            "compound_code" : "XCWF+RP Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWF+RP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVVVVFaOMcC4RaVEM5BxHj_o",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2964,
+         "vicinity" : "Jalan Sriwijaya No.29, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001551999999999,
+               "lng" : 110.4239669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000099369708497,
+                  "lng" : 110.4254365802915
+               },
+               "southwest" : {
+                  "lat" : -7.002797330291502,
+                  "lng" : 110.4227386197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wonderia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112949419199027489017\"\u003eRaden Mas Wiranta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJg_iBMp2Bi9E5CDLoPAYUhHTjtowe2_RfUGu_tkcz43bUYNd5B-xVWFX3HSqjRW49RhpESqNQzybQs_wmncviIRPv015FXXVi8Osjr67FmJNGeVenW0UhzYPcOPvfICuNyVEgu9gRDlYxUbk82tHuVxFgNwjqjNXeXbv8yxwDBmLle",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJIdCPfGKLcC4RSaP26bW6L50",
+         "plus_code" : {
+            "compound_code" : "XCXF+9H Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXF+9H"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJIdCPfGKLcC4RSaP26bW6L50",
+         "scope" : "GOOGLE",
+         "types" : [
+            "amusement_park",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 822,
+         "vicinity" : "Jalan Sriwijaya No.28, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0047949,
+               "lng" : 110.4213132
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.003444119708497,
+                  "lng" : 110.4226468802915
+               },
+               "southwest" : {
+                  "lat" : -7.006142080291501,
+                  "lng" : 110.4199489197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Wilis",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2451,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108359365359562334273\"\u003esinz 77\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKMpvvvSsqFYlM1kZp9zSt369PgpNIpWuNLGYA2I7Lx6m0sy819gdscK4VKgYsAP5qx5L4ag8_UxCIs7n6-z2GnoKyxunRGPWV-nNRR5AupEYEZ_rY98R5WZoHhaSgGZ9UttTxG4-Pb2c0Xr10EfISNm2pmyWULeuo5syOcpQ0TYKyv",
+               "width" : 3575
+            }
+         ],
+         "place_id" : "ChIJVTrNQ2OLcC4RU7Xfa0XszyU",
+         "plus_code" : {
+            "compound_code" : "XCWC+3G Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWC+3G"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJVTrNQ2OLcC4RU7Xfa0XszyU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 691,
+         "vicinity" : "Jalan Wilis No.3, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.000714100000001,
+               "lng" : 110.4191684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999515519708498,
+                  "lng" : 110.4204708302915
+               },
+               "southwest" : {
+                  "lat" : -7.002213480291503,
+                  "lng" : 110.4177728697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Siranda Reservoir",
+         "photos" : [
+            {
+               "height" : 2181,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113007954384146364075\"\u003eNova Ariyanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJhuW-bhCJIZCzY0TeHB9j3KqxSi9XRlEQSsausVpM0D2i9h_ivb0f68z6jeSlbvhahZ55exJAalcmyZ4DUSRo0ZiAf9wHE6V9x0RmcRFLo25a7utmyhXFEFZrZWRs6vKg0Gd0RjaIevIf7MG5B_Cn2u6LQaFz4ifYM3tkLEnYAIpV4",
+               "width" : 3878
+            }
+         ],
+         "place_id" : "ChIJV7PPpmaLcC4RhxqewnEQ78U",
+         "plus_code" : {
+            "compound_code" : "XCX9+PM Lempongsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCX9+PM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJV7PPpmaLcC4RhxqewnEQ78U",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70,
+         "vicinity" : "Lempongsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9904592,
+               "lng" : 110.4229044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989266769708498,
+                  "lng" : 110.4245947802915
+               },
+               "southwest" : {
+                  "lat" : -6.991964730291502,
+                  "lng" : 110.4218968197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Simpang Lima Semarang",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117744043860570852317\"\u003eDiam Kusuma\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI_j2VLgcIBWHEmZOxwerR2FW89ZEovQ6H01GdCfTajfmFeHETk56s7ZB5yt7t445PzAYhYRqwPEowkTR8C2ERd1fB-rSiQ5NHNaNxMB5IPU0RfnxsMoaxq43Zokkl3eK7qgBdy1x5JFZlSq6bDAk9YDsjrOIdF4HqWlyoOhMST31It",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJjxerLsOLcC4RFzwpsVQnWTg",
+         "plus_code" : {
+            "compound_code" : "2C5F+R5 Pleburan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5F+R5"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJjxerLsOLcC4RFzwpsVQnWTg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 594,
+         "vicinity" : "Jalan Simpang Lima, Pleburan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9903251,
+               "lng" : 110.4229637
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989124169708498,
+                  "lng" : 110.4246590302915
+               },
+               "southwest" : {
+                  "lat" : -6.991822130291502,
+                  "lng" : 110.4219610697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Wisata alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111816688635580978890\"\u003eIrma Mustafa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI8mRlpnh5hCXsu9LLMQmwlSsLntV5H3dqzXPWxyp9Xmq4EmnyWkbjXAvNZU6VKElHO-xHCwfbJQ0upkQFH0UGHTtJTrer3nfDOCvq-iQPwyT9jS3_7laiBos85JlgGpvqLdlnQyd6IEnKrqGSWwDYYiAej0NKh96txMg2ISUvsUW5w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ6-DMKlqNcC4Rya1PvSIkOIw",
+         "plus_code" : {
+            "compound_code" : "2C5F+V5 Lamper Lor, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5F+V5"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6-DMKlqNcC4Rya1PvSIkOIw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 38,
+         "vicinity" : "Lamper Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.990308700000001,
+               "lng" : 110.4228947
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.988800319708498,
+                  "lng" : 110.4239373802915
+               },
+               "southwest" : {
+                  "lat" : -6.991498280291503,
+                  "lng" : 110.4212394197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Alun alun semarang",
+         "place_id" : "ChIJb4YVBUaLcC4RCFYr3EU9jLM",
+         "plus_code" : {
+            "compound_code" : "2C5F+V5 Karangkidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5F+V5"
+         },
+         "reference" : "ChIJb4YVBUaLcC4RCFYr3EU9jLM",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Seroja Dalam III No.10, Karangkidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.007727000000001,
+               "lng" : 110.4166756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.006338469708498,
+                  "lng" : 110.4181222302915
+               },
+               "southwest" : {
+                  "lat" : -7.009036430291503,
+                  "lng" : 110.4154242697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Taman Diponegoro Semarang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113570755476392271823\"\u003eFahrunnisa Laila\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJMicjFu-IGG8dtsGYKBQB4_NFH3PRlEx8ZO1ru3lPtYiBeVaNDNdvjuQJW_2J9RJ705FbA0vqDPxzAT5fao1XOi7TS7HKFTRygLFbod1BWPoajA6gbhQQxkmq6vytZnZl0Uhx5PAKs0-Vl97VWcFq0NtX3ESVw6j5YNBY7OakLz3ic",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJ6e8G73qLcC4RloRCZKODeOc",
+         "plus_code" : {
+            "compound_code" : "XCR8+WM Lempongsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCR8+WM"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ6e8G73qLcC4RloRCZKODeOc",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 827,
+         "vicinity" : "Jalan Sultan Agung, Lempongsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.988295700000001,
+               "lng" : 110.4234471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.986895269708497,
+                  "lng" : 110.4247845302915
+               },
+               "southwest" : {
+                  "lat" : -6.989593230291502,
+                  "lng" : 110.4220865697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tahu Gila Simpang Lima",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115182541047691860337\"\u003eTahu Gila Simpang Lima\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIGDSsh3DldzYfBM7EyzoQzVD8n5cGRzdvRu6LHNnIT6sdFKHCmy9iFNWtsVRP49WTSut5ZrBG5MAQgec6yVCn5kzh2j4LnME9_9iqD1la7ihZl2ntQ46N2mjMTpxTwGqiKmQOu6uo9yATCpuEgR4nOOqNboWXu4eEDqofSoWUvL9yD",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJAVABuLyLcC4R15KRf1FX_x4",
+         "plus_code" : {
+            "compound_code" : "2C6F+M9 Pekunden, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C6F+M9"
+         },
+         "reference" : "ChIJAVABuLyLcC4R15KRf1FX_x4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Simpang Lima No.1, Pekunden"
+      }
+   ],
+   "status" : "OK"
+}

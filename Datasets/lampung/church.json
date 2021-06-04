@@ -1,0 +1,335 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3629099,
+               "lng" : 105.2689219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.361466469708498,
+                  "lng" : 105.2701680802915
+               },
+               "southwest" : {
+                  "lat" : -5.364164430291502,
+                  "lng" : 105.2674701197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Karo Batak Protestant Church",
+         "photos" : [
+            {
+               "height" : 962,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115001486281109398001\"\u003eAtho Sofyan Al-Bongasi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJOdTdiXrXXf8ZXjP7bU45eKigjpBV4kD6LoizCuuP8-x2q-IP-wu_W09tx5XYyHTsRX3rNaBYIQgg8NPtZf5DSTRcXDusnqeZNvp119HCMsZn88bxmBQZ6EPAWzNb6RIwhBAaj3j_3o5KPImZVU8OPFtOieJ7HJgaIdci0QNlPXBPw",
+               "width" : 1701
+            }
+         ],
+         "place_id" : "ChIJE2PeMdTEQC4RFXLqOzFwsq0",
+         "plus_code" : {
+            "compound_code" : "J7P9+RH Tanjung Senang, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7P9+RH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE2PeMdTEQC4RFXLqOzFwsq0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Turi Raya No.38, Tanjung Senang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.363716,
+               "lng" : 105.268378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.362399419708498,
+                  "lng" : 105.2696993802915
+               },
+               "southwest" : {
+                  "lat" : -5.365097380291503,
+                  "lng" : 105.2670014197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPI Bandar Lampung",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112393930933461185232\"\u003ePARSAULIAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIEiEuOC9H0r_Tk6BroJgFGMhWF4puzytuzDpoBZZh7ozLSkYY55RJ9HMHASa0IyWz4-VuLCzodSg_YqqJigKtbNn73Ci3R8wap1ofz6cplWfdBxNIovrE-PVwNBU4I8IckKlp0Vzv7ndQB7Ic5jQLAtwm8SEbD-OWT76UxaHaPq1Jo",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJR7_epdXEQC4Rv3kGeQre0eU",
+         "plus_code" : {
+            "compound_code" : "J7P9+G9 Tanjung Senang, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7P9+G9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJR7_epdXEQC4Rv3kGeQre0eU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Turi Raya No.40, Tanjung Senang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.3622469,
+               "lng" : 105.2689851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.360925519708498,
+                  "lng" : 105.2703176302915
+               },
+               "southwest" : {
+                  "lat" : -5.363623480291502,
+                  "lng" : 105.2676196697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBKP Runggun Bandar Lampung",
+         "photos" : [
+            {
+               "height" : 3029,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101286595327777746925\"\u003eHermawan Ciptaning\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIIm2SY2ZyRLyVAp3LEch5Cp2S6OnU8kBK3uhoDFbrQ9PV63rkt4lyNSZStFTFF9W0SPFJG-J2AqhcgDEwBOl8pGIVIkbObKWnJhgz23LdyEGe1arooxm6CV2v93f7h2lvC7CtvKRvZMOC1zXyt5U5rC8cX3GBp6GQUxVGQfeFK9LtB",
+               "width" : 4228
+            }
+         ],
+         "place_id" : "ChIJ9wMMs9XEQC4RzQXRmz_HLB4",
+         "plus_code" : {
+            "compound_code" : "J7Q9+4H Tanjung Senang, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7Q9+4H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ9wMMs9XEQC4RzQXRmz_HLB4",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "Jalan Turi Raya (By Pass KP) No.36, Tanjung Senang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.359069299999999,
+               "lng" : 105.2458651
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.357689569708499,
+                  "lng" : 105.2471653302915
+               },
+               "southwest" : {
+                  "lat" : -5.360387530291503,
+                  "lng" : 105.2444673697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja GKPA Bandar Lampung",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109730139323889553599\"\u003eJohannes Samuel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJe_-i51CDr75pkMsULFDXHdPF1FVZR1yK3xTET7Nw-9U3N6Uo9rySB3HvRolUDjdcq9hSWNVB-gilCruS-MXZL4a5oWh5HedX13060X6JGCmKUqpb4kldjviBfMjUY2syZB_DYYrKA_sn-WbkZLCeeSoeen6sNQ8kL52zZnrxWSyiV",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ6xGdBzfFQC4RqKPTuygc8o4",
+         "plus_code" : {
+            "compound_code" : "J6RW+98 Kampung Baru, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J6RW+98"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ6xGdBzfFQC4RqKPTuygc8o4",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15,
+         "vicinity" : "hatt baypas raya, raja basa 35142, Jalan Soekarno Hatta, Kampung Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.360591699999999,
+               "lng" : 105.2559199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.359218119708497,
+                  "lng" : 105.2572846302915
+               },
+               "southwest" : {
+                  "lat" : -5.361916080291501,
+                  "lng" : 105.2545866697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPS (Gereja Kristen Protestan Simalungun) Bandar Lampung",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100321877139608985783\"\u003earidhavi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKVZOwMnZY30THm6SeSUceLMlmQP7Dl0A_RcAlNBq1ncurO_mPs0_24_YURWcH6qbUxVIEcBjEZiHPsucRsWh9zbtnezbGgaqzWJPprup-TEs2KFxdxwXZaCMdlI6L2jd9UUeEoGAmqs4tZAvjrSGkISOIROXTlTaccivUi1RKVt6Bt",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJlSDeDy7FQC4RLFQcvi1NLNM",
+         "plus_code" : {
+            "compound_code" : "J7Q4+Q9 Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7Q4+Q9"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJlSDeDy7FQC4RLFQcvi1NLNM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48,
+         "vicinity" : "Labuhan Ratu, Kedaton, Labuhan Ratu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.363307199999999,
+               "lng" : 105.2685184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.361988019708497,
+                  "lng" : 105.2698376802915
+               },
+               "southwest" : {
+                  "lat" : -5.364685980291502,
+                  "lng" : 105.2671397197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja HKI B.Lampung",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111930687382869270149\"\u003eIrvan Ganteng\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJg7OP6UcKZhp5GUY9ESlkIEpzZ-GDGJrMN6LzzgXJEPpM_wsHvV_WNQvNSkuVfWB29DinduIyaE6iZupIJ4iyqP4jRBA17Z34GRy9yyWt9mU7APPjMQ-CS0t77-4rA68Vt9A4hlTzfcoJBPDni2j-o6yhMBLD2V-NMtevnU7zcI_WY",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJl5F2sNXEQC4RP8qP19nfEjk",
+         "plus_code" : {
+            "compound_code" : "J7P9+MC Tanjung Senang, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7P9+MC"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJl5F2sNXEQC4RP8qP19nfEjk",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16,
+         "vicinity" : "Tanjung Senang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.369375599999999,
+               "lng" : 105.2723295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.367995119708497,
+                  "lng" : 105.2736388802915
+               },
+               "southwest" : {
+                  "lat" : -5.370693080291502,
+                  "lng" : 105.2709409197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja GKKI Filadelfia",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114194852088187632113\"\u003eMosesmbull\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLgi-iCrZhToOx9gVO4W8r5f8LAsFDbvqA5VGOJe2uHQmsnKTEHa2mU1tsUuGjawt_iRRjb6c0K7M931lhScHeXqYG6MQ2XP9NEwVcqqXdqEOGXj9wqgtUqwp4y56LXuy8sYdytUoChdQkE9QkXPEfXEqN_DBroF0J0N0aGeCbMkbhc",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJAbnBv2rbQC4RbsFmxEYTCms",
+         "plus_code" : {
+            "compound_code" : "J7JC+6W Tanjung Senang, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7JC+6W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAbnBv2rbQC4RbsFmxEYTCms",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Jalan Sultan Haji No.4, Tanjung Senang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -5.371754999999999,
+               "lng" : 105.270857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -5.370466169708498,
+                  "lng" : 105.2722092302915
+               },
+               "southwest" : {
+                  "lat" : -5.373164130291502,
+                  "lng" : 105.2695112697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Gepkoin",
+         "place_id" : "ChIJlwhVXinbQC4ReB7L-22eTYg",
+         "plus_code" : {
+            "compound_code" : "J7HC+78 Sepang Jaya, Bandar Lampung City, Lampung, Indonesia",
+            "global_code" : "6P67J7HC+78"
+         },
+         "rating" : 3,
+         "reference" : "ChIJlwhVXinbQC4ReB7L-22eTYg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "JL. Nangka 58, Bandarlampung, 35153, Sepang Jaya"
+      }
+   ],
+   "status" : "OK"
+}

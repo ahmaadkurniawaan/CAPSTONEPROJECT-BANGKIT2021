@@ -1,0 +1,889 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLz4HklwvBaDn3tbDYOYC9EmdJkc0Qd1fILwo5lQUHzCkgz6D10T-5juFDmyiHOwaWS4IzXKCzVH3tv8Vf11QXZPi1v3s4nLG_3wqq6_VagU6i5NcDqLgMD7EzaPJSFZAds5nT-xZ0o-wdFuQCmw1V7OB48eVzLBy-TBQA4n5RAFtxY6ESA5MmdGVnBOXGdaokP4bUjzKvJZaqeHXpwYoZzx-hvAqhPsxh5iTTaSrGCrLZYb5vC_glNLgeGeH0FdqYOIH-OJWz2DcsAcDYKjatohDnYZWcFox1FrAhtaytJS4gGp4YK9ozC6-E2_RaGSLFUjdtlBEIvC4mcrHf1wJKE-0BRkhmoZMqYy_8YKPPIBa9pnKK_VnRSJ3sdDbU6Kf3H5giERDxGn2Xfd16Sso9WjNle8GYsOFCr3TunnfZI4Fic2lTDmQFWyx-IzD4NLt-_6MM",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.647339999999999,
+               "lng" : 96.80785999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.648772130291501,
+                  "lng" : 96.8092298302915
+               },
+               "southwest" : {
+                  "lat" : 4.646074169708497,
+                  "lng" : 96.80653186970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pantan terong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112474696485222930935\"\u003ePantan Terong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwKcmNjpyjfEe56Ll-6NMTFMym0R91bVQhV9dw3kFLd_aj29RDsWX1Ate5mWBLzjeHaziD1boudvvMGGzXz6fMVHyJ6L6nyLPKyZOa6pCK_QCvSYH_AxI2GvluUZmZ5qH5Htvk0PEqEWcjaEDAw6lgdRpRqw4elWP_0066PhtOL4tw",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJAxY7DKTrODARutWX2KO6Swk",
+         "plus_code" : {
+            "compound_code" : "JRW5+W4 Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRW5+W4"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAxY7DKTrODARutWX2KO6Swk",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2372,
+         "vicinity" : "Takengon, Ulu Nuih, Bebesen, Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6433374,
+               "lng" : 96.8677043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.644673530291501,
+                  "lng" : 96.8690572802915
+               },
+               "southwest" : {
+                  "lat" : 4.641975569708498,
+                  "lng" : 96.86635931970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Loyang Mendale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058032170638136544\"\u003eDardiri Dardak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIw13upB-3HQGNPcnTlanV30Rt-C8jwBPCsb2StFDdCrRBu8LWt8mSdrDKswb7BM3QWZS44ymf1-edwgydimxmnBLVawvrXG2NVuZ9Lu4TkA8uTYzVCm2URAKunhcsxOwTi5e65CX25mPnaVaFiqC-P6Kwi7euvAT8nqKif7vKVnMEE",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJXf1rD1DsODARURnfHEr7cys",
+         "plus_code" : {
+            "compound_code" : "JVV9+83 Mendale, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVV9+83"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJXf1rD1DsODARURnfHEr7cys",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "Mendale"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5921442,
+               "lng" : 96.94359399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.593458430291502,
+                  "lng" : 96.94431623029151
+               },
+               "southwest" : {
+                  "lat" : 4.590760469708497,
+                  "lng" : 96.94161826970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Dermaga Wisata Teluk Suyen Bamil Nosar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117486961722927014559\"\u003eLuthfie Al Fajar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIDBfks4jT92c2h8Bp681kf0dBWVECgiUjABiMx1q77OymNRiVudet9_QFF9QKNph1QVGJ5vbDJcp1G6PhO9TOex8ddNN3kqSzXfDLpSbjZXuWkX3H_gakE2y4plhuuIyiEuXVDqks6lgaGwnT72JlN1o53DKY_S1rOZrZ3YEjq9f-m",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJaXFmPpXxODARyemPZnxuJ5Q",
+         "plus_code" : {
+            "compound_code" : "HWRV+VC Bamil Nosar, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHWRV+VC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJaXFmPpXxODARyemPZnxuJ5Q",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 160,
+         "vicinity" : "Bamil Nosar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5702201,
+               "lng" : 96.96681219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.571569080291503,
+                  "lng" : 96.9681611802915
+               },
+               "southwest" : {
+                  "lat" : 4.568871119708499,
+                  "lng" : 96.9654632197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Air Terjun Mengaya",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1420,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109971566050066266120\"\u003eBeni Gayo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKGuDNG7bYA8CA8zWtXA_ltFJc2jml8hmLKCLXSsVhCkF6uZYrW_wS6qOikcnyNwinDVQCGj6pomF6fbRADqcNAVogK4mVLAt2N7vaOuq7wbZGe51GBlh5M6uJNxk6A61c5eEsO6vSOtEC79suZKzy0Fo3ig5e-NxWs-YU3ewrXF6st",
+               "width" : 1064
+            }
+         ],
+         "place_id" : "ChIJnUEQ0v_wODARSl8QFV7s2dw",
+         "plus_code" : {
+            "compound_code" : "HXC8+3P Mengaya, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHXC8+3P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJnUEQ0v_wODARSl8QFV7s2dw",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 137,
+         "vicinity" : "Jl. Takengon - Bintang, Kec. Bintang, Mengaya"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6225628,
+               "lng" : 96.7827296
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.624512980291501,
+                  "lng" : 96.78701749999999
+               },
+               "southwest" : {
+                  "lat" : 4.621815019708497,
+                  "lng" : 96.7813003
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Puncak bur malaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115759970188034899721\"\u003easin kurang maram gaming\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLtVsVl0SgNvPz5ngxBvOzJMuuQya28hBFx0iU4D5OMidNmTxlV7hSAjLPe75cIPtfYbSjrcBOMzy7B0avTbYivDiebmn-8JjJd37cBmOl2fh_fgnvQMJDrxQ1QLVrvMdNS0yRQ7E-sWKZ7k0ixL8MIDkDKa_ZvxJrlLQ4SnS8vrwby",
+               "width" : 3864
+            }
+         ],
+         "place_id" : "ChIJnSrIkezrODAR4y11HMKwV4A",
+         "plus_code" : {
+            "compound_code" : "JQFM+23 Bies Penentanan, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJQFM+23"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJnSrIkezrODAR4y11HMKwV4A",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Bies Penentanan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6489739,
+               "lng" : 96.80630819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.650301130291502,
+                  "lng" : 96.8076847302915
+               },
+               "southwest" : {
+                  "lat" : 4.647603169708497,
+                  "lng" : 96.80498676970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tanam Bunga Tiga Dara",
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112363485709572924097\"\u003eHasan Qadir\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwsHy6ugBwfcHKzxsO2yvmerTjeyCuIc0aUZ7kNSV7-G3vkA5KMPz-vVBL-tgbdsBfNFvvlGWcbDp__Cyax1Op3MxGGWmMgvMBNmaxGbKUM52dYjIzuaOO0e89clj8vceguzs-XJLXwPrBS95qWEPkwTyovkKqigB3hk_pxsODCMne",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJxwO8wPjrODARvaHHFRtX-_k",
+         "plus_code" : {
+            "compound_code" : "JRX4+HG Ulu Nuih, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRX4+HG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJxwO8wPjrODARvaHHFRtX-_k",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "Ulu Nuih"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6444225,
+               "lng" : 96.8192334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.645797130291503,
+                  "lng" : 96.82058673029151
+               },
+               "southwest" : {
+                  "lat" : 4.643099169708498,
+                  "lng" : 96.8178887697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Buntul Rintis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114613407087481200037\"\u003eSuhardi_Kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJToN-Uui_DmShixxWBD7thg2vvfjxFAMVOROo-lrqz0AUmy0S3gGGRBL-mP-mWigh_txgxnFx9hNwZmbB0stgC4HCAc-RFvBETssI54YyGf0rrXrlRrT4Eom0weLc5YxpGJEwvxV0SfiXUnhzIvgJ6CgoZI5DGRWSdryfOZwRU0XWD",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJGZnaIZrrODAR7A2cX6eKpV8",
+         "plus_code" : {
+            "compound_code" : "JRV9+QM Tensaren, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRV9+QM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJGZnaIZrrODAR7A2cX6eKpV8",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 517,
+         "vicinity" : "Tensaren"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6220294,
+               "lng" : 96.8167802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.623048230291502,
+                  "lng" : 96.8183283802915
+               },
+               "southwest" : {
+                  "lat" : 4.620350269708497,
+                  "lng" : 96.8156304197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bur Bebungkuk",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106828492907571483556\"\u003eIkhfan Dj\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKGVHumsT2OYxNMAJ7V3UY66R8lLAxcxS2PerYrmZqbT3gEMoa6i7VojWwmk77mfwGnmInVc_PTjHy5R8LinPgu02Cc-TKWoV115Vu-dIcGAt-skn_HfTwal4QR4R90GX8jQsy4BE67aX-lCziCQKSKq2iTeTWLVa6uIPI_DHmQ0hKP",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJJwc2uEnrODARogbfH9NVOHg",
+         "plus_code" : {
+            "compound_code" : "JRC8+RP Sadong Juru Mudi, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRC8+RP"
+         },
+         "reference" : "ChIJJwc2uEnrODARogbfH9NVOHg",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Unnamed Road, Sadong Juru Mudi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6422231,
+               "lng" : 96.8228056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.643572080291502,
+                  "lng" : 96.82415458029149
+               },
+               "southwest" : {
+                  "lat" : 4.640874119708498,
+                  "lng" : 96.82145661970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Taman 3 Dara",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102726455591750195459\"\u003exiomi mi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLCGLZUHLWJZVamipfyiUtIEGTP495jzj7h8cIB_92C0PqVSS9KK3Tpd7r-MHEFWNOeA05SpJPXoMN4XuGAdfEO4EpAoqjS1pVUv0I2UTDAFK4nCny8_qmTbgi9qLN-iLVoGxuBg9nLleHky_3Ik1o5E6oBo1kHQDjtr--jbuz42d5Q",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJT3gnsTbrODAR4NsAX_T6ROI",
+         "plus_code" : {
+            "compound_code" : "JRRF+V4 Tensaren, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRRF+V4"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJT3gnsTbrODAR4NsAX_T6ROI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan ke Pantan Terong, Tensaren"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.596309699999999,
+               "lng" : 96.7951676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.597616130291502,
+                  "lng" : 96.79653683029152
+               },
+               "southwest" : {
+                  "lat" : 4.594918169708498,
+                  "lng" : 96.79383886970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Destinasi Rumah Terbalik",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107058994232267493358\"\u003eDestinasi Rumah Terbalik\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJzHhPji8glF4YwkcHrmzA1i0eMPaeQw5FgBgzUrFsRUh30x03N6YQnPBPEyQ9N3dsPdYYw1EopzLOWGY4sXKunt-COgwc9bzSDeczddCAzhEjBWu8dL60ljJRKh3LLWrdOVTt8b8p7NbB5y6yLe-hq6LJik8oLFqZngHjMHjTON7Gh",
+               "width" : 1082
+            }
+         ],
+         "place_id" : "ChIJj5R5rWHpODAR3-HdH7YKFT0",
+         "plus_code" : {
+            "compound_code" : "HQWW+G3 Karang Bayur, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHQWW+G3"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJj5R5rWHpODAR3-HdH7YKFT0",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41,
+         "vicinity" : "Karang Bayur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5964744,
+               "lng" : 96.80420839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.597792330291502,
+                  "lng" : 96.8054331802915
+               },
+               "southwest" : {
+                  "lat" : 4.595094369708497,
+                  "lng" : 96.8027352197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "KPK",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100765521468731970535\"\u003eRian BL9260G\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLDyF-dVxNS_JxccFPrNFOUyuWnTq08TRpSlHLiPySmEuQg_8UsxZsAtgbYWYsOf4YlNZSkuhsT3TDoLpGcYtNKEOz55sLlvFKfjACST3bWcsqfSBvYaycvAG64uQhAFxbuQLcOrNRg-ezbnyQqATtxWJHBPabQDgSFCQIAUdC4X0Ho",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJETqz5J_pODARb5saaDZOjAs",
+         "plus_code" : {
+            "compound_code" : "HRW3+HM Simpang Kelaping, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHRW3+HM"
+         },
+         "reference" : "ChIJETqz5J_pODARb5saaDZOjAs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Simpang Kelaping"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5963508,
+               "lng" : 96.80412290000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.597734130291502,
+                  "lng" : 96.80538708029151
+               },
+               "southwest" : {
+                  "lat" : 4.595036169708497,
+                  "lng" : 96.8026891197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kolam Pinggir Kali",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100765521468731970535\"\u003eRian BL9260G\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIRIfGw1ygaMGo0lrnmz0VQOe3BNxGanl91NZlaLepViNNKWHyYXjjkak-v78m5enWOc7ktMCMBwNf84NtQVS6q5Fjn1vRiE5B9k5iGilIt5vXeYM1rkP3vAEGP17OQqz5kWzJfeh59Q45jsCCu9aZaQSS2tTzskEtePNA83pZJ6YfS",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJhUr95fDpODARsDUb2JdYLLI",
+         "plus_code" : {
+            "compound_code" : "HRW3+GJ Simpang Kelaping, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHRW3+GJ"
+         },
+         "reference" : "ChIJhUr95fDpODARsDUb2JdYLLI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Simpang Kelaping"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.595286,
+               "lng" : 96.8030711
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.596702930291502,
+                  "lng" : 96.80443443029151
+               },
+               "southwest" : {
+                  "lat" : 4.594004969708498,
+                  "lng" : 96.80173646970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Travel Rafting",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112769568172647381258\"\u003eAmpoen Sulaiman\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL3TBf57k1qenmVTPa8qhfTQVhHzJtlvFxgIi3n2jLcxUlAdvdPcEfhuxevkCC8GXVfe9cGA-7JyKYWUx-tIj-s7zz-TO2jgPK6Y-yS0_RcuA4q4TBAj9kJiIahR7HDVVJwla3OjBljHpr-eTxrOFpfyAGEmbkwU1z2esC2aANRTJFI",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJZ8JPiG3pODAR7RypylxCLxY",
+         "plus_code" : {
+            "compound_code" : "HRW3+46 Kayu Kul, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHRW3+46"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJZ8JPiG3pODAR7RypylxCLxY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "tourist_attraction",
+            "travel_agency",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 272,
+         "vicinity" : "Lukup Badak Jalan, Atang Jungket, Kayu Kul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5997676,
+               "lng" : 96.81138129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.601108780291502,
+                  "lng" : 96.8127098302915
+               },
+               "southwest" : {
+                  "lat" : 4.598410819708497,
+                  "lng" : 96.81001186970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Arena Pacuan Kuda, takengon",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102677895333845732254\"\u003eMasrur amira\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJronzx6HiZm3Q5AqGlVbWP9cSrQWTHEEEjkTmp_3-tlaoehFQau6OBSHhgNc1qZniqQO3HPPWBtBwptvb9sBge9PW4v7_6gcROg3t1uZhKpakiK42PxCLStbblBGMblO5NlqSzqZH8G_Lm1B6o_hznC_hvSxtqTxyxoq3gYg0gjEvW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJEwSaU2jpODARMbDgyVS5K-Y",
+         "plus_code" : {
+            "compound_code" : "HRX6+WH Simpang Kelaping, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHRX6+WH"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJEwSaU2jpODARMbDgyVS5K-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 476,
+         "vicinity" : "Simpang Kelaping"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.593296499999999,
+               "lng" : 96.80316329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.594691380291502,
+                  "lng" : 96.8044333302915
+               },
+               "southwest" : {
+                  "lat" : 4.591993419708498,
+                  "lng" : 96.8017353697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "rekreasi lukup badak",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108513827031190537998\"\u003eJAYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJcDXBEq8ycUlJLeHRRcOjcyiZ3ZtKObynBEU5LPM2yKFwuv4rColm4JAj9EMzXEieP45Mg9XlADPzrsnwZw9hst6DyoKcCKZ_oT4XJm3tafXnEMG3I0USjsiwhMbFRiBDGPpwvPph6y-1fj4xfPY4HATJWeQNYWBU-K1u-nND7fZ04",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ-xLf2pDpODARSaxjaBnZrvU",
+         "plus_code" : {
+            "compound_code" : "HRV3+87 Simpang Kelaping, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHRV3+87"
+         },
+         "reference" : "ChIJ-xLf2pDpODARSaxjaBnZrvU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Unnamed Road, Simpang Kelaping"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5935442,
+               "lng" : 96.805408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.594778730291503,
+                  "lng" : 96.8069763802915
+               },
+               "southwest" : {
+                  "lat" : 4.592080769708498,
+                  "lng" : 96.8042784197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "MSJ Sweet Yankeez",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117559587612200831841\"\u003eMSJ Coffee Lab\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIK-e0FXAkAcZqSZ8loINEQYS38swgaVpPMqmFr5-u2_IG9xCL1cNv6MmbC0ioEKr8fNZlqpcMYZFQJ95LRbomjiMu7NDH9-KOXhDhGaWKWwol_7yStgEW5Oh_7r4VhYmP17GHeptdg8XEMhk_IhNetqsUOK6tEKi1fAMVScw58IZ0K",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJsTDJIc_pODARJShS6UXE8kA",
+         "plus_code" : {
+            "compound_code" : "HRV4+C5 Simpang Kelaping, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHRV4+C5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJsTDJIc_pODARJShS6UXE8kA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "JL. Simpang Kelaping - Lukup Badak, Kala Nareh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6116382,
+               "lng" : 96.82754969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.614351850000001,
+                  "lng" : 96.82858949999999
+               },
+               "southwest" : {
+                  "lat" : 4.61073365,
+                  "lng" : 96.82443029999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bur Perulangen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113671988227411549193\"\u003eKhalil Lullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJutA8DJ3M_uAGHt13L3fV5dlEbRTjDijO_6V6XyhdYNTgCN4Ng7fo8cdkt6M7PzuBQdrxV7cp7eIZb-1ClH79rUVmaXhLt-nM8iLscSF-0FJPK9rZxSr-nOExfSfGuLLk5PfVYSdU785RVCpw2Gj2sQx4H526skCSOiuyphWYndAqI",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJa3AyLlbpODAR-RPmzzvFbac",
+         "plus_code" : {
+            "compound_code" : "JR6H+M2 Kute Lintang, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJR6H+M2"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJa3AyLlbpODAR-RPmzzvFbac",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Kute Lintang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6103117,
+               "lng" : 96.8342629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.61522675,
+                  "lng" : 96.8357357302915
+               },
+               "southwest" : {
+                  "lat" : 4.60867335,
+                  "lng" : 96.83303776970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Puncak Bur Lancuk Leweng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112709692534712761917\"\u003eRAGAM VARIASI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJHm4E7YVkNYhsry2XAU_gN5N9cCfEF6bUbcY9TVN0A_fP1aSoSTr321cvSZWOP5FzIs3OUHvTiIYvEiaUN3JYJEowcUVYQdSyl40zUh4LvgBgny9YG0ddIwO2C8_1niJPnCZeNrHFXw4-KEap1W4kqFb4JAY7WaoTgXGDogVGYue7L",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJC9phhezpODARyZX7iZb9z3w",
+         "plus_code" : {
+            "compound_code" : "JR6M+4P Asir Asir, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJR6M+4P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJC9phhezpODARyZX7iZb9z3w",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Asir Asir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6098666,
+               "lng" : 96.83427759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.6154493,
+                  "lng" : 96.83574308029151
+               },
+               "southwest" : {
+                  "lat" : 4.6080057,
+                  "lng" : 96.8330451197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Lancuk Leweng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115706649143258693516\"\u003ecerita pendek\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJSSK4Ne9t6j3x9XWhselh6A3cTjXY8GLGOR5fyjIlkTdIm6ma8IPzXqOJNpXcy-JWV0nn_aMw4FxaO_r7jqABxXXYqiVxUkF-Lc47ki-_irUONfQ2IaCoP1PRfjIFM8JBV69JjhunKPd1O4H-g5cyba9hAvF6Ehj213aoUNT2VEITR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJue4L1KruODAR03IPYRpwEK4",
+         "plus_code" : {
+            "compound_code" : "JR5M+WP Asir Asir, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJR5M+WP"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJue4L1KruODAR03IPYRpwEK4",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82,
+         "vicinity" : "Asir Asir"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.620567699999999,
+               "lng" : 96.7150846
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.624356850000001,
+                  "lng" : 96.71905299999999
+               },
+               "southwest" : {
+                  "lat" : 4.619304649999998,
+                  "lng" : 96.71376180000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bur Tengku Genting-Angkup",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114126236931357263541\"\u003ealfi noviandi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJOzoHk9vcd6qTwyI7WiG3YGR4Ok-smEhCpa6EXtz0tym7OPNadfMKbrl13M5ktlOdujv3eUmN0fhhBCukDECP50PDLfqUkea1CVc9g_EFUxd3eWsD8qfz4oKjhEa3QfdAoWbiJHXkyxZ4T5O-yRJk4LURLhc6uDDERzuO6PA3F70Q1",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJzyArU3bBODARQ2QJzVp-aDo",
+         "plus_code" : {
+            "compound_code" : "JPC8+62 Genting Gerbang, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJPC8+62"
+         },
+         "rating" : 5,
+         "reference" : "ChIJzyArU3bBODARQ2QJzVp-aDo",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Angkup - Rusip, Genting Gerbang"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,795 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwK4IXl7D98GROI2wyI-IVOrkblZtvkgyE5Uxywijw8SQ6iHeb26399vH-Fh4xvyY-IP39lx-x_1JsJMKB1imJwtmB2GEqw5WQnbuOAhDo90qtwUZn9jgCETNDFd7mgE4XGrTEOwzk65MHEn5pwSlFq92ZW69vkueKB_H9sSyfJXnMu8WPIy2g3E0tJWBNyEOJaFnm3gBFHSx6PvWkE7jaGmT0fljAJVVU8e1z1n4BXxhDKSuWWRM2kuMAW1aW1qtY7vAlpAUou9QOsQCMHTWXVvCfSDxy2_mSNT9aumyMP95V5hkfx2U58SFqMSHH3z_UdhC_jorbDEFJoUMITfFkko1XbhNExMU30yALfqwvfKTBb9KKAUu0fXLrOiwBtr1WDhel5Llu1YwqDfXDxJJpzD56JcCyD0Qjmw9J_9wMl3aLqwFMtTXC8",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4195936,
+               "lng" : 109.232828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418300419708498,
+                  "lng" : 109.2343620302915
+               },
+               "southwest" : {
+                  "lat" : -7.420998380291501,
+                  "lng" : 109.2316640697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Christ the King Cathedral Church",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110956329147270898320\"\u003eAnita Poerwoko\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLYyXTmNoFLD0dxCVmaS8kV5rd6ptztSGTY6t7Vb6sS4cJ6T7lyQcmsGpU7BhkVWSR9u5I9t6-xc2D87v-IS82mYNm1VRfDaR56N4W_w9xIuwhY2rpvwMI0mdsFNoAt1gcKACS5YmZlXK6iqZHk7lKSNJ29d7b3M0jkXv1XMGvMrJbq",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTYg_VGBeZS4RAytPV_OAHzg",
+         "plus_code" : {
+            "compound_code" : "H6JM+54 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JM+54"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJTYg_VGBeZS4RAytPV_OAHzg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 460,
+         "vicinity" : "Jalan Gereja No.3, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.422059999999999,
+               "lng" : 109.230237
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420778469708496,
+                  "lng" : 109.2315839302915
+               },
+               "southwest" : {
+                  "lat" : -7.423476430291501,
+                  "lng" : 109.2288859697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKI Banyumas",
+         "place_id" : "ChIJ9XD3UGFeZS4RIQnJghd7RFA",
+         "plus_code" : {
+            "compound_code" : "H6HJ+53 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HJ+53"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ9XD3UGFeZS4RIQnJghd7RFA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Pungkuran No.638, 53312, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423578500000001,
+               "lng" : 109.2367191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422196769708499,
+                  "lng" : 109.2380804802915
+               },
+               "southwest" : {
+                  "lat" : -7.424894730291504,
+                  "lng" : 109.2353825197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKJ Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110051216368998387445\"\u003eAnton C. Hermawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKkeyv1J4T96Jq_9mMll_NuOVuUrk1UZgTsvqvgvJvDmBRQ_zKGkBW-GQ8eUSM8FD7Rn9daJbwPX1uvEx3rtzIK9ddmxfg-HSEBZGt37ALnEQAjyn__t14cFh7n2VgCTIheXGE-fpYsf_Cg7A1oXKv0PtTy9DLjOk93HVuhAHQXd0iQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJFw8g6IleZS4Rbn6dANA7S10",
+         "plus_code" : {
+            "compound_code" : "H6GP+HM Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GP+HM"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJFw8g6IleZS4Rbn6dANA7S10",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11,
+         "vicinity" : "Jalan Bayangkara No.5, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.421695199999998,
+               "lng" : 109.2369988
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420283769708496,
+                  "lng" : 109.2383628802915
+               },
+               "southwest" : {
+                  "lat" : -7.422981730291501,
+                  "lng" : 109.2356649197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKI Gatot Subroto Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100410837838425158197\"\u003eReza Chandra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKzV252w_h-vqgY6pT7ARBv8Uc6IpmEseJ61f5qldUobHib3QKPt5gqgTSyI5Sis2AHL7Iz2zb41RIFV4pRGg3_cMD27_SejfIWQOfkdRp6pAhJcjXR0QHsVYktM3Z-ItPmW3I1rYNMpKXzg3oGxH7xH2-sjn6S2G75hSDMmhAwsOsJ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJj_DnCopeZS4RxkTwDa4Z9XY",
+         "plus_code" : {
+            "compound_code" : "H6HP+8Q Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HP+8Q"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJj_DnCopeZS4RxkTwDa4Z9XY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 122,
+         "vicinity" : "Jalan Jendral Gatot Subroto No.88, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4234032,
+               "lng" : 109.2229851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422247969708498,
+                  "lng" : 109.2245897802915
+               },
+               "southwest" : {
+                  "lat" : -7.424945930291502,
+                  "lng" : 109.2218918197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKJ Purwokerto Barat",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113712879320380604584\"\u003eGKJ Purwokerto Barat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIiqa1NtFFOrH-CC1mVgOFap2vWiNp73IaXyFfEREKhWETfWE94ehdGEHmw35sZMw--ZzKDFb2gmVLBXUoivKc8oad1h-nIQgO-z96omGQxcNd4ETCnVls4lrPX9CFVtARvBirTs4BsEk-kumBpqo4bAwQQlZWZZqlvwwOEbva5IK-n",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJATcpt25eZS4RosQRxB2Qqlk",
+         "plus_code" : {
+            "compound_code" : "H6GF+J5 Bantarsoka, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GF+J5"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJATcpt25eZS4RosQRxB2Qqlk",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26,
+         "vicinity" : "Jalan Jenderal Soedirman No.39, Bantarsoka, Bantarsoka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4232611,
+               "lng" : 109.2348306
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.421907669708497,
+                  "lng" : 109.2362220802915
+               },
+               "southwest" : {
+                  "lat" : -7.424605630291501,
+                  "lng" : 109.2335241197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Bethel Tarbenakel",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100529739724407632256\"\u003eNico Wijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLVVcIw5ksSdAzerDT0YHHetWk-EoO3tP17w9QmFSAw24gcUoAq5poPPK-VruZyo7e5s6wD31oTR8c6Mt359PxZhpguZTISLq98715cRhqXm-aU1WL7ujsVOFf6LjENwsWnfpCjAygDkP4x333-MEd1MwcoJR1L0Mxa8ioAWl2GsnLX",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJGYP9EWJeZS4RBKqdvH2MZB8",
+         "plus_code" : {
+            "compound_code" : "H6GM+MW Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GM+MW"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJGYP9EWJeZS4RBKqdvH2MZB8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Jalan Kolonel Sugiri No.39, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4233179,
+               "lng" : 109.2348155
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.421968919708497,
+                  "lng" : 109.2361644802915
+               },
+               "southwest" : {
+                  "lat" : -7.424666880291502,
+                  "lng" : 109.2334665197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBT Yesus Juruselamat",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 557,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101083634160228719193\"\u003eOkta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKK_EuhiQwfx4k7LiMddKqjYm3hEqsvJ5DsLb36c1Wq8uTqt3zx4xV7oaya4rizUj3mnRWJqSsrCz_fx2E7xOVNpt6cS_xmxBiNW0CfucvukvaIroKGGckYLjGQAlds6_agCy1pOzW2nPtthv_uzvfCykNTBwS0yMSKhniQr3OcaZUe",
+               "width" : 557
+            }
+         ],
+         "place_id" : "ChIJn99ycWJeZS4RtIxckbd2rqg",
+         "plus_code" : {
+            "compound_code" : "H6GM+MW Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GM+MW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJn99ycWJeZS4RtIxckbd2rqg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Kolonel Sugiri No.29, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.419599400000001,
+               "lng" : 109.2332927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418242369708496,
+                  "lng" : 109.2346151802915
+               },
+               "southwest" : {
+                  "lat" : -7.420940330291501,
+                  "lng" : 109.2319172197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gedung keuskupan Purwokerto",
+         "place_id" : "ChIJ-3aRVEdfZS4R2A9U36W6Rg8",
+         "plus_code" : {
+            "compound_code" : "H6JM+58 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JM+58"
+         },
+         "reference" : "ChIJ-3aRVEdfZS4R2A9U36W6Rg8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Gereja No.6, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.424911900000001,
+               "lng" : 109.2350289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423561119708499,
+                  "lng" : 109.2364121802915
+               },
+               "southwest" : {
+                  "lat" : -7.426259080291503,
+                  "lng" : 109.2337142197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bethel Tabernakel",
+         "place_id" : "ChIJRdF4h2JeZS4RoxEwPQJSSDI",
+         "reference" : "ChIJRdF4h2JeZS4RoxEwPQJSSDI",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kolonel Sugiri No.25, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4240738,
+               "lng" : 109.23675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422724819708497,
+                  "lng" : 109.2380989802915
+               },
+               "southwest" : {
+                  "lat" : -7.425422780291502,
+                  "lng" : 109.2354010197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Klasis Banyumas Utara",
+         "place_id" : "ChIJtxUSw4leZS4RK0N9zPlRc2Q",
+         "plus_code" : {
+            "compound_code" : "H6GP+9P Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GP+9P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJtxUSw4leZS4RK0N9zPlRc2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "JL. Mardi Kenya, No. 2, Purwokerto, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.419445499999998,
+               "lng" : 109.2283707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418069969708498,
+                  "lng" : 109.2297274302915
+               },
+               "southwest" : {
+                  "lat" : -7.420767930291502,
+                  "lng" : 109.2270294697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Baptis Indonesia Kalam",
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109281096570849241363\"\u003eandre santoso\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLD0-Z8R1O1LDoaEiWQyZGwWsubtlixByVB5dHbmEZsVYesyhsKNac_j9Mj6Z9nnUGWR4USE_gTwIDItcW398aGMZ_c7IgJ7WZkmICQXnhcZ4-dL6cZj0CPqarIFrkKkD0h8hUZEEVQj5aoIEIEo6LarVys_URPFh5jaQSl8OIwoJx5",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJMaa8UIleZS4R_AEnvTw0h2w",
+         "rating" : 4.3,
+         "reference" : "ChIJMaa8UIleZS4R_AEnvTw0h2w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Jalan Jendral Gatot Subroto No.7"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4198807,
+               "lng" : 109.2279747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.418560219708498,
+                  "lng" : 109.2294976802915
+               },
+               "southwest" : {
+                  "lat" : -7.421258180291502,
+                  "lng" : 109.2267997197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "falnita",
+         "place_id" : "ChIJ9329WMpfZS4ROLMgi38tYuw",
+         "plus_code" : {
+            "compound_code" : "H6JH+25 Kedungwuluh, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6JH+25"
+         },
+         "reference" : "ChIJ9329WMpfZS4ROLMgi38tYuw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tentara Pelajar No.3-7, Pesayangan, Kedungwuluh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423484599999998,
+               "lng" : 109.2407615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422149869708496,
+                  "lng" : 109.2422044302915
+               },
+               "southwest" : {
+                  "lat" : -7.4248478302915,
+                  "lng" : 109.2395064697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Utusan Pantekosta",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108036872731949788645\"\u003eSOMIRIN SAMEWANGI\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKmiHOQYvFGwQMbPCe1WufLpBlc-QQEpsIKkVDEcitnpsYjOhbr4xOgrRRgL7HsZN7ZvpQB5vuZcZg5hrZC_41K6Fu6N3odpI-I2x58lCDgiRTIoIqXGPN3DX_a9GMz4c3oYk1aJTRLWnxB3I7bswTL8aXYX6q1Nw7TNpHoApeyvg6M",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJAdoCSIleZS4RCGMEU-8TQ_U",
+         "plus_code" : {
+            "compound_code" : "H6GR+J8 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GR+J8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJAdoCSIleZS4RCGMEU-8TQ_U",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Jalan Adhyaksa No.218, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.415606400000001,
+               "lng" : 109.2401367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.414660769708497,
+                  "lng" : 109.2414465302915
+               },
+               "southwest" : {
+                  "lat" : -7.417358730291501,
+                  "lng" : 109.2387485697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPB MDC Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104297721660760520151\"\u003eGKPB MDC Purwokerto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKehuWjw2Z3qlX6QI4P9_z4JBTWdPTfAT7AmICYje2RiGSrXa16kb9vs8-OyPRp5f7FCtum2Nb30WWGN-dsD4evCTiYh4mEuccHn9Z00n3raYVtUeZm94YZp0AuXggXdWNjjJKixD41cdvv3oBHIS0ZPqL610JFEgv5XpjHMM1g5BR_",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJrUholfReZS4RHXNbgn0tGQE",
+         "plus_code" : {
+            "compound_code" : "H6MR+Q3 Bancarkembar, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MR+Q3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJrUholfReZS4RHXNbgn0tGQE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Jalan Doktor Angka, Glempang, Bancarkembar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4153368,
+               "lng" : 109.2401943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.413993219708497,
+                  "lng" : 109.2415927302915
+               },
+               "southwest" : {
+                  "lat" : -7.416691180291502,
+                  "lng" : 109.2388947697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Graha MDC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100758474627063866918\"\u003eFanind Wiryawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIPSEq9z3Kl2vamBNWPMRkm3aQuN0hObaCzMY4cWHS_OjBCuTWfZswN8wMMV7D-gIDYFE1-piSTL5toinXF1735WDk6HMpnFxrmyVaD96lzk_zPv_VLLJmOhhwgqKn86t4kRENyHtneJTpwe-N2aRxvgv02FoYTNSDZXiusa1-7tQr5",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJKUyojfReZS4RioobwbzfI_I",
+         "plus_code" : {
+            "compound_code" : "H6MR+V3 Bancarkembar, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MR+V3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJKUyojfReZS4RioobwbzfI_I",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jl. Dr. Angka, Ruko Permata Hijau II nomor 15-16,, Glempang, Bancarkembar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.421445599999999,
+               "lng" : 109.2436584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420092119708499,
+                  "lng" : 109.2449698302915
+               },
+               "southwest" : {
+                  "lat" : -7.422790080291502,
+                  "lng" : 109.2422718697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Masehi Advent Hari Ketujuh Jemaat Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107733064762757365453\"\u003eAgile Siahaan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK-fjOs_Jg68GFEskul7jmSQXkS7YzzLB9Ta8ywKSTZ9M_yls_-ItYpQ030dPWyLsvtkvL8C6tU6OMH4q_3pr0RSStnrEqUnI5wG89bcKA3soiGGnnbH4VurNXaBMF4bUbwCqUNNkFu_WBiqEnxOZafmltb-NKxoxK_2S57118UNfkm",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJjUw6OoxeZS4ReEDEODWC3Z8",
+         "plus_code" : {
+            "compound_code" : "H6HV+CF Purwokerto Lor, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HV+CF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJjUw6OoxeZS4ReEDEODWC3Z8",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Tim., Kebondalem, Purwokerto Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4298832,
+               "lng" : 109.240587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.428535419708497,
+                  "lng" : 109.2419856802915
+               },
+               "southwest" : {
+                  "lat" : -7.431233380291501,
+                  "lng" : 109.2392877197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Bethel Injil Sepenuh Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110051216368998387445\"\u003eAnton C. Hermawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJwhG2YETYtRRhXbUT5xDHFhnsOYepYhWPSYOUNJjzD1trPbmaWKWrfmt8c2SB6pa-FCo29Jzs3TFRgYDdezQQAvZAiPV4KtLc8AzLRRP6JhzKwQbwnGW1M20eDoJ35XshIkEsuzRXI1oZag4xMY-KrA_-wKlvfgSpsTWGsCe5ZLDvH",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ1-i0iYZeZS4RLnP628KWtiE",
+         "plus_code" : {
+            "compound_code" : "H6CR+26 Purwokerto Kulon, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6CR+26"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ1-i0iYZeZS4RLnP628KWtiE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Penisian, Purwokerto Kulon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4263065,
+               "lng" : 109.2424563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.424957519708498,
+                  "lng" : 109.2438052802915
+               },
+               "southwest" : {
+                  "lat" : -7.427655480291502,
+                  "lng" : 109.2411073197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GEREJA SIDANG JEMAAT PENTAKOSTA PURWOKERTO",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110896397945442167432\"\u003erani wardhani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJIbkl_hwzE9XMKLI52Cz02hM4KI4v7S5djAlwIYr5jIohcUpSPNd7J-Wj0jmtNvWBrZO9-q78-gLan_H3zowOCeWQFqsIrkC5Tinqqmu05UFmWZuWwmieW34Bp1eYybHLzpihLPh0efDeTwV3-NAXFHvEgHDRYo1su1Gs_0nWiNhga",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZaYBRY9eZS4RO9DYsbSa3co",
+         "plus_code" : {
+            "compound_code" : "H6FR+FX Purwokerto Lor, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6FR+FX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZaYBRY9eZS4RO9DYsbSa3co",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "jl. jendral suprapto purwokerto gang ll nomor, RW.27, Kauman Lama, Purwokerto Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.430157100000001,
+               "lng" : 109.2253872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.428775069708498,
+                  "lng" : 109.2266895802915
+               },
+               "southwest" : {
+                  "lat" : -7.431473030291502,
+                  "lng" : 109.2239916197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPdI Alfa Omega Tanjung Purwokerto",
+         "place_id" : "ChIJ36XgOt1fZS4RFYzX-ld-vJs",
+         "plus_code" : {
+            "compound_code" : "H69G+W5 Pasirmuncang, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH69G+W5"
+         },
+         "reference" : "ChIJ36XgOt1fZS4RFYzX-ld-vJs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Pahlawan No.121, RW.1, Pasirmuncang Wetan, Pasirmuncang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.430258299999999,
+               "lng" : 109.2252833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.428883519708498,
+                  "lng" : 109.2265959302915
+               },
+               "southwest" : {
+                  "lat" : -7.431581480291503,
+                  "lng" : 109.2238979697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Pantekosta Indonesia",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102122453912910656949\"\u003eDian Setya Budi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK53dJtTZ2BWjWNoAmrvi6-5kWG9QD2ByvgL7HpZd6KAf7G3Ph77_wtufoOxavo9BzvjPpgay1ztbRdhnElyoDOK_q_TQ7EwgirEQB3MLz07g_YhKkD4_yJpzoiRZ3WPVr0-LRaJYZA50IrVuuWx6zlHlihrtaNSG6UMQB15IFkzNUI",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ6zfp9HpeZS4RKkFcIjdXBgg",
+         "plus_code" : {
+            "compound_code" : "H69G+V4 Pasirmuncang, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH69G+V4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6zfp9HpeZS4RKkFcIjdXBgg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan Pahlawan No.121, Pasirmuncang Wetan, Pasirmuncang"
+      }
+   ],
+   "status" : "OK"
+}

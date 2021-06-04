@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.415289499999999,
+               "lng" : 109.2210149
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.413940519708498,
+                  "lng" : 109.2223638802915
+               },
+               "southwest" : {
+                  "lat" : -7.416638480291502,
+                  "lng" : 109.2196659197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Parks Railway Rasam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105443402750045652468\"\u003eTAMAN KERETA API PURWOKERTO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKRxgPEz5j5Zu6UiKkE0inDBEltXDfocT-w8oGjjQFdqHlUkcdxNZLyESgorIifgrjQ2Yuu2SKzKHstdARE1dRPX0r3fy8OVOhJwmWuarCDO--ui2BbTdx7mjnotKm48u1LR8jtFrYsEiGl2M06aCABcSHKAAnLwE1kdCkFLoOZ3_2j",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJufzM_UJeZS4RRlDt0VlGkxE",
+         "plus_code" : {
+            "compound_code" : "H6MC+VC Kober, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MC+VC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJufzM_UJeZS4RRlDt0VlGkxE",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 557,
+         "vicinity" : "Kober, Kober"
+      }
+   ],
+   "status" : "OK"
+}

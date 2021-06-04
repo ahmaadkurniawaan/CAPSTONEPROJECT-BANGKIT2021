@@ -1,0 +1,99 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7955556,
+               "lng" : 102.2591667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.794149619708498,
+                  "lng" : 102.2605668302915
+               },
+               "southwest" : {
+                  "lat" : -3.796847580291502,
+                  "lng" : 102.2578688697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Mukti Tama",
+         "place_id" : "ChIJm6BnmCGwNi4R4fR4j5fZDcc",
+         "reference" : "ChIJm6BnmCGwNi4R4fR4j5fZDcc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Pasar Melintang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7955556,
+               "lng" : 102.2591667
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.794149619708498,
+                  "lng" : 102.2605668302915
+               },
+               "southwest" : {
+                  "lat" : -3.796847580291502,
+                  "lng" : 102.2578688697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Dharma Santi SP 7",
+         "place_id" : "ChIJm6BnmCGwNi4Rp310_lcbBaM",
+         "reference" : "ChIJm6BnmCGwNi4Rp310_lcbBaM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Pasar Melintang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.79559,
+               "lng" : 102.2590962
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.794157019708498,
+                  "lng" : 102.2605205802915
+               },
+               "southwest" : {
+                  "lat" : -3.796854980291502,
+                  "lng" : 102.2578226197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+         "name" : "Pura Tirta Wredi Buana",
+         "place_id" : "ChIJ0TV0mCGwNi4RMonrnRFnL50",
+         "reference" : "ChIJ0TV0mCGwNi4RMonrnRFnL50",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Air Pelai, Seluma Bengkulu Selatan, Pasar Melintang"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,844 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKgFWIRMZaj0MGs7xB5iFPRAPTh2ZYBpzgbq9n6iBDA6AFbQl-9QDXZeJzs4_QTTMutg8IuxdGkTQWQCK-FLzJXnB_X6Gx5xKMJR8_Vz2_sK324RfhNrKelaNnHwWFrwvkf6pXoD9fqldUK8mg29Knj31E4SV1-vtoqkGx4E-W81UsGWDiWulC75G_nfA5ZRnoe4DyRskR76l9SNwyJnhUnkKiK-L4VVe1PVg4Gah6k-E3nnSA3KUkFWmZZuzPxaJVi8ZZWHOv-kJ4nkHa5uQG3U_M1bOmerzrB6s_kXU4hxk-juAIXQbbJO7ff6-Bl6a6y7UXgZ0cxmZPA9uJB47zph1jmkkeYY2q4rd0cbVKByBnsuJYFBz6uiVfbov5w7Z-i585CVudAt53byZkCgyKBKbxL8LAPcxCokuUEsSwplUgUjgqMuoU",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.991744,
+               "lng" : 110.4284264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.990445469708497,
+                  "lng" : 110.4297490802915
+               },
+               "southwest" : {
+                  "lat" : -6.993143430291502,
+                  "lng" : 110.4270511197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Trinitas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104088013341845769524\"\u003eoetomo yacob\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJrDNARArtutDlwdEChCVut36Ye8dj60TSrIkiBv72SEFS2pA__rYhWwxhw1Ji6KA8lOkDny5kEXu4SRvUQ5nCoTO0d2_MDwy0ZDWUIw8wr5DpSaGsshmKP4j7BrqZ7TxmLyyRmKTr7rTKuRERTSP2u30TbQnEWrpr2iQF7-a-yMudq",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ668c6qCMcC4R4fUIU1a5wQg",
+         "plus_code" : {
+            "compound_code" : "2C5H+89 Karangkidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5H+89"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ668c6qCMcC4R4fUIU1a5wQg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Seroja Selatan 40, Karangkidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9957302,
+               "lng" : 110.4301021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.994133969708498,
+                  "lng" : 110.4313449302915
+               },
+               "southwest" : {
+                  "lat" : -6.996831930291502,
+                  "lng" : 110.4286469697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Atmodirono Catholic Church Semarang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115441852982279509385\"\u003eFando Way\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJYrU2KjgoWwkIsZ7wuMWn0OYo9eSEaBeeUvcsoQUo9y1xdUTvwE2sANriWyLQZ8GJyoV3rZWom0NNo5ncqdh9NBmk0JXm5xWCMAcybWewuZ1tfGWmKQFifPhgyVugIx-L4JzzgzxKY6oC0BtcejCbVlDzMrYsc9j0GF36doRFhRfXq",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ34H-e5-McC4RgF3Q_DK-G2E",
+         "plus_code" : {
+            "compound_code" : "2C3J+P2 Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C3J+P2"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ34H-e5-McC4RgF3Q_DK-G2E",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 369,
+         "vicinity" : "Jalan Atmodirono No.8, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0095376,
+               "lng" : 110.4362024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.008059019708498,
+                  "lng" : 110.4375801802915
+               },
+               "southwest" : {
+                  "lat" : -7.010756980291503,
+                  "lng" : 110.4348822197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristen Jawa Wisma Panunggal",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103150860581497032875\"\u003eYabuana Banamtuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIhO6fgqBx3NhGzmqPKEHQsPuUgiJQiP5ThAGNoWUAcQZkdEgjSr67DAZI8Y7jOayhey882GslewRYk33Kihm3ujnTW0jl2b7fxAeF9f_C9IL1WjSSW5nJszDN5kfXL6crI1A5KeuARL6B7wLzYcIUBMn2FKn1yTklDBxVOz3APcCVT",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJlVj2wYWMcC4RaeH94Va4P7g",
+         "plus_code" : {
+            "compound_code" : "XCRP+5F Jomblang, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCRP+5F"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJlVj2wYWMcC4RaeH94Va4P7g",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74,
+         "vicinity" : "Jalan Tentara Pelajar No.53, Jomblang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.000388099999999,
+               "lng" : 110.4238981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999044019708498,
+                  "lng" : 110.4253441802915
+               },
+               "southwest" : {
+                  "lat" : -7.001741980291502,
+                  "lng" : 110.4226462197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristen Jawa (GKJ) Kertanegara",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105668901249531570124\"\u003eYedija Adi Cahya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIlBy973BXYLEFzisnPaHuc_vqIk-6QjbHp3ubbuSzySNxcO0iS0CaRm861nm22cHdhXpEdDh9v8mbqP2rzgfNCMbn-Wf8Li7PT3_IuPWIbs1Xzmbtc9wZn-gxAJkOvAgDPSuLvCkfbJTerMtlL0nGEgEpZyk_upJyE39AyRh0f1-gD",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ4wx5s2GLcC4RwH5brNTMObI",
+         "plus_code" : {
+            "compound_code" : "XCXF+RH Pleburan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXF+RH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4wx5s2GLcC4RwH5brNTMObI",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Jalan Pleburan Barat No.13, Pleburan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.000460299999999,
+               "lng" : 110.43355
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999099819708498,
+                  "lng" : 110.4348181802915
+               },
+               "southwest" : {
+                  "lat" : -7.001797780291501,
+                  "lng" : 110.4321202197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristen Indonesia Peterongan",
+         "place_id" : "ChIJ0RYAYK6McC4RwRdkm471-vg",
+         "plus_code" : {
+            "compound_code" : "XCXM+RC Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXM+RC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ0RYAYK6McC4RwRdkm471-vg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Doktor Cipto No.310, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0048562,
+               "lng" : 110.4318727
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.003528769708497,
+                  "lng" : 110.4332858802915
+               },
+               "southwest" : {
+                  "lat" : -7.006226730291502,
+                  "lng" : 110.4305879197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI ROCK Semarang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107576969631132722459\"\u003eRoy Cahyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLu9kuOCLm5Q1x9hWgrKJdWXHJlYfMGq7H2xYrypSGt3iDNYDSak2feMY889ot4Gqf4Yacpk063v-_QOXHs_aVsrZDPb30pkZleMdk-BNx4pw08AOTMnMztt9_5bc6Dz8dKPaySRX2227NkJdQkPlfMxqFdJtezjG_OywzpoIe-e0MX",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ75K-qJyMcC4RGGhrBWjMMJA",
+         "plus_code" : {
+            "compound_code" : "XCWJ+3P Candi, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWJ+3P"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ75K-qJyMcC4RGGhrBWjMMJA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18,
+         "vicinity" : "Jalan MT. Haryono No.765, Candi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.007973599999999,
+               "lng" : 110.4329751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.006611969708497,
+                  "lng" : 110.4342767302915
+               },
+               "southwest" : {
+                  "lat" : -7.009309930291501,
+                  "lng" : 110.4315787697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Tiberias Indonesia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118297842357277259997\"\u003eDaniel Yongky\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIOonyWOtNLdKiX2NZiaD58B48hqhbnZySMqI_01fWiyTGrnyLszA5b-ht4ij_N9JW55lQmCsIzZCom5b7q6f9EW4SwmkrKc8DIW81XEiMWiuXq7OOXCnqiTvaa88UOQWBEPa5mifg_z2S7JaSIRJtZaus_MgwlY59bP_X4G9HhJdPQ",
+               "width" : 5344
+            }
+         ],
+         "place_id" : "ChIJ4bUJWpmMcC4RONXUV4j02vE",
+         "plus_code" : {
+            "compound_code" : "XCRM+R5 Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCRM+R5"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4bUJWpmMcC4RONXUV4j02vE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50,
+         "vicinity" : "Graha Metro Plaza 19-21, JL. M.T. Haryono, 970, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0004303,
+               "lng" : 110.4389416
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999110069708498,
+                  "lng" : 110.4402744802915
+               },
+               "southwest" : {
+                  "lat" : -7.001808030291502,
+                  "lng" : 110.4375765197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Jehovah's Witnesses Kingdom Hall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 380,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100551588628505793986\"\u003eBalai Kerajaan Saksi-Saksi Yehuwa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLuiG8KYePWn_r_iicoteain4kOYp_fFveoADWJuCciVRjQjGhR05gkcMiOwOI1CMLoU5NjftxTW_II2HkSeEmOGPp_wRbWMBb_6XHO-bSE0Fve8lGfHl17omCL-zSvK6eG8X2vj5KWXT5e250f9bxNipiuujEl2q2V1YXN8j7izo9s",
+               "width" : 1140
+            }
+         ],
+         "place_id" : "ChIJq8E4spCMcC4RgF1HS1pvsEE",
+         "plus_code" : {
+            "compound_code" : "XCXQ+RH Lamper Lor, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXQ+RH"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJq8E4spCMcC4RgF1HS1pvsEE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24,
+         "vicinity" : "Jalan Cempedak Raya No.6, Lamper Lor"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9961869,
+               "lng" : 110.43332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.994854619708498,
+                  "lng" : 110.4348897802915
+               },
+               "southwest" : {
+                  "lat" : -6.997552580291503,
+                  "lng" : 110.4321918197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "IFGF Semarang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114733592469058215536\"\u003eAldo Widarta\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKe-yOiHvIvNDpfXqlWKJ1FJinbj_cq-eeifwgFFSQwdOolYWQIya4QJhJyroeSTK8Pz-7YfCvnrp_TqviooptxHRGA5AAL19Mg8u-JR-WBVnKGQzUw8nCNQcLmO-WF0dfGemyeJmtrBo1vbHfBzBY0ZUPQ00_jOOPaU5R_Fzxwvnz-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC4KIvpiMcC4Rwb0MInuoPsM",
+         "plus_code" : {
+            "compound_code" : "2C3M+G8 Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C3M+G8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJC4KIvpiMcC4Rwb0MInuoPsM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 135,
+         "vicinity" : "Jalan Kompol Maksum No.195, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9950794,
+               "lng" : 110.432821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.993740819708497,
+                  "lng" : 110.4337773802915
+               },
+               "southwest" : {
+                  "lat" : -6.996438780291502,
+                  "lng" : 110.4310794197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GOOD NEWS CITY CHURCH",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116922054957056467574\"\u003eRetno Bs\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLLoFm24UUggBAfJQIwiMdH28PlpaENVcuj_duBBVtrWhwc6XE6VcQJmELIvk5D8b_oi23AVx9drw0fakjwUfPaSKN5sZewBv3_TXVtzfaKyL9Syruu-7qMmqoxnKFxftYOv09NH7gTYkNVE59EyGWoGB1M1TGB7B-DSeIKDPQNPmal",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ2XLKB6KMcC4RfVzQNWnCypg",
+         "plus_code" : {
+            "compound_code" : "2C3M+X4 Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C3M+X4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ2XLKB6KMcC4RfVzQNWnCypg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan MT. Haryono No.864-866, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.990520699999999,
+               "lng" : 110.4340688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.989181169708497,
+                  "lng" : 110.4355422302915
+               },
+               "southwest" : {
+                  "lat" : -6.991879130291502,
+                  "lng" : 110.4328442697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Crown Palace Dr. Cipto",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115063776768255694885\"\u003eYanuar Ade C\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKieUowzUIRk1rXFeehSKryYHMczYoosn-O7rRtBshsAk-ImprWygx7EwyXq_poB9Ee3hgNnpZfO0RXGsO1BjHzWejTmQ15M_GjI9mS5sc-9RmQc9Pe3Y-Y60fsoIhU6cwHm7wJou1XsNHjBaVYvT7dY34Cv9FpkYnUHNL6AXjLNbdI",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJwcUAjKOMcC4R0IUrsRwQvKw",
+         "plus_code" : {
+            "compound_code" : "2C5M+QJ Karangturi, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5M+QJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJwcUAjKOMcC4R0IUrsRwQvKw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 104,
+         "vicinity" : "Gedung Griya Kanaan, Jalan Dokter Cipto No.151, Karangturi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.989796200000001,
+               "lng" : 110.4341125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.988472969708498,
+                  "lng" : 110.4355830302915
+               },
+               "southwest" : {
+                  "lat" : -6.991170930291503,
+                  "lng" : 110.4328850697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Isa Almasih Dr. Cipto, Church",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116865291085334626389\"\u003eAndreas Budi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI50OGNXcV-tovCZido1Fxg0atKf3Fdktafq7JFh6MJ9W8FTpwfeCYYk1DnUQLbMgRXx3mmChHZHEn13dAcZFc3bJ4KFx6FQd5XEfqM32VQwoZ-9bmFv4y7UTWTiq1gZ3D6U2V0FmY-9aYrCRdSO3vy5dkssGNsJxTKMl0UJzY-LihB",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ-akld6SMcC4RZL-yxcmzbNs",
+         "plus_code" : {
+            "compound_code" : "2C6M+3J Karangturi, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C6M+3J"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ-akld6SMcC4RZL-yxcmzbNs",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 166,
+         "vicinity" : "Jalan Dokter Cipto No.147, Karangturi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001090500000001,
+               "lng" : 110.4473366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999731519708498,
+                  "lng" : 110.4487853802915
+               },
+               "southwest" : {
+                  "lat" : -7.002429480291503,
+                  "lng" : 110.4460874197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristen Jawa Kabluk",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117181664890090119900\"\u003eDebora Indah Katrilina\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJZoZg6oexyzA-kZpW-TsFoE2AYj3UNJgWjrESbzNtnj7hMB9OI3CLwFb-509YcqSOV8IZOYV3FkywmrUzNtCnQocsOV8jOx3Eldl-k4vHS61vfuhbkGZTKcQu3YjSJPh7cnYCEwcOJaXHdzmyZ-SMY7Z7z6iQwuX-2FOueO59lmR58",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRxRCtv6McC4Rd6tfbM2XhOY",
+         "plus_code" : {
+            "compound_code" : "XCXW+HW Gayamsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXW+HW"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJRxRCtv6McC4Rd6tfbM2XhOY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61,
+         "vicinity" : "Jalan Brigjen Sudiarto 140-A RT. 006/006, Gayamsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9891398,
+               "lng" : 110.4316238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.987784869708498,
+                  "lng" : 110.4330562802915
+               },
+               "southwest" : {
+                  "lat" : -6.990482830291502,
+                  "lng" : 110.4303583197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Kristus Tuhan M.T. Haryono",
+         "photos" : [
+            {
+               "height" : 2211,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109448708671835199909\"\u003eHandika Lindu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKRruYV0sXEJ4P6CuJHm7r8gKVYzOQ-Y1c0vux68XfPYW5hKSzHiYlXuPKtbhn_jdAZ3Gk_Sn6K8d_txbBwZaK3ACoIb4FTrn6v9d8YRvVWIu137zIe3IKY2wtnZIC-oq4MvAvp--tbS2hB-iee5J8ZjdbmWSEvhkc7xpNpYkuIohDT",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ64jpDqOMcC4R1Uh1j22Cul4",
+         "plus_code" : {
+            "compound_code" : "2C6J+8J Karangkidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C6J+8J"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ64jpDqOMcC4R1Uh1j22Cul4",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "Jalan MT. Haryono No.523A, Karangkidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.999502300000001,
+               "lng" : 110.448563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.998233569708498,
+                  "lng" : 110.4498952302915
+               },
+               "southwest" : {
+                  "lat" : -7.000931530291502,
+                  "lng" : 110.4471972697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Kingdom Hall of Jehovah's Witnesses",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112469927851324646866\"\u003esherly casandra\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLJKIJFwUL7c3oQ6mGWuB1aRwGsrgjLb9Q62F2PWXse5m1pFiCAtcnsKLgAz5B4r3IRnlbBQTQJff-K4k7LFE_eJSw9NPDaOrfgNnL8WepcTx0Gur-cxfSw6WzmP7-IIpeD_3Zl-0zU0YVY55DuEUUXN5i4QfUIFpBxCeanRRt1NZ0M",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJeczCX5OMcC4Rsd2gcHKGJ7w",
+         "plus_code" : {
+            "compound_code" : "2C2X+5C Gayamsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C2X+5C"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJeczCX5OMcC4Rsd2gcHKGJ7w",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43,
+         "vicinity" : "Jalan Kanguru Barat II, Gayamsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9870543,
+               "lng" : 110.4291634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.985698419708497,
+                  "lng" : 110.4305445302915
+               },
+               "southwest" : {
+                  "lat" : -6.988396380291502,
+                  "lng" : 110.4278465697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKI Stadion Semarang",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108783707275005296697\"\u003eErlangga Galih\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwID8wZCdtH_IHC4rZuHkfJ_1kbvD16MgHBjFZkqG-BZu17YNWqATeB96mzZcPewcytofUOTPCot7N4omkagr2njyNE2cvDBkCx5jel7H2a9fSXjCE3qE9hyb8jxDHFVUSv2beBywgWXgbIdlkWknm-ZeFjxLo4SFPoIJeTeFFha6prC",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0VfvfKiMcC4RbFrnw_bkC2A",
+         "plus_code" : {
+            "compound_code" : "2C7H+5M Karangkidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C7H+5M"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ0VfvfKiMcC4RbFrnw_bkC2A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 135,
+         "vicinity" : "Jalan Ki Mangunsarkoro No.3, Karangkidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001706,
+               "lng" : 110.4317972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000411569708498,
+                  "lng" : 110.4331297302915
+               },
+               "southwest" : {
+                  "lat" : -7.003109530291503,
+                  "lng" : 110.4304317697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB Filadelfia Semarang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118150211281173707826\"\u003eSenang Baronda\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJbOgS207AnscoXqdZwaq0vgZ6NaUhaBGBrqF8pqoR2IS-TWo8IjgVaOgb52sZtVKByQiBrtYU4AovJNSe7sGxO479uJIIycEx1NuC4jkHlLrq2shnvdy90mXRku3K42YiAE8j8uGjwZETPhFBae1Q1uo9kGFWMdIzUtjY4LOW_ypUX",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJqQOCcpyMcC4RjUfUskT6cpk",
+         "plus_code" : {
+            "compound_code" : "XCXJ+8P Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXJ+8P"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJqQOCcpyMcC4RjUfUskT6cpk",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12,
+         "vicinity" : "Jalan Wonodri Baru III No.3, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001709099999999,
+               "lng" : 110.4314362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000354869708498,
+                  "lng" : 110.4327622302915
+               },
+               "southwest" : {
+                  "lat" : -7.003052830291502,
+                  "lng" : 110.4300642697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB JEMAAT FILADELFIA",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103150860581497032875\"\u003eYabuana Banamtuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLFMFElLdrxsY-ujMtOSIjyN5hvtot-xYiGIIVkvDLz9DsDZh3kRppVS4jFkGJHtBD_hCMCaB5sAgoXMeTeALL0c7XGp_Yk4O0bncCNb5slhgJ3X6XFPQCyLISqs4ezfMHmsVy8uNTYK1oV5Q3kwUGhYg3iwg3nwo3-zYpnc4zlunYd",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJQ0myPEeNcC4ROtp8put0dEw",
+         "plus_code" : {
+            "compound_code" : "XCXJ+8H Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXJ+8H"
+         },
+         "reference" : "ChIJQ0myPEeNcC4ROtp8put0dEw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Wonodri Baru Raya No.timur, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.000280300000001,
+               "lng" : 110.4337478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.998904269708499,
+                  "lng" : 110.4349349802915
+               },
+               "southwest" : {
+                  "lat" : -7.001602230291502,
+                  "lng" : 110.4322370197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKI Peterongan",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111779101767373626955\"\u003epalupi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJY46SAN3sWwA3r577Oc9d8D846-v4e3AN-0m-gv9ni4C6vZEgITv0chV4_pHMvnGcuK_xVZpjY2ZMWi_9Ql2jNTcn-TIYyvlRwH8bHYDbR-EORULx7D7qlw0vpraAEeimPbOsdi8gORbr06D0CF-KiGytd6YgXSD9tORAyjiBwWbEq",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJiZSi2JuMcC4RZcGprcIJDKU",
+         "plus_code" : {
+            "compound_code" : "XCXM+VF Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXM+VF"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJiZSi2JuMcC4RZcGprcIJDKU",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 356,
+         "vicinity" : "Jalan Kompol Maksum No.310, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.000012599999999,
+               "lng" : 110.4342307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.998640419708497,
+                  "lng" : 110.4355849802915
+               },
+               "southwest" : {
+                  "lat" : -7.001338380291501,
+                  "lng" : 110.4328870197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "PARKIRAN MOTOR GKI PETERONGAN",
+         "place_id" : "ChIJkzb7PNiNcC4R6Do6zvkypwE",
+         "plus_code" : {
+            "compound_code" : "XCXM+XM Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXM+XM"
+         },
+         "reference" : "ChIJkzb7PNiNcC4R6Do6zvkypwE",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Peterongan Timur No.6, Peterongan"
+      }
+   ],
+   "status" : "OK"
+}

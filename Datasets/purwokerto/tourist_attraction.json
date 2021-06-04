@@ -1,0 +1,566 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423819699999998,
+               "lng" : 109.2255176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422598419708496,
+                  "lng" : 109.2268479802915
+               },
+               "southwest" : {
+                  "lat" : -7.425296380291501,
+                  "lng" : 109.2241500197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Bank Rakyat Indonesia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100245595352210048467\"\u003eMufid Majnun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI8KsPIxSn4BZYSVE0jMZ-YGP4AVW1WEmF6ZYTCSrt9iXv8tqMxKdy6TZySV0Fnd9mnKmWRkZJKOpib3C8_oFmF7OufHmVLBW6rW8whUGmwJ-kbkR2JmFOeUDDHdbwKxTgn40KhtlQhthA5hUV09T3CufV1AM4xBsvhFE4oXQ-u3JNt",
+               "width" : 3200
+            }
+         ],
+         "place_id" : "ChIJVVVVlXNeZS4RkqvigRHij3c",
+         "plus_code" : {
+            "compound_code" : "H6GG+F6 Kedungwuluh, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GG+F6"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJVVVVlXNeZS4RkqvigRHij3c",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 513,
+         "vicinity" : "Jalan Jenderal Soedirman No.57, Pesayangan, Kedungwuluh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4120017,
+               "lng" : 109.2379376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.410680069708497,
+                  "lng" : 109.2393940802915
+               },
+               "southwest" : {
+                  "lat" : -7.413378030291502,
+                  "lng" : 109.2366961197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Balai Kemambang Park",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105858250936296958078\"\u003eHanah Nurbaeti\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKnwiD-PTGQn-11wzP-J6_hOQUwYpf-ilFxL9SLpJ69sVY-w9g_TuqjJUwBjte0Z2NOWrIUMceJoQb5ewRKnzNcxB7k7uSmPMsj5iDazE_GosugKi4FOCWHrtIvMIPms-F9wmqoV0bmlA0toLx3HULy4HdYV2r_MX0phCaWDsDgTrij",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJz_qA2vVeZS4RKPy4ExjuIPg",
+         "plus_code" : {
+            "compound_code" : "H6QQ+55 Bancarkembar, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6QQ+55"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJz_qA2vVeZS4RKPy4ExjuIPg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5293,
+         "vicinity" : "Jalan Karang Kobar No.9, Glempang, Bancarkembar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4207194,
+               "lng" : 109.2339955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.419408269708497,
+                  "lng" : 109.2353357302915
+               },
+               "southwest" : {
+                  "lat" : -7.422106230291502,
+                  "lng" : 109.2326377697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Portal menuju Isekai",
+         "place_id" : "ChIJnSKA70VfZS4RGKMMfU3KHsE",
+         "plus_code" : {
+            "compound_code" : "H6HM+PH Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HM+PH"
+         },
+         "reference" : "ChIJnSKA70VfZS4RGKMMfU3KHsE",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Jendral Gatot Subroto No.68-60, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.425703399999999,
+               "lng" : 109.233401
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.424416519708495,
+                  "lng" : 109.2347305302915
+               },
+               "southwest" : {
+                  "lat" : -7.427114480291499,
+                  "lng" : 109.2320325697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kampung Pelangi Purwokerto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 718,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114982837918285093402\"\u003eGalih Tri Saputro 022\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKxwseGYgP2nMW6usZ671tLd9F8etar_qVlbPb6H72RFIyBU_I99JgxHX8pMtOBdg3IPckP5Px_SwfZzM1vrPhEVdQOKkK1nydjmIAMjofLwmeVHA66gf847W-HE9IL5QqCt0R2yeoZhBwBgunsOwbFaq3zh-2z3CCVIbTCYCUZ3TsB",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJuYC-5WJeZS4RFvAAt2UylNs",
+         "plus_code" : {
+            "compound_code" : "H6FM+P9 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6FM+P9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJuYC-5WJeZS4RFvAAt2UylNs",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 412,
+         "vicinity" : "Jalan Jenderal Soedirman No.383, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.425925299999999,
+               "lng" : 109.2333573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.424565419708498,
+                  "lng" : 109.2346770802915
+               },
+               "southwest" : {
+                  "lat" : -7.427263380291501,
+                  "lng" : 109.2319791197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Jembatan Gerilya Soedirman (Taman Edukasi Sumber Daya Air - TESDA)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106018143874227610010\"\u003eAgus Suwarno\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLnM3NmWMKsbKl88Rw2u4lDLWKWRmkniiFvR-f5y-wG3WH33OcbvbGR-shU-3H8uFWIHlN7y55i3Khqwq9u9sFCGullNkPLFAtyBiELqtdrQZzU3gm4Ho2rI483qw1zB7GcQmz_ZuKrqnnRICATqlV6-DDJEL6EL22Sbg0ZqdTuEHE",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJdcl0daBfZS4R13VEDUMGK4g",
+         "plus_code" : {
+            "compound_code" : "H6FM+J8 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6FM+J8"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJdcl0daBfZS4R13VEDUMGK4g",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28,
+         "vicinity" : "Kranjimuntang, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.424374200000001,
+               "lng" : 109.2301903
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423131019708498,
+                  "lng" : 109.2314545302915
+               },
+               "southwest" : {
+                  "lat" : -7.425828980291501,
+                  "lng" : 109.2287565697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Purwokerto City Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115920962776836974853\"\u003eDwi Musli Ferly\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKvskbzkpM6daGQtXBrWG-aQOroCSV7Earvfuj7cbmpNLtLDIgLS7QJABIPzqW9TmKLT067Eor7jnPFgws77JCV9_irJ9Do1kBW9ohX6OoDzmS178ZH_ECPwxrii6XeYoF05c5_Vs0-RwF21ZAwT6iRhDO6lzrlPgBQ6tdo5CVusoVW",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJdV6hGNeZS4R7H5PaheglBA",
+         "plus_code" : {
+            "compound_code" : "H6GJ+73 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GJ+73"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJJdV6hGNeZS4R7H5PaheglBA",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16387,
+         "vicinity" : "Komplek PJKA 386-388, JL. Jend. Sudirman, Purwokerto Lor, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4249225,
+               "lng" : 109.2301136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423636269708497,
+                  "lng" : 109.2314483802915
+               },
+               "southwest" : {
+                  "lat" : -7.426334230291502,
+                  "lng" : 109.2287504197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AIR MANCUR",
+         "place_id" : "ChIJ5ZqGvSNfZS4R5dYaOod3hFY",
+         "plus_code" : {
+            "compound_code" : "H6GJ+22 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GJ+22"
+         },
+         "reference" : "ChIJ5ZqGvSNfZS4R5dYaOod3hFY",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Komplek PJKA 386-388, JL. Jend. Sudirman, Purwokerto Lor, Purwokerto Timur, Purwokerto, 53114, Purwokerto, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.421689600000001,
+               "lng" : 109.2376741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.420353669708497,
+                  "lng" : 109.2390192802915
+               },
+               "southwest" : {
+                  "lat" : -7.423051630291502,
+                  "lng" : 109.2363213197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tugu Pancasila",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118090199339528926946\"\u003eWanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL0ncf8d2BuVTflTPrkkAOxOk1IGlHaja3r2urasdpt6F2zqos1GIRpdCWE2hS1dznfyh37zHtxZYBNvxVMu03CbEIWQij-781i_uXFMnk7y40FR2TT6U-uqy98FTVHjqDuRlrTtgKNtXypauHE7_pGoi8yZdpX4IWyDE9qYfuq4rNJ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJFRQPJYpeZS4Rx1YrnAhudxU",
+         "plus_code" : {
+            "compound_code" : "H6HQ+83 Purwanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6HQ+83"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJFRQPJYpeZS4Rx1YrnAhudxU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 116,
+         "vicinity" : "Jalan Jendral Gatot Subroto, Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.417224099999998,
+               "lng" : 109.234004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.415901569708499,
+                  "lng" : 109.2353588302915
+               },
+               "southwest" : {
+                  "lat" : -7.418599530291504,
+                  "lng" : 109.2326608697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Smala Squad",
+         "place_id" : "ChIJL9A9c_RfZS4RMaozkskBztU",
+         "plus_code" : {
+            "compound_code" : "H6MM+4J Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MM+4J"
+         },
+         "reference" : "ChIJL9A9c_RfZS4RMaozkskBztU",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Gereja No.711, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4174194,
+               "lng" : 109.2358264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.416070419708498,
+                  "lng" : 109.2371753802915
+               },
+               "southwest" : {
+                  "lat" : -7.418768380291502,
+                  "lng" : 109.2344774197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Jembatan Warna Pelangi Sokanegara",
+         "place_id" : "ChIJM6cV-rtfZS4RQdLEzsJcOLI",
+         "plus_code" : {
+            "compound_code" : "H6MP+28 Sokanegara, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6MP+28"
+         },
+         "reference" : "ChIJM6cV-rtfZS4RQdLEzsJcOLI",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Palem Indah, Karangjengkol, Sokanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4242782,
+               "lng" : 109.2396366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.423022419708497,
+                  "lng" : 109.2409626302915
+               },
+               "southwest" : {
+                  "lat" : -7.425720380291501,
+                  "lng" : 109.2382646697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "balai si panji",
+         "photos" : [
+            {
+               "height" : 1728,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110658751972862606585\"\u003eAgustina Laelatulfitriani\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ1_XiN5dJAU5GWTQdiwy8TRZSU5dedwh6eJfrKtlAAbSkVRSwqOBnAZHHsULuxvqKPmRcedPhX7bcvfsO1Wt-4NG6fHtqzaaCpqFIslrpGZtyZpBNmDOqarolkKdHWEKcxa2YuiXRhiC9KjJZh4ZlEHuajmBULmYLSSmWK22zmUoEB",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJnevdG4leZS4RUaARqfrgM2I",
+         "rating" : 3.4,
+         "reference" : "ChIJnevdG4leZS4RUaARqfrgM2I",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Brubahan, Purwanegara"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.4239304,
+               "lng" : 109.2234396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.422607169708497,
+                  "lng" : 109.2247200302915
+               },
+               "southwest" : {
+                  "lat" : -7.425305130291502,
+                  "lng" : 109.2220220697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Tugu Gada Rujak Polo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100245595352210048467\"\u003eMufid Majnun\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI9DyyJZ-CXr-r_uCFr3ZEw3pVrYiQ-XUBv2L8sy16DDmDUFqbqGE-tNM3oKG8ZoGhuDdeZL96aWrzkYCJkbQbOQ8O1h3GVPPGm-JAZ4GZTY73tryh2pAhej_kX33vVT2Wc0w4mjJdGj2jlic2vgli34J7XSnxYEDPpt5JVvYnzaEpf",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJE_QLBmxfZS4RYKJXLv5en9s",
+         "plus_code" : {
+            "compound_code" : "H6GF+C9 Bantarsoka, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6GF+C9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJE_QLBmxfZS4RYKJXLv5en9s",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247,
+         "vicinity" : "Bantarsoka, Bantarsoka"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.423236900000001,
+               "lng" : 109.2166275
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.421790669708499,
+                  "lng" : 109.2179994302915
+               },
+               "southwest" : {
+                  "lat" : -7.424488630291504,
+                  "lng" : 109.2153014697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+         "name" : "Lapangan Rejasari",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107425658650633867893\"\u003eUmie Syamia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJtGh_jXp_u_revJXS_pMgFPgy_1bAvsAEd8xoFbnALSAW9Ez2d3HCeoFM3084re-N-92geQfYgwxVwxqGt6cpONNYpxAJ9tujvQ76SECKYGSm7rT2HO3KCoxTMa599j82fJxAreAVjuc00zYB83RrVkl6YvmSG2S8UCZL2TwQsT3ph",
+               "width" : 1818
+            }
+         ],
+         "place_id" : "ChIJVVVVlWpeZS4RUezNEFG_PnE",
+         "plus_code" : {
+            "compound_code" : "H6G8+PM Rejasari, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6G8+PM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJVVVVlWpeZS4RUezNEFG_PnE",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 97,
+         "vicinity" : "Kalibogor, Rejasari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.411487699999999,
+               "lng" : 109.2201952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.410180169708497,
+                  "lng" : 109.2215466802915
+               },
+               "southwest" : {
+                  "lat" : -7.412878130291502,
+                  "lng" : 109.2188487197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Poolvilla Purwokerto",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101265888783378030670\"\u003ePoolvilla Purwokerto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLiDwL9v5On_rBFnkNtakhSQHfeLsunEAgrvHkni9TZlMmaF0Ejv7rs3Gf_D1Np6oU0hOWlcUXIxvVYSfaabqRJ49fsiIsK6ziC4l2jsjYi2rfZAWg0BSh8rqSAHir9DteVMT1BAsejXcpmcrGuqUXGweSXRnxf9k510Rwq-u6tn6NG",
+               "width" : 958
+            }
+         ],
+         "place_id" : "ChIJGb64Ev9fZS4RdAi-I34L4Ek",
+         "plus_code" : {
+            "compound_code" : "H6QC+C3 Kober, Banyumas, Central Java, Indonesia",
+            "global_code" : "6P4FH6QC+C3"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJGb64Ev9fZS4RdAi-I34L4Ek",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143,
+         "vicinity" : "Kober, Kober"
+      }
+   ],
+   "status" : "OK"
+}

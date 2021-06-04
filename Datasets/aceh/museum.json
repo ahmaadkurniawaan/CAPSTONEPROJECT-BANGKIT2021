@@ -1,0 +1,798 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLGfbs-87TDZ_3qkrWPQYKX7_j_--6H6STrRZ4PWf4678HD5MT6snlZkmANrwY6bN0u2T4tBYR5Yzkql9e338LblynTsT4t55-Rj6Yyl0TSAAPx5yXqXpCYDGPse2hnSwdON12E8vBFRe86JqLwkIP6hm3Dm1EIboYkJDFQ53TQQAKEz3t6fmk456OMjBMoNNhKu63O026hE842s-U9W_ICv7-9c9qAIfhMoKH-yJTJ_3uO1vpmb9Is_so12VajWrIupqaOU9b_XjHhmSokxb_AhTO3TEvWMsf5WF4p2XW3x11vxrtGY37vsAk6FbmHtZuaNhAUewTLlr4xPNZXYoAxAI6JqGjU4u7IIa9VbEeGcQuoy7vKIpQvswJllM7yyBB8gNhU5P3rH1h4g3S4t75KCey-ijUS8fbTKgy-g0uUjCY1M66VXYM",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.627199599999999,
+               "lng" : 96.84769249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.628511780291502,
+                  "lng" : 96.84896438029151
+               },
+               "southwest" : {
+                  "lat" : 4.625813819708497,
+                  "lng" : 96.84626641970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Umah Pitu Ruang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106962924845481966885\"\u003eKems Portal\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKJdjwi1iq-EHZdleNRj9gMJklxjiY-4RGKliM2X_k7fs9DgbqRVlUN4w1xi8Nq5kiyFYY8DuI2Tsm-UMvJYr-sScpXKYX3JdPMghCtnxuhxb5F_SEQfBbtzRlcWj5xflmsfa_HX2oHtpSvrw54H-4WMYzUIO0Dihaq0wuCFejCuour",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJCQ3niBHsODARddjcQvLizzM",
+         "plus_code" : {
+            "compound_code" : "JRGX+V3 Blang Kolak I, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRGX+V3"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJCQ3niBHsODARddjcQvLizzM",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Jalan Mess Time Ruang Tengah, Blang Kolak I"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.645355900000001,
+               "lng" : 96.85574509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.646357930291503,
+                  "lng" : 96.85741138029151
+               },
+               "southwest" : {
+                  "lat" : 4.643659969708498,
+                  "lng" : 96.8547134197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Loyang Ujung Karang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1760,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113113827881074444305\"\u003emartua el\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJdQ0_FCHMk3jUenoCWhLhyF08gg4so-9tlbFn3aju-yVaavbi-439HH-QbXx--lr-vu-rKMJtKgkWbz6Tz4OUP7jDP8HK7-58LX_RzZcAiDJPJd0d2g-eYKp4KaxnksBihCE7EKZcLbFJ4wERZVMjzJMYz54qLwPSJVFMKXBbgNONG",
+               "width" : 2656
+            }
+         ],
+         "place_id" : "ChIJlwXQd2fsODARyY_3-S98eak",
+         "plus_code" : {
+            "compound_code" : "JVW4+47 Jongok Bathin, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVW4+47"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJlwXQd2fsODARyY_3-S98eak",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jongok Bathin"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6433374,
+               "lng" : 96.8677043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.644673530291501,
+                  "lng" : 96.8690572802915
+               },
+               "southwest" : {
+                  "lat" : 4.641975569708498,
+                  "lng" : 96.86635931970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Loyang Mendale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105058032170638136544\"\u003eDardiri Dardak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJclQy7aymDPx8i--XKfWtDN1BtlKRhZzKt7ZE_dP6FCjF82ZQ5AbWU-dFvu7swWVS4ySKy2f36A-MYeum6WpRcz_BZnEDcrfSrPdCFWtxqa_jGtNHvXDi_R_NJx0y20dYs8CXsBw_KvCvVZZRlvrukqBz0g2adcwqwxKj1iZGr73De",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJXf1rD1DsODARURnfHEr7cys",
+         "plus_code" : {
+            "compound_code" : "JVV9+83 Mendale, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVV9+83"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJXf1rD1DsODARURnfHEr7cys",
+         "scope" : "GOOGLE",
+         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37,
+         "vicinity" : "Mendale"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.720160599999999,
+               "lng" : 96.8710574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.721465280291502,
+                  "lng" : 96.8723657802915
+               },
+               "southwest" : {
+                  "lat" : 4.718767319708498,
+                  "lng" : 96.8696678197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "baitul mal bener meriah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ7Rzy3BuTODARlZwrH9mDiTY",
+         "plus_code" : {
+            "compound_code" : "PVCC+3C Blang Sentang, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPVCC+3C"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ7Rzy3BuTODARlZwrH9mDiTY",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "GOR BENER MERIAH, Blang Sentang"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5963062,
+               "lng" : 96.7951636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.597613330291502,
+                  "lng" : 96.7965324802915
+               },
+               "southwest" : {
+                  "lat" : 4.594915369708497,
+                  "lng" : 96.7938345197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "wisata rumah terbalik",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2861,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116090281664027809377\"\u003eWidi Edwar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKxNp2tcC91J0fNUf2YDWeOUYWZ95KHt43yHRYdQ5eloRGtjazw5k8PaGMy2xsasrU7ZkCKSv3rPeQy52w0WLSN8McBd7zoQxp5mdvvMWY5WFsK04mbeLvi27odQFdFIgcuI_E4abFvsoQaMv6BPwUv7y1MEfNwklsjAW9kzXafsSD7",
+               "width" : 3815
+            }
+         ],
+         "place_id" : "ChIJRVcVU8jpODARqb_UXj_l26E",
+         "plus_code" : {
+            "compound_code" : "HQWW+G3 Karang Bayur, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRHQWW+G3"
+         },
+         "reference" : "ChIJRVcVU8jpODARqb_UXj_l26E",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Karang Bayur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6275555,
+               "lng" : 96.83322149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.628907630291502,
+                  "lng" : 96.8345889802915
+               },
+               "southwest" : {
+                  "lat" : 4.626209669708498,
+                  "lng" : 96.83189101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu Sp 5 Kebet",
+         "place_id" : "ChIJTS3mRM7rODARLRThxyCCM1U",
+         "plus_code" : {
+            "compound_code" : "JRHM+27 Tansaril, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRHM+27"
+         },
+         "reference" : "ChIJTS3mRM7rODARLRThxyCCM1U",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Unnamed Road, Tansaril"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.684591500000001,
+               "lng" : 96.81681069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.685932480291502,
+                  "lng" : 96.8181456302915
+               },
+               "southwest" : {
+                  "lat" : 4.683234519708497,
+                  "lng" : 96.81544766970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tapal Batas Wilayah",
+         "place_id" : "ChIJSSo9AP_rODARqFSdi_VZfXE",
+         "plus_code" : {
+            "compound_code" : "MRM8+RP Bukit Pepanyi, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRMRM8+RP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSSo9AP_rODARqFSdi_VZfXE",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Unnamed Road, Bukit Pepanyi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.621890499999999,
+               "lng" : 96.844273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.623489830291502,
+                  "lng" : 96.8456626302915
+               },
+               "southwest" : {
+                  "lat" : 4.620791869708497,
+                  "lng" : 96.84296466970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Istana Reje Ilang",
+         "photos" : [
+            {
+               "height" : 378,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112094195430150627326\"\u003eGayo Raya Institute\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKusFwMi3gmmZgctTzlMUpTOqBXrsWZuokqe9EHqwogk9MFlJN8DzxbRQ8NTUWAyzxpqGDbDwYGHr-f639DbkK7nZwjMzv9DHfXHcDk92sQqoDw6pHrTg5HdLZPlAkd4cdpsWGQkHzSchPuECtp-YSFwWrW9PxT-hx6ISB6sJ6aax3B",
+               "width" : 484
+            }
+         ],
+         "place_id" : "ChIJ6fi8yjXtODARLWyI9MrUEpc",
+         "plus_code" : {
+            "compound_code" : "JRCV+QP West Takengon, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRCV+QP"
+         },
+         "reference" : "ChIJ6fi8yjXtODARLWyI9MrUEpc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Yos Sudarso No.10, Takengon Barat"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6441181,
+               "lng" : 96.8471606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.645045680291504,
+                  "lng" : 96.8484624802915
+               },
+               "southwest" : {
+                  "lat" : 4.642347719708499,
+                  "lng" : 96.84576451970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Zona Net",
+         "place_id" : "ChIJ9cd4uxbtODAR-FAXwmo8iQY",
+         "plus_code" : {
+            "compound_code" : "JRVW+JV Kute Lot, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRVW+JV"
+         },
+         "reference" : "ChIJ9cd4uxbtODAR-FAXwmo8iQY",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kute Lot"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6563247,
+               "lng" : 96.8458959
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.657669980291502,
+                  "lng" : 96.84724488029151
+               },
+               "southwest" : {
+                  "lat" : 4.654972019708498,
+                  "lng" : 96.84454691970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu BRIMOB",
+         "place_id" : "ChIJ79pKnYjsODARYoVjNERWFhI",
+         "plus_code" : {
+            "compound_code" : "MR4W+G9 Bukit Ewih Tami Delem, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRMR4W+G9"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ79pKnYjsODARYoVjNERWFhI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bukit Ewih Tami Delem"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6274332,
+               "lng" : 96.8480397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.628982830291502,
+                  "lng" : 96.84944738029151
+               },
+               "southwest" : {
+                  "lat" : 4.626284869708497,
+                  "lng" : 96.84674941970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Museum Gayo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104405030121736939144\"\u003etaufik loca\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIrlvgo88WLiS91vWp8tGprCLXReSyZ5GpC7LFQ6KP_N53DmYWR1kDup9b2TZykufKWeH0F1ATxmzyJnFTU1r-D96_5ebwNhjipaUIlVlhdEIkqu5v8180_f39aeMDSC3Wgcwdxgft3Q6xv8Rr8YuUy1P-7LziQEBccNyPsk99icg1R",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJW_jXKRLsODARycygwvPibRk",
+         "plus_code" : {
+            "compound_code" : "JRGX+X6 Blang Kolak I, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJRGX+X6"
+         },
+         "rating" : 4,
+         "reference" : "ChIJW_jXKRLsODARycygwvPibRk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75,
+         "vicinity" : "Jalan Mess Time Ruang, Blang Kolak I"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6241535,
+               "lng" : 96.85108559999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.625498980291503,
+                  "lng" : 96.85246388029151
+               },
+               "southwest" : {
+                  "lat" : 4.622801019708498,
+                  "lng" : 96.8497659197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "JAYA REKLAME",
+         "place_id" : "ChIJD4RozRDsODAR9r93pF3KOy8",
+         "plus_code" : {
+            "compound_code" : "JVF2+MC East Takengon, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVF2+MC"
+         },
+         "rating" : 3,
+         "reference" : "ChIJD4RozRDsODAR9r93pF3KOy8",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Sengeda, Takengon Timur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.63445,
+               "lng" : 96.8526464
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.635794330291501,
+                  "lng" : 96.8541918302915
+               },
+               "southwest" : {
+                  "lat" : 4.633096369708497,
+                  "lng" : 96.85149386970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Istana Reje Bukit",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112094195430150627326\"\u003eGayo Raya Institute\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKp2YoXE1afVTiWYGoHpkbzISgRbnbS_a92MHSHCFr_p3xf4KJjctfHpFyBI_T5vEzFeVWIAC2LrFw8BeE9x5EsAkUS6e0CUQ-0vL7gQHcFr1m7SucoiGTLrC6L4NJqMCC2FFkLnBdBfkwlOu91SCY7iULG9SteXS9nLWWpRlDQmYdA",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ7QgBh8PtODARBjeq_olGoZk",
+         "plus_code" : {
+            "compound_code" : "JVM3+Q3 Bukit, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVM3+Q3"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ7QgBh8PtODARBjeq_olGoZk",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Bukit"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.637669299999999,
+               "lng" : 96.8532015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.639009730291502,
+                  "lng" : 96.8546215302915
+               },
+               "southwest" : {
+                  "lat" : 4.636311769708497,
+                  "lng" : 96.85192356970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Masjid Pertama di Aceh Tengah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109495406064735958796\"\u003eHadhara Rizka\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIWuqObgN6RzmhG2Q1ecmihdr-St8zX6F8Fyu6FCnhH2c2ANb41AYLFJpcAKKGI3WmK_roSOHuBPGRrm6pwBVQhraHHbnjsV0Y-ilANtIaJv61pLWOZE2KVC9oD8c_7cAlTzWGXp7QHqVaI3kWPTmj9EQsFlUlgMGd7pt5l8AfSc4na",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJLQtTfWnsODARXyV8cQ7C6fY",
+         "plus_code" : {
+            "compound_code" : "JVQ3+37 Lot Kala, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVQ3+37"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJLQtTfWnsODARXyV8cQ7C6fY",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Lot Kala"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.726703799999999,
+               "lng" : 96.79492280000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.728037330291502,
+                  "lng" : 96.7962810302915
+               },
+               "southwest" : {
+                  "lat" : 4.725339369708498,
+                  "lng" : 96.79358306970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Tugu RRI",
+         "photos" : [
+            {
+               "height" : 4624,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108877610546012458771\"\u003eIman Abadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJUQd4HCSWWfASYlK5ShhfQW1SAyn_OmT_aq94kpvkaOxIA3_fhJt4W-d_SvjNig-OS5UeREUfNim3Ucd5oGwlLPi-iNWxRSzyxDKrVrBwPsvJMmYJABADOCzzBoT13xCjMaYWUvXRPnZXH29wtcKnuKb7sQudkivGM73_SQyVS9ja6",
+               "width" : 3472
+            }
+         ],
+         "place_id" : "ChIJwa-x7QKVODARma1p9DfCTuc",
+         "plus_code" : {
+            "compound_code" : "PQGV+MX Simpang Balek, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPQGV+MX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJwa-x7QKVODARma1p9DfCTuc",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Rimba Raya,Pintu Rime Gayo, Simpang Balek"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6434,
+               "lng" : 96.8679005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.644733230291502,
+                  "lng" : 96.86924528029151
+               },
+               "southwest" : {
+                  "lat" : 4.642035269708498,
+                  "lng" : 96.86654731970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Open Site Museum Manusia Prasejarah",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102321596435335341597\"\u003eSMS Video\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJLniQ1bSdXNdSNYlKDwVgB-UOB3D1N7AjO1z2sqfZhg9yUzkB_bl-PTzG05ZyVWl8CLazz4CP_TQY7vPKSf43Bz8fmQF6GjDvHoDA1OG6RLwgKVfdU_HIyMQCA0GC8K4IskcFYkYhxxi3iwAEp60tW81tDB17uLfb5qcveYl4juuHn",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ1WrQD1DsODARq_1xL70pxTo",
+         "plus_code" : {
+            "compound_code" : "JVV9+95 Mendale, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRJVV9+95"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ1WrQD1DsODARq_1xL70pxTo",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Mendale"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.728667,
+               "lng" : 96.75512499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.730105130291501,
+                  "lng" : 96.75649203029151
+               },
+               "southwest" : {
+                  "lat" : 4.727407169708497,
+                  "lng" : 96.7537940697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Praja Singhawiryan",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118095270506601956208\"\u003eWahyu R. Soemitra Wijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIlHItU9gE3x3MyUoF-xZdllXCtnJULBlehWqhJ5QMYvuCn8v9XmI3Vyn5uQlriXJq5yFxBANIrEiWEQwHd0Z3B4JfxxQcxt6X91IKmIt2O4FCMiprho_AUbQQL-ktfcTIY7lbVuvQskegBhQBX97gg-49xNn5kuz3cAWO24i1NijDk",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJU5fbo0mVODARYKHvQ5o-xmU",
+         "plus_code" : {
+            "compound_code" : "PQH4+F3 East Suka Makmur, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPQH4+F3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJU5fbo0mVODARYKHvQ5o-xmU",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "East Suka Makmur"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.720237399999999,
+               "lng" : 96.73084229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.723256750000001,
+                  "lng" : 96.73246073029151
+               },
+               "southwest" : {
+                  "lat" : 4.719230949999999,
+                  "lng" : 96.7297627697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Balik Merden Segene Balik",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115528952004075577069\"\u003eMus Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLd5O2O86GLtoPFG2Hlu10MitPkV0IQfWFF3-3E_lVZxn5AamHwLII_Vz8MOKs161lOSrhVjxIeSHxXGGIl7rFJxJs5Rspsd0bEIsArYXlgAQGtBmhAIrh3JolgSKYUdK7mfgM_PXd64fISCcFSFdLdtUcLAeONwIzcr1B0BTHIjOQt",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJrxpTJsG_ODARyYgGK6ynzqw",
+         "plus_code" : {
+            "compound_code" : "PPCJ+38 Pondok Balik, Central Aceh, Aceh, Indonesia",
+            "global_code" : "6MPRPPCJ+38"
+         },
+         "rating" : 3,
+         "reference" : "ChIJrxpTJsG_ODARyYgGK6ynzqw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "merden, Pondok Balik"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7415705,
+               "lng" : 96.77823789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.742954030291502,
+                  "lng" : 96.77953513029151
+               },
+               "southwest" : {
+                  "lat" : 4.740256069708498,
+                  "lng" : 96.77683716970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Makam Tgk. Ilyas Leube",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107931031475027077832\"\u003eKhalisuddin SPt\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ9Zse7d2Pvo6GuOprFT_hobSWBpNSxJXPGdjKPSJYN4_pYn3v7KtrQvlPEUg8QZfI8teq737RXtYSdnshe8yUBa1eB7sCksiTcl8IuwW7FTJwPRL1-eQjkWC4qz4S-CURW7QmDkPkXUhEESdF_fzpGk3w9noyJFTMFXSpR6hZecHFB",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJoXhxL6SVODARQOB5lH2-_0s",
+         "plus_code" : {
+            "compound_code" : "PQRH+J7 Bandar Lampahan, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPQRH+J7"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJoXhxL6SVODARQOB5lH2-_0s",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "Bandar Lampahan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.723525799999999,
+               "lng" : 96.86098509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.724878380291503,
+                  "lng" : 96.86234898029151
+               },
+               "southwest" : {
+                  "lat" : 4.722180419708498,
+                  "lng" : 96.85965101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+         "name" : "Home H Nurdin A Thursina",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100187231962097903560\"\u003eDardiri Dardak\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwISUGt3tuswm9i74SbfoMdZUdzkyOc3fl7ZE3JQREcTMirf02Tk-y1LPICCqtwi7Ytg7kbVgZoEKE_uugKrJAj71lN2OVu9dtwZmhFnFX3Q2krHYAlu1o4MX0lgs-vyeSy79tgyun0hYb4f98Umwv9M4nV8yQoUE9puxS2_NcUOkFo1",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZ5WlX-WTODAR__EdMyBqgug",
+         "plus_code" : {
+            "compound_code" : "PVF6+C9 Bale Atu, Bener Meriah Regency, Aceh, Indonesia",
+            "global_code" : "6MPRPVF6+C9"
+         },
+         "reference" : "ChIJZ5WlX-WTODAR__EdMyBqgug",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Bale Atu"
+      }
+   ],
+   "status" : "OK"
+}

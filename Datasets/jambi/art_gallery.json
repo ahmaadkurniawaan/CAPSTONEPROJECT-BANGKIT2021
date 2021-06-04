@@ -1,0 +1,186 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.617408,
+               "lng" : 103.604077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.616060019708498,
+                  "lng" : 103.6054282302915
+               },
+               "southwest" : {
+                  "lat" : -1.618757980291502,
+                  "lng" : 103.6027302697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "SETRA GALERI 1 : GROSIR BINGKAI FOTO,FRAME,LUKISAN,KALIGRAFI,HANTARAN PERNIKAHAN,MINIMALIS,KAYU JATI,JATI BELANDA FURNITURE",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105726132150863376200\"\u003eSETRA GALERI 1 : GROSIR BINGKAI FOTO,FRAME,LUKISAN,KALIGRAFI,HANTARAN PERNIKAHAN,MINIMALIS,KAYU JATI,JATI BELANDA FURNITURE\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIyp8IN36dqgzDzYuAY1dlctnTDrhlXWGLPIkK758-VLLpZmIrPWgG8HYShFKy9gTz_IGsAXm3RvKhOP2ctjmngVfMfxjdEYeYoP6zYRdvhAXKniQwbvC7clRs9TxDx-R-UV4nz0tjoj-5KnAKXWeBOyzetLEWPO8MNpS1MF4WMysoK",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJp9XJp5GIJS4RgIc8SUbO-Is",
+         "plus_code" : {
+            "compound_code" : "9JM3+2J Lebak Bandung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JM3+2J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJp9XJp5GIJS4RgIc8SUbO-Is",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 95,
+         "vicinity" : "Jl.Pangeran hidayat no.76,paal Lima, Lebak Bandung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6034757,
+               "lng" : 103.6040686
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.602148769708498,
+                  "lng" : 103.6053717802915
+               },
+               "southwest" : {
+                  "lat" : -1.604846730291502,
+                  "lng" : 103.6026738197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Galeri Antik Simpang Pulai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101826631196337152255\"\u003eAyub Atmam\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJS02kO7WqGLIMdXq2cO29pmM4D5_hbzZaOToEYRN_e1NO435PWhe0llCmPDPeF0CSD4ILiYXAumZs7nDvZ2EElSB3kxfIDhCLvO0oZjL5M2vuSuEG05iVWFGztzYzq_BbCsjbhb2qWHYArcK36WDgqht1N5hg54y-9fM6Ca5nvSigK",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJF3E1Ue6IJS4RQPjX7rfqCNQ",
+         "plus_code" : {
+            "compound_code" : "9JW3+JJ Payo Lebar, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JW3+JJ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJF3E1Ue6IJS4RQPjX7rfqCNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Professor Doktor Sumantri Bn No.364, Payo Lebar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.615159,
+               "lng" : 103.627072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.613844569708498,
+                  "lng" : 103.6283818302915
+               },
+               "southwest" : {
+                  "lat" : -1.616542530291502,
+                  "lng" : 103.6256838697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "SETRA GALERI 2 : GROSIR BINGKAI FOTO,FRAME,PIGURA,LUKISAN,KALIGRAFI,HANTARAN PERNIKAHAN,KAYU,MINIMALIS,JATI BELANDA FURNITURE",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110985814187604541133\"\u003eSETRA GALERI 2 : GROSIR BINGKAI FOTO,FRAME,PIGURA,LUKISAN,KALIGRAFI,HANTARAN PERNIKAHAN,KAYU,MINIMALIS,JATI BELANDA FURNITURE\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL-CF4zi6abBw333uEJrupL7-Mx4SpyiX81iXj2ODb9qv-XcRUVORoeyC433llx0oe2uEjhP1fRLqvxWxbcJb7qTBSPTPNYLV3lbiFWf8M8SsMqx0hrKVLpVVDVx50zC7ynkswmC_aPflHkJemdjnZMhjbcr8kQAVHpdq1xA11TZzql",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJtSIY0bCIJS4Rb6iA0FH_-Qs",
+         "plus_code" : {
+            "compound_code" : "9JMG+WR Tambak Sari, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JMG+WR"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJtSIY0bCIJS4Rb6iA0FH_-Qs",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 23,
+         "vicinity" : "the hook, Jalan Jendral Sudirman No.36, Tambak Sari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5932526,
+               "lng" : 103.6125461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.591988069708498,
+                  "lng" : 103.6139035802915
+               },
+               "southwest" : {
+                  "lat" : -1.594686030291502,
+                  "lng" : 103.6112056197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Graha Berlian Gallery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102272177010580179998\"\u003eBudi Setiawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIfz7i3nQOS8WPxTpeidnYFOarNiplnv-WP_nNePmUmIU3kM0y_OiB3-csYrGykvF3yiLH8bGRF41f5T6D3K-Wscsxgiur4eDkKQM6hNAG30KRlnLeDniGf3Va5mm68BuLPeWViUjVDE2X3edI6wYouOYzSn90zmRzSH4zsg4WeDSdb",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJgexre-CIJS4RScUCcYwIPXw",
+         "plus_code" : {
+            "compound_code" : "CJ47+M2 Orang Kayo Hitam, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ47+M2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJgexre-CIJS4RScUCcYwIPXw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Orang Kayo Hitam"
+      }
+   ],
+   "status" : "OK"
+}

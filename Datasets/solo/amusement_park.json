@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.575448600000001,
+               "lng" : 110.8277533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.574083419708497,
+                  "lng" : 110.8291093802915
+               },
+               "southwest" : {
+                  "lat" : -7.576781380291501,
+                  "lng" : 110.8264114197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Alun Al",
+         "place_id" : "ChIJd94Y-GYWei4REt_EExvZgmQ",
+         "plus_code" : {
+            "compound_code" : "CRFH+R4 Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFH+R4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd94Y-GYWei4REt_EExvZgmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Alun Alun Utara No.tiga, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.586216899999997,
+               "lng" : 110.8338232
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.584838119708497,
+                  "lng" : 110.8351873802915
+               },
+               "southwest" : {
+                  "lat" : -7.587536080291502,
+                  "lng" : 110.8324894197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Semanggi Waterland",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113290794004549715530\"\u003eFatima Babeher\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKM7KE7UMzYUx73DOtGmlqTKAzDfBkr5z5LsAhMiTTu9SrRmd0TkHJBgXFs7YtuQhxl9v16pfwFK626skLVU4MBXNCpPZ0Hsdloj053B2rBb5EWPrHQX7FNfENFVuK_P_bZCD2LOghCSojTgfmkGjzmTSajQ7_0xW5TFXu-rSDNuCnT",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJsS7lWkAWei4RxeBP_8vbOHY",
+         "plus_code" : {
+            "compound_code" : "CR7M+GG Semanggi, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR7M+GG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJsS7lWkAWei4RxeBP_8vbOHY",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79,
+         "vicinity" : "Jalan Kyai Mojo No.45, Semanggi"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,850 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwLUhXCJI8g2z3s8SuqZdmiSV8TufKXkBYL58o99gcmvAL_Eg8hvZIk10AXq4YTUG-F7MIO5_INsz5ap5nvPt9h8JLFOfVKhX4kGMeMDtW4hb7a5vXXRiBFO1YDxc6dL4DY_6PMSuaag59-MeGCRHeYooJpCR1GhQyEkH2vU_EGi1qohq3rXLpJurthGot1xsKPYCEv9Qpc7xyHbXDAVLocDwnroKi93n6epnkq73ewR_rhwzlPWcwnXo6QfevnTu-zAKJL_zsce14KWqwHNjUCsjrgspLcd4vuEb1Mc2-BZZv-5HGAKwmPDsMqHIDv28ZzIHOt9h3vZopPkNt6u3X0LHaed4OCFljsLE80cX-JPTkx1HpFAV-lIfxf1vH2gre-31MFHtVBv3wejlFaH3zHCG5INbT7-y7xhZgVD3nNII7Ko4knwgr0",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9990355,
+               "lng" : 110.4217633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.997611069708498,
+                  "lng" : 110.4232130302915
+               },
+               "southwest" : {
+                  "lat" : -7.000309030291502,
+                  "lng" : 110.4205150697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+         "name" : "Hotel Ibrahim Syariah Simpang Lima",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106050351011297758890\"\u003eHotel Ibrahim Syariah Simpang Lima\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJr8vsb4tUEa0uWRrZOq5B-911izv_UypWf-cDvD-qa0pPCGlfea_1cgTz5DXEgmWTL14a0tGbth94plGoC8nmmrWBuaujhQqk-Rk23nHlRIU4OCrLPHBAyQSYty2255WjH4qr634SaHDvkg-gRRxdnvGXfUiKuzYZXvOeC45rpkLVi",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ_cCnG2GLcC4RLyESjehzAnM",
+         "plus_code" : {
+            "compound_code" : "2C2C+9P Pleburan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C2C+9P"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ_cCnG2GLcC4RLyESjehzAnM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "cafe",
+            "lodging",
+            "electronics_store",
+            "place_of_worship",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 643,
+         "vicinity" : "No.11a, Jalan Sriwijaya barat No.82, Pleburan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0066365,
+               "lng" : 110.4325872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.005324319708498,
+                  "lng" : 110.4336793802915
+               },
+               "southwest" : {
+                  "lat" : -7.008022280291502,
+                  "lng" : 110.4309814197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Java Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101549402116841446460\"\u003eInoenk Succes\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLi8bqr-72ZFfl8L-DGZR0930iU_SWIUct24es5jaxcqBgLo5cz0sk3PmrV6g1V1KBN7sc4KLyzYaDRs4le0X0hpe0RF22KFdBCsl1l4C0ufWN0amSTrAWC2ek1K_f4GxVoK5k59eJihjTRxlfh_UkhwCJDz15M4zYlN-4TlSyg_6d4",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJv34PooSMcC4RSh11-0ZNKHs",
+         "plus_code" : {
+            "compound_code" : "XCVM+82 Karangkidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCVM+82"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJv34PooSMcC4RSh11-0ZNKHs",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52,
+         "vicinity" : "Jalan MT. Haryono No.801, Karangkidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001912799999999,
+               "lng" : 110.4291092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.000637819708496,
+                  "lng" : 110.4304421802915
+               },
+               "southwest" : {
+                  "lat" : -7.003335780291501,
+                  "lng" : 110.4277442197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Baitul Maal Hidayatullah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100770002266572078119\"\u003eAL ANFAL MEDIA\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKvmS_9fPRjZviEVl5QTGZSNHOQuWMnaS_sOwdOHG1DRGPHOid8ikd4X_qsnieeKqRPfD__oPaIjHjGAXTGx3BCAuJiRVAyIx5aZvOfoCqFpQs5_CsnGsNJUMa3I0HOA3noYf2Ns4LsRjgAQcGAcaMnmj3ohS1kmxsUBCspUO5APL6X",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJMfDetJ2McC4Rk3i3xQirhgU",
+         "plus_code" : {
+            "compound_code" : "XCXH+6J Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXH+6J"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJMfDetJ2McC4Rk3i3xQirhgU",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0071306,
+               "lng" : 110.4269333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.005807719708497,
+                  "lng" : 110.4284213302915
+               },
+               "southwest" : {
+                  "lat" : -7.008505680291502,
+                  "lng" : 110.4257233697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Barokah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113045666193119711745\"\u003eAgung Dwi Nugroho\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK2JlvWEad7-gHMqZN0O5H1LkW7b6SBZnbCYFu4czOytY5wDgp9CMHb6rOUfQryK5gZNLm1KKbJOvr2eLbfp5k5UxDtJRfKPe6x8XTeMTnwDwqvZM5lKBuwdIIIp482oaccJxYo3VFdueqEPanPWuQIh3ORAhemlf3aKJ91EgcW224Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJIwlcloKMcC4RcNPUXhAQs8c",
+         "plus_code" : {
+            "compound_code" : "XCVG+4Q Candi, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCVG+4Q"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJIwlcloKMcC4RcNPUXhAQs8c",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 227,
+         "vicinity" : "Jalan Tegalsari Raya No.41, Candi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9921467,
+               "lng" : 110.4249636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.990809469708497,
+                  "lng" : 110.4263375802915
+               },
+               "southwest" : {
+                  "lat" : -6.993507430291501,
+                  "lng" : 110.4236396197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nusrat Jahan",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100582067852366030917\"\u003eArya the Sneakerhead Pirate\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL2odptDsyL1WkMnm0KIgVFrl61Qvycq0lKvOzZT_Y4oLOmyQ7vz13ds7imciyK5iksinmhSUj2pag2WOYiPgbTNA82CBrw29UiZZ0a9CgVBrMrL_iK94YEkgzu-KP7IIemaAUeaG4ni1OETU2MYZGTXDZ3-6Txz5cWUrBJFsmUTTSd",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ8z8-bF-LcC4Rzo3MkWAbQas",
+         "plus_code" : {
+            "compound_code" : "2C5F+4X Pleburan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C5F+4X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8z8-bF-LcC4Rzo3MkWAbQas",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 63,
+         "vicinity" : "Jalan Erlangga Barat IV, Pleburan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0048122,
+               "lng" : 110.419271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.003470619708497,
+                  "lng" : 110.4206509802915
+               },
+               "southwest" : {
+                  "lat" : -7.006168580291501,
+                  "lng" : 110.4179530197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola Nur Hidayah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJA1CWvWSLcC4ROo82dksnXE8",
+         "plus_code" : {
+            "compound_code" : "XCW9+3P Tegalsari, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCW9+3P"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJA1CWvWSLcC4ROo82dksnXE8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17,
+         "vicinity" : "Jalan Genuksari Atas RT.04/RW09, Tegalsari"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.010242099999999,
+               "lng" : 110.4458986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.008990919708498,
+                  "lng" : 110.4472975302915
+               },
+               "southwest" : {
+                  "lat" : -7.011688880291502,
+                  "lng" : 110.4445995697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Kautsar (LDII)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101517002519841849350\"\u003eJonie 4611\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKS8u1rpLTGA5XigwdyRUZWjRw3pVBwm5FquQcdB0p94nlw4VBQDaFIQxUSdGnaPVjm7nEylzFxigVG0B7tL9CwJxbRfIsm1rja5P8X-UFH5iQrcfrQx8X9Fg2qD2XE-bOgtK98nlhi05pfzlKo5FIWfEwZFKQVK3s_SAB0aqmSZv5z",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJS-_VjYuMcC4R1gwjK3V2Ld8",
+         "plus_code" : {
+            "compound_code" : "XCQW+W9 Sendangguwo, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCQW+W9"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJS-_VjYuMcC4R1gwjK3V2Ld8",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "Jalan Salak Raya No.81, RT.11/RW.07, Sendangguwo"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.989147899999999,
+               "lng" : 110.4222729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.987827519708497,
+                  "lng" : 110.4235843802915
+               },
+               "southwest" : {
+                  "lat" : -6.990525480291502,
+                  "lng" : 110.4208864197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Baiturrahman Great Mosque",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102660403562395934556\"\u003eGilang Prastya Lesmana\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIO27pSK3Ddj3jlXkMwFgl1UkeDo_wrTzUJiP7CO-w8tJQIxbElzo9pAUIaE9kavN1OKfY-klCdgvjkKTbu7m0Fq9xBzXXY56pk1mDZm6OHdDY9ZIYLGdK5T2OEzzGcR4vZZRT_yoQ1AUxsib2LkkYRMxE80rozLw38TvIBDL6OmlH0",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJp2vrE1mLcC4RjJGfmnF8sLo",
+         "plus_code" : {
+            "compound_code" : "2C6C+8W Pekunden, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C6C+8W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJp2vrE1mLcC4RjJGfmnF8sLo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "tourist_attraction",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 4337,
+         "vicinity" : "Jalan Simpang Lima, Pekunden"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0039058,
+               "lng" : 110.4336101
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.002584719708498,
+                  "lng" : 110.4349535802915
+               },
+               "southwest" : {
+                  "lat" : -7.005282680291502,
+                  "lng" : 110.4322556197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Qomar",
+         "place_id" : "ChIJKZ4oa5uMcC4RQ6clW3zc1fA",
+         "plus_code" : {
+            "compound_code" : "XCWM+CC Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWM+CC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJKZ4oa5uMcC4RQ6clW3zc1fA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0026238,
+               "lng" : 110.4320712
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.001222919708498,
+                  "lng" : 110.4334373802915
+               },
+               "southwest" : {
+                  "lat" : -7.003920880291502,
+                  "lng" : 110.4307394197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Mushola An-Nuur",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106762384694521836405\"\u003emrifkym channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL3jA3b-7lqRTuDKsClwF3SVdYHk4CfktVEvUjhOUh8qOsn9727VaCZhHbIOk0KRWGKO-QYkSBewVWj0o6wOTJ-BOBA5sZFD8DXeINwk_3orvWcSMcRsLBhZF9xAWzsW-vUXSzvzbV8gD84y6XgTo_B9RMONsLmI1xuaPZiSE_kzG34",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJP3f5fpyMcC4RXie2EgFxQqA",
+         "plus_code" : {
+            "compound_code" : "XCWJ+XR Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWJ+XR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJP3f5fpyMcC4RXie2EgFxQqA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Wonodri Baru Raya, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0038315,
+               "lng" : 110.4345461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.002479669708498,
+                  "lng" : 110.4358634802915
+               },
+               "southwest" : {
+                  "lat" : -7.005177630291501,
+                  "lng" : 110.4331655197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid asy-syarief",
+         "place_id" : "ChIJVRNhcQONcC4RXCnIMDOERLg",
+         "plus_code" : {
+            "compound_code" : "XCWM+FR Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWM+FR"
+         },
+         "reference" : "ChIJVRNhcQONcC4RXCnIMDOERLg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Peterongan Tengah II, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0033327,
+               "lng" : 110.4356476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.001938919708498,
+                  "lng" : 110.4370049802915
+               },
+               "southwest" : {
+                  "lat" : -7.004636880291502,
+                  "lng" : 110.4343070197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Asy Syarif",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112262149229697553823\"\u003eWikarso Fahri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIjwDY5NkxsvPg-csys3hScDj2L0osxmdlEwXPn4ilwt4Z48sxyF-sYMc-RZGIgX30xSfQnTkZppE7JUrL75Kp6fM8v8X1FzfgY00pVbIddkRWvWCjPSgdXnnW_q6v-z5ZVokaz8J8XXscaOjbkWxrjX8r4SV_WxnZyTgnyZ6xyey7K",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJB5cW-5qMcC4RL7ilEGP2JeM",
+         "plus_code" : {
+            "compound_code" : "XCWP+M7 Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWP+M7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJB5cW-5qMcC4RL7ilEGP2JeM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32,
+         "vicinity" : "Jalan Peterongan Tengah, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.004636800000001,
+               "lng" : 110.4355023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.003300469708499,
+                  "lng" : 110.4368921302915
+               },
+               "southwest" : {
+                  "lat" : -7.005998430291504,
+                  "lng" : 110.4341941697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Mukhlisin",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112262149229697553823\"\u003eWikarso Fahri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLcHmFYFlweMfBLrdaM4W9wt7DeinWmXfZntj2gHkHpyfS9IuYU6AeO-BEKlB8At8RSrCNxiLxTWQJqF1o184PqGvYQuCDfnnMKI35NcWA-FtHMTXYJQXc1iVMY4ynSzpwXLUMJ0OH2QksGx6inS-LDt-eI6FTjx8ugARi7_0Z8zfFa",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJJUME2pqMcC4R45UvIZGVfTs",
+         "plus_code" : {
+            "compound_code" : "XCWP+46 Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWP+46"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJUME2pqMcC4R45UvIZGVfTs",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 60,
+         "vicinity" : "Jalan Taman Blimbing No.4, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.001145300000001,
+               "lng" : 110.4305838
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.999734469708498,
+                  "lng" : 110.4319476302915
+               },
+               "southwest" : {
+                  "lat" : -7.002432430291503,
+                  "lng" : 110.4292496697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "As Salam Mosque",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112307533894353361155\"\u003eMasjid As Salam Wonodri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIC_a55xy8zZvupX1B_73QhVk8896unBrX6YawWvF90niQOL0SUNIq8KmH-IYCi0UMq6dWJUNGHichzNmFsQLT7eISySFdcMeI4idPQuAU-_2OoRaOFvE4bx2fMbV0HphVbKs9FsgD68lPnSpVONeW7QBsDSNPJSS6Ke89ZXJOqALeQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZW5dF5yMcC4RTZ7_S6UiASI",
+         "plus_code" : {
+            "compound_code" : "XCXJ+G6 Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXJ+G6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJZW5dF5yMcC4RTZ7_S6UiASI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22,
+         "vicinity" : "Jalan Wonodri Baru V Kelurahan No.14, RT.001/RW.002, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.004220699999999,
+               "lng" : 110.4296684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.002874969708498,
+                  "lng" : 110.4310178802915
+               },
+               "southwest" : {
+                  "lat" : -7.005572930291502,
+                  "lng" : 110.4283199197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Ikhsan",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102473115966833029251\"\u003eZuko Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJcnE4mZ4ykm7eoa114TvTJXQWtNxw041M16GQ-_bF7wGSa5k3M8AQJQO3Dn_eGkHX3AwhO2mCpE6jFbCwjrYsN9qBassw9xi1x9v3JvbSrie29jsQkSm9k6FYT4iuxZ43reX4HtdAw8zeXGH8ttq8-rOUNNteG7QqMI0pyVXYdL2f6",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJe0XJU2ONcC4Rd0SVD1uZgZs",
+         "plus_code" : {
+            "compound_code" : "XCWH+8V Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWH+8V"
+         },
+         "rating" : 5,
+         "reference" : "ChIJe0XJU2ONcC4Rd0SVD1uZgZs",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Wonodri Kopen, Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0000013,
+               "lng" : 110.4312182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.998656169708498,
+                  "lng" : 110.4326089802915
+               },
+               "southwest" : {
+                  "lat" : -7.001354130291502,
+                  "lng" : 110.4299110197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al-Huda",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110524177769034814344\"\u003eDicky Ardiantony\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIxOHke618P9pEDlagGoLfQv1-Hx6u25HWD46poBHIJVSOV-IVGIHGbgWwDUr5bHD--PnYdNgfoffRfF4Ro7QZTzfNgp8ZQVHi5uNkcn8S24p93790m_vxrCtT07cZszpnJNlJBeU8Jd_8PPAYJubtu6aIUwhQJRdGiOpkvRYUH1dBI",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJn_IzpJ6McC4R637v0owZlnY",
+         "plus_code" : {
+            "compound_code" : "XCXJ+XF Wonodri, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXJ+XF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJn_IzpJ6McC4R637v0owZlnY",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Wonodri"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0002016,
+               "lng" : 110.4358103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.998896469708497,
+                  "lng" : 110.4371514802915
+               },
+               "southwest" : {
+                  "lat" : -7.001594430291502,
+                  "lng" : 110.4344535197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Istiqomah",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112262149229697553823\"\u003eWikarso Fahri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKscNqnkNKW05cuf123EZ74HhPZ7eYhx0hSZPCSIZBbkl4il7uF31F3TmLZ0CzzGkGOWvnj5P1kW8SRPAAF8coayfPYvVuZF8tjwVEhIzG_ynSneE5FyOVw3HMmWlBSD4UeHi3KXt6-ZJLIQh127bJSwl8AQKZwcTvSOcHhmldrFzP0",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJW0prKJqMcC4RcCyRYA2AHfM",
+         "plus_code" : {
+            "compound_code" : "XCXP+W8 Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCXP+W8"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJW0prKJqMcC4RcCyRYA2AHfM",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61,
+         "vicinity" : "Jalan Peterongan Timur, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0072561,
+               "lng" : 110.4345421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.006039019708497,
+                  "lng" : 110.4359087802915
+               },
+               "southwest" : {
+                  "lat" : -7.008736980291502,
+                  "lng" : 110.4332108197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Muawanah",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112204922093041779929\"\u003eMasjid Muawanah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ_JH3D-9uaQ3O2vE1jfYl211_GntMuaanBUcMKxdvi7N-lEAKxaiDmIUT22UtEpP3fwl6rpBKHEoY3Slhx1MBZdficiq-bSQ-MOEOdYXVFSwxTqYeAk-YoC89Ms_K7aijpE1z3xfZ7yfUUwlRRlUvk5J5z795HHLsJp2FzIhlzJTvQ",
+               "width" : 1968
+            }
+         ],
+         "place_id" : "ChIJ1R4g-4SMcC4RXXtDCFr7nZE",
+         "plus_code" : {
+            "compound_code" : "XCVM+3R Lamper Kidul, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCVM+3R"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ1R4g-4SMcC4RXXtDCFr7nZE",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 185,
+         "vicinity" : "Jalan Mangga V No.1, Lamper Kidul"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9989823,
+               "lng" : 110.4345271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.997567819708498,
+                  "lng" : 110.4358852302915
+               },
+               "southwest" : {
+                  "lat" : -7.000265780291501,
+                  "lng" : 110.4331872697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Al Ikhlas",
+         "place_id" : "ChIJ9RM90TSNcC4RYJZMb6snDu0",
+         "plus_code" : {
+            "compound_code" : "2C2M+CR Peterongan, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P5G2C2M+CR"
+         },
+         "reference" : "ChIJ9RM90TSNcC4RYJZMb6snDu0",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Peterongansari No.1, Peterongan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.0043164,
+               "lng" : 110.4378916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.002999819708497,
+                  "lng" : 110.4393566802915
+               },
+               "southwest" : {
+                  "lat" : -7.005697780291502,
+                  "lng" : 110.4366587197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+         "name" : "Masjid Nurul Hidayah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113291041842910726455\"\u003eMahfudz Irfan Firdaus\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKjdieVtZB9IgNomVV8X1j4yatnebSbVoPdMMeqk18Cwp6HfaKCn23dKP1vsI9ARG_bGdnr3x7wDdW58JdElZhTzYlluEk-ZZSkkmz2yNeL2rZL5P7o-lzpbbfIjM8oE8m73-xxXBWjQFrmEQrk68lmKpClA9eTrWaXN2jOyDIOvWTH",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJw7clKkKNcC4RwAYkwVJG-YI",
+         "plus_code" : {
+            "compound_code" : "XCWQ+75 Lamper Lor, Semarang City, Central Java, Indonesia",
+            "global_code" : "6P4GXCWQ+75"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw7clKkKNcC4RwAYkwVJG-YI",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Rambutan Dalam No.V, Lamper Lor"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,787 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwI91r6erHADZiL5s745on9i8lkKEFdC6_kFJyqv_xGO8_9-LqBuJR8gyaBr7uPe0FBmG-xt0opEP-BFR9ZfPm2B60ttLRQ8CQn0BHLmPg8xWh5hhmKqMNDGv2W6JCv5V2d-YeegGOXviKyzmuKxacm7PgKeqTEB7YIFRwBZq0QoTHtbzlg1r50UgqWZbpNZE9ijHtb8sx5xLzNAM6jGW44fo20PvEej9zcC3pIg4tyEeDk6AfS_2oE-plT009gP13DZ07R7ZdcUtFF2ZBmL__1Dz4QU6D19pkFbf_L0u9STUP1g8WA-ZzUtOETGGpUnHRB6URl5sJfwzL3Y6wnWFx2RYTV8KwC67R6nM7Vgpjn9IMCxKzeyl8IywdG8icyd0af6arkAMMNdVd2lduqCXGkVtSsdcjnlLA_0zdfAw_m7DA0WDb8QrpixhUozsg",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.576381800000001,
+               "lng" : 110.8326732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.574972419708497,
+                  "lng" : 110.8337746802915
+               },
+               "southwest" : {
+                  "lat" : -7.577670380291502,
+                  "lng" : 110.8310767197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+         "name" : "Avila Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJZVK0a10Wei4RQO0aSp0tizY",
+         "plus_code" : {
+            "compound_code" : "CRFM+C3 Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRFM+C3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJZVK0a10Wei4RQO0aSp0tizY",
+         "scope" : "GOOGLE",
+         "types" : [
+            "book_store",
+            "art_gallery",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Jalan Kapten Mulyadi No.20, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5813618,
+               "lng" : 110.8376736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.580046319708496,
+                  "lng" : 110.8390096302915
+               },
+               "southwest" : {
+                  "lat" : -7.5827442802915,
+                  "lng" : 110.8363116697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Adtmofath Galeri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105074756229553626712\"\u003eAdtmofath Galeri\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLsE9weztib1DhFyZBFoIBK0TWxO8135PQm07G9r9LZykmiPjup6C6LvN5Y1IdZI-0d-pdGl2BoQ33JB3TR1Da4br0zmAKe1eVS8rA60-1OleIx-DqkJ93-p5qgYT9YAGQkVMLuyy0160HvAlfisePytymx5q1DGvdmFuJSsh6VgNCW",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJs0HydEQWei4RRt1D0j4b9dg",
+         "plus_code" : {
+            "compound_code" : "CR9Q+F3 Semanggi, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR9Q+F3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJs0HydEQWei4RRt1D0j4b9dg",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Semanggi, RT.4/RW.9, Semanggi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.578828000000001,
+               "lng" : 110.816944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.577391819708499,
+                  "lng" : 110.8183118302915
+               },
+               "southwest" : {
+                  "lat" : -7.580089780291503,
+                  "lng" : 110.8156138697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Gudang Pusaka. CV",
+         "place_id" : "ChIJHdkzeXAWei4R2jpLW4zEF_g",
+         "plus_code" : {
+            "compound_code" : "CRC8+FQ Kratonan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRC8+FQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJHdkzeXAWei4R2jpLW4zEF_g",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "JL. Dworowati, 249, Joyodiningratan Kratonan Serengan, Kratonan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.581136099999999,
+               "lng" : 110.8163843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.579797319708497,
+                  "lng" : 110.8177766302915
+               },
+               "southwest" : {
+                  "lat" : -7.582495280291502,
+                  "lng" : 110.8150786697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pengrajin Blangkon Ananta Karyana",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJO-fL_3AWei4R2s8IkT3UNtE",
+         "plus_code" : {
+            "compound_code" : "CR98+GH Serengan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR98+GH"
+         },
+         "reference" : "ChIJO-fL_3AWei4R2s8IkT3UNtE",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Arjuna 1, Serengan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5619361,
+               "lng" : 110.8180391
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.560551369708497,
+                  "lng" : 110.8193443802915
+               },
+               "southwest" : {
+                  "lat" : -7.563249330291502,
+                  "lng" : 110.8166464197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Madyotaman Artspace",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113476103561062704219\"\u003eAgus Siswanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLxy35MqsmHH7W68yHp4bQC9GkNCneKnEFp3h-XzWThSDaBMQodfvqMk9hiUlSPimiEnpuV6gfOeFpG7JRjDD5gzhMoycZrawEZMUUBa8hSsbAx-x6_UW4s5WHA7Tq3xzbbe-MPw5B3FqoQM7oZm9MNbxhcCE3Xv0bL6NSQJ5atPq6z",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJVVVVlYUWei4RJX52oPSlIGA",
+         "plus_code" : {
+            "compound_code" : "CRQ9+66 Punggawan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRQ9+66"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJVVVVlYUWei4RJX52oPSlIGA",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jl.Madyotaman II No.17 Rt.04/II, Punggawan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.573559099999999,
+               "lng" : 110.8314761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.572232669708497,
+                  "lng" : 110.8329011802915
+               },
+               "southwest" : {
+                  "lat" : -7.574930630291502,
+                  "lng" : 110.8302032197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Ruang Seni DAYA JOEANG Solo - Gedung DHC Solo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 972,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101418017746365290798\"\u003eIrul Hidayat\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL5AAarYz_x-n2DXwCiHU5vbJrAfzhZbg1Ykc3oe73HNEQrgql-Xzg4Dta8ghAanvPwXjL3Ddqwd_uSCqfMgQQOQ3Xfhn7jY3HpUI5gaVtIraZcnIXQl1J_j_mMNZSQ-SozD4Onq9UT7tb3MAfGA2WasEtS-9lH0Q4y1HdXiHkBIhHH",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJ0XZX-l0Wei4R14OSacK-l9M",
+         "plus_code" : {
+            "compound_code" : "CRGJ+HH Kedung Lumbu, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGJ+HH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ0XZX-l0Wei4R14OSacK-l9M",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 56,
+         "vicinity" : "Gedung DHC Solo, Jalan Mayor Sunaryo No.4, Kedung Lumbu"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.572559900000003,
+               "lng" : 110.8269092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.5711571697085,
+                  "lng" : 110.8282750802915
+               },
+               "southwest" : {
+                  "lat" : -7.573855130291505,
+                  "lng" : 110.8255771197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Rod's Galleri",
+         "place_id" : "ChIJFeN-XGEWei4R8PVRyviHxhE",
+         "plus_code" : {
+            "compound_code" : "CRGG+XQ Kauman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRGG+XQ"
+         },
+         "reference" : "ChIJFeN-XGEWei4R8PVRyviHxhE",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Trisula No.10, Kauman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.571499,
+               "lng" : 110.8267303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.570174019708497,
+                  "lng" : 110.8280717302915
+               },
+               "southwest" : {
+                  "lat" : -7.572871980291501,
+                  "lng" : 110.8253737697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Pas Art Gallery",
+         "place_id" : "ChIJs9W4a2EWei4RWZR8PmwqX2k",
+         "plus_code" : {
+            "compound_code" : "CRHG+CM Kampung Baru, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRHG+CM"
+         },
+         "reference" : "ChIJs9W4a2EWei4RWZR8PmwqX2k",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Slamet Riyadi, Kampung Baru"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.567084400000001,
+               "lng" : 110.8250427
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.565748769708499,
+                  "lng" : 110.8263856302915
+               },
+               "southwest" : {
+                  "lat" : -7.568446730291503,
+                  "lng" : 110.8236876697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Rumah S44",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJzRbuIWkXei4RlUmdpRnm6sY",
+         "plus_code" : {
+            "compound_code" : "CRMG+52 Keprabon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMG+52"
+         },
+         "reference" : "ChIJzRbuIWkXei4RlUmdpRnm6sY",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Sugiyopranoto No.44, Keprabon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.569085999999998,
+               "lng" : 110.822728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.567744119708498,
+                  "lng" : 110.8241001302915
+               },
+               "southwest" : {
+                  "lat" : -7.570442080291503,
+                  "lng" : 110.8214021697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "H. Hardono",
+         "place_id" : "ChIJx1J6YWIWei4R2_jsIU3E9co",
+         "reference" : "ChIJx1J6YWIWei4R2_jsIU3E9co",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Pasar Triwindu, Kios A No. 3, JL. Diponegoro, Banjarsari, Keprabon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.569239,
+               "lng" : 110.8223536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.567885969708497,
+                  "lng" : 110.8236926802915
+               },
+               "southwest" : {
+                  "lat" : -7.570583930291502,
+                  "lng" : 110.8209947197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Agus Sutrisno",
+         "place_id" : "ChIJj5-R9GIWei4R3UUXE4uqPuo",
+         "plus_code" : {
+            "compound_code" : "CRJC+8W Keprabon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRJC+8W"
+         },
+         "reference" : "ChIJj5-R9GIWei4R3UUXE4uqPuo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "Pasar Triwindu, Jalan Diponegoro No.168, Keprabon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.564375500000001,
+               "lng" : 110.8335543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.563249519708499,
+                  "lng" : 110.8348376802915
+               },
+               "southwest" : {
+                  "lat" : -7.565947480291504,
+                  "lng" : 110.8321397197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Waskita Pusaka Solo",
+         "photos" : [
+            {
+               "height" : 1791,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104864908079065667622\"\u003eYoga KumaLa\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJJ2lsmS4TsAsbOZQg_rMzC0v3ThldqJp7mOBGtIxW_E2cbbxglcpdAdJkDD25YeHGRhspg9v54V5vw5yhIAQELIXyg2WUCWco16WwQ8jy53HNtxqJDrr-3qmn9X2GDJztoBmNmfngKlmukh2GkrOgrtqf-7rNNnCR89QGoWT6RnpZf",
+               "width" : 1371
+            }
+         ],
+         "place_id" : "ChIJAzrmXKcXei4RD6OJzL76Ar4",
+         "plus_code" : {
+            "compound_code" : "CRPM+6C Kepatihan Wetan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRPM+6C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAzrmXKcXei4RD6OJzL76Ar4",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Jalan Damar No.RT01/02, Kepatihan Wetan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.579375599999999,
+               "lng" : 110.8202136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.578017669708497,
+                  "lng" : 110.8215247802915
+               },
+               "southwest" : {
+                  "lat" : -7.580715630291501,
+                  "lng" : 110.8188268197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Arjo Art & Gallery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108528026968855791394\"\u003eAryo Sss\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJjAb199DQCm5xOel1ML3Bm0cmZW8wsELPaRf38uMqxJV7jCeyhs-z00s7HEZWVM8gV5qo6SnJdL0CaI8zm3XR1jlGMf6SdxVEgsOcTKB5e5SXwgptkbhXoDCWhrqFY8fwhLd_lclZIup2SHNnoAl1fhCmWyV3W-BwQxw0qFtBu2cjz",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJb61pok9Bei4RXflZG0YAL-Q",
+         "plus_code" : {
+            "compound_code" : "CRCC+63 Kratonan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRCC+63"
+         },
+         "rating" : 5,
+         "reference" : "ChIJb61pok9Bei4RXflZG0YAL-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "Unnamed Road, Kratonan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5659074,
+               "lng" : 110.8382314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.564543419708499,
+                  "lng" : 110.8395365802915
+               },
+               "southwest" : {
+                  "lat" : -7.567241380291503,
+                  "lng" : 110.8368386197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Griya Seni Solo",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113325537275094989039\"\u003eDeni Tatto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIfnxVUHgiFKL8PoODR6mYxlzUWYxQOXqxaQ8SuuY4pJQUEMcBXUyZIn1Yqxgv6KovY4eLF3GT4ldrtVMMnXDLvCx9gVIeYd1rSIaISIHA5lR2SKby00noIeUS-phNVSd8A_Kw26Bo0RR0tW4rjqfF9ANAwWkVzdtTBnshye4VVKjx3",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJLTSuJEkXei4RdQRFPW-91qo",
+         "plus_code" : {
+            "compound_code" : "CRMQ+J7 Purwodiningratan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRMQ+J7"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJLTSuJEkXei4RdQRFPW-91qo",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "purwodiningratan, RT.02/RW.5, Purwodiningratan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.577593899999999,
+               "lng" : 110.8182006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.576358519708496,
+                  "lng" : 110.8195087802915
+               },
+               "southwest" : {
+                  "lat" : -7.579056480291499,
+                  "lng" : 110.8168108197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Rumah Budaya Kratonan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107017294945517700177\"\u003eReynal Falah\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLSkJbDAa96W1BG7u-fNnIACDg75qtx2uvvRreAeUhwlGEPwHgSUCd8iY0jZbLY6-rarPGBhsN2SG1mCWXXzNYU5TAxFNIzP3KUStAmhUHWMJasGfmuM87cBAoeITcSDmlBdJ8QMnCM8Tqx4_Jz72peViCZjEKGpToiycQ7q0vfIvZW",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJdyWuv3oWei4RYQ5G4ZG78ps",
+         "plus_code" : {
+            "compound_code" : "CRC9+X7 Kratonan, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRC9+X7"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJdyWuv3oWei4RYQ5G4ZG78ps",
+         "scope" : "GOOGLE",
+         "types" : [
+            "art_gallery",
+            "tourist_attraction",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 215,
+         "vicinity" : "Jalan Manduro No.6, Kratonan"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5878587,
+               "lng" : 110.8325412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.586525919708496,
+                  "lng" : 110.8338829302915
+               },
+               "southwest" : {
+                  "lat" : -7.589223880291501,
+                  "lng" : 110.8311849697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Bekas luka tattoo",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101337359361335388753\"\u003eBekas luka tattoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIi4l3JvY2n_4z5Gz31z58sOFVbxKwX4rA0Sg0vwXpV2wDVxgeBUDqeCoP8dRytVfUhwwKZJbB-sEyTcVGdBC_44J55-3MIpiWqnVfuxObmC8VeOBtp00icEpy1FT9iXi__u_RWBkAMM5acov7wRSGg2ZiCVfihf5dL7J9ch6XrcbM6",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJcQgu_tcXei4RUC2m9Vgkc_8",
+         "plus_code" : {
+            "compound_code" : "CR6M+V2 Semanggi, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR6M+V2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJcQgu_tcXei4RUC2m9Vgkc_8",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "Semanggi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.587450599999999,
+               "lng" : 110.8353615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.585890919708498,
+                  "lng" : 110.8368086302915
+               },
+               "southwest" : {
+                  "lat" : -7.588588880291502,
+                  "lng" : 110.8341106697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Toko Antik Solo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118108342975739793746\"\u003eToko Antik Solo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKJx1P9BS8fl-jAD8fbICNyOtJlCTAJ9khnXpeFhpUDJnfj0QAs1zlJEKSWoYaIvIhNIg3oh6I2WHTJEJJCS0-4lkMOXcG4ulKSDUflozSxTABYP7aWo6SxR9KN_YkNRLOroBeAxZHm9kU8oUJrHRuFwVQ7kYX1ST1yRm7u1ONI-46m",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ1yIo4HQXei4RfouzvAWKiic",
+         "plus_code" : {
+            "compound_code" : "CR7P+24 Semanggi, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR7P+24"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ1yIo4HQXei4RfouzvAWKiic",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Kyai Mojo RT.01/RW.05, Semanggi"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.559881799999999,
+               "lng" : 110.8298776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.558512519708496,
+                  "lng" : 110.8311543302915
+               },
+               "southwest" : {
+                  "lat" : -7.561210480291501,
+                  "lng" : 110.8284563697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "House of Muara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2832,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101777208203846175311\"\u003eAngga Bakti Efendy\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJlf_gJUuUXW3l3yuHo0B1VvMoVQV05zqUEuKwrbOM-amzX77_bSAx2cWL9_XT15azqeFLRoERb2baKIcinbnDSM619Lsu1qAT9NnZIgGDe7U92f5fPsR3xkDTZsXgD5hAQoGtHfkcmB1kaEgoxr4xMpiScSW3M-92QyuKfmDWp8K-R",
+               "width" : 4240
+            }
+         ],
+         "place_id" : "ChIJJTRvjwQXei4RGwmZWbkRRzw",
+         "plus_code" : {
+            "compound_code" : "CRRH+2X Kepatihan Kulon, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRRH+2X"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJTRvjwQXei4RGwmZWbkRRzw",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "Jalan Abdul Muis No.120, Kepatihan Kulon"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.566562999999999,
+               "lng" : 110.816664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.565304069708499,
+                  "lng" : 110.8179641802915
+               },
+               "southwest" : {
+                  "lat" : -7.568002030291503,
+                  "lng" : 110.8152662197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Kapalmas Paintings",
+         "place_id" : "ChIJJ0y_p4cWei4RAwmgRkyu1Dk",
+         "plus_code" : {
+            "compound_code" : "CRM8+9M Timuran, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCRM8+9M"
+         },
+         "reference" : "ChIJJ0y_p4cWei4RAwmgRkyu1Dk",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "vicinity" : "JL. Pleret Utama, Komplek Griya Sumber Permata 9, Timuran"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.587584699999999,
+               "lng" : 110.8222038
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -7.586244919708497,
+                  "lng" : 110.8235493302915
+               },
+               "southwest" : {
+                  "lat" : -7.588942880291501,
+                  "lng" : 110.8208513697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "MATA PANAH INDONESIA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110739992280999391014\"\u003eCleo Za\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIbj8wkEMIEli4S_iPJpABbuRbpT_CnomEQJRU4VQi_Al2np1TNWqkI3AKot2i5q2_bzFUboTgEuc5ORcoo9E38y7oP5_m2rDC-uvuJfEjS1SdKIgqeHoofVH_PdCxB_HFLk9Uia78K0lfAdwFfuabiUuCiAIvqGaVdqPH5DlK2b5-k",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ8ehHQz4Xei4Rr0wAHrSGXKU",
+         "plus_code" : {
+            "compound_code" : "CR6C+XV Danukusuman, Surakarta City, Central Java, Indonesia",
+            "global_code" : "6P4GCR6C+XV"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8ehHQz4Xei4Rr0wAHrSGXKU",
+         "scope" : "GOOGLE",
+         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jln srikuncoro no 23 rt3 rw6, jogosuran, Danukusuman"
+      }
+   ],
+   "status" : "OK"
+}

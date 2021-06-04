@@ -1,0 +1,41 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -3.7934525,
+               "lng" : 102.2667718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -3.791973119708498,
+                  "lng" : 102.2682235802915
+               },
+               "southwest" : {
+                  "lat" : -3.794671080291502,
+                  "lng" : 102.2655256197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Mancing Mania",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJKazYtjywNi4RxzWcAymwgnE",
+         "plus_code" : {
+            "compound_code" : "6748+JP Belakang Pondok, Bengkulu City, Bengkulu, Indonesia",
+            "global_code" : "6P846748+JP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJKazYtjywNi4RxzWcAymwgnE",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Mega Mall Lantai 3C blok G No.282, JL. KZ Abidin 1, Belakang Pondok"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,667 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6019191,
+               "lng" : 103.6199303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.600385419708498,
+                  "lng" : 103.6216381802915
+               },
+               "southwest" : {
+                  "lat" : -1.603083380291502,
+                  "lng" : 103.6189402197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Church GPdI Koni 1 Jambi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 683,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108475534508213959425\"\u003eGereja GPdI Koni 1 Jambi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwI_27CJ2nqjegBt1dmGdN-dityzAkvUkyPSZMSlMO-S4CS9shiAp6e3TdQYM3yMmn5lYLoHc5P0dQ1A433mmEY9ehQ3Cs2B_mo2GvSgloOIBBTF95TaqIuwVV2jqx7IE7V8UEkX7_l60Xcz82yqXQRNZfaMkJKH_xSEd7jH0tV-eDE",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJuY1bxsSIJS4RycoKZsIMLuM",
+         "plus_code" : {
+            "compound_code" : "9JX9+6X Talang Jauh, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JX9+6X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJuY1bxsSIJS4RycoKZsIMLuM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 95,
+         "vicinity" : "JL. Pangeran Diponegoro, Lorong Koni 1 Kelurahan No.6, Talang Jauh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5966659,
+               "lng" : 103.6199312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.595316919708498,
+                  "lng" : 103.6212801802915
+               },
+               "southwest" : {
+                  "lat" : -1.598014880291502,
+                  "lng" : 103.6185822197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GPIB Marturia Jambi",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101130764264755533869\"\u003eRonald JP Aroean\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKcBSggTSCgVvgydXhseLxfkAXfQ1d3x1MCdUM-QRi9riU4mV5WARogAuCOZ8njnNiOW6-F6l1vUTtTVtuz4nnrUhJVEGuXLukcHgWhbRbNz8G_c19IpNbGrmkWbHHldK7O62IQZmg7eJZLciJpl82A4cqw6-DGtJW6WACLJ3qbjXJI",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ8RjZ7tuIJS4RuZa8SMeqvzg",
+         "plus_code" : {
+            "compound_code" : "CJ39+8X Sulanjana, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ39+8X"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ8RjZ7tuIJS4RuZa8SMeqvzg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55,
+         "vicinity" : "Sulanjana"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5946275,
+               "lng" : 103.6161526
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.593200969708498,
+                  "lng" : 103.6174904302915
+               },
+               "southwest" : {
+                  "lat" : -1.595898930291502,
+                  "lng" : 103.6147924697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Mawar Sharon Jambi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 603,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107776952676206858790\"\u003eRudy Wibowo\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLlGCje_kVeqLkTWuRIT_goaoB2pNbb2W3HukeEjmACQjOXzwk0pniCYBMMs1tbyldOqrvf7e2k3zLGKvZJxHuhOA6oxh6RbbZsNarB6mGqNyhW54nHNsSAdtoGEKAWKp1FLQUdJxwaza5axTTxN9V4A7zx-FRXLdIL7S-OAJkVmGNo",
+               "width" : 1079
+            }
+         ],
+         "place_id" : "ChIJK35Y9d6IJS4RH5R05UPqXGw",
+         "plus_code" : {
+            "compound_code" : "CJ48+4F Sungai Asam, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ48+4F"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJK35Y9d6IJS4RH5R05UPqXGw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "Jl. Raden Mattaher, Kompleks Ruko Sentosa, Sungai Asam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6081235,
+               "lng" : 103.6171135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.606869519708497,
+                  "lng" : 103.6184549302915
+               },
+               "southwest" : {
+                  "lat" : -1.609567480291502,
+                  "lng" : 103.6157569697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GAB Gunung Sion Jelutung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114134026855798129622\"\u003eFranklin Ratu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIz-xQjqzcGDBzduThYRrdZ_RiBGhd6Oo2h-XhEdcF6d1W7HLykqHZD8P8IbV_1e3G5gT_yvkGdKulcrrgKK_zpRJM5QosnqfcveZPGfCfAR2pNEy-Liz9n7IkW3-Y4PgNN8dv4MyXmZZRWSivam_DCNgHwltHLQC6yOuSi4hKngkiC",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJO4lN6MCIJS4RWXD1PJLOziM",
+         "plus_code" : {
+            "compound_code" : "9JR8+QR Talang Jauh, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JR8+QR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJO4lN6MCIJS4RWXD1PJLOziM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Jalan Elang, Talang Jauh"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6135791,
+               "lng" : 103.6109552
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.612350919708498,
+                  "lng" : 103.6122572802915
+               },
+               "southwest" : {
+                  "lat" : -1.615048880291502,
+                  "lng" : 103.6095593197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Seventh Galery",
+         "place_id" : "ChIJay2evpWIJS4RVgQYndYssmk",
+         "plus_code" : {
+            "compound_code" : "9JP6+H9 Jelutung, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JP6+H9"
+         },
+         "reference" : "ChIJay2evpWIJS4RVgQYndYssmk",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Gajah Mada No.13, Jelutung"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5968613,
+               "lng" : 103.6198758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.595568469708498,
+                  "lng" : 103.6212639802915
+               },
+               "southwest" : {
+                  "lat" : -1.598266430291502,
+                  "lng" : 103.6185660197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Masehi Advent Hari Ketujuh (GMAHK) Ottista",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110739651168170147361\"\u003eAlbert Brando Longdong\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJLXCGwKz0MbHmsc8NRQ_kfNq3hCcYaNrRmEm7e7qvKbio1kpYMJsgixyBN2KQOBX80VgZICQ-cpa6nzn5Rt_lWPci2j7GUdmYZPj-hXDZEgxjgj45yA2QZdxeta4cWNPv8QdtwowmHK_O8QeC8k_uiir-WbYnQG61WVyIzXfuXTbcG",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJgxr94NuIJS4RkKTlSN8kduo",
+         "plus_code" : {
+            "compound_code" : "CJ39+7X Sulanjana, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ39+7X"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJgxr94NuIJS4RkKTlSN8kduo",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13,
+         "vicinity" : "Jalan Otto Iskandardinata No.59, Sulanjana"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5965801,
+               "lng" : 103.6194282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.595245669708498,
+                  "lng" : 103.6207377802915
+               },
+               "southwest" : {
+                  "lat" : -1.597943630291502,
+                  "lng" : 103.6180398197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "HKBP Jambi 1",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100529091560006183040\"\u003eLumban Benget Hutajulu\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKUoIjlsAjQEJvC5dU_U50wfqifOMPxXxfKW8dQEgDhi55-LHTs2O-5xQikfJB4rvvaFoCHB5BXZJCEQOPrBMNzFtgKMs2c3giSrgBGDJyZarE-ymEW6m3_UZCPvi-GoWVLX96z9V_gp-nf8wwfitfUd2q1woTtUhnilrsh8c3D9JSa",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJwziWT8uJJS4RA2UXzRWT2qA",
+         "plus_code" : {
+            "compound_code" : "CJ39+9Q Sulanjana, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ39+9Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJwziWT8uJJS4RA2UXzRWT2qA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "Jalan Maria Walanda Maramis, Sulanjana"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5966303,
+               "lng" : 103.6199104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.595281319708498,
+                  "lng" : 103.6212593802915
+               },
+               "southwest" : {
+                  "lat" : -1.597979280291502,
+                  "lng" : 103.6185614197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Gereja Protestan Di Indonesia Bagian Barat Marturia",
+         "place_id" : "ChIJf2GQlNuIJS4RevdhVCZ0438",
+         "plus_code" : {
+            "compound_code" : "CJ39+8X Sulanjana, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ39+8X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJf2GQlNuIJS4RevdhVCZ0438",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "JL. Otto Iskandardinata, RT 012, Jambi, 36144, Sulanjana"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6025142,
+               "lng" : 103.6262923
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.601073419708498,
+                  "lng" : 103.6277119302915
+               },
+               "southwest" : {
+                  "lat" : -1.603771380291502,
+                  "lng" : 103.6250139697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Sion Methodist Church Jambi ( 占 碑 印 尼 基 督 教 衛 理 公 會 錫 安 堂)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106885002513834173925\"\u003eGMI Sion Jambi\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIeF2vbnh2s42wAZMVNPUF9lXt8SwHbXo9daEBrfssMTClVYKiUsj-ibM_EG4HcUo4gQB6OUuvOeAwvm5lE-wbMTN1fzb35qyse-gfDK0WCK5KINKQXPQnOgkuoVwFVQeswKLAJhDadMcZd9chZsYX-f2jD5bobpLBmffCC0B8yuqD-",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJbfZRvM-IJS4RK8WnzxSsEsY",
+         "plus_code" : {
+            "compound_code" : "9JWG+XG Budiman, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JWG+XG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJbfZRvM-IJS4RK8WnzxSsEsY",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14,
+         "vicinity" : "Jalan Jaya Wijaya, Budiman"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5948893,
+               "lng" : 103.6142279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.593514469708498,
+                  "lng" : 103.6155782802915
+               },
+               "southwest" : {
+                  "lat" : -1.596212430291502,
+                  "lng" : 103.6128803197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI ABADI IR NIKO NYOTORAHARDJO",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 445,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106796851005731932139\"\u003eGBI ABADI IR NIKO NYOTORAHARDJO\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKwGq37pU_Li8UP16uA6Py348getXxI16Um8M3htGXSMLiuI2WdWe7Kx1oOZ03MIloXcki_HQwtHxywf_NAdSjjAO0pfiCnU3PXuBU68_mXKnSiBIEFbuAwSlSI0KVIt4lDBAVBlF6bwQWFMbjhDwI69ZMVNqjBYxVmFdGYhlwatrpk",
+               "width" : 738
+            }
+         ],
+         "place_id" : "ChIJVee4HueJJS4ReUejWpOVcWk",
+         "plus_code" : {
+            "compound_code" : "CJ47+2M Sungai Asam, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ47+2M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJVee4HueJJS4ReUejWpOVcWk",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "Komplek Ruko Abadi, Jalan Gatot Subroto, Sungai Asam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5948893,
+               "lng" : 103.6142279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.593514469708498,
+                  "lng" : 103.6155782802915
+               },
+               "southwest" : {
+                  "lat" : -1.596212430291502,
+                  "lng" : 103.6128803197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GBI Jambi",
+         "place_id" : "ChIJXZGTxBSJJS4Rcc9zT3uXIzg",
+         "plus_code" : {
+            "compound_code" : "CJ47+2M Sungai Asam, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ47+2M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJXZGTxBSJJS4Rcc9zT3uXIzg",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Komplek Ruko Abadi, Jalan Gatot Subroto, Sungai Asam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.596458,
+               "lng" : 103.6206488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.595072569708498,
+                  "lng" : 103.6219442802915
+               },
+               "southwest" : {
+                  "lat" : -1.597770530291502,
+                  "lng" : 103.6192463197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "HKBP Kebun Kelapa Kota Jambi",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107822735589254649623\"\u003eOscar\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwK7-gvnjXVTNwHFbUpAgCadGxG-h4vS39KFfW9YQBGQg162Q5cATE4x-MeAcnfpf_rR1fwqxdaNaRDCPbsy6WbZcuD2E4A628z6HENCQcmse24kofBpmHVOcXI9pEgp0ItPGYqvN2CwnQSLoJNRwKBiWfTEIrHeiUuqfyzOaJ5u_zcc",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJz1NR8NuIJS4RUZXhUAR9zqM",
+         "plus_code" : {
+            "compound_code" : "CJ3C+C7 Sulanjana, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ3C+C7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJz1NR8NuIJS4RUZXhUAR9zqM",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 76,
+         "vicinity" : "Jalan Otto Iskandardinata No.51, Sulanjana"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.594163,
+               "lng" : 103.6175844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.592775019708498,
+                  "lng" : 103.6188997802915
+               },
+               "southwest" : {
+                  "lat" : -1.595472980291502,
+                  "lng" : 103.6162018197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "Catholic Church of St. Theresia, Jambi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4401,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115142021601826147109\"\u003eJulius Keke\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKXD5d-RUpuKaY0JE9-862PCiI2UjJ37cmKJOso82TVFi9DNDgqAGJIlOe8C-g6tOoGHRonJU5OnnwkvBARfKpqbMtRXumJWlVwqL8_aQSoSlO-TNeGvaVlqThb7xc33slyyv_eJ2zPS-d6gniz72aHaoMXcCnYtqE6E0_lvLi_T2ju",
+               "width" : 7319
+            }
+         ],
+         "place_id" : "ChIJ5_H_T9-IJS4Rh2gxSQR3qtw",
+         "plus_code" : {
+            "compound_code" : "CJ49+82 Sungai Asam, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ49+82"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ5_H_T9-IJS4Rh2gxSQR3qtw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 191,
+         "vicinity" : "Jalan Raden Mattaher No.19, Sungai Asam, Pasar Jambi, Sungai Asam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.6013378,
+               "lng" : 103.6274053
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.599990769708498,
+                  "lng" : 103.6287228302915
+               },
+               "southwest" : {
+                  "lat" : -1.602688730291502,
+                  "lng" : 103.6260248697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "BEST Church Jambi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101828362377807864381\"\u003egaming pvp\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLZnzMPnlSE_jE3nutaB38rgwUB-oNVzkkIHf-oABCWFMldl4XFwDwN_lBnbn6CEwpUMLTDqSWdelXVpmGrQTl_mvIsYkUO3FJoNRjNQGrqowVNRVEzF6qJczsp5a8ezpEyfSQB5MjiOMcy73CbY9FC9KwawG4E0YF4digS0uXBSU1l",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJL5a-NNCIJS4RAp2Ppo6kMao",
+         "plus_code" : {
+            "compound_code" : "9JXG+FX Talang Banjar, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC59JXG+FX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL5a-NNCIJS4RAp2Ppo6kMao",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "Jalan Gr. Djamin Datuk Bagindo, Talang Banjar"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5955857,
+               "lng" : 103.6229228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.594203419708498,
+                  "lng" : 103.6242070302915
+               },
+               "southwest" : {
+                  "lat" : -1.596901380291502,
+                  "lng" : 103.6215090697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKY Jambi",
+         "photos" : [
+            {
+               "height" : 474,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110211553954423984023\"\u003eHendra Susanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwL5rcrDm476zzCeMq7_pbXyQiTrM9OV4qqaxOi_qx5bUaokjoHNZuouDpNe2-Gam-MU0baXeEI-s9bGtliRh3VcuZ_xwzk30dC-XmmKrX5anAZzdYNQdJnk-nKvQvT2OIEe5JYRrsjc-Y9ozVQ6XN-b7ScjHGpEdek2bMPugJT-hvM",
+               "width" : 326
+            }
+         ],
+         "place_id" : "ChIJR2xtlNmIJS4RuCf8BUEO8lA",
+         "plus_code" : {
+            "compound_code" : "CJ3F+Q5 Rajawali, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ3F+Q5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJR2xtlNmIJS4RuCf8BUEO8lA",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10,
+         "vicinity" : "Jalan KH. Hasyim Ashari No.109, Rajawali"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.5917784,
+               "lng" : 103.6167305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.590407069708498,
+                  "lng" : 103.6181933302915
+               },
+               "southwest" : {
+                  "lat" : -1.593105030291502,
+                  "lng" : 103.6154953697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+         "name" : "GKPJ",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103917229536027974131\"\u003eBenri Saragih\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIeCsH-jrGErbbhYSm1S6salbLKJ4lcVoZKby3fQtg5cbX2lIDKR6sieQ0qd2H1Owvz1AZMj24keRMMo8avdthl7jBsSpZ7ZawWEtvBylS5meJ0O0-YEeq59GYu56Ei6-T7TH02_fIgetZ9VVg9f6eYaRgbqErxPn8e_-_8uXX9N691",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJa2g2miCJJS4RlCRCSZyeui0",
+         "plus_code" : {
+            "compound_code" : "CJ58+7M Pasar Jambi, Jambi City, Jambi, Indonesia",
+            "global_code" : "6PC5CJ58+7M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJa2g2miCJJS4RlCRCSZyeui0",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45,
+         "vicinity" : "Jalan Dokter Sutomo No.48-51, Pasar Jambi"
+      }
+   ],
+   "status" : "OK"
+}
