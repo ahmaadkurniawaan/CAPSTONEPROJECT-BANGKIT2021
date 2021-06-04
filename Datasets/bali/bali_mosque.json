@@ -41,11 +41,7 @@
          "reference" : "ChIJq_Rv7ls60i0RBTh_QPEYxjc",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 483,
          "vicinity" : "Jalan Kamboja Desa No.14, Dauh Peken"
@@ -92,11 +88,7 @@
          "reference" : "ChIJoWbyNOpA0i0RI8fqng6FlCA",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 1181,
          "vicinity" : "Jalan Diponegoro No.192, Dauh Puri Klod"
@@ -140,11 +132,7 @@
          "reference" : "ChIJv82whjhA0i0RCfbGbVRknZg",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 2173,
          "vicinity" : "Jalan Hang Tuah, Sanur Kaja"
@@ -190,7 +178,7 @@
          "rating" : 4.6,
          "reference" : "ChIJKXssszJ40S0Rp547FvZ8h-Y",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi","sejarah" ],
          "user_ratings_total" : 50,
          "vicinity" : "Celukan Bawang"
       },
@@ -232,7 +220,7 @@
          "rating" : 4.8,
          "reference" : "ChIJK_Cq_GMW0i0R-LVEWcwohP0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi","sejarah" ],
          "user_ratings_total" : 376,
          "vicinity" : "Jalan Kesatrian No.16, Gianyar"
       },
@@ -274,7 +262,7 @@
          "rating" : 4.8,
          "reference" : "ChIJHfa19Ts_0i0RqrqwFlNYmBk",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 75,
          "vicinity" : "Jalan Tunggul Ametung III A No.15 - 15A, Denpasar Utara, Ubung Kaja"
       },
@@ -316,7 +304,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ8VlhXIE40i0Rs7LOUAXiEDo",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 542,
          "vicinity" : "Jalan Krishna X No.174, Tibubeneng"
       },
@@ -361,7 +349,7 @@
          "rating" : 4.8,
          "reference" : "ChIJDeV5-FFH0i0R3CJMtq7K0-I",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 145,
          "vicinity" : "Jalan Padang Indah IV, Padangsambian Klod"
       },
@@ -406,7 +394,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ22BcZZhA0i0RogjN6yOAB98",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 565,
          "vicinity" : "Jalan Kalimantan No.19, Dauh Puri Kangin"
       },
@@ -451,7 +439,7 @@
          "rating" : 4.6,
          "reference" : "ChIJe_AlcrRA0i0RqRM20RV8OCU",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 280,
          "vicinity" : "Br. Sari Buana, Jalan Gunung Lebah No.25, Tegal Harum"
       },
@@ -493,7 +481,7 @@
          "rating" : 4.4,
          "reference" : "ChIJAQAAN5VA0i0RG6Nc5QcVv38",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 37,
          "vicinity" : "Jalan Diponegoro No.B 12, Dauh Puri Klod"
       },
@@ -534,7 +522,7 @@
          },
          "reference" : "ChIJO2bXIf1A0i0RNnfBVofkHP8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Tukad Batu Agung No.3, Dauh Puri Klod"
       },
       {
@@ -578,7 +566,7 @@
          "rating" : 4.6,
          "reference" : "ChIJEwy-9LVG0i0RaZP_bYMewCg",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 89,
          "vicinity" : "Jalan Merdeka Raya IX No.21, Kuta"
       },
@@ -623,7 +611,7 @@
          "rating" : 4.6,
          "reference" : "ChIJ0aoB3r5G0i0RuwJpsfFQPt4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 229,
          "vicinity" : "Kuta"
       },
@@ -669,11 +657,7 @@
          "reference" : "ChIJcQsiQbZG0i0RXOiVmPhKcO0",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 2446,
          "vicinity" : "Jalan Raya Kuta No.75"
@@ -718,7 +702,7 @@
          },
          "reference" : "ChIJB-mnNcsp0i0Rb8uwItKigpU",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Bali chhack mundia sahi"
       },
       {
@@ -759,7 +743,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ6c8Mi9KO0S0RAkihwLIdT_c",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 59,
          "vicinity" : "Jalan Raya Bedugul, Pancasari"
       },
@@ -801,7 +785,7 @@
          "rating" : 5,
          "reference" : "ChIJOagATb-P0S0R13LooxN8ZQQ",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Raya Bedugul, Pancasari"
       },
@@ -843,7 +827,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ259HnhGJ0S0RXQkLBjU9MMo",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 14,
          "vicinity" : "Candikuning"
       },
@@ -885,7 +869,7 @@
          "rating" : 4.5,
          "reference" : "ChIJXydx3w2J0S0RV7aJwSmkOeQ",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 12,
          "vicinity" : "Jalan Baturiti Bedugul No.19, Batunya"
       }

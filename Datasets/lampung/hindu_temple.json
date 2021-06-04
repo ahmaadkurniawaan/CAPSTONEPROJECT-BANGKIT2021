@@ -40,10 +40,7 @@
          "reference" : "ChIJ8WF-ixLFQC4RYe7qitf8FZU",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan Melati, Labuhan Dalam"
@@ -87,63 +84,10 @@
          "reference" : "ChIJbRhy4DrFQC4RI5nA32zYvC8",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 45,
          "vicinity" : "Labuhan Dalam"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.3615125,
-               "lng" : 105.2439769
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.360106019708498,
-                  "lng" : 105.2453755802915
-               },
-               "southwest" : {
-                  "lat" : -5.362803980291503,
-                  "lng" : 105.2426776197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
-         "name" : "ASRAMA PUTRA PUTRI BALI DWIPA 01",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 1920,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110177402514458993196\"\u003eAde Pastika\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLkRdQLaddD69ouSVJyGltDnInrSt3o6L4F17u6ozM6soyI6MnWF3Of6Z9uMHBmEqtDus5S5cdV7krxwPpV6RmEczdu1kfRsdNn1ZLtEDvTVlhcOLXfgbhxGRyh5H0AdmUC1tg24hMeQtRJzh0Zs3Lap_Ui0RkB0nmJj94YyfU8baAo",
-               "width" : 1080
-            }
-         ],
-         "place_id" : "ChIJL2L6UmHFQC4RKMtFsDetR-8",
-         "plus_code" : {
-            "compound_code" : "J6QV+9H Kampung Baru, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J6QV+9H"
-         },
-         "rating" : 4.5,
-         "reference" : "ChIJL2L6UmHFQC4RKMtFsDetR-8",
-         "scope" : "GOOGLE",
-         "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 2,
-         "vicinity" : "Kampung Baru"
       }
    ],
    "status" : "OK"

@@ -28,7 +28,7 @@
          },
          "reference" : "ChIJvyAMlDTtODAReBEcJuU_odQ",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Jalan Sengeda No.10, Takengon Timur"
       },
       {
@@ -59,7 +59,7 @@
          "rating" : 4,
          "reference" : "ChIJC8uOAf2TODARassyokp_sbI",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "Unnamed Road, Bale Atu"
       }

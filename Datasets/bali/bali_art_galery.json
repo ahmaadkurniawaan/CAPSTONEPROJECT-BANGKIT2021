@@ -41,11 +41,7 @@
          "reference" : "ChIJ3zs3xO8X0i0RJq_jm7uvDho",
          "scope" : "GOOGLE",
          "types" : [
-            "primary_school",
-            "art_gallery",
-            "school",
-            "point_of_interest",
-            "establishment"
+            "budaya","sejarah"
          ],
          "user_ratings_total" : 3,
          "vicinity" : "br.cagaan kelod, Jalan Raya Pejeng Kangin No.8, Pejeng Kangin"
@@ -91,7 +87,7 @@
          "rating" : 4.4,
          "reference" : "ChIJCdq44d0W0i0R5tjjXwnkbtM",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "park", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","cagar alam" ],
          "user_ratings_total" : 1358,
          "vicinity" : "Jl. Taman Bali – Banjarangkan Banjar Blahpane Kelod, Sidan"
       },
@@ -136,7 +132,7 @@
          "rating" : 4.8,
          "reference" : "ChIJGTUvYo090i0RSRpw7dC_FyU",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "store", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 26,
          "vicinity" : "Jalan Raya Mas No.116, MAS"
       },
@@ -182,10 +178,7 @@
          "reference" : "ChIJecL-2mw90i0RSSahNiTjwvQ",
          "scope" : "GOOGLE",
          "types" : [
-            "art_gallery",
-            "tourist_attraction",
-            "point_of_interest",
-            "establishment"
+            "budaya","sejarah"
          ],
          "user_ratings_total" : 47,
          "vicinity" : "Jalan Monkey Forest, Ubud"
@@ -232,11 +225,7 @@
          "reference" : "ChIJb4jiebsY0i0RX-ReSWsmjOw",
          "scope" : "GOOGLE",
          "types" : [
-            "art_gallery",
-            "museum",
-            "point_of_interest",
-            "store",
-            "establishment"
+            "budaya"
          ],
          "user_ratings_total" : 3,
          "vicinity" : "Jalan Raya Bayad-Tampaksiring Br. Bayad, Kedisan"
@@ -281,7 +270,7 @@
          },
          "reference" : "ChIJQ9PG--oY0i0RtE361-9r1DM",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "vicinity" : "gunung kawi rocky temple street, Tampaksiring"
       },
       {
@@ -322,39 +311,9 @@
          "rating" : 4.5,
          "reference" : "ChIJx-h6olg80i0R-oH6nIQom1g",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "user_ratings_total" : 51,
          "vicinity" : "Jl. Banjar Baturning Desa Mambal, Abiansemal, Mambal"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.2545064,
-               "lng" : 115.1504172
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.253142569708499,
-                  "lng" : 115.1517949802915
-               },
-               "southwest" : {
-                  "lat" : -8.255840530291504,
-                  "lng" : 115.1490970197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Saya Gallery",
-         "place_id" : "ChIJV-qxtC2J0S0REvpwGRe6BmA",
-         "plus_code" : {
-            "compound_code" : "P5W2+55 Pancasari, Buleleng Regency, Bali, Indonesia",
-            "global_code" : "6P3QP5W2+55"
-         },
-         "reference" : "ChIJV-qxtC2J0S0REvpwGRe6BmA",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "vicinity" : "Jl. Laksmana No. 12X Benoa Kuta Selatan Badung Bali, Pancasari"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -386,7 +345,7 @@
          },
          "reference" : "ChIJlenxyDs90i0R-LgQMIR_2io",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "vicinity" : "Jalan Raya Sanggingan, Sayan"
       },
       {
@@ -430,7 +389,7 @@
          "rating" : 4.5,
          "reference" : "ChIJUQBN0ms90i0Rokm4JHC_xC4",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jl. Raya Ubud Kutuh Kelod Ubud Ubud Gianyar Bali, Ubud"
       },
@@ -461,7 +420,7 @@
          },
          "reference" : "ChIJOV3MLjE90i0Ryl8ddCkpyXQ",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "vicinity" : "Jl. Raya Sanggingan Ubud Ubud Gianyar Bali, Kedewatan"
       },
       {
@@ -502,141 +461,9 @@
          "rating" : 5,
          "reference" : "ChIJO2WNXfsi0i0RpMlM62ixLrw",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "user_ratings_total" : 1,
          "vicinity" : "Alila Ubud, JL. Raya Payangan, Melinggih Kelod, 80572 Bali, Indonesia, Melinggih Kelod"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.40171,
-               "lng" : 115.2952
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.400360669708499,
-                  "lng" : 115.2966054802915
-               },
-               "southwest" : {
-                  "lat" : -8.403058630291504,
-                  "lng" : 115.2939075197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "CV.Pondok Prima Art Production",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4608,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108031373352363256993\"\u003ePuri Ananda villa\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwItoWXQRcPub43uGArwmEYw0eVPF2cA7CnndiUQ02jY2KTB8qKXBMMP7blRWRoXbUHy45iuo11L8UnstdQK1pNBLriVs7x7SvNwE7TB3hQstg8XV4pRR1qVMskdl9_uLCmodhU8xyngIZ2_by-GCalITZHDLoFYopFOrF-ftYAull1B",
-               "width" : 3456
-            }
-         ],
-         "place_id" : "ChIJrYtIr1If0i0RRKBjduaLZVY",
-         "plus_code" : {
-            "compound_code" : "H7XW+83 Sebatu, Gianyar, Bali, Indonesia",
-            "global_code" : "6P3QH7XW+83"
-         },
-         "rating" : 4.7,
-         "reference" : "ChIJrYtIr1If0i0RRKBjduaLZVY",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 7,
-         "vicinity" : "Jl. Banjar Sebatu, Sebatu, Tegalalang, Gyanyar, Sebatu"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.5290403,
-               "lng" : 115.1110038
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.5276746697085,
-                  "lng" : 115.1123092802915
-               },
-               "southwest" : {
-                  "lat" : -8.530372630291504,
-                  "lng" : 115.1096113197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Karikatur kaliaja",
-         "photos" : [
-            {
-               "height" : 388,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106804794778484621500\"\u003eKASUB channel\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLxffPv3zGgDRxdz3WpvNJUnXCfRr94Tw8NYxHeLkovuVU-O7oG_s6-FL-8k8d2RYZvg_q37AMNzzVJyKP_HisE2qmjWk-mTprOWkJxJw6p97iFWb5Olb2_ewXT_jeHn0UW9MoDT23D-zJhbZ9WlqzyQgmB7Tc2oCLr6a9WZGyucclL",
-               "width" : 500
-            }
-         ],
-         "place_id" : "ChIJu5jrV5I60i0RKq_LtQRUnLQ",
-         "plus_code" : {
-            "compound_code" : "F4C6+9C Samsam, Tabanan Regency, Bali, Indonesia",
-            "global_code" : "6P3QF4C6+9C"
-         },
-         "rating" : 4.2,
-         "reference" : "ChIJu5jrV5I60i0RKq_LtQRUnLQ",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 11,
-         "vicinity" : "Jl teratai kutuh Kelod, Samsam"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.444226699999998,
-               "lng" : 115.2806657
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.442876319708498,
-                  "lng" : 115.2820372802915
-               },
-               "southwest" : {
-                  "lat" : -8.445574280291503,
-                  "lng" : 115.2793393197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Bali Evan",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 4128,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/107334845392487291329\"\u003eMade Parta\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKV7nYCshal5iaRWs3ZaGNu7Oj7eLXTWTKQmNZUFBv9wOjb-rIvCqdhrZDJnSN-KeLuWOM9PZwox4NaGvljn-DKtbh0nN01eMyYEyvQCOQZ77H02SvaWk1RaBeR4_OiZT2iBR3csy-ES3T9f-Iz6n7dsrs2LHpm4Mtl4YUipmpAAdk0",
-               "width" : 2322
-            }
-         ],
-         "place_id" : "ChIJC4mViYAi0i0RaeDNGnSlCi8",
-         "plus_code" : {
-            "compound_code" : "H74J+87 Tegallalang, Gianyar, Bali, Indonesia",
-            "global_code" : "6P3QH74J+87"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJC4mViYAi0i0RaeDNGnSlCi8",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 5,
-         "vicinity" : "Jalan Raya Tegallalang, Tegallalang"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -679,7 +506,7 @@
          "rating" : 5,
          "reference" : "ChIJUcY7vOoY0i0RLEemRF2IAHo",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 3,
          "vicinity" : "Jalan Doktor Ir. Soekarno No.18, Tampaksiring"
       },
@@ -724,54 +551,9 @@
          "rating" : 5,
          "reference" : "ChIJ8ztoS80i0i0RnnhhYLZo4gQ",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Raya Lungsiakan, Kedewatan"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.543277399999997,
-               "lng" : 115.1028998
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.541951519708494,
-                  "lng" : 115.1042813802915
-               },
-               "southwest" : {
-                  "lat" : -8.544649480291499,
-                  "lng" : 115.1015834197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Karikatur Kusuka",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 1920,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108474383039655046956\"\u003eKarikatur Kusukart\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwL5UcuGVVCN3daAVetxZE8WSmjS0LKjJNK0nGh5kwK1mdR-v4yE5Yx2u0vyCXx4Yc9hultXn8P3gryc3oCBANCseyLHCASsphb7g4pN2MnUKP5sUu4W6Mu8Cl3hSSVfAamjbSM6kleHOJAYCh1udgQktCIBaMPbInpRJow7lypGS3WP",
-               "width" : 2560
-            }
-         ],
-         "place_id" : "ChIJ_____3Mw0i0RGIpaP1AGmb4",
-         "plus_code" : {
-            "compound_code" : "F443+M5 Pangkung Karung, Tabanan Regency, Bali, Indonesia",
-            "global_code" : "6P3QF443+M5"
-         },
-         "rating" : 5,
-         "reference" : "ChIJ_____3Mw0i0RGIpaP1AGmb4",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 8,
-         "vicinity" : "Selingsing Kelod, Pangkung Karung"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -800,7 +582,7 @@
          },
          "reference" : "ChIJvbqxjzM90i0RxmrmAp5_Fxo",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "vicinity" : "Jalan Raya Sanggingan No.88x, Kedewatan"
       },
       {
@@ -844,7 +626,7 @@
          "rating" : 4.8,
          "reference" : "ChIJqwqJUDE90i0RCderUAUBpqw",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 6,
          "vicinity" : "Jalan Raya Sanggingan, Kedewatan, Ubud, Kedewatan"
       }

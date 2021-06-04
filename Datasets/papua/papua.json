@@ -1,0 +1,91 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -4.6297633,
+                "lng" : 137.9726829
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -4.628414319708497,
+                   "lng" : 137.9740318802915
+                },
+                "southwest" : {
+                   "lat" : -4.631112280291502,
+                   "lng" : 137.9713339197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+          "name" : "Lorentz National Park",
+          "photos" : [
+             {
+                "height" : 485,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104910607758944151232\"\u003eBukan Sarjana\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJjoanobmbpkBdlqY557CELh2-8VOqSC8ImjykCE0MMY9fvgKRKU1isN6ts-NoOcFdpwIUgZoZYUHPraaO28QbsYNox4gvyr31hvp101b2m1kUXFPLYmC0tmCKV2iPp5uoMKhCkyyUoQgXPUqK82mJpSqxLuYeT31BP76gJB8pE3wZH",
+                "width" : 719
+             }
+          ],
+          "place_id" : "ChIJW7_YynLaOmgRfzitHLiyrOU",
+          "plus_code" : {
+             "compound_code" : "9XCF+33 Yakapis, Asmat Regency, Papua, Indonesia",
+             "global_code" : "6Q7V9XCF+33"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJW7_YynLaOmgRfzitHLiyrOU",
+          "scope" : "GOOGLE",
+          "types" : [ "cagar_alam" ],
+          "user_ratings_total" : 318,
+          "vicinity" : "Papua"
+       },
+       {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.922766099999999,
+              "lng" : 138.3500204
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.920893769708497,
+                 "lng" : 138.3518100302915
+              },
+              "southwest" : {
+                 "lat" : -3.923591730291502,
+                 "lng" : 138.3491120697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Baptis Malagai",
+        "photos" : [
+           {
+              "height" : 540,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109014371233594406592\"\u003eJibirak Gelok\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwL6kfc1XzwWEjFUOGy1Kikb_NcSbwtHeF7MG7jwl1bVQo-UFmE3hCCsb31oL4cOXJFwYoqkIBQd08xO-xmFgPbtfsjQJaErHgJlD1O6y0JF1svLOEJ6y4TFUr6luNJBoOj06lG6AxkYrGA36iqKN8UjCefvIPiP0rcaeIpb-00zIhSd",
+              "width" : 720
+           }
+        ],
+        "place_id" : "ChIJHUgTYCyTPWgRcBYoZXJHmCQ",
+        "plus_code" : {
+           "compound_code" : "39G2+V2 Logom, Lanny Jaya Regency, Papua, Indonesia",
+           "global_code" : "6Q8W39G2+V2"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJHUgTYCyTPWgRcBYoZXJHmCQ",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Unnamed Road, Logom"
+     }
+    ],
+    "status" : "OK"
+ }
+ 

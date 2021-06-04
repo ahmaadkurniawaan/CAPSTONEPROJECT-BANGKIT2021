@@ -40,7 +40,7 @@
          "rating" : 4.6,
          "reference" : "ChIJj_pJUDg50i0R7kLPWH50GM4",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 43,
          "vicinity" : "Jalan Raya Abianbase, Abianbase"
       },
@@ -85,7 +85,7 @@
          "rating" : 4.9,
          "reference" : "ChIJRzbuhZM90i0RcyfRxeVXLPM",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 14,
          "vicinity" : "Jalan Ambarwati No.1, MAS"
       },
@@ -116,7 +116,7 @@
          },
          "reference" : "ChIJlcnIG0lDBAURGyTumDgtrnc",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Laksamana No.156, Baktiseraga"
       },
       {
@@ -150,7 +150,7 @@
          "rating" : 5,
          "reference" : "ChIJC_Jm3Xma0S0RDAnMRHCI2ks",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Pahlawan, Banjar Tegal"
       },
@@ -195,7 +195,7 @@
          "rating" : 4.9,
          "reference" : "ChIJq4R2T9CC0S0R1Z8n2oZuhkI",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 7,
          "vicinity" : "Jalan Sudirman No.20, Tangguwisia"
       },
@@ -237,7 +237,7 @@
          "rating" : 4.8,
          "reference" : "ChIJiTgWUaNG0i0RmH7qqeKTEBE",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 112,
          "vicinity" : "Jalan Singosari No.3A, Dajan Peken"
       },
@@ -279,7 +279,7 @@
          "rating" : 4.6,
          "reference" : "ChIJE1SEkEQ60i0RW_Jyxh_uk-w",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 31,
          "vicinity" : "Jalan Mawar No.29, Delod Peken"
       },
@@ -324,7 +324,7 @@
          "rating" : 5,
          "reference" : "ChIJEanuNuAw0i0RQlWbkcjAA4c",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 6,
          "vicinity" : "Tibubiu"
       },
@@ -369,7 +369,7 @@
          "rating" : 4.6,
          "reference" : "ChIJF90TcmY90i0RRmz3wSJZHWc",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 42,
          "vicinity" : "Jalan Gunung Sari, Banjar Ambengan, Peliatan, Ubud, Peliatan"
       },
@@ -414,7 +414,7 @@
          "rating" : 3.8,
          "reference" : "ChIJ6-6438IZ0i0RMzITSlFh22g",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jalan Tirta Taman Sari I, Bebalang"
       },
@@ -456,7 +456,7 @@
          "rating" : 4.6,
          "reference" : "ChIJF5ORLNc40i0RVjpFetbyq7g",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 36,
          "vicinity" : "Jalan Tibung Sari No.5, Dalung"
       },
@@ -488,7 +488,7 @@
          "rating" : 4,
          "reference" : "ChIJyUK-1Og40i0Rim8xJ0eE10U",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Beringin No.80, Dalung"
       },
@@ -530,7 +530,7 @@
          "rating" : 4.9,
          "reference" : "ChIJryYz6PE40i0RsqCn6oIxzdI",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 63,
          "vicinity" : "Jalan Raya Babakan Canggu No.54, Canggu"
       },
@@ -573,11 +573,7 @@
          "reference" : "ChIJgcGP58c40i0RJ6iyxcUkqHo",
          "scope" : "GOOGLE",
          "types" : [
-            "church",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 76,
          "vicinity" : "Jalan Raya Padang Luwih, Dalung, Kuta Utara, Dalung"
@@ -620,7 +616,7 @@
          "rating" : 4.7,
          "reference" : "ChIJI4qb_2k_0i0RTTD22X4aYw8",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 186,
          "vicinity" : "Jalan Mulawarman No.92A, Abianbase"
       },
@@ -665,7 +661,7 @@
          "rating" : 4.8,
          "reference" : "ChIJKbymLgU_0i0Rxz4fc3YPuOw",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi"],
          "user_ratings_total" : 790,
          "vicinity" : "Jalan Antasura, Peguyangan Kangin"
       },
@@ -707,7 +703,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ1R2FFjU_0i0R60BremIUslI",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 174,
          "vicinity" : "Perumahan Ciputra, Jalan Sari Dana C No.6, Ubung"
       },
@@ -749,7 +745,7 @@
          "rating" : 4.4,
          "reference" : "ChIJRf5vdkw_0i0Rkq2bmGlhPac",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 20,
          "vicinity" : "Jalan Gatot Subroto Barat No.47 B, Padangsambian Kaja"
       },
@@ -791,7 +787,7 @@
          "rating" : 4.7,
          "reference" : "ChIJYxTLyEg_0i0RTkH2AHMt3Jw",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 12,
          "vicinity" : "No.111, Jalan Pidada No.5, Ubung"
       },
@@ -833,7 +829,7 @@
          "rating" : 4.6,
          "reference" : "ChIJK5cX3IY40i0Ry_TxycRpqAs",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 17,
          "vicinity" : "Jalan Krishna X No.174, Tibubeneng"
       }

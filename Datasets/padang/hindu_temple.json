@@ -29,10 +29,7 @@
          "reference" : "ChIJpVP_59y71C8R48eLidyqQD0",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "cagar_alam"
          ],
          "vicinity" : "Jalan Pampangan No.70, Pampangan Nan XX"
       },
@@ -67,10 +64,7 @@
          "reference" : "ChIJoS6Fcc3H1C8Rn4qMc9Od3CA",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "vicinity" : "Jalan By Pass, Aie Pacah"
       },
@@ -113,48 +107,10 @@
          "reference" : "ChIJBaZ2nsrA1C8RXzdB1gr2tvw",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 35,
          "vicinity" : "Parupuk Tabing"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.8154110999999998,
-               "lng" : 100.3022833
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.814033819708498,
-                  "lng" : 100.3036521302915
-               },
-               "southwest" : {
-                  "lat" : -0.8167317802915021,
-                  "lng" : 100.3009541697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
-         "name" : "Arsyad Cell",
-         "place_id" : "ChIJ8SX3xETD1C8Rlkby_pDoNlY",
-         "plus_code" : {
-            "compound_code" : "58M2+RW Padang Sarai, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF258M2+RW"
-         },
-         "reference" : "ChIJ8SX3xETD1C8Rlkby_pDoNlY",
-         "scope" : "GOOGLE",
-         "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "vicinity" : "Jalan Padang Sarai, Padang Sarai"
       }
    ],
    "status" : "OK"

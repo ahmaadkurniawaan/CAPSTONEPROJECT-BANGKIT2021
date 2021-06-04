@@ -40,7 +40,7 @@
          "rating" : 4.8,
          "reference" : "ChIJP5FN7Fq51C8RyLQOKrGN_VU",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 20,
          "vicinity" : "Jalan Kampung Nias V No.31, Belakang Pondok"
       },
@@ -81,7 +81,7 @@
          },
          "reference" : "ChIJb1TGdce51C8Rumrz8sNn408",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jl. Padang Cucul No.RT 21, Pasir Panjang"
       },
       {
@@ -115,7 +115,7 @@
          "rating" : 5,
          "reference" : "ChIJq7hb0EW51C8R_I7vlVw4KA0",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Kampung Nias VII No.8A, Ranah Parak Rumbio"
       },
@@ -146,7 +146,7 @@
          },
          "reference" : "ChIJo2UQSu-51C8RgOxF4d4ppUw",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Bgd. Aziz Chan No.19, Sawahan"
       },
       {
@@ -187,7 +187,7 @@
          "rating" : 4.5,
          "reference" : "ChIJ1Rwbu0e51C8Rhddxcwh5a_8",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 51,
          "vicinity" : "Jl. Sst Bagindo Azizkhan No.19, Kampung Jao"
       },
@@ -232,7 +232,7 @@
          "rating" : 5,
          "reference" : "ChIJDxA0JRK51C8R26QDVI3fDhw",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 12,
          "vicinity" : "Jalan Kampung Nias No.VI, Belakang Pondok"
       },
@@ -277,7 +277,7 @@
          "rating" : 4,
          "reference" : "ChIJ5aXKImG51C8RmO-1LtJei4Q",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jalan Kampung Nias V No.46, Ranah Parak Rumbio"
       },
@@ -319,7 +319,7 @@
          "rating" : 4.8,
          "reference" : "ChIJ4V3x8zm51C8Ry3abgpTnamM",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 72,
          "vicinity" : "Jalan Jendral Sudirman No.50, Jati Baru"
       },
@@ -364,7 +364,7 @@
          "rating" : 5,
          "reference" : "ChIJF9BmStW51C8RjUzsnzOgxaU",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan Pasar Malintang No.17, Belakang Pondok"
       },
@@ -409,39 +409,9 @@
          "rating" : 4.7,
          "reference" : "ChIJh0ZHh1C51C8RZ_tlKk-Oxwo",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 12,
          "vicinity" : "Jalan Arif Rahman Hakim No.29, RT.006/RW.02, Ranah Parak Rumbio"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9593313999999998,
-               "lng" : 100.3643292
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.958037969708498,
-                  "lng" : 100.3657226302915
-               },
-               "southwest" : {
-                  "lat" : -0.9607359302915021,
-                  "lng" : 100.3630246697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
-         "name" : "Gereja",
-         "place_id" : "ChIJV0bkxDO51C8RdsEcwmAQOV0",
-         "plus_code" : {
-            "compound_code" : "29R7+7P Belakang Pondok, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF229R7+7P"
-         },
-         "reference" : "ChIJV0bkxDO51C8RdsEcwmAQOV0",
-         "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Belakang Pondok"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -481,7 +451,7 @@
          "rating" : 3,
          "reference" : "ChIJSwOOw1q51C8RNUk0dHq_sNo",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 3,
          "vicinity" : "Jalan Kampung Nias II No.8a, RW.05, Belakang Pondok"
       },
@@ -523,39 +493,9 @@
          "rating" : 4.2,
          "reference" : "ChIJJ2ei6Vq51C8RMFHfacrtxy4",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 27,
          "vicinity" : "Jalan Kampung Nias II No.6-BC, Belakang Tangsi"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9580013000000003,
-               "lng" : 100.3628719
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.956628619708498,
-                  "lng" : 100.3641565802915
-               },
-               "southwest" : {
-                  "lat" : -0.9593265802915021,
-                  "lng" : 100.3614586197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
-         "name" : "Eben Haezar Padang",
-         "place_id" : "ChIJ6WiB61q51C8RepQzNdAVjDo",
-         "plus_code" : {
-            "compound_code" : "29R7+Q4 Belakang Pondok, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF229R7+Q4"
-         },
-         "reference" : "ChIJ6WiB61q51C8RepQzNdAVjDo",
-         "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Jalan Kampung Nias II No.21, Belakang Pondok"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -584,7 +524,7 @@
          },
          "reference" : "ChIJ2aI4g-G51C8Rizp0JqjPA74",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Kampung Nias II, Belakang Pondok"
       },
       {
@@ -628,7 +568,7 @@
          "rating" : 5,
          "reference" : "ChIJt4Cwm1m51C8RdaKhL_EIK74",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jalan Pasar Borong III, Kampung Pondok"
       },
@@ -670,7 +610,7 @@
          "rating" : 4.8,
          "reference" : "ChIJ82Q9fkW51C8R5jXzPYDgELo",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 53,
          "vicinity" : "Jalan Karya No.6, Belakang Pondok"
       },
@@ -712,7 +652,7 @@
          "rating" : 4.3,
          "reference" : "ChIJyXFHsFq51C8R7VShzXVhs2s",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 10,
          "vicinity" : "Jl. Bong,, Padang, Sungai Sapih"
       },
@@ -757,7 +697,7 @@
          "rating" : 5,
          "reference" : "ChIJfzkwRA651C8RGP6yzARJ0VI",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jalan Niaga No.267, Belakang Pondok"
       },
@@ -799,7 +739,7 @@
          "rating" : 5,
          "reference" : "ChIJkz07gFe51C8RV6la0XEy-lA",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "JL. Kalenteng No.299, Kampung Pondok"
       }

@@ -40,7 +40,7 @@
          "rating" : 4.3,
          "reference" : "ChIJDzGbwrToODAR3qMlJ1MaeA0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 8,
          "vicinity" : "Tansaril Bebesan, Takengon, Pendere Saril"
       },
@@ -85,7 +85,7 @@
          "rating" : 4.8,
          "reference" : "ChIJ2T49Rw_sODARXBmiBZNKWa4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Blang Kolak II"
       },
@@ -130,7 +130,7 @@
          "rating" : 5,
          "reference" : "ChIJjRL9TwXsODAR-ltf7GuOQU8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 5,
          "vicinity" : "Asir Asir"
       },
@@ -172,7 +172,7 @@
          "rating" : 4.7,
          "reference" : "ChIJh_BWsxDsODARc-qlj7ziMlw",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 11,
          "vicinity" : "Jalan Sengeda, Takengon Timur"
       },
@@ -204,7 +204,7 @@
          "rating" : 4.5,
          "reference" : "ChIJR6O5sDmTODARNEuRViZVUk8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Serule Kayu"
       },
@@ -238,7 +238,7 @@
          },
          "reference" : "ChIJmRCx24jdODAR9vFxzYTpAq4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Pantan Musara"
       },
       {
@@ -271,7 +271,7 @@
          },
          "reference" : "ChIJe2J7iX2SODAR7-2bjsf_1Q0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Hakim Wih Ilang"
       },
       {
@@ -315,7 +315,7 @@
          "rating" : 4.8,
          "reference" : "ChIJRfzwqH2SODAROaSoOInyOvc",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 6,
          "vicinity" : "Hakim Wih Ilang"
       },
@@ -350,7 +350,7 @@
          "rating" : 3.5,
          "reference" : "ChIJVyeyEHuNODARqDUX1kr7fE4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Remang Ketike Jaya"
       },
@@ -392,7 +392,7 @@
          "rating" : 4.8,
          "reference" : "ChIJfVVtHZKNODARDIQ91kyCJRE",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jadi Sepakat"
       },
@@ -434,7 +434,7 @@
          "rating" : 4.2,
          "reference" : "ChIJf7TkmJaNODARw9hcsM6SQuI",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 13,
          "vicinity" : "Sidodadi"
       },
@@ -465,7 +465,7 @@
          },
          "reference" : "ChIJVVVVVUTqODAR-nmmenq5gaM",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Kute Nireje, Lut Tawar, Atu Gajah Reje Guru"
       },
       {
@@ -495,7 +495,7 @@
          },
          "reference" : "ChIJgVWncR_rODAR6h32odRl-qs",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Atu Gajah Reje Guru"
       },
       {
@@ -529,7 +529,7 @@
          "rating" : 5,
          "reference" : "ChIJeWqIs_PqODARy6SL_B5U8Zk",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : ["religi"],
          "user_ratings_total" : 1,
          "vicinity" : "Tapak Moge"
       },
@@ -560,7 +560,7 @@
          },
          "reference" : "ChIJVZtKz7DrODARYmV4LfL8RlM",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Ulu Nuih"
       },
       {
@@ -591,7 +591,7 @@
          "rating" : 4,
          "reference" : "ChIJVZtKz7DrODARP8FI_LXpAnY",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : ["religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Ulu Nuih"
       },
@@ -622,7 +622,7 @@
          },
          "reference" : "ChIJVZtKz7DrODAR9nKkFfUao9k",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Ulu Nuih"
       },
       {
@@ -652,7 +652,7 @@
          },
          "reference" : "ChIJVZtKz7DrODARXG3MCV4X7Ec",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Ulu Nuih"
       },
       {
@@ -682,7 +682,7 @@
          },
          "reference" : "ChIJVZtKz7DrODAR5RvCGF7G6RU",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Ulu Nuih"
       },
       {
@@ -712,7 +712,7 @@
          },
          "reference" : "ChIJVZtKz7DrODARCfH4S_Pb6kk",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Ulu Nuih"
       }
    ],

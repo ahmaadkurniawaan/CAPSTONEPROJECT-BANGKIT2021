@@ -44,13 +44,7 @@
          "reference" : "ChIJwWuGNoI40i0R_uVXfvLIqi0",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "bar",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
+            "cagar_alam"
          ],
          "user_ratings_total" : 83,
          "vicinity" : "Jalan Pantai Berawa Canggu, Tibubeneng"
@@ -97,10 +91,7 @@
          "reference" : "ChIJ-2Zw47yJ0S0RRdldgViSw_M",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "cagar_alam"
          ],
          "user_ratings_total" : 2075,
          "vicinity" : "Candikuning"
@@ -147,65 +138,10 @@
          "reference" : "ChIJz902B3yQ0S0R2yaWcqnPJjQ",
          "scope" : "GOOGLE",
          "types" : [
-            "travel_agency",
-            "amusement_park",
-            "school",
-            "point_of_interest",
-            "store",
-            "establishment"
+            "maritim","cagar_alam"
          ],
          "user_ratings_total" : 7,
          "vicinity" : "Adirama Beach Hotel Lovina, Jalan Seririt~Singaraja, Kaliasem"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.179010299999998,
-               "lng" : 114.994318
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.177461969708498,
-                  "lng" : 114.9956170802915
-               },
-               "southwest" : {
-                  "lat" : -8.180159930291502,
-                  "lng" : 114.9929191197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Krisna Funtasticland",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 1536,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108851219049042749933\"\u003eJoannes Rhino\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKv9WZppuP9oRstg1cOJc-x8W476WqHKT4dvi7fI_A_B13fRoYAWAiWZzMnS_k31gSfKgZXT9Q0DYXXrV3MqklV7b-W8M6bqjqBTuVu2vliisSd3zs62mKYxAeEvvcvG7cQs-BsBqYBy93VBRaeOXTP-vXkzLqw0NEzSWcV6SSPWaer",
-               "width" : 2048
-            }
-         ],
-         "place_id" : "ChIJEU9nwVSD0S0RGn_P6OQOseo",
-         "plus_code" : {
-            "compound_code" : "RXCV+9P Temukus, Buleleng Regency, Bali, Indonesia",
-            "global_code" : "6P3PRXCV+9P"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJEU9nwVSD0S0RGn_P6OQOseo",
-         "scope" : "GOOGLE",
-         "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 3303,
-         "vicinity" : "Jalan Seririt- Singaraja, Temukus"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -248,7 +184,7 @@
          "rating" : 3.7,
          "reference" : "ChIJ-z9c0xab0S0RH4Gomthyv5o",
          "scope" : "GOOGLE",
-         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "types" : [ "maritim" ],
          "user_ratings_total" : 3,
          "vicinity" : "Anturan"
       },
@@ -294,10 +230,7 @@
          "reference" : "ChIJb4Iru7Kc0S0Rmj0L9Q5qMrE",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "maritim"
          ],
          "user_ratings_total" : 490,
          "vicinity" : "Jalan Seririt - Singaraja, Temukus, Banjar, Temukus"
@@ -344,10 +277,7 @@
          "reference" : "ChIJM55nNRAj0i0RLFgA9kPyYMM",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "cagar alam"
          ],
          "user_ratings_total" : 380,
          "vicinity" : "Banjar Samuan Kangin Desa Carangsari, Kecamatan Petang, Carangsari"
@@ -394,10 +324,7 @@
          "reference" : "ChIJx7-WN3KU0S0RYl_h0mlnUIk",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "maritim"
          ],
          "user_ratings_total" : 1438,
          "vicinity" : "Jalan Raya Air Sanih, Bukti"
@@ -444,10 +371,7 @@
          "reference" : "ChIJ5ZiPtys90i0RUok0dF7Lh9w",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "cagar_alam"
          ],
          "user_ratings_total" : 6470,
          "vicinity" : "Jalan Dewi Saraswati No.7, Bongkasa Pertiwi"
@@ -494,11 +418,7 @@
          "reference" : "ChIJHbk8Jb_20S0R1v43gfUf4-4",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "lodging",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "maritim"
          ],
          "user_ratings_total" : 3942,
          "vicinity" : "Central Batur"
@@ -544,7 +464,7 @@
          "rating" : 4.5,
          "reference" : "ChIJW-fg_yA80i0RAftJbMXX_0A",
          "scope" : "GOOGLE",
-         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam","budaya" ],
          "user_ratings_total" : 74,
          "vicinity" : "Br Lateng, Sibang Kaja"
       },
@@ -589,59 +509,9 @@
          "rating" : 3.9,
          "reference" : "ChIJ82Ct__UW0i0REgPu_-WB_zw",
          "scope" : "GOOGLE",
-         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "types" : [ "maritim" ],
          "user_ratings_total" : 195,
          "vicinity" : "Gianyar, Samplangan"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.535079999999999,
-               "lng" : 115.3361846
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.533708769708495,
-                  "lng" : 115.3376940802915
-               },
-               "southwest" : {
-                  "lat" : -8.5364067302915,
-                  "lng" : 115.3349961197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Waterboom Bukit Jati",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110956367966298386606\"\u003eJuan Lavalle\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwJPKtMEFl3bQvMHXlyayEd9i1sZiuOsKhyT6bw7TXhPVImsyPD5M4UZvnYk-Efb0rDOLnEldkNh0_COinyJUQSFIhF5X0DLIVqYWVsVOap_SnmIuOAh3h2Lns8CQIDVyEQ3tE17mfNYah62qx8iPBnwfnMkVTr5WBYFWT5Xdo0yaeF_",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJqcodp_YW0i0RAcVsPzg0als",
-         "plus_code" : {
-            "compound_code" : "F87P+XF Samplangan, Gianyar, Bali, Indonesia",
-            "global_code" : "6P3QF87P+XF"
-         },
-         "rating" : 3.9,
-         "reference" : "ChIJqcodp_YW0i0RAcVsPzg0als",
-         "scope" : "GOOGLE",
-         "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 611,
-         "vicinity" : "Jalan Bukit Jati, Samplangan"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -685,10 +555,7 @@
          "reference" : "ChIJqZ1qazQ_0i0RlSSmznZwXpE",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "maritim"
          ],
          "user_ratings_total" : 2258,
          "vicinity" : "Perumahan CitraLand WA : +62 8996065053, Jalan Cargo Permai, Ubung Kaja"
@@ -733,10 +600,7 @@
          "reference" : "ChIJp2IjzIk40i0R3inbB6DK5C4",
          "scope" : "GOOGLE",
          "types" : [
-            "amusement_park",
-            "tourist_attraction",
-            "point_of_interest",
-            "establishment"
+            "maritim"
          ],
          "user_ratings_total" : 894,
          "vicinity" : "Jalan Pantai Batu Bolong, Canggu"
@@ -782,7 +646,7 @@
          "rating" : 4.2,
          "reference" : "ChIJozizjs0V0i0R_-sKWzeSgtw",
          "scope" : "GOOGLE",
-         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "types" : [ "maritim" ],
          "user_ratings_total" : 1086,
          "vicinity" : "Jalan Maruti, Keramas"
       },
@@ -824,57 +688,9 @@
          "rating" : 4.3,
          "reference" : "ChIJd6Sfthwb0i0Rx2CuVlHDoHU",
          "scope" : "GOOGLE",
-         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam","maritim" ],
          "user_ratings_total" : 43,
          "vicinity" : "Rendang"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.631947,
-               "lng" : 115.228748
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.630606319708498,
-                  "lng" : 115.2300592802915
-               },
-               "southwest" : {
-                  "lat" : -8.633304280291503,
-                  "lng" : 115.2273613197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "BALI TOUR",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 300,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/107429993242338882094\"\u003eBALI TOUR\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwJb-HLorqcjgwvHTYCAwbm9R0FlCpp-PwPkqKR9uhCIKwaCQVzmH7y2GXNgY4AjaauLSjEw3Tpvwv5G7XQCY_k8W6ng8ILkOQah-ScNrlBkSyJXS_YljkLihzsYtI1RGRJFLIhWBhSDgoghg2z56dgUp-jJA_oZ8mvebc3_stpkPPBO",
-               "width" : 870
-            }
-         ],
-         "place_id" : "ChIJr6ahEHM_0i0R1gycQ3LDNFs",
-         "plus_code" : {
-            "compound_code" : "969H+6F Tonja, Denpasar City, Bali, Indonesia",
-            "global_code" : "6P3Q969H+6F"
-         },
-         "reference" : "ChIJr6ahEHM_0i0R1gycQ3LDNFs",
-         "scope" : "GOOGLE",
-         "types" : [
-            "travel_agency",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
-         ],
-         "vicinity" : "Jalan Seroja, Tonja"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -918,10 +734,7 @@
          "reference" : "ChIJZYIV8HlH0i0ReCVM2Rw6wV0",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "amusement_park",
-            "point_of_interest",
-            "establishment"
+            "maritim"
          ],
          "user_ratings_total" : 326,
          "vicinity" : "Jalan Pantai Berawa, Tibubeneng"
@@ -954,7 +767,7 @@
          "rating" : 4.7,
          "reference" : "ChIJ24BeDptA0i0RfPPpAr_nVRw",
          "scope" : "GOOGLE",
-         "types" : [ "parking", "amusement_park", "point_of_interest", "establishment" ],
+         "types" : [ "maritim" ],
          "user_ratings_total" : 3,
          "vicinity" : "Benoa Harbour Marina, JL Raya Pelabuhan Benoa, Dangin Puri"
       }

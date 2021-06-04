@@ -44,44 +44,10 @@
          "reference" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 1815,
          "vicinity" : "Jalan Soekarno Hatta, Anggut Atas"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.792845099999999,
-               "lng" : 102.2607641
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.791436569708497,
-                  "lng" : 102.2621143802915
-               },
-               "southwest" : {
-                  "lat" : -3.794134530291501,
-                  "lng" : 102.2594164197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Seluma",
-         "place_id" : "ChIJVWFej-qxNi4Rbq_dXi6_P6A",
-         "plus_code" : {
-            "compound_code" : "6746+V8 Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P846746+V8"
-         },
-         "reference" : "ChIJVWFej-qxNi4Rbq_dXi6_P6A",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Pintu Batu"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -110,40 +76,8 @@
          },
          "reference" : "ChIJm1YRqSawNi4Rp5ky_RiNG1E",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "JL Rinjani, Pondok Pesantren Pancasila, Tengah Padang"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.7927923,
-               "lng" : 102.2618511
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.791391719708499,
-                  "lng" : 102.2631961302915
-               },
-               "southwest" : {
-                  "lat" : -3.794089680291503,
-                  "lng" : 102.2604981697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Jamik Culinary",
-         "place_id" : "ChIJJ06x9COwNi4RaIaaVAdhZoc",
-         "plus_code" : {
-            "compound_code" : "6746+VP Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P846746+VP"
-         },
-         "rating" : 1,
-         "reference" : "ChIJJ06x9COwNi4RaIaaVAdhZoc",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1,
-         "vicinity" : "Jalan Jendral. Sudirman No.202, Pintu Batu"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -168,7 +102,7 @@
          "place_id" : "ChIJ3ZIncySwNi4RdrxMkdba5N8",
          "reference" : "ChIJ3ZIncySwNi4RdrxMkdba5N8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Tengah Padang"
       },
       {
@@ -194,7 +128,7 @@
          "place_id" : "ChIJ3ZIncySwNi4RRoy1qehGyo8",
          "reference" : "ChIJ3ZIncySwNi4RRoy1qehGyo8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Tengah Padang"
       },
       {
@@ -220,7 +154,7 @@
          "place_id" : "ChIJ3ZIncySwNi4RRV2xtoTQ9H8",
          "reference" : "ChIJ3ZIncySwNi4RRV2xtoTQ9H8",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "JL Perumnas Sidomulyo, No. 12, Gading Cempaka, Tengah Padang"
       },
       {
@@ -265,11 +199,7 @@
          "reference" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 2122,
          "vicinity" : "Jalan Letjend Suprapto, Tengah Padang"
@@ -301,7 +231,7 @@
          },
          "reference" : "ChIJjwoEYNuxNi4RFfCJU85W7Mc",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Tengah Padang"
       },
       {
@@ -332,7 +262,7 @@
          "rating" : 4,
          "reference" : "ChIJk81QaSGwNi4R_j2tvoWqHXY",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 4,
          "vicinity" : "Jalan Sudirman III, Pintu Batu"
       },
@@ -363,7 +293,7 @@
          },
          "reference" : "ChIJPUIfWLuxNi4RT1r8qsMNK2A",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Letjend Suprapto No.2, Kebun Gerand"
       },
       {
@@ -407,7 +337,7 @@
          "rating" : 5,
          "reference" : "ChIJ-2rCNqmxNi4RneJrSa4mxc4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Tengah Padang"
       },
@@ -438,7 +368,7 @@
          },
          "reference" : "ChIJlWSsKiSwNi4RtxrIMyStlW4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
       },
       {
@@ -468,7 +398,7 @@
          },
          "reference" : "ChIJlWSsKiSwNi4RqkrrmWyChIU",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
       },
       {
@@ -498,7 +428,7 @@
          },
          "reference" : "ChIJlWSsKiSwNi4REiroyEIYQxA",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
       },
       {
@@ -528,7 +458,7 @@
          },
          "reference" : "ChIJlWSsKiSwNi4RqHfuEjyyC6g",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
       },
       {
@@ -558,7 +488,7 @@
          },
          "reference" : "ChIJT8qw3yawNi4RI0pC9ayFU5U",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan KH. Ahmad Dahlan No.48, Kebun Ros"
       },
       {
@@ -588,7 +518,7 @@
          },
          "reference" : "ChIJT8qw3yawNi4RcS4rcFFal0g",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan KH. Ahmad Dahlan No.48, Kebun Ros"
       },
       {
@@ -629,7 +559,7 @@
          "rating" : 4.6,
          "reference" : "ChIJieLxSyKwNi4RwdFTPh1dLrU",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 49,
          "vicinity" : "Jalan Cendrawasih, Kebun Gerand"
       },
@@ -660,7 +590,7 @@
          },
          "reference" : "ChIJrV3qziOwNi4RY4WyYPlkUtw",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Cendrawasih No.23, Kebun Gerand"
       }
    ],

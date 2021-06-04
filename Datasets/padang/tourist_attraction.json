@@ -44,170 +44,10 @@
          "reference" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 948,
          "vicinity" : "Jalan Dokter Muhammad Hatta, Anduring"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -1.0433713,
-               "lng" : 100.4129258
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -1.042011619708498,
-                  "lng" : 100.4142167302915
-               },
-               "southwest" : {
-                  "lat" : -1.044709580291502,
-                  "lng" : 100.4115187697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
-         "name" : "Losmen Carlos Homestay",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 2322,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106470491819663447947\"\u003eLosmen Carlos Homestay\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLPx6zgQSzh_jCJ21epu5kBN_cIQerArkprGdVYRdtarPnqAlQ7kxWZCTSJs6Y5f1T8QNM5zrksPo2v7aP_L9EiKYqlKZBjX6HWEQykBMZntA525q3JAs7DedCcLyg3YvKard3M3IQNJGRCexgPT1lNVExcX_uAiRbHZsHFIj87-Y4L",
-               "width" : 2319
-            }
-         ],
-         "place_id" : "ChIJDQP_ijSl1C8R5lwSE5UiUwg",
-         "plus_code" : {
-            "compound_code" : "XC47+M5 South Bungus, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PC2XC47+M5"
-         },
-         "rating" : 4.1,
-         "reference" : "ChIJDQP_ijSl1C8R5lwSE5UiUwg",
-         "scope" : "GOOGLE",
-         "types" : [
-            "tourist_attraction",
-            "lodging",
-            "travel_agency",
-            "park",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 432,
-         "vicinity" : "Jalan Raya Padang - Painan Pasar Laban, Kelurahan, Bungus Selatan"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9335039999999999,
-               "lng" : 100.37109
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.932077869708498,
-                  "lng" : 100.3723428302915
-               },
-               "southwest" : {
-                  "lat" : -0.9347758302915021,
-                  "lng" : 100.3696448697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "KGM Padang | Sewa Mobil di Padang dan Bukittinggi",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 965,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112237206427048241836\"\u003eKGM Padang | Sewa Mobil di Padang dan Bukittinggi\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKKIHyGITJUXZeQOqXy-AsIeONTyNFewXelHmvlqLky-ySvkXE3FIuc3cTQeFfZRH101hp4HDzuTq4zIwp6Ji1AaZR6jCRgtxLowjIy2s_0rbZgmVJKTs7zN8qejT8nXXLR1VHcBCzif_vg420GWEcgvuvlJOZVCAhEBRCBZjYWy-NM",
-               "width" : 1023
-            }
-         ],
-         "place_id" : "ChIJ2SH6GyK51C8RViR-VsrNPTk",
-         "plus_code" : {
-            "compound_code" : "398C+HC Jati, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF2398C+HC"
-         },
-         "rating" : 4.7,
-         "reference" : "ChIJ2SH6GyK51C8RViR-VsrNPTk",
-         "scope" : "GOOGLE",
-         "types" : [
-            "car_rental",
-            "tourist_attraction",
-            "travel_agency",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 19,
-         "vicinity" : "Jati Parak Salai No. 103 RT 004 RW 010 Kelurahan Jati Kecamatan Padang Timur, Jati"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9243182000000001,
-               "lng" : 100.3624681
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.922865569708498,
-                  "lng" : 100.3635791802915
-               },
-               "southwest" : {
-                  "lat" : -0.9255635302915021,
-                  "lng" : 100.3608812197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Grand Mosque of West Sumatra",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110749344877618741433\"\u003eRinatul Hayati\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKpuYcU0IwdRiuY1bFLZJp0Y_frrpKAwwJvxbS2pWB-np4FlrGz9JpMRRFK2fvERrDsMJwdxudfT6GsV22-QDGb_wGFZG1Slx4C_oa9CoI4wGmftiMKbX9hsYDht6wG25Ssm-HL6wjB2BSqXMY0oZH_nnakUud_GLDwDS-Rz4kwMk_S",
-               "width" : 3000
-            }
-         ],
-         "place_id" : "ChIJ8xkjjdm41C8R03CQNCOI-us",
-         "plus_code" : {
-            "compound_code" : "39G6+7X Alai Parak Kopi, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF239G6+7X"
-         },
-         "rating" : 4.8,
-         "reference" : "ChIJ8xkjjdm41C8R03CQNCOI-us",
-         "scope" : "GOOGLE",
-         "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 14849,
-         "vicinity" : "Jalan Khatib Sulaiman, Alai Parak Kopi"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -248,58 +88,10 @@
          "reference" : "ChIJC6A2klm51C8R6UNVCnmXpgY",
          "scope" : "GOOGLE",
          "types" : [
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 501,
          "vicinity" : "Jalan Kelenteng, Kampung Pondok"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9552701000000002,
-               "lng" : 100.3558283
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.953924769708498,
-                  "lng" : 100.3569440802915
-               },
-               "southwest" : {
-                  "lat" : -0.9566227302915021,
-                  "lng" : 100.3542461197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Museum Adityawarman",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104138721919639619391\"\u003eabdurrazak sp\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKLeSb56J4CT2YPOi2lOX7AKpV38Y8KXQQJDxprbkddkv8dMc0erYDysBFTWmE3SGaX5sluvcd8WSZTH_cuXqEs-Tp8sJ2WAWFkNFgQ5GCNRc33C6cMEI8sxcUIGDZtnzK_WZIReGJmchrVBLW4_rWR-iUdsSOQn_q1g3FCwlg_23zb",
-               "width" : 3024
-            }
-         ],
-         "place_id" : "ChIJcRVmd0651C8Re8cvlAEemYE",
-         "plus_code" : {
-            "compound_code" : "29V4+V8 Belakang Tangsi, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF229V4+V8"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJcRVmd0651C8Re8cvlAEemYE",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 2564,
-         "vicinity" : "Jalan Diponegoro No.10, Belakang Tangsi"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -342,7 +134,7 @@
          "rating" : 4.3,
          "reference" : "ChIJM03qlyy51C8R4-g6vxspOrY",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 640,
          "vicinity" : "Kelurahan Purus, Kecamatan Padang Barat, Purus"
       },
@@ -386,194 +178,8 @@
          },
          "reference" : "ChIJuV8KYFq51C8RN9NRfiFsnT0",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "vicinity" : "Jalan Nipah No.2, Berok Nipah"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9286774999999998,
-               "lng" : 100.3504575
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.9273320697084979,
-                  "lng" : 100.3517727302915
-               },
-               "southwest" : {
-                  "lat" : -0.930030030291502,
-                  "lng" : 100.3490747697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Monumen Merpati Perdamaian",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117283056980169000089\"\u003eadjhe ridwan\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLk9nHqNACQjJPkEuKE-QWuacVIxDFGDC76P7H-JF3FGpAEvDP0P5soSSVKUB_BBK_lNM3oD9RBrqFpze0y68fncDYqcwpxr-MQFh2RGb2z5EIcQBJicWBA2Syqvlb20tjdPnpsNgJIOEDdVCp0IMPfbcLN-LF4jR3ID_yFuRDgM5IJ",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJ6zf6rCq51C8RZW5YV49aSsI",
-         "plus_code" : {
-            "compound_code" : "39C2+G5 Rimbo Kaluang, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF239C2+G5"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJ6zf6rCq51C8RZW5YV49aSsI",
-         "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 6397,
-         "vicinity" : "Pantai Muaro Lasak, Rimbo Kaluang"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9110047,
-               "lng" : 100.350311
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.909627069708498,
-                  "lng" : 100.3516253802915
-               },
-               "southwest" : {
-                  "lat" : -0.9123250302915021,
-                  "lng" : 100.3489274197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "PUTRA MANDAU tour & travel",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 1152,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104611852040253761423\"\u003emugi kun\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKMKtXVW_sCWMfSbc3V-UdOM_zH_Ve-faAETUG2MCCTXjb24Kr7adDBNLdNGQYI8tL6EoHScINNlc7l8wVcokq6J7cSd6vNb6pHcOJIyWTotXl2gnEiVbTru-wfMFgFxTc0lupVfbmbFqOvWp3ByPJ3hnG-u7foQ0DNtf_G1b7ZHOig",
-               "width" : 2048
-            }
-         ],
-         "place_id" : "ChIJVbpRn8q41C8RawMBXR1Ejtk",
-         "plus_code" : {
-            "compound_code" : "39Q2+H4 North Ulak Karang, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF239Q2+H4"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJVbpRn8q41C8RawMBXR1Ejtk",
-         "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 8,
-         "vicinity" : "Jalan Jhoni Anwar No.pasar, Ulak Karang Utara"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -0.9109741999999998,
-               "lng" : 100.3502925
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -0.9096095197084979,
-                  "lng" : 100.3516224302915
-               },
-               "southwest" : {
-                  "lat" : -0.912307480291502,
-                  "lng" : 100.3489244697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Travel mania padang",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 810,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112693592003058684992\"\u003eTravel mania padang\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwK1dOiJ2vs6lPWRzBX6gvIv5Y0IdnLCV_vg_UVEaelbuLXeINllGh6NMliNBxab7nZN-Vm3KKe686APz83j3OB6InVFIbqsUIkJl1mmoeJPPazY4fypfIjWfEiF0tEoTYrr8sspZBflxyAZMM4-6AuYu9NErmCX1MohWy_SClIgq2MF",
-               "width" : 1440
-            }
-         ],
-         "place_id" : "ChIJVbpRn8q41C8RH7W-8OPSMzo",
-         "plus_code" : {
-            "compound_code" : "39Q2+J4 North Ulak Karang, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PF239Q2+J4"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJVbpRn8q41C8RH7W-8OPSMzo",
-         "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 43,
-         "vicinity" : "Jalan Jhoni Anwar Pasar No.1, Ulak Karang Utara"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -1.0450249,
-               "lng" : 100.4130331
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -1.043696119708498,
-                  "lng" : 100.4144989802915
-               },
-               "southwest" : {
-                  "lat" : -1.046394080291502,
-                  "lng" : 100.4118010197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Yangi beach Cafe",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 3456,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101268617214675044317\"\u003ewiekeey 44\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLBDhzHUTXhUNnTmMioKbAgX98v1Ajg2zGytZUK0A37BbcUwuaZ-0UK3mKyhN9BiVHgRMcUaS2w4RSGAPLp7TcFi3oqDYH3yzoBme3kTCgl8mbzFnPT94Jdcl1SA_5cxY3srPW08b3lzWP8VWosdbDyzt_Nbjp0j_98v0fEB10G7rJZ",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJM7hTPjSl1C8Rh6qG8MoljC4",
-         "plus_code" : {
-            "compound_code" : "XC37+X6 South Bungus, Padang City, West Sumatra, Indonesia",
-            "global_code" : "6PC2XC37+X6"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJM7hTPjSl1C8Rh6qG8MoljC4",
-         "scope" : "GOOGLE",
-         "types" : [
-            "tourist_attraction",
-            "cafe",
-            "food",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 361,
-         "vicinity" : "km.21 Bungus, Jalan Raya Padang - Painan, Bungus Selatan"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -616,7 +222,7 @@
          "rating" : 4.5,
          "reference" : "ChIJVVVVVTGk1C8Ri1KAJGcAdqQ",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 218,
          "vicinity" : "South Teluk Kabung"
       },
@@ -661,7 +267,7 @@
          "rating" : 4.4,
          "reference" : "ChIJa0R1L8Wm1C8RYVoeczNMaaU",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam","maritim" ],
          "user_ratings_total" : 359,
          "vicinity" : "Pinang River"
       },
@@ -703,7 +309,7 @@
          "rating" : 4.6,
          "reference" : "ChIJN_prGO3b1C8RA0NrGrxbgko",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 304,
          "vicinity" : "Lubuk Alung"
       },
@@ -748,7 +354,7 @@
          "rating" : 4.4,
          "reference" : "ChIJicHwNtxZ0y8Rr_8tIyz4leY",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "maritim" ],
          "user_ratings_total" : 316,
          "vicinity" : "Unnamed Rd,"
       },
@@ -793,7 +399,7 @@
          "rating" : 4,
          "reference" : "ChIJC5FfIN0zKy4RAgMgSSNNYHc",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 249,
          "vicinity" : "Jalan KPT. Bahar Hamid RT.01/RW.02, Laing"
       },
@@ -836,11 +442,7 @@
          "reference" : "ChIJKdOWPzTe1C8Rr1R_wtkHMZc",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 19,
          "vicinity" : "pauh, parit malintang, Parit Malintang"
@@ -886,7 +488,7 @@
          "rating" : 4.3,
          "reference" : "ChIJ02bpKdYr1S8RicWLQnNKJAw",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam","maritim" ],
          "user_ratings_total" : 55,
          "vicinity" : "Jl. Jendral Ahmad Yani - Jl Raya Lintas Sumatera,Kabupaten Tanah Datar, Danau"
       },
@@ -932,11 +534,7 @@
          "reference" : "ChIJwQ4ykEhS0y8RREj7fkWHraA",
          "scope" : "GOOGLE",
          "types" : [
-            "mosque",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 25,
          "vicinity" : "Jalan Ujung Tanjung, Sago Salido"

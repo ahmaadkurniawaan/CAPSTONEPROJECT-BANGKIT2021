@@ -1,0 +1,2723 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwK-ratveqOZliV4BZxKBFrokC3-6p0JUCgX_7BMHxU5DDgc3Wma2_FHfp2rq2vIVEDfgoxV4Zz0orOpemAAE0lW_VBXs51HtxgRZilz1Sobhlh5gJVIrnY41Uldl9qy9PCSEIEqPkh1aVNlGnEHCbmGtaH8izYEuZEHHlqVLFuxJhJb6MZHDdYur1XTPydMrlERhDvmnWA0keAbEKNBblPGhAeXPBmE-LBZ1HDXdpFg1QoVA9HgnGtplqB-6vuv94A7mWo1cCSLqUTOFgt26AqC4068uvlCKx3ghpbooCHvaEWeqt3w-LAVzJ_CUURNsCRWjmXFGC_EA8w5Uu4VSbHebsgxuVURC2NVTQrvkbo_5lybhf5L9SmG0ke_rYezGzIk7fUPkFvG2YlSSEn4lzQqkO1H6NZeT01MZ95neIW-p2J9da0c4qvywELJGY_xZg",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -0.9096668,
+                "lng" : 100.48556
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -0.9079993697084978,
+                   "lng" : 100.4864695302915
+                },
+                "southwest" : {
+                   "lat" : -0.9106973302915019,
+                   "lng" : 100.4837715697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Air Terjun Sarasah Ambun Suri",
+          "photos" : [
+             {
+                "height" : 1280,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111256174442531194879\"\u003eWildan Chaniago\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJijS3j7oss5FhwNfXvneVXj7IB_B2rO0tKubilf4RBVUOcC-eUSoxKWNvRvVHZ3UAOLerFjTI5FIFgLVkewxxWjL6eexIPuV4aN10xxQ-ZLwsgBWO8NbenwJbvS7A_vYyBSXhIyy5m-6lyyBYKGg-U3LMwqqaC_ekzn8os5EgjQeYh",
+                "width" : 719
+             }
+          ],
+          "place_id" : "ChIJDeBKnPG31C8RHBJytEKRgNg",
+          "plus_code" : {
+             "compound_code" : "3FRP+46 Limau Manis, Padang City, West Sumatra, Indonesia",
+             "global_code" : "6PF23FRP+46"
+          },
+          "rating" : 5,
+          "reference" : "ChIJDeBKnPG31C8RHBJytEKRgNg",
+          "scope" : "GOOGLE",
+          "types" : [ "cagar_alam","maritim" ],
+          "user_ratings_total" : 6,
+          "vicinity" : "Limau Manis"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -1.0190727,
+                "lng" : 100.3627863
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -1.017723719708498,
+                   "lng" : 100.3641352802915
+                },
+                "southwest" : {
+                   "lat" : -1.020421680291502,
+                   "lng" : 100.3614373197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Pulau Pasir Gadang",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105218482081120923385\"\u003eMuhammad haikal\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLp-p69sYv7PRgpfAojcmt_kse2EVL-AigPGKmeH9zi3WLJR32cqSt_HYFDJbvkBBk6ZwrX3d3Dk0GplWixunZupcYfpx-oWaeTYATOhY-zy11J9YlW6gErj1-1UbA_1dEkAmu1_aR7wrzTt7wOnUAm4cra5OBJQ6PAotT8O9LNVy_0",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJB9iL6Wi71C8RIBGIf1ClVBY",
+          "plus_code" : {
+             "compound_code" : "X9J7+94 Teluk Bayur, Padang City, West Sumatra, Indonesia",
+             "global_code" : "6PC2X9J7+94"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJB9iL6Wi71C8RIBGIf1ClVBY",
+          "scope" : "GOOGLE",
+          "types" : [ "maritim" ],
+          "user_ratings_total" : 20,
+          "vicinity" : "Teluk Bayur"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -1.2041431,
+                "lng" : 100.4623636
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -1.202874619708498,
+                   "lng" : 100.4636806302915
+                },
+                "southwest" : {
+                   "lat" : -1.205572580291502,
+                   "lng" : 100.4609826697085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Tarasah Sungai Tawar",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104090682266219441003\"\u003eDoris Doris\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJLG0Xs_jiYrdUIsyavnT2PeZeiCSeM0WO9l61ADb63boHuXLRV72UdB6fQ0WLO-LBNQNzZGP54aWSwV45rAx3Q4I0d74Q3-sbqYU476n7VIptsRwUefbheoVz8q6p69ZeKBVmXGtL1c3mRhbGDyU80393UflTp9Bwv3rglCBJnajm5",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJmeU6ecJX0y8RFvfZiciVkwA",
+          "plus_code" : {
+             "compound_code" : "QFW6+8W Nanggalo, South Pesisir Regency, West Sumatra, Indonesia",
+             "global_code" : "6PC2QFW6+8W"
+          },
+          "rating" : 5,
+          "reference" : "ChIJmeU6ecJX0y8RFvfZiciVkwA",
+          "scope" : "GOOGLE",
+          "types" : [ "cagar_alam","maritim" ],
+          "user_ratings_total" : 14,
+          "vicinity" : "Nanggalo"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -0.9507297000000001,
+                "lng" : 100.6997559
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -0.9495712197084979,
+                   "lng" : 100.7012086802915
+                },
+                "southwest" : {
+                   "lat" : -0.952269180291502,
+                   "lng" : 100.6985107197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Aia Angek Batu Janjang",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1840,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117882166217540301455\"\u003emarlis85\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI9f0xEOHeX4813DmWP7BKZY_DwKG9qxItBKcl5BlkCwlfN561lZfdmzHrnrsxoRHV12ugXBMZORBNJXNOXE_r_b1MPU30bHguKVY2TmupdJY7Gyw4XoiySfWTypjeaSF2N2pgPdDkvqUZdgQ78AzT0D1E43KGWbXDmFUtwxlAUK421",
+                "width" : 1078
+             }
+          ],
+          "place_id" : "ChIJlVrLCZJLKy4RMFpcaHq9MXk",
+          "plus_code" : {
+             "compound_code" : "2MXX+PW Limau Lunggo, Solok, West Sumatra, Indonesia",
+             "global_code" : "6PF22MXX+PW"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJlVrLCZJLKy4RMFpcaHq9MXk",
+          "scope" : "GOOGLE",
+          "types" : [ "cagar_alam" ],
+          "user_ratings_total" : 7,
+          "vicinity" : "Unnamed Road, Limau Lunggo"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -0.6915600000000001,
+                "lng" : 100.5628677
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -0.6902578697084979,
+                   "lng" : 100.5640559802915
+                },
+                "southwest" : {
+                   "lat" : -0.692955830291502,
+                   "lng" : 100.5613580197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Tapian Puti Subang Bagelang",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJSc8i4W3T1C8Rqb0Lwp49-gw",
+          "plus_code" : {
+             "compound_code" : "8H57+94 Saniangbaka, Solok, West Sumatra, Indonesia",
+             "global_code" : "6PF28H57+94"
+          },
+          "reference" : "ChIJSc8i4W3T1C8Rqb0Lwp49-gw",
+          "scope" : "GOOGLE",
+          "types" : [ "cagar_alam","maritim" ],
+          "vicinity" : "Saniangbaka"
+       },
+       {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.94536,
+              "lng" : 100.40712
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.944047019708498,
+                 "lng" : 100.4084963802915
+              },
+              "southwest" : {
+                 "lat" : -0.9467449802915021,
+                 "lng" : 100.4057984197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Studio Galeri Project",
+        "photos" : [
+           {
+              "height" : 1920,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111121264376982517837\"\u003eEgawa Perdana\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIFIesb15OxJP2JdxPXKoWxcwatTh9QJQmhdt5LvEBi5O1yaDeNcV3L037YdbuiLBkUZIS0rLk--XadTt55yr7c9hD5AnmkUT9OIlrZ0UFT-uIA8MTJ5oYwwPijHMNIL08R5cmfA9OUjEwRFB0F7oexpBqewM6NwG7cj2i9CNVIKYl4",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJrySio2q51C8RMCu9pctKDZA",
+        "plus_code" : {
+           "compound_code" : "3C34+VR Tanah Sirah Piai Nan XX, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23C34+VR"
+        },
+        "reference" : "ChIJrySio2q51C8RMCu9pctKDZA",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "vicinity" : "Tanah Sirah Piai Nan XX"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9391652999999999,
+              "lng" : 100.3975755
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9378600197084977,
+                 "lng" : 100.3989665302915
+              },
+              "southwest" : {
+                 "lat" : -0.9405579802915018,
+                 "lng" : 100.3962685697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "BULAN PETAK ART HOUSE",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3456,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113934984224014439783\"\u003eMuhammad Ishaq caine\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ_xsGqt9Uw2aKZQJReRG7O5zQK8YNDMbSjwGoS7FWl7KLlFAZivwVMq61wy2g5FqY4Rf2CbwSNDS9zez0FKtcWDVTgvNFNTlCzD08pyVBBYoqXNmrPYt660W3Y70mrxa3cfSwRDX0DeiDJXDdFnCElnC4JzT6agWgAtMGwsoiz4OZH",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJWY3NjB651C8RxbhNlFPBgHM",
+        "plus_code" : {
+           "compound_code" : "396X+82 Pasar Ambacang, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2396X+82"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJWY3NjB651C8RxbhNlFPBgHM",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "user_ratings_total" : 6,
+        "vicinity" : "Pasar Ambacang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9452258999999998,
+              "lng" : 100.3936833
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9438769197084979,
+                 "lng" : 100.3950322802915
+              },
+              "southwest" : {
+                 "lat" : -0.9465748802915019,
+                 "lng" : 100.3923343197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Gallery hias",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 303,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115365803205244625297\"\u003eGallery hias\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIRoIWdJo5j8u0ubgfKgCBCIZiyAMbURSJgvrI1x3aVbDwlImSL_Aan4v03k7tLnQzfkFKPVDvgbNPGkJPRsPTIydl_BPrvHgG41ow9WPQF3z--TlRAUWEC20lCpminWreOF0PQemqbDGkVH2R2ZGpo31bTLmUPRhSJxno2QqXZ-qIR",
+              "width" : 540
+           }
+        ],
+        "place_id" : "ChIJAex_Lxq51C8RqiX9Eg4OKWY",
+        "plus_code" : {
+           "compound_code" : "393V+WF Kubu Dalam Parak Karakah, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2393V+WF"
+        },
+        "reference" : "ChIJAex_Lxq51C8RqiX9Eg4OKWY",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "vicinity" : "Kubu Dalam Parak Karakah"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9136199,
+              "lng" : 100.405022
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9122864697084979,
+                 "lng" : 100.4063620302915
+              },
+              "southwest" : {
+                 "lat" : -0.914984430291502,
+                 "lng" : 100.4036640697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Art Sastra",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1522,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111255006109876528479\"\u003eArt Sastra\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLsqmf3sP-RFAVv40Afy-dZYUbUs-fPm1TNYXrlUTp_mGuBN_5B20thP4GnvV4hGmERS3XNmctnIzMKHEcg7PuBMbMr70VmP229g6rl0L4gfqfq8Hfzon8_m5Bkik95HzpEZCmpSmUXMyYbTH__t7PGIHw520JvculN2srewnDAHxS5",
+              "width" : 1015
+           }
+        ],
+        "place_id" : "ChIJmSOrDve51C8RUyZkcdOhCck",
+        "plus_code" : {
+           "compound_code" : "3CP4+H2 Korong Gadang, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23CP4+H2"
+        },
+        "reference" : "ChIJmSOrDve51C8RUyZkcdOhCck",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "vicinity" : "Taruko 1 Blok KK 13, Kelurahan RT.02/RW.10, Korong Gadang"
+     },    
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.8908710999999998,
+              "lng" : 100.3953449
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.8893442697084979,
+                 "lng" : 100.3966276302915
+              },
+              "southwest" : {
+                 "lat" : -0.892042230291502,
+                 "lng" : 100.3939296697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Sanggar Kaligrafi Seniman",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJXeKJy5m51C8RuUz8qF2WXL4",
+        "plus_code" : {
+           "compound_code" : "495W+M4 Sapih River, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2495W+M4"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJXeKJy5m51C8RuUz8qF2WXL4",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya","religi" ],
+        "user_ratings_total" : 2,
+        "vicinity" : "Jalan Syekh Umar Khalil No.Kelurahan, Sungai Sapih"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.958843,
+              "lng" : 100.3642997
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9574535197084978,
+                 "lng" : 100.3658084302915
+              },
+              "southwest" : {
+                 "lat" : -0.9601514802915019,
+                 "lng" : 100.3631104697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Kristen Kalam Kudus",
+        "photos" : [
+           {
+              "height" : 774,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108580006795693998586\"\u003eTiara M. Sinaga\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKg09PiXqFYA1GJWj9EGXaJagpdWURmRdVoCk0UCYqBslyUP_fsL18C0i6TfXeZwdx_O-Te6-OHpWWbmglq6m72zIW-1QaDN93bLO18l1Y5OPJ8McVpFs58hA5WccCYn_xqY9ODSweP-clG6-zXPB8gcmDEJZ2n7QWejpm_jq6nyul7",
+              "width" : 1032
+           }
+        ],
+        "place_id" : "ChIJP5FN7Fq51C8RyLQOKrGN_VU",
+        "plus_code" : {
+           "compound_code" : "29R7+FP Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+FP"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJP5FN7Fq51C8RyLQOKrGN_VU",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 20,
+        "vicinity" : "Jalan Kampung Nias V No.31, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9470831999999999,
+              "lng" : 100.417181
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9456674697084977,
+                 "lng" : 100.4186671302915
+              },
+              "southwest" : {
+                 "lat" : -0.9483654302915018,
+                 "lng" : 100.4159691697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "HKI PANGKALAN BUN",
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101418590676128323156\"\u003ePoppy Julita Simanjuntak\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKortNozjLCaotx1nvVvEA2F-dQ4AaoIgAT_pnYnqxO5rXhOYNG6XOr-LsaVTYtO5t5w3ZyS4X4eXJL-ZupBFrwkwKINH2o8f_9IJBZcApQ7VI-JxrvDkZ9i4Fl2WUkIvR6INcZfrr9W3jax0fDudhh1z4nt4kcMzZt2KV9eb0HJyqr",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJb1TGdce51C8Rumrz8sNn408",
+        "plus_code" : {
+           "compound_code" : "3C38+5V Piai Tangah, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23C38+5V"
+        },
+        "reference" : "ChIJb1TGdce51C8Rumrz8sNn408",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jl. Padang Cucul No.RT 21, Pasir Panjang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9559875999999999,
+              "lng" : 100.3656174
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9546348197084981,
+                 "lng" : 100.3668910802915
+              },
+              "southwest" : {
+                 "lat" : -0.9573327802915022,
+                 "lng" : 100.3641931197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GKNR Padang",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJq7hb0EW51C8R_I7vlVw4KA0",
+        "plus_code" : {
+           "compound_code" : "29V8+J6 Ranah Parak Rumbio, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229V8+J6"
+        },
+        "rating" : 5,
+        "reference" : "ChIJq7hb0EW51C8R_I7vlVw4KA0",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "Jalan Kampung Nias VII No.8A, Ranah Parak Rumbio"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9488769,
+              "lng" : 100.3629415
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9474802697084981,
+                 "lng" : 100.3644439802915
+              },
+              "southwest" : {
+                 "lat" : -0.9501782302915022,
+                 "lng" : 100.3617460197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GPIB Efrata",
+        "place_id" : "ChIJo2UQSu-51C8RgOxF4d4ppUw",
+        "plus_code" : {
+           "compound_code" : "3927+C5 Sawahan, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23927+C5"
+        },
+        "reference" : "ChIJo2UQSu-51C8RgOxF4d4ppUw",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Bgd. Aziz Chan No.19, Sawahan"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9488586000000003,
+              "lng" : 100.3628815
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9476140197084981,
+                 "lng" : 100.3642346802915
+              },
+              "southwest" : {
+                 "lat" : -0.9503119802915022,
+                 "lng" : 100.3615367197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GPIB Jemaat Efrata Padang",
+        "photos" : [
+           {
+              "height" : 4128,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103737053162863821397\"\u003eOgy Tahulending\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKidLC-g-FZm7Qp2FHL9BF08mc_4AGcpI-fnCrWRNqufoThqH29pN4x0BqEQxo5Ef8-JREQDBKHF9P_ZkV8JfKHZoSmHwsZRb3E5iGcJoRHTFo5MCbx6Tu5Af4KkggwuyJaQoxdiymtZBq7z-nAbL0mEfDqLnqZ8oRPlnpJzB0HyVMo",
+              "width" : 2322
+           }
+        ],
+        "place_id" : "ChIJ1Rwbu0e51C8Rhddxcwh5a_8",
+        "plus_code" : {
+           "compound_code" : "3927+F5 Kampung Jao, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23927+F5"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJ1Rwbu0e51C8Rhddxcwh5a_8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 51,
+        "vicinity" : "Jl. Sst Bagindo Azizkhan No.19, Kampung Jao"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9583056,
+              "lng" : 100.364978
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9569285697084978,
+                 "lng" : 100.3663091302915
+              },
+              "southwest" : {
+                 "lat" : -0.9596265302915019,
+                 "lng" : 100.3636111697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GPdI JEMAAT EBENHAEZER PADANG",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100835991082479528275\"\u003eFredy Natanael Pandeiroth\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK5yyFCCllCrTFUeW0C9zSfQoyqXoDYyT40oiS21RPgbBEcTlLg98OV7hf0_mCGZpeHNRGKQZewpeCEqiXA4eiebRJdcNPqDmqx_OAPoYWtrCRw3iF0YrlHPWdkGzRlu1jqk3C5fPLByc9POfA7AMrUs2FKV0Y4fcEcIbtrlzETpRF0",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJDxA0JRK51C8R26QDVI3fDhw",
+        "plus_code" : {
+           "compound_code" : "29R7+MX Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+MX"
+        },
+        "rating" : 5,
+        "reference" : "ChIJDxA0JRK51C8R26QDVI3fDhw",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 12,
+        "vicinity" : "Jalan Kampung Nias No.VI, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.957514,
+              "lng" : 100.3645061
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.956208619708498,
+                 "lng" : 100.3657620302915
+              },
+              "southwest" : {
+                 "lat" : -0.9589065802915021,
+                 "lng" : 100.3630640697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GBI Getsemani Padang",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 853,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111385263687379563420\"\u003eGBI Getsemani Padang\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIQD_UaJYpG8NdRb5H8YN-qTeMG5Vr4CoAA40EGxR8pngky2xYgkibRpaBSzqqJ-rrO1x7JQpowThWZUWFXfaazo69qT1SYOPoU6U66i0f7l_tttcF-hTNf890LMR5LAYYZzcQZMlg_3tBLY9DE0JnG2hI0YKworevHZLknlJE_sWRt",
+              "width" : 1280
+           }
+        ],
+        "place_id" : "ChIJ5aXKImG51C8RmO-1LtJei4Q",
+        "plus_code" : {
+           "compound_code" : "29R7+XR Ranah Parak Rumbio, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+XR"
+        },
+        "rating" : 4,
+        "reference" : "ChIJ5aXKImG51C8RmO-1LtJei4Q",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "Jalan Kampung Nias V No.46, Ranah Parak Rumbio"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9366102999999999,
+              "lng" : 100.3618675
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9352316697084979,
+                 "lng" : 100.3629320802915
+              },
+              "southwest" : {
+                 "lat" : -0.937929630291502,
+                 "lng" : 100.3602341197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Katolik St. Fransiskus Assisi Padang Baru",
+        "photos" : [
+           {
+              "height" : 622,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112489915719797657960\"\u003eNew Crusader\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIVH3hdAnUZLIA7QkkwAcAM5MXgcOXLksyH6S9CQmVqNx9zM12_7UW81f661TFHfJ18Szd5lsOdM6iQkE86zrBEYWsMu_mbmFeNaj0mOj67KsJ-fm_PmAO5gHfx09gcnCzaLBn46250aRlVcnzThTaZLj7mo8ucmDAgIGDhXnSmUEFb",
+              "width" : 996
+           }
+        ],
+        "place_id" : "ChIJ4V3x8zm51C8Ry3abgpTnamM",
+        "plus_code" : {
+           "compound_code" : "3976+9P Jati Baru, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23976+9P"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJ4V3x8zm51C8Ry3abgpTnamM",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 72,
+        "vicinity" : "Jalan Jendral Sudirman No.50, Jati Baru"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9596857000000001,
+              "lng" : 100.3648673
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.958270019708498,
+                 "lng" : 100.3663131302915
+              },
+              "southwest" : {
+                 "lat" : -0.9609679802915021,
+                 "lng" : 100.3636151697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Kemah Injil Indonesia Jemaat Padang",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103373596606551565611\"\u003eRonal Pasaribu58\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwISpD4qERZ62fAkn19dWE6DHA53fQjr5mmtHUf3LANBlVKbh8wG7T2QWdj6eMPYjxH29IqDKjeQRFDrMyZ3WA3WGTHGrpjkDoLufzuCzzSrHfHXRONt7L_wid6wlVfv1hdNCiArODheiqgnOfTXAoog1UW4nWj1_oJUl-GC7zpTM8RM",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJF9BmStW51C8RjUzsnzOgxaU",
+        "plus_code" : {
+           "compound_code" : "29R7+4W Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+4W"
+        },
+        "rating" : 5,
+        "reference" : "ChIJF9BmStW51C8RjUzsnzOgxaU",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 2,
+        "vicinity" : "Jalan Pasar Malintang No.17, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9593120999999998,
+              "lng" : 100.3643306
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9580242197084978,
+                 "lng" : 100.3657284802915
+              },
+              "southwest" : {
+                 "lat" : -0.9607221802915019,
+                 "lng" : 100.3630305197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GEREJA GKSI ANUGERAH PADANG",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 302,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117968955412060404345\"\u003eGEREJA GKSI ANUGERAH PADANG\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJzVhP9xsvCCRKnsr3GWTqK9WMfsY-aO85NAolC5zbvVcd32VxJERnQ-84in1ECean8_fAoAW8OTmiJy8dGmBjUZUZby6c5nzEx67Ka1_rVNIC8KwUpbPuKO2nVL0U7gf9-t-5njlwyjBNx4U4BnnWMXmtoZSKuHZ_8qyBI5p2ibvOj",
+              "width" : 540
+           }
+        ],
+        "place_id" : "ChIJh0ZHh1C51C8RZ_tlKk-Oxwo",
+        "plus_code" : {
+           "compound_code" : "29R7+7P Ranah Parak Rumbio, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+7P"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJh0ZHh1C51C8RZ_tlKk-Oxwo",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 12,
+        "vicinity" : "Jalan Arif Rahman Hakim No.29, RT.006/RW.02, Ranah Parak Rumbio"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9573897,
+              "lng" : 100.3628198
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.956064469708498,
+                 "lng" : 100.3642247302915
+              },
+              "southwest" : {
+                 "lat" : -0.9587624302915021,
+                 "lng" : 100.3615267697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GBKP Padang",
+        "photos" : [
+           {
+              "height" : 720,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109810088963464418096\"\u003eesron tarigan\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKZYFyNoISfft7etglhtI7AomArNkROg8ZfnCkbRRJ-ryUzTQpilKZzPZxnHW03cX8CqaJnRWxHRmfapovjk-BrH4BObO0astJk9wept0lb1i4mkgD8PZknA0GQJAhnPNdFi3QyB_wFcraswwtZy-HR1Af6-vbWO3ev2DcFunyfS0MC",
+              "width" : 960
+           }
+        ],
+        "place_id" : "ChIJSwOOw1q51C8RNUk0dHq_sNo",
+        "plus_code" : {
+           "compound_code" : "29V7+24 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229V7+24"
+        },
+        "rating" : 3,
+        "reference" : "ChIJSwOOw1q51C8RNUk0dHq_sNo",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Jalan Kampung Nias II No.8a, RW.05, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.957944,
+              "lng" : 100.362865
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9565760197084981,
+                 "lng" : 100.3641618802915
+              },
+              "southwest" : {
+                 "lat" : -0.9592739802915022,
+                 "lng" : 100.3614639197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja GBI",
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100897969306325188772\"\u003eucak ope\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKDMmnQp6y1rM0sj-VJIX3moguoKbIFqCMM3ZthXKH-vKhuBP0AkJtTGWGsAkcb8x7DPn1v3LxNAxbdzoFxyphs7j_oL3l3cCS0tFg2nBFtMQ1yDNXaEEuhWvev_7LXAR0bwD-U19_BygmY8QwIsi8IdpHpLUwXwS5N0a4MDQ8kQFYC",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJJ2ei6Vq51C8RMFHfacrtxy4",
+        "plus_code" : {
+           "compound_code" : "29R7+R4 Belakang Tangsi, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+R4"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJJ2ei6Vq51C8RMFHfacrtxy4",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 27,
+        "vicinity" : "Jalan Kampung Nias II No.6-BC, Belakang Tangsi"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9592398999999999,
+              "lng" : 100.3630102
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.957868019708498,
+                 "lng" : 100.3643688302915
+              },
+              "southwest" : {
+                 "lat" : -0.9605659802915021,
+                 "lng" : 100.3616708697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GBI Solagracia Kampung Nias III",
+        "place_id" : "ChIJ2aI4g-G51C8Rizp0JqjPA74",
+        "plus_code" : {
+           "compound_code" : "29R7+86 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229R7+86"
+        },
+        "reference" : "ChIJ2aI4g-G51C8Rizp0JqjPA74",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Kampung Nias II, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9614986000000001,
+              "lng" : 100.3635645
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.960267019708498,
+                 "lng" : 100.3650724802915
+              },
+              "southwest" : {
+                 "lat" : -0.9629649802915021,
+                 "lng" : 100.3623745197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GBI Agape Padang",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106031028023941396093\"\u003eYaman syaputra waruwu\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ5-tu4zCju8OxgEMilLSnzXXuExJmpmqhK06bE16iFxDswxv8fmMIbKLL6XcnfyCdM1kQrSmwrDtiPdjp_jRiFbKLtI0EsJEK1049MxSPGWlFTiuDPkZA0dNtPg1MRmii5u0HMk4bzfjMHJ4xqPhFaWR-EScmTPN30gZ7HQKm78eNg",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJt4Cwm1m51C8RdaKhL_EIK74",
+        "plus_code" : {
+           "compound_code" : "29Q7+CC Kampung Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229Q7+CC"
+        },
+        "rating" : 5,
+        "reference" : "ChIJt4Cwm1m51C8RdaKhL_EIK74",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "Jalan Pasar Borong III, Kampung Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9544062000000001,
+              "lng" : 100.3610666
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.953116019708498,
+                 "lng" : 100.3624107802915
+              },
+              "southwest" : {
+                 "lat" : -0.9558139802915021,
+                 "lng" : 100.3597128197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja BNKP",
+        "photos" : [
+           {
+              "height" : 545,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102694046095218479592\"\u003eaji sal\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJOJ4FKsJ4swFDdp-cSniReS_kp39cHx4Gl7xySEn6lr4F5uJHGlb0LoWHlSQoxkZwprVpIOLXgHQ-vwqE1QLK1v3IBIEjaIOcceXTMMj5p0ruFoLN1LVC0UcBkJoM2UzeU9s4sigcDSHZiai4OIplrCpplGnNJiDdzuh21Wfpd9gDN",
+              "width" : 419
+           }
+        ],
+        "place_id" : "ChIJ82Q9fkW51C8R5jXzPYDgELo",
+        "plus_code" : {
+           "compound_code" : "29W6+6C Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229W6+6C"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJ82Q9fkW51C8R5jXzPYDgELo",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 53,
+        "vicinity" : "Jalan Karya No.6, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9571399999999999,
+              "lng" : 100.361811
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9557643697084979,
+                 "lng" : 100.3630428802915
+              },
+              "southwest" : {
+                 "lat" : -0.958462330291502,
+                 "lng" : 100.3603449197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GBI Rayon 19",
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107572578943535415536\"\u003eDiana Yuliastuti\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJMoycJf6WfD9PcOnD5ONPdfx1cMBh7Y37vtQZ9RyvA3gVxM4d0EYreprYcalutexdGvhqTb80EXyzyY-hiUUyLYbbh6bOO32M-rhPpPsyCxDQlxRwQJlyd0aXEBpyXR2q_Xfow4fsxC-rKuNx4ciWAPyGOjlduf6VoBCFucUE4vVXt",
+              "width" : 2352
+           }
+        ],
+        "place_id" : "ChIJyXFHsFq51C8R7VShzXVhs2s",
+        "plus_code" : {
+           "compound_code" : "29V6+4P Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229V6+4P"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJyXFHsFq51C8R7VShzXVhs2s",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 10,
+        "vicinity" : "Jl. Bong,, Padang, Sungai Sapih"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9605613,
+              "lng" : 100.3627088
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.959164669708498,
+                 "lng" : 100.3641503302915
+              },
+              "southwest" : {
+                 "lat" : -0.9618626302915021,
+                 "lng" : 100.3614523697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GKSI JEMAAT PADANG",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106084958130003291273\"\u003eALFHA GUSTI NOVANOLO MARUHAWA\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJBuNAGnf-WlNRqtO9wmZKnhZqamgw_Pz3l4rnujevmXsWui3_-T_1JekqViXs15mL1wJaWikmGPfVOQmAurEmxM2bgiIyXnVJOZd_53CgjOMoWfIOV_7xG3NlmOATu7IoZzZzXb62DBOZste0KrgzVheVIbacqG4WT5Hjr3wXX6NZx",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJfzkwRA651C8RGP6yzARJ0VI",
+        "plus_code" : {
+           "compound_code" : "29Q7+Q3 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229Q7+Q3"
+        },
+        "rating" : 5,
+        "reference" : "ChIJfzkwRA651C8RGP6yzARJ0VI",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "Jalan Niaga No.267, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9615224000000001,
+              "lng" : 100.3630904
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9601909197084978,
+                 "lng" : 100.3644554802915
+              },
+              "southwest" : {
+                 "lat" : -0.9628888802915019,
+                 "lng" : 100.3617575197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Injil Seutuh Indonesia Ekklesia",
+        "photos" : [
+           {
+              "height" : 1920,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115623230489273297331\"\u003eAndre M Resdian\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJwsypdwJ4mlxnKbHRjQ1REf6jlcba0XIQf6cuYaAZuLkRjwmWV-aE4R6WhNHilbkrKJMlE6wmYVYENdngYSKYCOgTJBwf6S-Ti05_WG06jD93Nia8mXZCgd0I9h-4VSV7vT-b0ALo23KTVjZs46Xekxdr0z3xijMLCsp1c4QF-8nkG",
+              "width" : 2560
+           }
+        ],
+        "place_id" : "ChIJkz07gFe51C8RV6la0XEy-lA",
+        "plus_code" : {
+           "compound_code" : "29Q7+96 Kampung Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229Q7+96"
+        },
+        "rating" : 5,
+        "reference" : "ChIJkz07gFe51C8RV6la0XEy-lA",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "JL. Kalenteng No.299, Kampung Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9842997999999999,
+              "lng" : 100.3870992
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9828806197084979,
+                 "lng" : 100.3884085802915
+              },
+              "southwest" : {
+                 "lat" : -0.985578580291502,
+                 "lng" : 100.3857106197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+        "name" : "gunung talang",
+        "place_id" : "ChIJpVP_59y71C8R48eLidyqQD0",
+        "plus_code" : {
+           "compound_code" : "298P+7R Pampangan Nan XX, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2298P+7R"
+        },
+        "reference" : "ChIJpVP_59y71C8R48eLidyqQD0",
+        "scope" : "GOOGLE",
+        "types" : [
+           "cagar_alam"
+        ],
+        "vicinity" : "Jalan Pampangan No.70, Pampangan Nan XX"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.8721496999999999,
+              "lng" : 100.3833518
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.8707809197084979,
+                 "lng" : 100.3847252802915
+              },
+              "southwest" : {
+                 "lat" : -0.873478880291502,
+                 "lng" : 100.3820273197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+        "name" : "PuraHindu Nepal Biro Padang",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJoS6Fcc3H1C8Rn4qMc9Od3CA",
+        "plus_code" : {
+           "compound_code" : "49HM+48 Aie Pacah, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF249HM+48"
+        },
+        "reference" : "ChIJoS6Fcc3H1C8Rn4qMc9Od3CA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "vicinity" : "Jalan By Pass, Aie Pacah"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.8720724999999998,
+              "lng" : 100.3480542
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.8707235197084978,
+                 "lng" : 100.3494031802915
+              },
+              "southwest" : {
+                 "lat" : -0.8734214802915019,
+                 "lng" : 100.3467052197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+        "name" : "Pura Jagatnatha padang",
+        "photos" : [
+           {
+              "height" : 3456,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100432588457010942969\"\u003eKrishna17 RR\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJE2BZ8Uid-IW9HJgZxacDyR7-ukXFY6k-aX9cTDfTVVUOkvjnlzPXdwPdZkuP4MqmRshRQ4JZPfJRgdZ_c386ELsxKxlOtcpqii_JOrazZ9zHrDfcDL99TzgU7Qpwf3OTzsZ_KR8a0pBZyIc30AD3AsJ4CnYIV-bK-QWh8U0twHybb",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJBaZ2nsrA1C8RXzdB1gr2tvw",
+        "plus_code" : {
+           "compound_code" : "48HX+56 Parupuk Tabing, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF248HX+56"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJBaZ2nsrA1C8RXzdB1gr2tvw",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "user_ratings_total" : 35,
+        "vicinity" : "Parupuk Tabing"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9356979999999998,
+              "lng" : 100.3917883
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.934462119708498,
+                 "lng" : 100.3931696802915
+              },
+              "southwest" : {
+                 "lat" : -0.9371600802915021,
+                 "lng" : 100.3904717197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Raya Kebenaran",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104571930348811592684\"\u003eAndika Rida Putra\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ9vWNcFuvM3xNYSR4XRTKMroWdNgdQeBi7MZbVjCMF1vekE1DMxqZLz59ug9e1Vkav5I2dm1NUdA5DCWRME0kFnrIxwm7kra6eN3CY7PLqxoKD7X2gQUl9HGCW07cdRRGkqYtOtXkLZ5oK4OlbfvTPCQrhzxQoCMIxeh0AvZjAA0af",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+        "plus_code" : {
+           "compound_code" : "397R+PP Anduring, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2397R+PP"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "user_ratings_total" : 948,
+        "vicinity" : "Jalan Dokter Muhammad Hatta, Anduring"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9443788,
+              "lng" : 100.3610744
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9431325697084979,
+                 "lng" : 100.3624303802915
+              },
+              "southwest" : {
+                 "lat" : -0.945830530291502,
+                 "lng" : 100.3597324197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Jihad Kp Perak",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100293591296315526027\"\u003edahnil koto\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLkeD6TvIeI6n7z0X-vw9nNvTdR5TZhwROBvhdbCCcsrWsmfW8s9GtgBgARvCf911zzu8JWZEpFMSbd0PZOfj_edpLhFRPczT05NKdfBYm9PI8-zw3ez0tiRGD18iDnzaBC6-9UipYJ5ErIU8jKJnxvNkZQUtaAWMrSBDLc-IZBq1kP",
+              "width" : 6000
+           }
+        ],
+        "place_id" : "ChIJX2yCxTm51C8R5LZOeU-uHrQ",
+        "plus_code" : {
+           "compound_code" : "3946+6C Kampung Jao, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23946+6C"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJX2yCxTm51C8R5LZOeU-uHrQ",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 108,
+        "vicinity" : "Jalan Perak II No.2, Kampung Jao"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9541044999999998,
+              "lng" : 100.4092391
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9527133197084978,
+                 "lng" : 100.4104622802915
+              },
+              "southwest" : {
+                 "lat" : -0.9554112802915019,
+                 "lng" : 100.4077643197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "MUSHALLA MUHAJIRIN",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJM-RxB5G51C8RATV0qk7aSM4",
+        "plus_code" : {
+           "compound_code" : "2CW5+9M Tanah Sirah Piai Nan XX, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF22CW5+9M"
+        },
+        "rating" : 5,
+        "reference" : "ChIJM-RxB5G51C8RATV0qk7aSM4",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "Jalan Tanah Sirah, Tanah Sirah Piai Nan XX"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9568945999999999,
+              "lng" : 100.4085578
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9553813697084979,
+                 "lng" : 100.4097931802915
+              },
+              "southwest" : {
+                 "lat" : -0.9580793302915019,
+                 "lng" : 100.4070952197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Al-Anhar",
+        "place_id" : "ChIJ7fu0NpC51C8R27pa6AeMcVQ",
+        "plus_code" : {
+           "compound_code" : "2CV5+6C Tanjung Saba Pitameh Nan XX, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF22CV5+6C"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJ7fu0NpC51C8R27pa6AeMcVQ",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Tanjung Saba Pitameh Nan XX"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9475393,
+              "lng" : 100.3930875
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9462520197084978,
+                 "lng" : 100.3944722302915
+              },
+              "southwest" : {
+                 "lat" : -0.9489499802915019,
+                 "lng" : 100.3917742697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Darussakinah",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108741813347643788305\"\u003etaski aulia\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLlGLeCD9UTxlPk3EmWPLNYLRZub0V8tfKofpD_lmHlSMZR58aCsQhByOqhEgHfSfOzgKJyQsfrH66IFKH5y3JzO_J-w2mra-oKscTrIn-DDTiqtKtDJx1KaLgp5efc-QTqQ1Sz6IqRl0KHxAx3JN8vYBHb8TO0FalZLLy3HxA-cBKD",
+              "width" : 2448
+           }
+        ],
+        "place_id" : "ChIJkfftNnW51C8RsJywRG5heWU",
+        "plus_code" : {
+           "compound_code" : "392V+X6 Kubu Dalam Parak Karakah, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2392V+X6"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJkfftNnW51C8RsJywRG5heWU",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 82,
+        "vicinity" : "Kubu Dalam Parak Karakah"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9243182000000001,
+              "lng" : 100.3624681
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.922865569708498,
+                 "lng" : 100.3635791802915
+              },
+              "southwest" : {
+                 "lat" : -0.9255635302915021,
+                 "lng" : 100.3608812197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Grand Mosque of West Sumatra",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110749344877618741433\"\u003eRinatul Hayati\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK6wg-d344Mhp2ADsAijyOULIF7PjhdosOEYrLaPBwTRBJgBCrXqj6gQL-7LQg0CHfnYvrs4jnDob0TJTBCLtY2h5jZXH7g1_auD_YTTjB4Y94aAtYoiMQYQYkOnEbi1AAYGdEkbJH_4DEv6tkyAUtz5HEjjFKUYDo-TCQ8GmeAtKvm",
+              "width" : 3000
+           }
+        ],
+        "place_id" : "ChIJ8xkjjdm41C8R03CQNCOI-us",
+        "plus_code" : {
+           "compound_code" : "39G6+7X Alai Parak Kopi, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF239G6+7X"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJ8xkjjdm41C8R03CQNCOI-us",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "user_ratings_total" : 14849,
+        "vicinity" : "Jalan Khatib Sulaiman, Alai Parak Kopi"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.8283493000000001,
+              "lng" : 100.392372
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.826944019708498,
+                 "lng" : 100.3937325302915
+              },
+              "southwest" : {
+                 "lat" : -0.829641980291502,
+                 "lng" : 100.3910345697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Banat Ar Risalah",
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115394446455906296364\"\u003eAisha H Salsabila\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIYoIvRblJLDyormXoTiPHTAR1FdbnOlPsUCe00PF8YWRgbdfiquL0O8s-xqB04JQfMBLi8rf0FoJMpauO8WMYTEwUOGgGJpCS9JNr5hTyLJGh8a94s3uC_zcoxNPnzk8FoJa2dtWKtG34oxOYjO_8gBBloMkL-zy7APQU_3j5DwTne",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJ8SdupInG1C8RGKSLxRcShB4",
+        "plus_code" : {
+           "compound_code" : "59CR+MW Balai Gadang, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF259CR+MW"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJ8SdupInG1C8RGKSLxRcShB4",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 16,
+        "vicinity" : "Balai Gadang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.8516277,
+              "lng" : 100.3277735
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.850330569708498,
+                 "lng" : 100.3290698302915
+              },
+              "southwest" : {
+                 "lat" : -0.8530285302915021,
+                 "lng" : 100.3263718697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Darul Muttaqin",
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101239407108110791817\"\u003eMenson Hardius\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK_i-ME23myhzzRhXeJLg7FCpqEC9MFWNcEgDHgvq5KAGcIddGyBi_nSfp2APX45p-30-JNZozv10NMbZNgqF8y4OcOq1YNwubnsY1DyIFyUcqECKFUnBDfocYM0HIDWiTeQZut8wEgTAoFkQEkOn8FBcWnwE-j4XG3xuwfecRSZ4pO",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJ93dbLyDB1C8RsMdUYdciipc",
+        "plus_code" : {
+           "compound_code" : "48XH+84 Pasie Nan Tigo, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF248XH+84"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJ93dbLyDB1C8RsMdUYdciipc",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 10,
+        "vicinity" : "Pasie Nan Tigo"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -1.1415915,
+              "lng" : 100.4914717
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -1.140073669708498,
+                 "lng" : 100.4929681802915
+              },
+              "southwest" : {
+                 "lat" : -1.142771630291502,
+                 "lng" : 100.4902702197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Lubuak Buayo",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115399458261195962938\"\u003eSuara Relaksasi Alam\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKYmaRKsfbXdgEEcCAY6qLHnC1HuSUQTJZCSsNeL1M155t52r_XaTAT5fuV97ejPbhZZDYdCApBKQ9ZltdQKrMz5B8Kjcwi5AJ3SDI6RmzRN1e-ZJZOt-pQKQA4IqJ0evnBPzOBJAmWNncy5FSvjqhJBrO-14ZZZPYuqvhfHCEkMrvL",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJccUJlxup1C8R9Hsd9fS7g4Y",
+        "plus_code" : {
+           "compound_code" : "VF5R+9H Barung Barung Balantai, South Pesisir Regency, West Sumatra, Indonesia",
+           "global_code" : "6PC2VF5R+9H"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJccUJlxup1C8R9Hsd9fS7g4Y",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 8,
+        "vicinity" : "Barung Barung Balantai"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.748152,
+              "lng" : 100.2592006
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.746784669708498,
+                 "lng" : 100.2605751802915
+              },
+              "southwest" : {
+                 "lat" : -0.7494826302915021,
+                 "lng" : 100.2578772197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "masjid sikabu pilubang",
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115560426430958695575\"\u003eMul Yadi\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJwTuxmLPgKb2k9Ct5WrvZztDctVRyDDReu8-YsaTop2F18lywAwYMLQiQJDpBz0SW8_RmpG2dPhhOSk4Y1K2Or_-xUt7GMAo_eYX5xM4QeE8Kfb9DPXD9hniA1g0_DQvF8JAOdSRnlxHc4z63ADYOaz1J85XtN7H0oA5k-cgjFxN0S",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJHzLvYgLo1C8RQ8_DAw01ivI",
+        "plus_code" : {
+           "compound_code" : "7725+PM Katapiang, Padang Pariaman Regency, West Sumatra, Indonesia",
+           "global_code" : "6PF27725+PM"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJHzLvYgLo1C8RQ8_DAw01ivI",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "Unnamed Rd,, Katapiang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.7223024,
+              "lng" : 100.2779614
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.721018969708498,
+                 "lng" : 100.2794183302915
+              },
+              "southwest" : {
+                 "lat" : -0.7237169302915021,
+                 "lng" : 100.2767203697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Raya Al-Muqarrabin Aie Tajun",
+        "place_id" : "ChIJQWzRDWrd1C8RoauY6wlXzts",
+        "plus_code" : {
+           "compound_code" : "77HH+35 Lubuk Alung, Padang Pariaman Regency, West Sumatra, Indonesia",
+           "global_code" : "6PF277HH+35"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJQWzRDWrd1C8RoauY6wlXzts",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 7,
+        "vicinity" : "Korong Kampuang Paneh Nagari Aie Tajun Lubuk Alung, Lubuk Alung"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.7896817,
+              "lng" : 100.640061
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.7883542697084981,
+                 "lng" : 100.6414591302915
+              },
+              "southwest" : {
+                 "lat" : -0.7910522302915022,
+                 "lng" : 100.6387611697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Baitul Makmur (LDII)",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108600840094565035344\"\u003eWahyu Ahdika\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJqRhofYIK7-wCQ-zFq8iV6-s7jq5a8wRqj_7ezklSPdnsFOV66azQDpiLH42K13IrcEirKEklldK1bUE11niuUYXn2XtH7m5q-IqQg_aZeGr5KBMJ9jKoB-ZSD8QuRQ3Uv8lAZ-ipjvaV1uiencAvu2ixl9RPSQRAzNlWqh4m52WqK",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJD46pqD0zKy4R2DLnUemSBJ8",
+        "plus_code" : {
+           "compound_code" : "6J6R+42 Tanah Garam, Solok, West Sumatra, Indonesia",
+           "global_code" : "6PF26J6R+42"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJD46pqD0zKy4R2DLnUemSBJ8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 9,
+        "vicinity" : "Tanah Garam"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.6720596999999999,
+              "lng" : 100.5345278
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.6706296697084979,
+                 "lng" : 100.5358965802915
+              },
+              "southwest" : {
+                 "lat" : -0.673327630291502,
+                 "lng" : 100.5331986197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Musholla Jannatul Ma'wa",
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107624889026597732172\"\u003eAditya juan Syah\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJapEiqAk364df5dDq5UGUnNmobv8p06xvmphtE4j5jAP3OiFWp2-fV2JAuzMnISajNh6esz9EEg1EGEUDgOYB-mk6Er0FmeED8bDD5fllQYxMp9qa_rOCqXTSJ5Rhm7qYhMkIGGzZK4LOQGKl9ZZ7W2ik0qumfm1Y6DLics4KPL6ls",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJTb0dbvzT1C8RuDo0vby84bc",
+        "plus_code" : {
+           "compound_code" : "8GHM+5R Paninggahan, Solok, West Sumatra, Indonesia",
+           "global_code" : "6PF28GHM+5R"
+        },
+        "rating" : 3.8,
+        "reference" : "ChIJTb0dbvzT1C8RuDo0vby84bc",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 6,
+        "vicinity" : "Paninggahan"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9552701000000002,
+              "lng" : 100.3558283
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.953924769708498,
+                 "lng" : 100.3569440802915
+              },
+              "southwest" : {
+                 "lat" : -0.9566227302915021,
+                 "lng" : 100.3542461197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Museum Adityawarman",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104138721919639619391\"\u003eabdurrazak sp\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJkhAUCVXpyqCMeD7HhsXuNXiOv4RDCETSFv5eNMB6r_75xFs1DJ01wndYXAYa7prhE1F-wFtIluz1tmE4I1mtTcNL2LJ6SsSjlNJuVTbMnoyXIcKOKkjMyceqafeY2Eek7_nK9o-ncPJVDu1yUBPS5kvmmjCWp5qFA2IPS8PIAk_XP",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJcRVmd0651C8Re8cvlAEemYE",
+        "plus_code" : {
+           "compound_code" : "29V4+V8 Belakang Tangsi, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229V4+V8"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJcRVmd0651C8Re8cvlAEemYE",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya","sejarah" ],
+        "user_ratings_total" : 2564,
+        "vicinity" : "Jalan Diponegoro No.10, Belakang Tangsi"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.6257868000000001,
+              "lng" : 100.1196008
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.624413169708498,
+                 "lng" : 100.1209414302915
+              },
+              "southwest" : {
+                 "lat" : -0.6271111302915021,
+                 "lng" : 100.1182434697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Tugu Tabuik",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4962,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107467033689622715149\"\u003eYolviatama Aridelsya\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK_4C6cbR8Z5tkfXqrV7VLbzZGwYvr2PtpyrSROCmOxe0SMq-HTTcWgVGqUCjATRg-XpwPs126QFyt0CPA7_D4HRfKDWcO1PunK3bgFG5MJ-jVoPpUZArmxePj79LK5X5R37Urk5miOhco4XXCSjvh10zGzp-JhSFCiZAQH7vAeu9o",
+              "width" : 3720
+           }
+        ],
+        "place_id" : "ChIJM1IoH_zi1C8RmXxSH46qAWs",
+        "plus_code" : {
+           "compound_code" : "94F9+MR Pondok II, Pariaman City, West Sumatra, Indonesia",
+           "global_code" : "6PF294F9+MR"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJM1IoH_zi1C8RmXxSH46qAWs",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "user_ratings_total" : 284,
+        "vicinity" : "Jalan St . Syahrir, Pondok II"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9232959000000001,
+              "lng" : 100.4184318
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.921928669708498,
+                 "lng" : 100.4195454802915
+              },
+              "southwest" : {
+                 "lat" : -0.924626630291502,
+                 "lng" : 100.4168475197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Taman Makam Pahlawan",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110934892279665661173\"\u003eFATHUR RIZQI\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLeKv80Gf8yb-roxV6aWmWI6tK5VAgPxJCrxZ6iefqRM7UgFJOX6H5p1iFbYy66bMIfwXuaNofWnjxWhGYxI48KleePCCJbyGd25dRlm534oMj205GGrUqnJ5ySBIjfUdMlDzLGaV2vYshF9y37pLJ55_aLVpJ5j_kPuKw6zkTf9CbI",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJk4hrxxa41C8RMIobSu_s4Js",
+        "plus_code" : {
+           "compound_code" : "3CG9+M9 Kuranji, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23CG9+M9"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJk4hrxxa41C8RMIobSu_s4Js",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 188,
+        "vicinity" : "Jl. Raya Belimbing, Kuranji"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9455252999999999,
+              "lng" : 100.3773168
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9441900697084979,
+                 "lng" : 100.3785822302915
+              },
+              "southwest" : {
+                 "lat" : -0.946888030291502,
+                 "lng" : 100.3758842697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Tugu Tigo Tali Sapilin",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4896,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102747272035845826482\"\u003eSurya Budi Ariyadi\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLqe2N_lESOtNPJDWnzYV9Gp-uAVvc1RyV5mb9tsGTQN7hA7a0Na7XT702tdSXwa1qgyktn6nRNKM-Hu1dK6jSsIOpGyttpTnYhAih2ygRU_cHUUWk4rmlHzVntqfEonQzdEG3q3cYk1O0AwTzfCeBYVsUcWqoh8obksCjUJQZU5sEE",
+              "width" : 6528
+           }
+        ],
+        "place_id" : "ChIJHynhmhS51C8RueSeyEUIBVI",
+        "plus_code" : {
+           "compound_code" : "393G+QW Simpang Haru, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2393G+QW"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJHynhmhS51C8RueSeyEUIBVI",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "user_ratings_total" : 33,
+        "vicinity" : "Simpang Haru"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9152484999999997,
+              "lng" : 100.4311025
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9141165999999995,
+                 "lng" : 100.4321302802915
+              },
+              "southwest" : {
+                 "lat" : -0.9186442000000001,
+                 "lng" : 100.4294323197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Bukit Balango",
+        "place_id" : "ChIJ9Xdyb2251C8RTlgOTDgBhJk",
+        "plus_code" : {
+           "compound_code" : "3CMJ+WC Kuranji, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23CMJ+WC"
+        },
+        "reference" : "ChIJ9Xdyb2251C8RTlgOTDgBhJk",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam" ],
+        "vicinity" : "Kuranji"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9559351999999999,
+              "lng" : 100.3642719
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9545086697084978,
+                 "lng" : 100.3656113302915
+              },
+              "southwest" : {
+                 "lat" : -0.9572066302915019,
+                 "lng" : 100.3629133697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Museum Bagindo Aziz Chan",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114771763360058140936\"\u003eBayu Haryanto\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKv62n3wFRbWfDFMXTdR6r2VIKKP-prFLLY9sWQjIBz_wBtyy2QzzX2rHV2bCbvISsAne_SRJwl7vvRKmJWpQ8AzW2SsaWaa1KdUJxUxhhYS9xKhxpv8t7E1KDsfsFwlT6Rzq2qqZy11KKkFqDE45Svok1nApuh-sR3mperCKPH_pdO",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJzbFJ2kS51C8RDfk1PrBAD44",
+        "plus_code" : {
+           "compound_code" : "29V7+JP Alang Laweh, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229V7+JP"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJzbFJ2kS51C8RDfk1PrBAD44",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 25,
+        "vicinity" : "Alang Laweh"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9510025999999999,
+              "lng" : 100.3615223
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9495870197084979,
+                 "lng" : 100.3629787302915
+              },
+              "southwest" : {
+                 "lat" : -0.952284980291502,
+                 "lng" : 100.3602807697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Padang City Gallery (Balaikota Lama)",
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102501630578781325865\"\u003eOscar Adams\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLzj2KkQepYnx4OghsxX9XyfKFM0ycb3Ssb6CfII20D3G5Xr2-wM-Nuh_d7_jGG_KdP9RECSY0dZlxshXcpwYAJNix1uG5uZP4I5intL4vY96_r8DfHrZB_iFwL84g_ozmSjYTc3dxYPHe3yii3vL91ZP0gjTWrNWqKX1deDsLyTwER",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJ42FzGUa51C8RS_8w9Azhfvc",
+        "plus_code" : {
+           "compound_code" : "29X6+HJ Kampung Jao, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229X6+HJ"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJ42FzGUa51C8RS_8w9Azhfvc",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah","budaya" ],
+        "user_ratings_total" : 385,
+        "vicinity" : "Kampung Jao"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9547927,
+              "lng" : 100.3604648
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.953345669708498,
+                 "lng" : 100.3617950802915
+              },
+              "southwest" : {
+                 "lat" : -0.9560436302915021,
+                 "lng" : 100.3590971197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Tugu Adhi Karya Bhakti Praja",
+        "photos" : [
+           {
+              "height" : 2264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117519201160007530396\"\u003eDicky Suryadinata\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJEBFQbgKJ0jlCDQb3cSjw5A4jq1QcqQWfmqkHdlVA0zt-E0TbIwyC7Hsikv8MufrFiBM07FYDqrZGK-6O_3GnQV1l_qwE3jJBd-fmzyMLXARea3f9d1fGDVOOO1n4foslyLgihxvF7lPgDgsCxCb4D8DXj5ZWmCxx3S4hNvj9Y18NY",
+              "width" : 4025
+           }
+        ],
+        "place_id" : "ChIJNeStqf-51C8Rm-S4xv-rJyI",
+        "plus_code" : {
+           "compound_code" : "29W6+35 Belakang Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229W6+35"
+        },
+        "rating" : 5,
+        "reference" : "ChIJNeStqf-51C8Rm-S4xv-rJyI",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9156222000000001,
+              "lng" : 100.3643788
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9142844197084981,
+                 "lng" : 100.3655927802915
+              },
+              "southwest" : {
+                 "lat" : -0.9169823802915021,
+                 "lng" : 100.3628948197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Benteng Jepang Gunung Panggilun",
+        "place_id" : "ChIJUw5VIGC51C8RDnuhEF3N5ho",
+        "plus_code" : {
+           "compound_code" : "39M7+QQ Gunung Pangilun, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF239M7+QQ"
+        },
+        "reference" : "ChIJUw5VIGC51C8RDnuhEF3N5ho",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah","cagar_alam" ],
+        "vicinity" : "Gunung Pangilun"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9356979999999998,
+              "lng" : 100.3917883
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.934462119708498,
+                 "lng" : 100.3931696802915
+              },
+              "southwest" : {
+                 "lat" : -0.9371600802915021,
+                 "lng" : 100.3904717197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Raya Kebenaran",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104571930348811592684\"\u003eAndika Rida Putra\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwI20jcG8ZH-B5TcYQUXH0AtTL378zeDXnvZsQa4bquOjkZe11VJ1sHMWacu9T9qyMsM2_tkTC4ofkj4H_sw8doUsOQq6EKIJqUJzVEqktqtHQlfro9d5MFsZCWGCPpoYzQaaYnSuiWnx8p_bnUhZfZIFj5aklNnNvhTLlyiAsFPE60s",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+        "plus_code" : {
+           "compound_code" : "397R+PP Anduring, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF2397R+PP"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJqwxGSQa51C8Rb0EpE-8_CZA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "user_ratings_total" : 948,
+        "vicinity" : "Jalan Dokter Muhammad Hatta, Anduring"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9621143999999999,
+              "lng" : 100.3628228
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9606702197084979,
+                 "lng" : 100.3640986802915
+              },
+              "southwest" : {
+                 "lat" : -0.963368180291502,
+                 "lng" : 100.3614007197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_dharma-71.png",
+        "name" : "Kelenteng See Hin Kiong",
+        "photos" : [
+           {
+              "height" : 2250,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110417954382433689731\"\u003eFadhli Ihsan\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIPg0bvPEiI8AkHip52gK6smtPF5i8pZZzoiXQnNaPcO7lte2zRVaENuo-hW4jV8P01IaPxra_9WTL9byuLj8mbe1ksmYCficWXoGtode1BEIN5DCLQL-tAf54nY4APUgZfl--Q-nI1hxjwSJiHWFjdkmwdFx6Tt5hYLHJpKpw85k9_",
+              "width" : 4000
+           }
+        ],
+        "place_id" : "ChIJC6A2klm51C8R6UNVCnmXpgY",
+        "plus_code" : {
+           "compound_code" : "29Q7+54 Kampung Pondok, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229Q7+54"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJC6A2klm51C8R6UNVCnmXpgY",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi","sejarah"
+        ],
+        "user_ratings_total" : 501,
+        "vicinity" : "Jalan Kelenteng, Kampung Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9338367999999998,
+              "lng" : 100.3512528
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.9324834197084979,
+                 "lng" : 100.3527201802915
+              },
+              "southwest" : {
+                 "lat" : -0.935181380291502,
+                 "lng" : 100.3500222197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Danau Cimpago",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104611852040253761423\"\u003emugi kun\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK2hmbLWMg_sVTmxOlWKyc2O3lx3vhmE8ooO8SzI1Bt8gS2SoTjwsfJ0rgCsg3T2AvKXeDPpnWW0oW5AMF7OW44Ga9XkcAiTOWMTV2DTg-CKvr1rQ-C_-h-GT-slS_KR0SEpHE0iOiMQ8sDQXlax0msAoyWNcWZ8s0ALjXKsd6ndNEB",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJM03qlyy51C8R4-g6vxspOrY",
+        "plus_code" : {
+           "compound_code" : "3982+FG Purus, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF23982+FG"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJM03qlyy51C8R4-g6vxspOrY",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam" ],
+        "user_ratings_total" : 640,
+        "vicinity" : "Kelurahan Purus, Kecamatan Padang Barat, Purus"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.9613868999999998,
+              "lng" : 100.354397
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.959973519708498,
+                 "lng" : 100.3557883802915
+              },
+              "southwest" : {
+                 "lat" : -0.9626714802915021,
+                 "lng" : 100.3530904197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Cow Race Sumatra",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1997,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114407452616372915457\"\u003eCow Race Sumatra\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIgLIio_fTNZK6hVyjhj9fh6UegYTV8PDV9bMXQ_aSj9mZzrw-k0_K0bBnXss7lKMBvHvVjwUB2JVlVyiWM12furjS4COI3Mo4RG6P85CGOJYAa_reRh7AJtyfmxRI1V-0bwLEpYXX9GG96T2rEa1Xe1YcnCN3XahqO9EW0cT5z6Jsf",
+              "width" : 2947
+           }
+        ],
+        "place_id" : "ChIJuV8KYFq51C8RN9NRfiFsnT0",
+        "plus_code" : {
+           "compound_code" : "29Q3+CQ Berok Nipah, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PF229Q3+CQ"
+        },
+        "reference" : "ChIJuV8KYFq51C8RN9NRfiFsnT0",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya" ],
+        "vicinity" : "Jalan Nipah No.2, Berok Nipah"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -1.1157723,
+              "lng" : 100.3867153
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -1.114443669708498,
+                 "lng" : 100.3880617302915
+              },
+              "southwest" : {
+                 "lat" : -1.117141630291502,
+                 "lng" : 100.3853637697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Sungai Pisang",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114638418747488686173\"\u003ePuti Hanifa\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKQUQI2P7iGob1D_rzz0To2LmPVa7v1CIpWnO-xEP3b3YaISxbHpBkBACspn4i5lCKMZkNVOlmeTxapvJewkSBLXvlSBBBEfGLDl3rH4679JHbaHbXufswHLj7-CyNAzCxeBsvcokTuZ6ZwKtsS1AGJMprPCaMDozbmA_l9sT4v7hwv",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJVVVVVTGk1C8Ri1KAJGcAdqQ",
+        "plus_code" : {
+           "compound_code" : "V9MP+MM South Teluk Kabung, Padang City, West Sumatra, Indonesia",
+           "global_code" : "6PC2V9MP+MM"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJVVVVVTGk1C8Ri1KAJGcAdqQ",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam" ],
+        "user_ratings_total" : 218,
+        "vicinity" : "South Teluk Kabung"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -1.1446736,
+              "lng" : 100.3632614
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -1.143324619708498,
+                 "lng" : 100.3646103802915
+              },
+              "southwest" : {
+                 "lat" : -1.146022580291502,
+                 "lng" : 100.3619124197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Suwarnadwipa Beach Club Resort",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107752429383059762239\"\u003eSri syafriani Putri\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIX-TKXTKMPqbCHyl7pLzUREZf2ULOQ3NCbuNYGks58u8qoCviZhKBMyV9Un1ugslPAukyYJTyBIC86CfIq0mPru-aLZNl-J5xbOzY-bElQ6jH6G3LEWfAWn1s0hQLyeFb1y3IquXfNXtTTXXsnUenO2fcYpgANlPiSbVf82gDmg2lL",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJa0R1L8Wm1C8RYVoeczNMaaU",
+        "plus_code" : {
+           "compound_code" : "V947+48 Pinang River, South Pesisir Regency, West Sumatra, Indonesia",
+           "global_code" : "6PC2V947+48"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJa0R1L8Wm1C8RYVoeczNMaaU",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam","maritim" ],
+        "user_ratings_total" : 359,
+        "vicinity" : "Pinang River"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.6835131999999999,
+              "lng" : 100.3623766
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.6821642197084979,
+                 "lng" : 100.3637255802915
+              },
+              "southwest" : {
+                 "lat" : -0.684862180291502,
+                 "lng" : 100.3610276197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Air Terjun Nyarai",
+        "photos" : [
+           {
+              "height" : 1350,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117903590680173730054\"\u003eArif Rahman\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLOeZH37xkhtxppnVn9_fzsCj15Aa3oDtKRli8rHXmSeyTpcINkVihtJ22pckYRxKdU8v_WQjHpSjq0aLm9rQ_YkTJt56NhSmkg3q-tbyvXwGM2SVRUILAs8EfD2clljCB5EjttFq-65-LUIF9S_VSG09J5Urxg62A4aU0TpW4WVuvS",
+              "width" : 1080
+           }
+        ],
+        "place_id" : "ChIJN_prGO3b1C8RA0NrGrxbgko",
+        "plus_code" : {
+           "compound_code" : "8986+HX Lubuk Alung, Padang Pariaman Regency, West Sumatra, Indonesia",
+           "global_code" : "6PF28986+HX"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJN_prGO3b1C8RA0NrGrxbgko",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam" ],
+        "user_ratings_total" : 304,
+        "vicinity" : "Lubuk Alung"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -1.2460933,
+              "lng" : 100.4328345
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -1.244770869708498,
+                 "lng" : 100.4341710802915
+              },
+              "southwest" : {
+                 "lat" : -1.247468830291502,
+                 "lng" : 100.4314731197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Dermaga Carocok Wisata Mandeh",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 960,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110289989155060673246\"\u003eFeLin Feni L\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJik3MOX98P6ejbW6xY4U8ZPqifBLiZa1-eXisxwD7O0rdEeER2iGHBHvSfdyYcAgB7aYaij95blymAqqFwaSLc01JgvEjWSnqUo2J-dY7-CjiOimQQ4YVH_hBr2GWNXOvYdVyH9JmZRJChL3CnSVbCyZ47jTqa98v1tZAc6r3zdSCN",
+              "width" : 1280
+           }
+        ],
+        "place_id" : "ChIJicHwNtxZ0y8Rr_8tIyz4leY",
+        "plus_code" : {
+           "compound_code" : "QC3M+H4 Ampang Pulai, South Pesisir Regency, West Sumatra, Indonesia",
+           "global_code" : "6PC2QC3M+H4"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJicHwNtxZ0y8Rr_8tIyz4leY",
+        "scope" : "GOOGLE",
+        "types" : [ "maritim" ],
+        "user_ratings_total" : 316,
+        "vicinity" : "Unnamed Rd,"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.7521211,
+              "lng" : 100.6669642
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.750846819708498,
+                 "lng" : 100.6682509802915
+              },
+              "southwest" : {
+                 "lat" : -0.7535447802915021,
+                 "lng" : 100.6655530197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Laiang Park",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 538,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102524824898072539290\"\u003eLaiang Park\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIfPB9pjtTd2u3Rslq6L62v53BPTYd7qEILjLvYd5HePWoENZFz9hJhD7UQ_tPH1n3D_W1C2mWp0dJbRe3eXnA09XckW7VlS2yf5tl_ma_MjTIvWboXKRslUkbuNKxSFp5QpZPlrH8dCfg0bCZCDFrZ4dY2FE_bNR4NyQzPWTLFtBMX",
+              "width" : 960
+           }
+        ],
+        "place_id" : "ChIJC5FfIN0zKy4RAgMgSSNNYHc",
+        "plus_code" : {
+           "compound_code" : "6MX8+5Q Laing, Solok, West Sumatra, Indonesia",
+           "global_code" : "6PF26MX8+5Q"
+        },
+        "rating" : 4,
+        "reference" : "ChIJC5FfIN0zKy4RAgMgSSNNYHc",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam" ],
+        "user_ratings_total" : 249,
+        "vicinity" : "Jalan KPT. Bahar Hamid RT.01/RW.02, Laing"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.6326632999999999,
+              "lng" : 100.2783597
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.6313106197084979,
+                 "lng" : 100.2797107302915
+              },
+              "southwest" : {
+                 "lat" : -0.634008580291502,
+                 "lng" : 100.2770127697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Mesjid Raya Parit Malintang",
+        "photos" : [
+           {
+              "height" : 3264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108719127724691488536\"\u003eDhefin Maulana\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLnZcZopp9v7ItxOkACEq7gSNfmapvZG7256kWxqB0q_OHvWOAOiOe6Yb-hEz1GwdUkXVygg0FqJpr-7FinhkhjlFD5-K6-favCxU0KAeYMVrG0wvLzl-3ZO7HhoOoQNZKIXH_ThJ1LrDbHgH4qQwx0z9A-2BAnLln-tuA5L_w9acxu",
+              "width" : 2448
+           }
+        ],
+        "place_id" : "ChIJKdOWPzTe1C8Rr1R_wtkHMZc",
+        "plus_code" : {
+           "compound_code" : "978H+W8 Parit Malintang, Padang Pariaman Regency, West Sumatra, Indonesia",
+           "global_code" : "6PF2978H+W8"
+        },
+        "rating" : 4,
+        "reference" : "ChIJKdOWPzTe1C8Rr1R_wtkHMZc",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "user_ratings_total" : 19,
+        "vicinity" : "pauh, parit malintang, Parit Malintang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -0.6110093999999999,
+              "lng" : 100.541128
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -0.6096604197084979,
+                 "lng" : 100.5424769802915
+              },
+              "southwest" : {
+                 "lat" : -0.612358380291502,
+                 "lng" : 100.5397790197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Danau Singkarak",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1440,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110349727692669231515\"\u003eDanau Singkarak\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIEx2MFrFKwnqVMXdcESNE4ZQJ-bTBz8iOuwS2z2oNwjKhi0Ks9mj7tJH9MjNS1KKDnNfbZ1jzA6JgNC6_xvFQNQ3Nr1oBiJqx3DkvqvVgbr-4E214KZ4aG-lxC8K_tvKj2j2kKxlvfcvZoxj27BTBPMF9BG_ahUfI0gCIO8Rk3UyxW",
+              "width" : 2560
+           }
+        ],
+        "place_id" : "ChIJ02bpKdYr1S8RicWLQnNKJAw",
+        "plus_code" : {
+           "compound_code" : "9GQR+HF Danau, Solok, West Sumatra, Indonesia",
+           "global_code" : "6PF29GQR+HF"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJ02bpKdYr1S8RicWLQnNKJAw",
+        "scope" : "GOOGLE",
+        "types" : [ "cagar_alam","maritim" ],
+        "user_ratings_total" : 55,
+        "vicinity" : "Jl. Jendral Ahmad Yani - Jl Raya Lintas Sumatera,Kabupaten Tanah Datar, Danau"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -1.3139644,
+              "lng" : 100.5554403
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -1.312647069708498,
+                 "lng" : 100.5567478302915
+              },
+              "southwest" : {
+                 "lat" : -1.315345030291502,
+                 "lng" : 100.5540498697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Jabal Rahmah Sago",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1200,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107590476152462553505\"\u003eSutan Dafrizal\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ7o9pFs5HH_6xJZVRM8B3-Ip4azcj-RsnVtUJ68qIONXt2WHTH2KhHZKiKsk9woBLVEKvLog3TW_8eKSbkAJ3YMkCBjtPyFpZC6k6Vgu13bLmRWqxnAGKWb7DiPR2X1dqP-jzl-eXlqIaTiMk9g1T39aJ3TEUn193QB9mRf-DHgnYC",
+              "width" : 1600
+           }
+        ],
+        "place_id" : "ChIJwQ4ykEhS0y8RREj7fkWHraA",
+        "plus_code" : {
+           "compound_code" : "MHP4+C5 Sago Salido, South Pesisir Regency, West Sumatra, Indonesia",
+           "global_code" : "6PC2MHP4+C5"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJwQ4ykEhS0y8RREj7fkWHraA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "user_ratings_total" : 25,
+        "vicinity" : "Jalan Ujung Tanjung, Sago Salido"
+     }
+    ],
+    "status" : "OK"
+ }
+ 

@@ -28,7 +28,7 @@
          },
          "reference" : "ChIJxwDcqNSxNi4RxXQjHvlWFdE",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Pintu Batu"
       },
       {
@@ -58,7 +58,7 @@
          },
          "reference" : "ChIJ8VTaciSwNi4RT_ecjLPI1YA",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Tengah Padang"
       },
       {
@@ -102,7 +102,7 @@
          "rating" : 4.7,
          "reference" : "ChIJP5t0hSOwNi4RRVxKJD-7UAw",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 40,
          "vicinity" : "Aula Sariwangi, Jalan Soeprapto No.173, Kebun Gerand"
       },
@@ -133,7 +133,7 @@
          },
          "reference" : "ChIJQSzkpCOwNi4R2_JM4pRcXF8",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "JL. Kgs Hasan, Kebun Gerand"
       },
       {
@@ -163,7 +163,7 @@
          },
          "reference" : "ChIJ76gv3iKwNi4RmuuVaLD8PmE",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "JL Letjen Suprapto No.188, Kebun Dahri"
       },
       {
@@ -204,7 +204,7 @@
          "rating" : 4.5,
          "reference" : "ChIJ-Sty2SCwNi4RrkQ84yMu0dA",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 39,
          "vicinity" : "Jalan Veteran No.No, 31 JITRA"
       },
@@ -246,7 +246,7 @@
          "rating" : 4.7,
          "reference" : "ChIJH9duKdmvNi4RBuWafIhfhaI",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 79,
          "vicinity" : "Jalan Professor Dokter Hazairin, Malabero"
       },
@@ -278,7 +278,7 @@
          "rating" : 5,
          "reference" : "ChIJddLkfLuvNi4ROyomDpPOKv0",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 20,
          "vicinity" : "GSG St Aloysius, Pasar Baru"
       },
@@ -312,7 +312,7 @@
          },
          "reference" : "ChIJi7TvksSxNi4RwxGkWNVWIkI",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan S. Parman No.163, Padang Jati"
       }
    ],

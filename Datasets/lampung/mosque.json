@@ -3,49 +3,6 @@
    "next_page_token" : "ATtYBwLrAn2TMxXxyCTYZj8sP_h-CVu5S2vjIIwxsLukOXilrkPZltGDhZ-pfZPsbxRy6wUZ7AxDOAVYuEHFvhRukSYWy60mncN_eAQ8CYZ7EWozym5OuwcGXtEIiE2POQV5a77jIqJN0-Tz9L5loU3uSVfUIIrs_i80EuxuRK9F322F9JUqKeDGJcNQD-KJMDOJXxu61UllyTPyG__Op0wtJS7tDHVoSvulvAOymu4keiqe8QP4QIQXIUC68UyXfYq2mrjIQ_z5ygvLkAW1w-1uzRzCtWBGYdPrVZUYxE78qGmJfueywF5iCYCHTnVgzC86XiIiOa7pAd5iHVwUn3jRRrSpeMDR17zY4gazjlu-gKVVntIohM-R8NVKyOyj3T65UhJfVWtwX8P9JE1pKtPmUNyZo-Ga7cb5joe9VfabC5KKN-pnTQMxXjs",
    "results" : [
       {
-         "business_status" : "CLOSED_TEMPORARILY",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.363466399999999,
-               "lng" : 105.2533685
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.362117419708497,
-                  "lng" : 105.2547174802915
-               },
-               "southwest" : {
-                  "lat" : -5.364815380291501,
-                  "lng" : 105.2520195197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid Al Ikhlas Komplek Perum Panca Bakti",
-         "permanently_closed" : true,
-         "photos" : [
-            {
-               "height" : 1248,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115001486281109398001\"\u003eAtho Sofyan Al-Bongasi\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwJzgZCFP3GT9Q8C1w3EW572V4Up33e7-Bt0c7Fsgr20tey8ZETB7HRrvmZLfRN0gwV1uU5Tr56PJQNvvmV5EUB6Hl975ECjI2sSps4jXqv5eC3B-MJ3eiwq2Kg6BX5KvYxhsbmfAINjUGTIDHFr7kEcYanU80__QTo_C097y98d9ixw",
-               "width" : 1664
-            }
-         ],
-         "place_id" : "ChIJS3GLajLFQC4Ry6-HcbnxmyU",
-         "plus_code" : {
-            "compound_code" : "J7P3+J8 Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7P3+J8"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJS3GLajLFQC4Ry6-HcbnxmyU",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 20,
-         "vicinity" : "Gang Tanjung, Labuhan Ratu"
-      },
-      {
          "business_status" : "OPERATIONAL",
          "geometry" : {
             "location" : {
@@ -86,7 +43,7 @@
          "rating" : 4.6,
          "reference" : "ChIJ0dpMKdjEQC4RGGcnsO6orfg",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 14,
          "vicinity" : "jl. turi raya 3 blok A No. 64, Jalan Kilas, Tanjung Senang"
       },
@@ -128,7 +85,7 @@
          "rating" : 5,
          "reference" : "ChIJjbVidCLFQC4RLtQYEikc7g4",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Gang Murai No.1, Rajabasa Jaya"
       },
@@ -173,54 +130,9 @@
          "rating" : 4.8,
          "reference" : "ChIJB7iBFLXaQC4Riqfw9EczKdo",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1308,
          "vicinity" : "JL. Sumantri Brojonegoro, Bandarlampung, Gedong Meneng"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.360874900000001,
-               "lng" : 105.2574306
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.359502619708498,
-                  "lng" : 105.2587425802915
-               },
-               "southwest" : {
-                  "lat" : -5.362200580291502,
-                  "lng" : 105.2560446197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid Toledo",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 2240,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109714315335083377085\"\u003eObviously Fake\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKydlg093ugxVmwFb8tVDhAC1npvsY1YV_pmt8MrKk879TGgRkNFY2-ikJSHnHhJtmRj7HemwLOrduaWk6JHIs8jEYUJiyRsyNohwStxc3v1VYcf5rrNLiO6SYVCjw1k6H20653oLzvhS9PC0cDebBCfg24flAg9DLa58fd7l3jLjKP",
-               "width" : 4000
-            }
-         ],
-         "place_id" : "ChIJs5GVYy7FQC4RmwPIUBbi4wc",
-         "plus_code" : {
-            "compound_code" : "J7Q4+MX Labuhan Dalam, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7Q4+MX"
-         },
-         "rating" : 4.7,
-         "reference" : "ChIJs5GVYy7FQC4RmwPIUBbi4wc",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 68,
-         "vicinity" : "Jalan R.A. Basyid No.108, Labuhan Dalam"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -252,7 +164,7 @@
          },
          "reference" : "ChIJTRA_ic_FQC4R1rpkH92jdkE",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Labuhan Dalam"
       },
       {
@@ -282,7 +194,7 @@
          },
          "reference" : "ChIJgduxuMfFQC4RcDMCQwmUjm0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Mawar Indah No.2, Labuhan Dalam"
       },
       {
@@ -323,83 +235,9 @@
          "rating" : 4.8,
          "reference" : "ChIJNWC6oy3FQC4RSURl341Iyjg",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 39,
          "vicinity" : "Jalan Untung Suropati, Labuhan Ratu"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.357744800000001,
-               "lng" : 105.2556649
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.356391919708498,
-                  "lng" : 105.2569437302915
-               },
-               "southwest" : {
-                  "lat" : -5.359089880291503,
-                  "lng" : 105.2542457697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid Jami' Baiturrahmah",
-         "place_id" : "ChIJsc5W6S_FQC4Rvoc-pO9VDBg",
-         "plus_code" : {
-            "compound_code" : "J7R4+W7 Labuhan Dalam, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7R4+W7"
-         },
-         "rating" : 4.8,
-         "reference" : "ChIJsc5W6S_FQC4Rvoc-pO9VDBg",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 5,
-         "vicinity" : "Labuhan Dalam"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.3578868,
-               "lng" : 105.2606888
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.356521219708497,
-                  "lng" : 105.2620572802915
-               },
-               "southwest" : {
-                  "lat" : -5.359219180291502,
-                  "lng" : 105.2593593197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid Nurul - Huda",
-         "photos" : [
-            {
-               "height" : 3000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106614286110291264475\"\u003eDedi Ibrahim90\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKZ2x7MICiAyz9nhcgYpECNk7Mejwuxp0aI3Uzy9yuOoW5Nw0_an7_2xgHHhVoenMkSeyZDqAB36n-7HGp-e3KqSNc6rWftmu3DQO3fPyo_0IMJ-XElgVBhE8gMVrFW2Mwx7M9OoIa_OTtsQpEP4yLQL5eWKLsbKiSRvcC_rMxEsVqd",
-               "width" : 4000
-            }
-         ],
-         "place_id" : "ChIJIUtryijFQC4RIwZiMB9csLk",
-         "plus_code" : {
-            "compound_code" : "J7R6+R7 Labuhan Dalam, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7R6+R7"
-         },
-         "rating" : 4.7,
-         "reference" : "ChIJIUtryijFQC4RIwZiMB9csLk",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 13,
-         "vicinity" : "Jalan RA BASYID RT. 06 Lk 2, Labuan Dalam - Tanjung Senang, Labuhan Dalam"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -438,40 +276,8 @@
          },
          "reference" : "ChIJj_2u6UjFQC4Rzy4Ya8-VZi0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "vicinity" : "Jalan Tanjung Raya, Labuhan Ratu"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.3580837,
-               "lng" : 105.2636973
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.356734719708498,
-                  "lng" : 105.2650462802915
-               },
-               "southwest" : {
-                  "lat" : -5.359432680291502,
-                  "lng" : 105.2623483197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid Annur Perum. Jatiwangi Garden 3",
-         "place_id" : "ChIJxTCuiknFQC4RZzC7D2ihaes",
-         "plus_code" : {
-            "compound_code" : "J7R7+QF Labuhan Dalam, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7R7+QF"
-         },
-         "rating" : 5,
-         "reference" : "ChIJxTCuiknFQC4RZzC7D2ihaes",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1,
-         "vicinity" : "Jl. Paring, raya"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -511,7 +317,7 @@
          "rating" : 3,
          "reference" : "ChIJzy4dIRvbQC4RMv2CiZir0sk",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan Raja Ratu, Labuhan Ratu"
       },
@@ -553,7 +359,7 @@
          "rating" : 4.1,
          "reference" : "ChIJZVM-DjHFQC4RMmAseUfGzHA",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 15,
          "vicinity" : "Jalan Bumi Manti 1 No. 1 Lk 3, Kampung Baru"
       },
@@ -598,61 +404,9 @@
          "rating" : 4.9,
          "reference" : "ChIJ8aW0QSrFQC4R8H9ayFwf5qE",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 85,
          "vicinity" : "Jalan Bumi Jaya No.1, Labuhan Dalam"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.360236299999999,
-               "lng" : 105.2509731
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.358867069708497,
-                  "lng" : 105.2522190302915
-               },
-               "southwest" : {
-                  "lat" : -5.361565030291501,
-                  "lng" : 105.2495210697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid Nurul Yaqin",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110011351575863336250\"\u003emanbaul ulum\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLoOfhlQ0Mg7XE_7ooHPoAZ6KbS2uPgBh4MUZ8iO_0LcOGgodQul5ToMTnVoQdLxWG_D8g_Tkc1ev7ky0QTPT1qAD76c-06FpovJMtQ5eAcS_WnYJSGQoji7lKu0oLCCietv2lTYDjRxe5KPgUx5jLqoIXNqIEuHGbXuKBfzHjOxalv",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJsQHFYzHFQC4RykJODjbQd6k",
-         "plus_code" : {
-            "compound_code" : "J7Q2+W9 Kampung Baru, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7Q2+W9"
-         },
-         "rating" : 4.8,
-         "reference" : "ChIJsQHFYzHFQC4RykJODjbQd6k",
-         "scope" : "GOOGLE",
-         "types" : [
-            "mosque",
-            "atm",
-            "finance",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 40,
-         "vicinity" : "JL. Nangka, Kampung Baru"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -682,7 +436,7 @@
          "rating" : 5,
          "reference" : "ChIJy2n4gdXFQC4R_2i_edrFJrQ",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 1,
          "vicinity" : "Kampung Baru"
       },
@@ -724,69 +478,9 @@
          "rating" : 4.6,
          "reference" : "ChIJzX6KMivFQC4RiMKXEi9Cdm0",
          "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 7,
          "vicinity" : "Gang Rekso Bandung, Labuhan Ratu"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.366304299999999,
-               "lng" : 105.2628921
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.364961969708498,
-                  "lng" : 105.2642354802915
-               },
-               "southwest" : {
-                  "lat" : -5.367659930291502,
-                  "lng" : 105.2615375197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Musholla Al Huda",
-         "place_id" : "ChIJxykFCmTFQC4Rooz3y4L0Xx4",
-         "plus_code" : {
-            "compound_code" : "J7M7+F5 Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7M7+F5"
-         },
-         "reference" : "ChIJxykFCmTFQC4Rooz3y4L0Xx4",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Gang Rekso Bandung, Labuhan Ratu"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -5.3678854,
-               "lng" : 105.2562207
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -5.366512969708498,
-                  "lng" : 105.2576829802915
-               },
-               "southwest" : {
-                  "lat" : -5.369210930291502,
-                  "lng" : 105.2549850197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
-         "name" : "Masjid khoirul qurun beringin Jaya kemiling",
-         "place_id" : "ChIJQX5mSoHbQC4R-VMa8G6eFN8",
-         "plus_code" : {
-            "compound_code" : "J7J4+RF Labuhan Ratu, Bandar Lampung City, Lampung, Indonesia",
-            "global_code" : "6P67J7J4+RF"
-         },
-         "reference" : "ChIJQX5mSoHbQC4R-VMa8G6eFN8",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Jalan Untung suropati no 70 lk 01 rt 01, beringin Jaya"
       }
    ],
    "status" : "OK"

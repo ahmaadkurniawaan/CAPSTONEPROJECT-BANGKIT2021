@@ -1,0 +1,2309 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : -3.7934525,
+                "lng" : 102.2667718
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : -3.791973119708498,
+                   "lng" : 102.2682235802915
+                },
+                "southwest" : {
+                   "lat" : -3.794671080291502,
+                   "lng" : 102.2655256197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Mancing Mania",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJKazYtjywNi4RxzWcAymwgnE",
+          "plus_code" : {
+             "compound_code" : "6748+JP Belakang Pondok, Bengkulu City, Bengkulu, Indonesia",
+             "global_code" : "6P846748+JP"
+          },
+          "rating" : 4,
+          "reference" : "ChIJKazYtjywNi4RxzWcAymwgnE",
+          "scope" : "GOOGLE",
+          "types" : [ "maritim" ],
+          "user_ratings_total" : 7,
+          "vicinity" : "Mega Mall Lantai 3C blok G No.282, JL. KZ Abidin 1, Belakang Pondok"
+       },
+       {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7954009,
+              "lng" : 102.2664499
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.794010269708497,
+                 "lng" : 102.2677645302915
+              },
+              "southwest" : {
+                 "lat" : -3.796708230291502,
+                 "lng" : 102.2650665697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Barang Antik Peninggalan Perang Dunia Ke Dua Bengkulu",
+        "place_id" : "ChIJF4JRLD2wNi4RjFKiNciEFno",
+        "plus_code" : {
+           "compound_code" : "6738+RH Belakang Pondok, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846738+RH"
+        },
+        "rating" : 3,
+        "reference" : "ChIJF4JRLD2wNi4RjFKiNciEFno",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya","sejarah" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "JL. Koto Jaya Mukomuko, 38365, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7922,
+              "lng" : 102.267619
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790913069708497,
+                 "lng" : 102.2690310802915
+              },
+              "southwest" : {
+                 "lat" : -3.793611030291502,
+                 "lng" : 102.2663331197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Galleri De EDC",
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110617543533713345046\"\u003erosi armando\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ1L_BeA5Y1u_1SQqLXCNrtultSVodv-_qX_9Fc4qRE0ShTsqE1_olIRCjMQYUcHMKr5qT6b_I49jeEJY3Vx8GlQ3wWEtXuBIYXPyd5S-UW9kX3MwWripk-WbHFe1__Q9tJYvrJCeMY1lILZDkZqCKRbKfhLyVda3-kNj2XRUDXYScP",
+              "width" : 2340
+           }
+        ],
+        "place_id" : "ChIJC0YXXjuwNi4RECtExQ52SXI",
+        "plus_code" : {
+           "compound_code" : "6759+42 Belakang Pondok, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846759+42"
+        },
+        "reference" : "ChIJC0YXXjuwNi4RECtExQ52SXI",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "vicinity" : "Pasar Minggu Baru 2nd Floor, Jl Pasar Minggu Baru, No. 63, Belakang Pondok"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792845099999999,
+              "lng" : 102.2607641
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791436569708497,
+                 "lng" : 102.2621143802915
+              },
+              "southwest" : {
+                 "lat" : -3.794134530291501,
+                 "lng" : 102.2594164197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GSG St Aloysius Bengkulu",
+        "place_id" : "ChIJxwDcqNSxNi4RxXQjHvlWFdE",
+        "plus_code" : {
+           "compound_code" : "6746+V8 Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846746+V8"
+        },
+        "reference" : "ChIJxwDcqNSxNi4RxXQjHvlWFdE",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Pintu Batu"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7920357,
+              "lng" : 102.2620004
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790699219708497,
+                 "lng" : 102.2633591302915
+              },
+              "southwest" : {
+                 "lat" : -3.793397180291502,
+                 "lng" : 102.2606611697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GMO",
+        "place_id" : "ChIJ8VTaciSwNi4RT_ecjLPI1YA",
+        "plus_code" : {
+           "compound_code" : "6756+5R Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+5R"
+        },
+        "reference" : "ChIJ8VTaciSwNi4RT_ecjLPI1YA",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792952699999999,
+              "lng" : 102.262663
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791547919708497,
+                 "lng" : 102.2640660302915
+              },
+              "southwest" : {
+                 "lat" : -3.794245880291502,
+                 "lng" : 102.2613680697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Bethel Indonesia Rayon 13 Bengkulu",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115457403948372065565\"\u003eAprilendy Sila\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKFez3QhzYIbibxQLKkj53guKg4Fbh3aIoHYgppsoc_O2vStXAVpIMccbLRaCHzvm1KMnZolSKa_pC6g4bIbKJAfHsqce3QBFoGAFc61nDS1Div5-CQ8QqokPS-585SEiy4CWAxG6s3FZvpqdFieC5EK7x6tDoHLHIsVCr6_dlMbmA4",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJP5t0hSOwNi4RRVxKJD-7UAw",
+        "plus_code" : {
+           "compound_code" : "6747+R3 Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846747+R3"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJP5t0hSOwNi4RRVxKJD-7UAw",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 40,
+        "vicinity" : "Aula Sariwangi, Jalan Soeprapto No.173, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7949998,
+              "lng" : 102.26279
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.793659869708498,
+                 "lng" : 102.2641048302915
+              },
+              "southwest" : {
+                 "lat" : -3.796357830291502,
+                 "lng" : 102.2614068697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Kristen Injil Indonesia",
+        "place_id" : "ChIJQSzkpCOwNi4R2_JM4pRcXF8",
+        "plus_code" : {
+           "compound_code" : "6747+24 Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846747+24"
+        },
+        "reference" : "ChIJQSzkpCOwNi4R2_JM4pRcXF8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "JL. Kgs Hasan, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.795165,
+              "lng" : 102.264841
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.793903519708497,
+                 "lng" : 102.2660542302915
+              },
+              "southwest" : {
+                 "lat" : -3.796601480291502,
+                 "lng" : 102.2633562697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Bethany Indonesia",
+        "place_id" : "ChIJ76gv3iKwNi4RmuuVaLD8PmE",
+        "plus_code" : {
+           "compound_code" : "6737+WW Kebun Dahri, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846737+WW"
+        },
+        "reference" : "ChIJ76gv3iKwNi4RmuuVaLD8PmE",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "JL Letjen Suprapto No.188, Kebun Dahri"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7926874,
+              "lng" : 102.253457
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791274119708497,
+                 "lng" : 102.2548103302915
+              },
+              "southwest" : {
+                 "lat" : -3.793972080291502,
+                 "lng" : 102.2521123697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "HKBP Jitra Bengkulu",
+        "photos" : [
+           {
+              "height" : 2592,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113064070360076770316\"\u003eJefri Daniel\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLfRz98hOnyS9uTZl8ei4W7Of0005wZtEUTLp3dOaDBvVApdCJxQZetpgQT0qxPrI4hmypqOPN9-KqKUuVFs81BUZNIrucnKh6Kv5_adw3r3i-xkl7HSdmmjU2mGSlnoKKr7ItuJk50Zsr9Dthm9FHV_MoXjAWGaOXMj_2zu8N_PPox",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJ-Sty2SCwNi4RrkQ84yMu0dA",
+        "plus_code" : {
+           "compound_code" : "6743+W9 Pasar Jitra, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846743+W9"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJ-Sty2SCwNi4RrkQ84yMu0dA",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 39,
+        "vicinity" : "Jalan Veteran No.No, 31 JITRA"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7917891,
+              "lng" : 102.2505434
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790346069708498,
+                 "lng" : 102.2519790302915
+              },
+              "southwest" : {
+                 "lat" : -3.793044030291502,
+                 "lng" : 102.2492810697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Katolik Santo Yohanes",
+        "photos" : [
+           {
+              "height" : 800,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102694046095218479592\"\u003eaji sal\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwI2vkP6FrhiQBGu07kGz5DC9VAd1ME6CjDyyixvDC8fDKTBiTJwWEQHXrwuJskBrydt5uvaKOq_uI_FtdtFkBTNQYRvJ3bqcyuyyM3Mxug8rnJiTDyugLc3PqqFR9S1hyfBmrR1Rp1AJKdGjEdRptPxHSfFs5-c8Ni37-UhLgJXxw7z",
+              "width" : 1000
+           }
+        ],
+        "place_id" : "ChIJH9duKdmvNi4RBuWafIhfhaI",
+        "plus_code" : {
+           "compound_code" : "6752+76 Malabero, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846752+76"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJH9duKdmvNi4RBuWafIhfhaI",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 79,
+        "vicinity" : "Jalan Professor Dokter Hazairin, Malabero"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7915751,
+              "lng" : 102.2504198
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790160369708498,
+                 "lng" : 102.2518223302915
+              },
+              "southwest" : {
+                 "lat" : -3.792858330291502,
+                 "lng" : 102.2491243697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GSG St Aloysius Bengkulu",
+        "place_id" : "ChIJddLkfLuvNi4ROyomDpPOKv0",
+        "plus_code" : {
+           "compound_code" : "6752+95 Pasar Baru, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846752+95"
+        },
+        "rating" : 5,
+        "reference" : "ChIJddLkfLuvNi4ROyomDpPOKv0",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 20,
+        "vicinity" : "GSG St Aloysius, Pasar Baru"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.800234,
+              "lng" : 102.272727
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.798991669708497,
+                 "lng" : 102.2740463802915
+              },
+              "southwest" : {
+                 "lat" : -3.801689630291501,
+                 "lng" : 102.2713484197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Menara Doa GBI Rayon 13 Bengkulu",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJi7TvksSxNi4RwxGkWNVWIkI",
+        "plus_code" : {
+           "compound_code" : "57XF+W3 Padang Jati, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P8457XF+W3"
+        },
+        "reference" : "ChIJi7TvksSxNi4RwxGkWNVWIkI",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan S. Parman No.163, Padang Jati"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792845099999999,
+              "lng" : 102.2607641
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791436569708497,
+                 "lng" : 102.2621143802915
+              },
+              "southwest" : {
+                 "lat" : -3.794134530291501,
+                 "lng" : 102.2594164197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GSG St Aloysius Bengkulu",
+        "place_id" : "ChIJxwDcqNSxNi4RxXQjHvlWFdE",
+        "plus_code" : {
+           "compound_code" : "6746+V8 Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846746+V8"
+        },
+        "reference" : "ChIJxwDcqNSxNi4RxXQjHvlWFdE",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Pintu Batu"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7920357,
+              "lng" : 102.2620004
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790699219708497,
+                 "lng" : 102.2633591302915
+              },
+              "southwest" : {
+                 "lat" : -3.793397180291502,
+                 "lng" : 102.2606611697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GMO",
+        "place_id" : "ChIJ8VTaciSwNi4RT_ecjLPI1YA",
+        "plus_code" : {
+           "compound_code" : "6756+5R Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+5R"
+        },
+        "reference" : "ChIJ8VTaciSwNi4RT_ecjLPI1YA",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792952699999999,
+              "lng" : 102.262663
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791547919708497,
+                 "lng" : 102.2640660302915
+              },
+              "southwest" : {
+                 "lat" : -3.794245880291502,
+                 "lng" : 102.2613680697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Bethel Indonesia Rayon 13 Bengkulu",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115457403948372065565\"\u003eAprilendy Sila\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKFez3QhzYIbibxQLKkj53guKg4Fbh3aIoHYgppsoc_O2vStXAVpIMccbLRaCHzvm1KMnZolSKa_pC6g4bIbKJAfHsqce3QBFoGAFc61nDS1Div5-CQ8QqokPS-585SEiy4CWAxG6s3FZvpqdFieC5EK7x6tDoHLHIsVCr6_dlMbmA4",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJP5t0hSOwNi4RRVxKJD-7UAw",
+        "plus_code" : {
+           "compound_code" : "6747+R3 Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846747+R3"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJP5t0hSOwNi4RRVxKJD-7UAw",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 40,
+        "vicinity" : "Aula Sariwangi, Jalan Soeprapto No.173, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7949998,
+              "lng" : 102.26279
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.793659869708498,
+                 "lng" : 102.2641048302915
+              },
+              "southwest" : {
+                 "lat" : -3.796357830291502,
+                 "lng" : 102.2614068697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Kristen Injil Indonesia",
+        "place_id" : "ChIJQSzkpCOwNi4R2_JM4pRcXF8",
+        "plus_code" : {
+           "compound_code" : "6747+24 Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846747+24"
+        },
+        "reference" : "ChIJQSzkpCOwNi4R2_JM4pRcXF8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "JL. Kgs Hasan, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.795165,
+              "lng" : 102.264841
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.793903519708497,
+                 "lng" : 102.2660542302915
+              },
+              "southwest" : {
+                 "lat" : -3.796601480291502,
+                 "lng" : 102.2633562697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Bethany Indonesia",
+        "place_id" : "ChIJ76gv3iKwNi4RmuuVaLD8PmE",
+        "plus_code" : {
+           "compound_code" : "6737+WW Kebun Dahri, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846737+WW"
+        },
+        "reference" : "ChIJ76gv3iKwNi4RmuuVaLD8PmE",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "JL Letjen Suprapto No.188, Kebun Dahri"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7926874,
+              "lng" : 102.253457
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791274119708497,
+                 "lng" : 102.2548103302915
+              },
+              "southwest" : {
+                 "lat" : -3.793972080291502,
+                 "lng" : 102.2521123697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "HKBP Jitra Bengkulu",
+        "photos" : [
+           {
+              "height" : 2592,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113064070360076770316\"\u003eJefri Daniel\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLfRz98hOnyS9uTZl8ei4W7Of0005wZtEUTLp3dOaDBvVApdCJxQZetpgQT0qxPrI4hmypqOPN9-KqKUuVFs81BUZNIrucnKh6Kv5_adw3r3i-xkl7HSdmmjU2mGSlnoKKr7ItuJk50Zsr9Dthm9FHV_MoXjAWGaOXMj_2zu8N_PPox",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJ-Sty2SCwNi4RrkQ84yMu0dA",
+        "plus_code" : {
+           "compound_code" : "6743+W9 Pasar Jitra, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846743+W9"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJ-Sty2SCwNi4RrkQ84yMu0dA",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 39,
+        "vicinity" : "Jalan Veteran No.No, 31 JITRA"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7917891,
+              "lng" : 102.2505434
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790346069708498,
+                 "lng" : 102.2519790302915
+              },
+              "southwest" : {
+                 "lat" : -3.793044030291502,
+                 "lng" : 102.2492810697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Gereja Katolik Santo Yohanes",
+        "photos" : [
+           {
+              "height" : 800,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102694046095218479592\"\u003eaji sal\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwI2vkP6FrhiQBGu07kGz5DC9VAd1ME6CjDyyixvDC8fDKTBiTJwWEQHXrwuJskBrydt5uvaKOq_uI_FtdtFkBTNQYRvJ3bqcyuyyM3Mxug8rnJiTDyugLc3PqqFR9S1hyfBmrR1Rp1AJKdGjEdRptPxHSfFs5-c8Ni37-UhLgJXxw7z",
+              "width" : 1000
+           }
+        ],
+        "place_id" : "ChIJH9duKdmvNi4RBuWafIhfhaI",
+        "plus_code" : {
+           "compound_code" : "6752+76 Malabero, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846752+76"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJH9duKdmvNi4RBuWafIhfhaI",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 79,
+        "vicinity" : "Jalan Professor Dokter Hazairin, Malabero"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7915751,
+              "lng" : 102.2504198
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790160369708498,
+                 "lng" : 102.2518223302915
+              },
+              "southwest" : {
+                 "lat" : -3.792858330291502,
+                 "lng" : 102.2491243697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "GSG St Aloysius Bengkulu",
+        "place_id" : "ChIJddLkfLuvNi4ROyomDpPOKv0",
+        "plus_code" : {
+           "compound_code" : "6752+95 Pasar Baru, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846752+95"
+        },
+        "rating" : 5,
+        "reference" : "ChIJddLkfLuvNi4ROyomDpPOKv0",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 20,
+        "vicinity" : "GSG St Aloysius, Pasar Baru"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.800234,
+              "lng" : 102.272727
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.798991669708497,
+                 "lng" : 102.2740463802915
+              },
+              "southwest" : {
+                 "lat" : -3.801689630291501,
+                 "lng" : 102.2713484197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "name" : "Menara Doa GBI Rayon 13 Bengkulu",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJi7TvksSxNi4RwxGkWNVWIkI",
+        "plus_code" : {
+           "compound_code" : "57XF+W3 Padang Jati, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P8457XF+W3"
+        },
+        "reference" : "ChIJi7TvksSxNi4RwxGkWNVWIkI",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan S. Parman No.163, Padang Jati"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7955556,
+              "lng" : 102.2591667
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.794149619708498,
+                 "lng" : 102.2605668302915
+              },
+              "southwest" : {
+                 "lat" : -3.796847580291502,
+                 "lng" : 102.2578688697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+        "name" : "Pura Mukti Tama",
+        "place_id" : "ChIJm6BnmCGwNi4R4fR4j5fZDcc",
+        "reference" : "ChIJm6BnmCGwNi4R4fR4j5fZDcc",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "vicinity" : "Pasar Melintang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7955556,
+              "lng" : 102.2591667
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.794149619708498,
+                 "lng" : 102.2605668302915
+              },
+              "southwest" : {
+                 "lat" : -3.796847580291502,
+                 "lng" : 102.2578688697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+        "name" : "Pura Dharma Santi SP 7",
+        "place_id" : "ChIJm6BnmCGwNi4Rp310_lcbBaM",
+        "reference" : "ChIJm6BnmCGwNi4Rp310_lcbBaM",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "vicinity" : "Pasar Melintang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.79559,
+              "lng" : 102.2590962
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.794157019708498,
+                 "lng" : 102.2605205802915
+              },
+              "southwest" : {
+                 "lat" : -3.796854980291502,
+                 "lng" : 102.2578226197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_hindu-71.png",
+        "name" : "Pura Tirta Wredi Buana",
+        "place_id" : "ChIJ0TV0mCGwNi4RMonrnRFnL50",
+        "reference" : "ChIJ0TV0mCGwNi4RMonrnRFnL50",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi"
+        ],
+        "vicinity" : "Air Pelai, Seluma Bengkulu Selatan, Pasar Melintang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.8001128,
+              "lng" : 102.2589817
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.798505969708498,
+                 "lng" : 102.2603494302915
+              },
+              "southwest" : {
+                 "lat" : -3.801203930291502,
+                 "lng" : 102.2576514697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "At-Taqwa Grand Mosque",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3456,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106190707941718417836\"\u003eAGUNG HESTIYONO\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ4SHGK9VYmBM1u-QkcHU94aZ7_6GMoZGwBgnvgg_GeLFjDHkbcKbTAS7USEwtP8Z7DdfM2kp5u0bU0crP0dkjWepTAd2P9qNTXsft8XsBenC7leYoRH3Xp8aa1r3yyfXkVDTv35vscuFZeodA4rZ0qEcZJIZ0reDP6s9I66tkzIK36",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+        "plus_code" : {
+           "compound_code" : "57X5+XH Anggut Atas, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P8457X5+XH"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi","sejarah"
+        ],
+        "user_ratings_total" : 1815,
+        "vicinity" : "Jalan Soekarno Hatta, Anggut Atas"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7921464,
+              "lng" : 102.2602701
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790957419708498,
+                 "lng" : 102.2616081302915
+              },
+              "southwest" : {
+                 "lat" : -3.793655380291503,
+                 "lng" : 102.2589101697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Sakauma",
+        "place_id" : "ChIJm1YRqSawNi4Rp5ky_RiNG1E",
+        "plus_code" : {
+           "compound_code" : "6756+44 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+44"
+        },
+        "reference" : "ChIJm1YRqSawNi4Rp5ky_RiNG1E",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "JL Rinjani, Pondok Pesantren Pancasila, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7920671,
+              "lng" : 102.2619957
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790713319708498,
+                 "lng" : 102.2633409302915
+              },
+              "southwest" : {
+                 "lat" : -3.793411280291502,
+                 "lng" : 102.2606429697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Nurul Huda",
+        "place_id" : "ChIJ3ZIncySwNi4RdrxMkdba5N8",
+        "reference" : "ChIJ3ZIncySwNi4RdrxMkdba5N8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7920671,
+              "lng" : 102.2619957
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790713319708498,
+                 "lng" : 102.2633409302915
+              },
+              "southwest" : {
+                 "lat" : -3.793411280291502,
+                 "lng" : 102.2606429697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Nurul Ikhsan",
+        "place_id" : "ChIJ3ZIncySwNi4RRoy1qehGyo8",
+        "reference" : "ChIJ3ZIncySwNi4RRoy1qehGyo8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7920671,
+              "lng" : 102.2619957
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790713319708498,
+                 "lng" : 102.2633409302915
+              },
+              "southwest" : {
+                 "lat" : -3.793411280291502,
+                 "lng" : 102.2606429697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Al-Istiqomah",
+        "place_id" : "ChIJ3ZIncySwNi4RRV2xtoTQ9H8",
+        "reference" : "ChIJ3ZIncySwNi4RRV2xtoTQ9H8",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "JL Perumnas Sidomulyo, No. 12, Gading Cempaka, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792415199999999,
+              "lng" : 102.2621108
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790973419708497,
+                 "lng" : 102.2633761302915
+              },
+              "southwest" : {
+                 "lat" : -3.793671380291502,
+                 "lng" : 102.2606781697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Jami Mosque Bengkulu",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1280,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103184644944886664144\"\u003eAnns\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLW1AOaPZLqS0BhQ4u8ijnvbdZ_tHbgc_ylUUze4UlgrxLL-of8PrMFPJ4uBGsSoCQ8pqVCTNUjsu2spgqAP7HJjRZikab2XgRLmUYBzATpLjqpWbCFWrywNJcJniKBtmSpNkMm2HBidStrxord12V8OEtex3qlgm7UtXd97VBY5n5_",
+              "width" : 720
+           }
+        ],
+        "place_id" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+        "plus_code" : {
+           "compound_code" : "6756+2R Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+2R"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi","sejarah"
+        ],
+        "user_ratings_total" : 2122,
+        "vicinity" : "Jalan Letjend Suprapto, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7924505,
+              "lng" : 102.2622305
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791203769708497,
+                 "lng" : 102.2635895802915
+              },
+              "southwest" : {
+                 "lat" : -3.793901730291502,
+                 "lng" : 102.2608916197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid soekarno",
+        "place_id" : "ChIJjwoEYNuxNi4RFfCJU85W7Mc",
+        "plus_code" : {
+           "compound_code" : "6756+2V Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+2V"
+        },
+        "reference" : "ChIJjwoEYNuxNi4RFfCJU85W7Mc",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.794090499999999,
+              "lng" : 102.2594648
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.792734619708499,
+                 "lng" : 102.2608100302915
+              },
+              "southwest" : {
+                 "lat" : -3.795432580291503,
+                 "lng" : 102.2581120697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Nurul Hidayah Mosque",
+        "place_id" : "ChIJk81QaSGwNi4R_j2tvoWqHXY",
+        "plus_code" : {
+           "compound_code" : "6745+9Q Pintu Batu, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846745+9Q"
+        },
+        "rating" : 4,
+        "reference" : "ChIJk81QaSGwNi4R_j2tvoWqHXY",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "Jalan Sudirman III, Pintu Batu"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.794297200000001,
+              "lng" : 102.2615727
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.792948219708498,
+                 "lng" : 102.2629216802915
+              },
+              "southwest" : {
+                 "lat" : -3.795646180291503,
+                 "lng" : 102.2602237197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Musholla Nurul Yaqin Suprapto",
+        "place_id" : "ChIJPUIfWLuxNi4RT1r8qsMNK2A",
+        "plus_code" : {
+           "compound_code" : "6746+7J Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846746+7J"
+        },
+        "reference" : "ChIJPUIfWLuxNi4RT1r8qsMNK2A",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Letjend Suprapto No.2, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.790162599999999,
+              "lng" : 102.2603918
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.788840219708497,
+                 "lng" : 102.2617994802915
+              },
+              "southwest" : {
+                 "lat" : -3.791538180291501,
+                 "lng" : 102.2591015197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Mushola Siti Fatimatul Zahra",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114432530715438381262\"\u003eAfif Afandi\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLzjF061r77mTA2xYWnnY08e8jxfjM2JijeJkrJmL52hul6HfI6wsXXUN8N0WhmYriPz56FZ0RtKS5M5JWQTmKfZF5xUjwwUpphzi6HcIUdk5rQHmdvxeCFbKCRXqfsdrdV3aRbEvo6hczU_-jJQvXq1v41czSgjLSXIyU4XiY9kWO2",
+              "width" : 4000
+           }
+        ],
+        "place_id" : "ChIJ-2rCNqmxNi4RneJrSa4mxc4",
+        "plus_code" : {
+           "compound_code" : "6756+W5 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+W5"
+        },
+        "rating" : 5,
+        "reference" : "ChIJ-2rCNqmxNi4RneJrSa4mxc4",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7900745,
+              "lng" : 102.26054
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.788723619708498,
+                 "lng" : 102.2618832302915
+              },
+              "southwest" : {
+                 "lat" : -3.791421580291503,
+                 "lng" : 102.2591852697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Al-Mukminin",
+        "place_id" : "ChIJlWSsKiSwNi4RtxrIMyStlW4",
+        "plus_code" : {
+           "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+X6"
+        },
+        "reference" : "ChIJlWSsKiSwNi4RtxrIMyStlW4",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7900745,
+              "lng" : 102.26054
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.788723619708498,
+                 "lng" : 102.2618832302915
+              },
+              "southwest" : {
+                 "lat" : -3.791421580291503,
+                 "lng" : 102.2591852697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Jihad",
+        "place_id" : "ChIJlWSsKiSwNi4RqkrrmWyChIU",
+        "plus_code" : {
+           "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+X6"
+        },
+        "reference" : "ChIJlWSsKiSwNi4RqkrrmWyChIU",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7900745,
+              "lng" : 102.26054
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.788723619708498,
+                 "lng" : 102.2618832302915
+              },
+              "southwest" : {
+                 "lat" : -3.791421580291503,
+                 "lng" : 102.2591852697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Darul Akrom",
+        "place_id" : "ChIJlWSsKiSwNi4REiroyEIYQxA",
+        "plus_code" : {
+           "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+X6"
+        },
+        "reference" : "ChIJlWSsKiSwNi4REiroyEIYQxA",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7900745,
+              "lng" : 102.26054
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.788723619708498,
+                 "lng" : 102.2618832302915
+              },
+              "southwest" : {
+                 "lat" : -3.791421580291503,
+                 "lng" : 102.2591852697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Nurul Muttaqin",
+        "place_id" : "ChIJlWSsKiSwNi4RqHfuEjyyC6g",
+        "plus_code" : {
+           "compound_code" : "6756+X6 Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+X6"
+        },
+        "reference" : "ChIJlWSsKiSwNi4RqHfuEjyyC6g",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Kapten Syahrial No.36, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.791574699999999,
+              "lng" : 102.2578984
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790252319708498,
+                 "lng" : 102.2591573302915
+              },
+              "southwest" : {
+                 "lat" : -3.792950280291502,
+                 "lng" : 102.2564593697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Al-Munawwaraoh",
+        "place_id" : "ChIJT8qw3yawNi4RI0pC9ayFU5U",
+        "plus_code" : {
+           "compound_code" : "6755+95 Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846755+95"
+        },
+        "reference" : "ChIJT8qw3yawNi4RI0pC9ayFU5U",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan KH. Ahmad Dahlan No.48, Kebun Ros"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.791574699999999,
+              "lng" : 102.2578984
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790252319708498,
+                 "lng" : 102.2591573302915
+              },
+              "southwest" : {
+                 "lat" : -3.792950280291502,
+                 "lng" : 102.2564593697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Nurul Ikhlas",
+        "place_id" : "ChIJT8qw3yawNi4RcS4rcFFal0g",
+        "plus_code" : {
+           "compound_code" : "6755+95 Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846755+95"
+        },
+        "reference" : "ChIJT8qw3yawNi4RcS4rcFFal0g",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan KH. Ahmad Dahlan No.48, Kebun Ros"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7952376,
+              "lng" : 102.2621933
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.793785419708497,
+                 "lng" : 102.2635129802915
+              },
+              "southwest" : {
+                 "lat" : -3.796483380291502,
+                 "lng" : 102.2608150197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Muhajirin Kebun Geran",
+        "photos" : [
+           {
+              "height" : 1840,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103503142148149906186\"\u003eArsela Ari Murti\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLGqEvjEmxa-rqqvkpuKmVGU9XaU_rqr0iYfshLnDwD_QJG9eGexRIMK3KIfRNhRlZpYVTN_Fp7sBCR9OYnbvZg0kiA-08ekS0BlKYXTPXh4RCPYGyDRCK1yIWCJ8oRUqCUJ9Z5P4vFXD0u0pk8LDIaoy4jwuPurxGnqZVf4I043m1E",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJieLxSyKwNi4RwdFTPh1dLrU",
+        "plus_code" : {
+           "compound_code" : "6736+WV Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846736+WV"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJieLxSyKwNi4RwdFTPh1dLrU",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "user_ratings_total" : 49,
+        "vicinity" : "Jalan Cendrawasih, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7954796,
+              "lng" : 102.2619841
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.794134419708498,
+                 "lng" : 102.2633031802915
+              },
+              "southwest" : {
+                 "lat" : -3.796832380291502,
+                 "lng" : 102.2606052197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Masjid Baitul Atiep",
+        "place_id" : "ChIJrV3qziOwNi4RY4WyYPlkUtw",
+        "plus_code" : {
+           "compound_code" : "6736+RQ Kebun Gerand, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846736+RQ"
+        },
+        "reference" : "ChIJrV3qziOwNi4RY4WyYPlkUtw",
+        "scope" : "GOOGLE",
+        "types" : [ "religi" ],
+        "vicinity" : "Jalan Cendrawasih No.23, Kebun Gerand"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.791358899999999,
+              "lng" : 102.2519556
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.789913269708497,
+                 "lng" : 102.2532171802915
+              },
+              "southwest" : {
+                 "lat" : -3.792611230291502,
+                 "lng" : 102.2505192197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Gedung Daerah Provinsi Bengkulu",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100214860766549067227\"\u003eJananta Sastro diharjo\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwL4pWrfGtuFsIgCsw0C2nvoFspO-gCfP-A3fI48FcaOKdzK8Ja-5syFDd4SeVM0xypA82eJSPT9CckSdpd6Om_-DPXI2jYM2HnhjylTKaGL_SDeUnrI37cZzLi6-3CR0UA0fH1no5Vn1gvMpJCDXQcbQ5-O0tY80w7LP5N1US0axTY5",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJSc8Y4NivNi4RgzpKJwqhLxc",
+        "plus_code" : {
+           "compound_code" : "6752+FQ Pasar Jitra, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846752+FQ"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJSc8Y4NivNi4RgzpKJwqhLxc",
+        "scope" : "GOOGLE",
+        "types" : [ "budaya","sejarah" ],
+        "user_ratings_total" : 186,
+        "vicinity" : "Pasar Jitra"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7890472,
+              "lng" : 102.2618013
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.787670469708498,
+                 "lng" : 102.2630990302915
+              },
+              "southwest" : {
+                 "lat" : -3.790368430291502,
+                 "lng" : 102.2604010697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Kaganga Institute",
+        "place_id" : "ChIJi2qGYMKxNi4R5HmDfph-x8U",
+        "plus_code" : {
+           "compound_code" : "6766+9P Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846766+9P"
+        },
+        "reference" : "ChIJi2qGYMKxNi4R5HmDfph-x8U",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "vicinity" : "Jalan Lettu Zulkifli No.98, RT.14/RW.04, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7982448,
+              "lng" : 102.2653915
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.796942269708497,
+                 "lng" : 102.2668456302915
+              },
+              "southwest" : {
+                 "lat" : -3.799640230291502,
+                 "lng" : 102.2641476697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Ibu Fatmawati Soekarno's House",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2988,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107350195971868633913\"\u003eDesi A Prawita\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwL6uXytRbo73KLT2BQjZrt7R8vSjWw8lFjfw8wQxrunjl9p1w04zxQO2zIVy5GD5tSyOq-n4OQosKq9zSBPJ3zjaGzTQVnvhIxoUOQBJfOr7SbpK9BLWIM3x04isTLB7pRUb0uWyoGtGSYI2vxWT1ec0CLoe2_1RBh0FvLZf2C3pnjN",
+              "width" : 5312
+           }
+        ],
+        "place_id" : "ChIJNecFGhiwNi4RumdM9A6TDdM",
+        "plus_code" : {
+           "compound_code" : "6728+P5 Penurunan, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846728+P5"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJNecFGhiwNi4RumdM9A6TDdM",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 797,
+        "vicinity" : "Jalan Fatmawati, Penurunan"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.801359,
+              "lng" : 102.2567105
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.799970069708498,
+                 "lng" : 102.2581108302915
+              },
+              "southwest" : {
+                 "lat" : -3.802668030291502,
+                 "lng" : 102.2554128697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Surau tak beratap",
+        "photos" : [
+           {
+              "height" : 1504,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110980094923854758687\"\u003eWawan Sopiyan\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIVPCz8ReFCd1esIygnNI22ZbVL5xbRg2cfc1tUeSyKtiZC_Vty6id2eCPYOZZUeFOxrR4I5ipjLA8OMtW_IJBOLcbYiR4M9QMlzwh6Zv-oKClWKPHRvoC0VA4GDRwBr_kdENgmiT6tN06CMwHKBiYZPghuzwkTnZANyaiU-8O-6EFP",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJh71mv-WxNi4RG37eO6QsX10",
+        "plus_code" : {
+           "compound_code" : "57X4+FM Nusa Indah, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P8457X4+FM"
+        },
+        "rating" : 5,
+        "reference" : "ChIJh71mv-WxNi4RG37eO6QsX10",
+        "scope" : "GOOGLE",
+        "types" : [ "religi","sejarah" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "Jl. Jemb. Pantai Panjang, Nusa Indah"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7872865,
+              "lng" : 102.2520626
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.785854969708498,
+                 "lng" : 102.2532962802915
+              },
+              "southwest" : {
+                 "lat" : -3.788552930291502,
+                 "lng" : 102.2505983197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Museum Fort Marlborough",
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104977233949597414422\"\u003eJohari Johari\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLpaHPz4jqfa572Zqi_NoKB5tSIN2AyOt-RBtflTo9KdWx9e5ooIjD704B2ynKGg-GZuqzqgg65LfNwK3GAjSiYi22WwdU4Mc0AsuU-9pWLc480HpVI36D4WbkIfdW-IFZXhDG9bA6C6S7D2wiKAkEwFQFcYMwuxbXvfwb46CC01wsB",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJk_fbsLOvNi4R_Ul_nMaWH0s",
+        "plus_code" : {
+           "compound_code" : "6772+3R Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846772+3R"
+        },
+        "rating" : 5,
+        "reference" : "ChIJk_fbsLOvNi4R_Ul_nMaWH0s",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 2,
+        "vicinity" : "Kebun Keling"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.780002099999999,
+              "lng" : 102.2615623
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.778747569708498,
+                 "lng" : 102.2633045302915
+              },
+              "southwest" : {
+                 "lat" : -3.781445530291502,
+                 "lng" : 102.2606065697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Pantai Kualo Bengkulu",
+        "photos" : [
+           {
+              "height" : 2936,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106837107201834560059\"\u003eWiro Heriadi\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJsgch2OPd4HtneR0vqxjerdhtw3x299-xabYxGtZi9AQXFLYoJQrVMfCdX9ClQl1qrTgBLDZ79xW2qyIUsHx3dxELCjOCPu-ypg66Z2Z7CXPSpSbyM7sDsx8AFLv6lXeIoYM8lsAT0trRud0UDzLk02I86f8WPkj0H2sO3OA-2lHmT",
+              "width" : 4195
+           }
+        ],
+        "place_id" : "ChIJVVVVJS2wNi4RX-qKfADfFNw",
+        "plus_code" : {
+           "compound_code" : "6796+XJ Pasar Bengkulu, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846796+XJ"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJVVVVJS2wNi4RX-qKfADfFNw",
+        "scope" : "GOOGLE",
+        "types" : [ "maritim" ],
+        "user_ratings_total" : 33,
+        "vicinity" : "Pasar Bengkulu"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.8040956,
+              "lng" : 102.2729767
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.802809569708497,
+                 "lng" : 102.2743520302915
+              },
+              "southwest" : {
+                 "lat" : -3.805507530291502,
+                 "lng" : 102.2716540697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Monumen ANGKASABOLA",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJu3n5sXGxNi4R2eU_zWH2oX0",
+        "plus_code" : {
+           "compound_code" : "57WF+95 Kebun Kenanga, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P8457WF+95"
+        },
+        "reference" : "ChIJu3n5sXGxNi4R2eU_zWH2oX0",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "vicinity" : "Kebun Kenanga"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.797353,
+              "lng" : 102.2659886
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.796043769708498,
+                 "lng" : 102.2673542302915
+              },
+              "southwest" : {
+                 "lat" : -3.798741730291503,
+                 "lng" : 102.2646562697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Ratu Samban Monument",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109715952775570535824\"\u003eChoirul Anwar\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLl7YvIbaVjZBwQrkOcBm3Yo4zqNlAft3lrlgxjAU9pFopQa3R__XE8nk4gpDpXTfOSg3M5cO0y5YIu-ZVkPZbGdCASqye_Bpknq-sLyHwksq3Hh2xYt_8SP1nR1tWjEsiR1tlmKIO1LFsxMnfJ_4WUH3ZlINJM8n82YNxiucsuX1Ie",
+              "width" : 2268
+           }
+        ],
+        "place_id" : "ChIJOcZqqiKwNi4Ru_UX-x05Vtc",
+        "plus_code" : {
+           "compound_code" : "6738+39 Anggut Atas, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846738+39"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJOcZqqiKwNi4Ru_UX-x05Vtc",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 2394,
+        "vicinity" : "Anggut Atas"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.798011499999999,
+              "lng" : 102.2561655
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.796666219708498,
+                 "lng" : 102.2575152302915
+              },
+              "southwest" : {
+                 "lat" : -3.799364180291503,
+                 "lng" : 102.2548172697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Robert Hamilton Monument",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100482808673019731420\"\u003eIrwin Gaylor\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJN2aiD_JHg2Jk8jWNmMCQdYWHfjtxk7v4RKZp4KxTVc5mrPAGXlBpzSawRXV6lntyUkvfYyHKum1qb649rzz8h0cnmkrqiO4RnZF-wHGpIe-sUiXBqPf8fBPb4-Nkjhg-zA1ItLYkmcrde9O8CXpB1XfQS-HuKFIh9neKJ6Gi-fXJx",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJB9Lb8h-wNi4Rqz3fExNrzkw",
+        "plus_code" : {
+           "compound_code" : "6724+QF Pasar Melintang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846724+QF"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJB9Lb8h-wNi4Rqz3fExNrzkw",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 37,
+        "vicinity" : "Pasar Melintang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.8001128,
+              "lng" : 102.2589817
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.798505969708498,
+                 "lng" : 102.2603494302915
+              },
+              "southwest" : {
+                 "lat" : -3.801203930291502,
+                 "lng" : 102.2576514697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "At-Taqwa Grand Mosque",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3456,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106190707941718417836\"\u003eAGUNG HESTIYONO\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK2JKRgYdl2l2N-1SjMZDRXi_0NW3xKtOvUSf6LXNrKVlhzC2S3_LEEaMZqM1QI7MuCougdGhT6XZukkAaDVtQZZnqiZByEhooLt_8LUZMc-viQOcB9dVC_t5KTB_i042FCBoglFwv-k1VsGSj-VlG_bJAYBgszwk1wwpMuCkuVXxBq",
+              "width" : 4608
+           }
+        ],
+        "place_id" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+        "plus_code" : {
+           "compound_code" : "57X5+XH Anggut Atas, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P8457X5+XH"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJC8zVER-wNi4Rd0dzAw-Xw8I",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi","sejarah"
+        ],
+        "user_ratings_total" : 1815,
+        "vicinity" : "Jalan Soekarno Hatta, Anggut Atas"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.787323,
+              "lng" : 102.2516757
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.785963519708498,
+                 "lng" : 102.2530090802915
+              },
+              "southwest" : {
+                 "lat" : -3.788661480291502,
+                 "lng" : 102.2503111197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Benteng Marlborough",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 343,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110976598569962785183\"\u003eBenteng Marlborough\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKDPRtz9IOGaJnXh0apYrxbWFKxh86aL-pusvbu5FOZKpH4KWQaJFESEq5mKqlYY98i3t0Ou4BuQApadqAcjLuzu6RN8H1qTWAYV9DdTA9rt4amDbUR-HV_QBDoYk7wc-glEny1vZEr31EJzdtxg0SBZidXeH9iPgoa0gbId2Jpr6U",
+              "width" : 608
+           }
+        ],
+        "place_id" : "ChIJB3DwedevNi4RTX5KxvRDATw",
+        "plus_code" : {
+           "compound_code" : "6772+3M Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846772+3M"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJB3DwedevNi4RTX5KxvRDATw",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 7359,
+        "vicinity" : "Jalan Benteng, Kebun Keling"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792415199999999,
+              "lng" : 102.2621108
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.790973419708497,
+                 "lng" : 102.2633761302915
+              },
+              "southwest" : {
+                 "lat" : -3.793671380291502,
+                 "lng" : 102.2606781697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+        "name" : "Jami Mosque Bengkulu",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1280,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103184644944886664144\"\u003eAnns\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIV5UyH_L8GhQww7GNQBV2kQnpxyHc2Q0I9MmU3tf8JSF_NnMNH1YeMTc014II6dX5CkC_WbA-P25WFoxPzSc9aLYYPYMnO81w5Wgi2Yx3P-DRU0DoQnISxFaYy5bfRMPSPch6rqrHRKSorqVIuR3jM_ulBx_OjibMoeelLnQP5OqMk",
+              "width" : 720
+           }
+        ],
+        "place_id" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+        "plus_code" : {
+           "compound_code" : "6756+2R Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846756+2R"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJ4cGw6SKwNi4R0rSa9eMs378",
+        "scope" : "GOOGLE",
+        "types" : [
+           "religi","sejarah"
+        ],
+        "user_ratings_total" : 2122,
+        "vicinity" : "Jalan Letjend Suprapto, Tengah Padang"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.790347999999999,
+              "lng" : 102.2540716
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.788972619708497,
+                 "lng" : 102.2553396802915
+              },
+              "southwest" : {
+                 "lat" : -3.791670580291502,
+                 "lng" : 102.2526417197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Monumen perjuangan",
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100428041739496418696\"\u003eIndrata Sardjoe\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwLmU5ZyFlo6qZBMGZfaHSoK01H-DYHqXBSC9Gx5WNQQ8CnWSQFJrPEicZ-uOgNZDF84A8MLBRJG4R8g7M0nVRvUJRbauj-9FFP7H--J-S0670wFxg8CK3GOSP6AcksUiQZKhoJLTr6jptNjCqxuokYmVFfciWazfPa1w3ozYksrjsMl",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJEQ7NjtivNi4R8MoSAkPxe6w",
+        "plus_code" : {
+           "compound_code" : "6753+VJ Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846753+VJ"
+        },
+        "rating" : 5,
+        "reference" : "ChIJEQ7NjtivNi4R8MoSAkPxe6w",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Jalan Khadijah, Kebun Ros"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7905042,
+              "lng" : 102.2538248
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.789120919708498,
+                 "lng" : 102.2551705802915
+              },
+              "southwest" : {
+                 "lat" : -3.791818880291502,
+                 "lng" : 102.2524726197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Monumen Bengkulu",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100428041739496418696\"\u003eIndrata Sardjoe\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJMnwGY_t9gGNCfJ5VaRKarHiVNfLlTqIdImesepe7AHqb-tNwLCEkNJJ1VZMQ0aOeyspbFQixSt6SuWALw2CmxgX5Q0J_-S5q8bpGLQEzr_xH8d5MzBH856sKs3Lg-y13dqSEkNC0vIsGxmOrnFoOD-iIh7KDYIxxviUVBCRaDpGw0",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJnbDIiNivNi4Rx2i1bN7w514",
+        "plus_code" : {
+           "compound_code" : "6753+QG Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846753+QG"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJnbDIiNivNi4Rx2i1bN7w514",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 48,
+        "vicinity" : "Kebun Ros"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.792763699999999,
+              "lng" : 102.2531497
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.791388619708496,
+                 "lng" : 102.2544630802915
+              },
+              "southwest" : {
+                 "lat" : -3.794086580291501,
+                 "lng" : 102.2517651197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "The British Colonial Cemetery",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 750,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106046708661194260365\"\u003eAdriansyah Putera\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKHDZrI94D6RkE8NwLr4dnLVSvFhQ744uWoVs4GMuTHrU1AyUFZSK6_Gyw2V3Bqs-wKKvv8PVyUWm3Z2-kjI27NFyZ3m_93v3td0Wos8VSlgebFfAyfu40Fr_YggaR3Tw9F0JF16JTtTpBP3R9yrlrIBpKu416dTTzfkEOJZNLIPA-O",
+              "width" : 1000
+           }
+        ],
+        "place_id" : "ChIJWVTkNN-vNi4RCxAoz2N8i2Y",
+        "plus_code" : {
+           "compound_code" : "6743+V7 Pasar Jitra, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846743+V7"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJWVTkNN-vNi4RCxAoz2N8i2Y",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 30,
+        "vicinity" : "Jalan Rejamat, Pasar Jitra"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7993615,
+              "lng" : 102.2551106
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.797959519708497,
+                 "lng" : 102.2565279802915
+              },
+              "southwest" : {
+                 "lat" : -3.800657480291501,
+                 "lng" : 102.2538300197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "name" : "Taman Pantai Berkas",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117041805664386924879\"\u003eBeni Apindo\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwL7vIC4iHVfmnDAtlj2eOZ7-sUZV9FyCYra5We_ai54UFXLtbiwLOnCX2r_QdJpbj_K7b5NOZeD9Yd5fRKfJKqArDDh3N30JGRMczDdkKYvkZBWKJOIj-6HuM7-Nn_7wuY0Jq8P45hQaczBgRgzIej2w5IAhbq_aFYp6-ZSlyiGy0GT",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJ87-P2R-wNi4R8nCST9WA3bg",
+        "plus_code" : {
+           "compound_code" : "6724+72 Pasar Berkas, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846724+72"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJ87-P2R-wNi4R8nCST9WA3bg",
+        "scope" : "GOOGLE",
+        "types" : [ "maritim" ],
+        "user_ratings_total" : 2213,
+        "vicinity" : "Pasar Berkas"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.799876,
+              "lng" : 102.2539398
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.798483769708498,
+                 "lng" : 102.2553356302915
+              },
+              "southwest" : {
+                 "lat" : -3.801181730291502,
+                 "lng" : 102.2526376697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Pantai Panjang Bengkulu, Indonesia",
+        "photos" : [
+           {
+              "height" : 4618,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116933889178419926260\"\u003eMuhammad Ilyas\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwJ0zo7R_EqeLLMoLZlrPLQcTle5T6v2wG-C-Gy9b339Hll-A4ZtPgiEchkh41Nno8D8fzTD2FWoSldhrLQxk6kjdCAHGFGbOtk1ZHbG9CIR7LX3ZwU0LpT9R92wq41birj9sX2SThHKhhHZqv255ScY3QcQQuIeddeJLPVEcEy0r0E1",
+              "width" : 3464
+           }
+        ],
+        "place_id" : "ChIJ9dnkHlyvNi4RF8BpC_jPRC0",
+        "plus_code" : {
+           "compound_code" : "6723+2H Pasar Berkas, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846723+2H"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJ9dnkHlyvNi4RF8BpC_jPRC0",
+        "scope" : "GOOGLE",
+        "types" : [ "maritim" ],
+        "user_ratings_total" : 13,
+        "vicinity" : "Bengkulu City"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.787318,
+              "lng" : 102.2519157
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.786108219708497,
+                 "lng" : 102.2534863302915
+              },
+              "southwest" : {
+                 "lat" : -3.788806180291502,
+                 "lng" : 102.2507883697085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Fort Marlborough Bencoolen",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1920,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104243316628592322956\"\u003eKemas Erwan\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwIVrrjVlkuEE7m4-wnOnkph4dKU7ydxIX_FwTKG5o3yYoBpZQESC2Ft_GPe-RPkzIPso5ZpJGQOiAiuIJAPDiQIW4DIfqgduJky3lSppDNC9nBaPcTpFtYZhb6jORq3-K3vudFLZvqQdX1jbgSAgqvsJ3cgLJLQEKqTiYc_ZHk5XtQk",
+              "width" : 2560
+           }
+        ],
+        "place_id" : "ChIJZ11o1FGvNi4RVHpC12EGVAY",
+        "plus_code" : {
+           "compound_code" : "6772+3Q Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846772+3Q"
+        },
+        "reference" : "ChIJZ11o1FGvNi4RVHpC12EGVAY",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "vicinity" : "Jalan Benteng No.1, Kebun Keling"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7849049,
+              "lng" : 102.2534603
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.783555919708498,
+                 "lng" : 102.2548092802915
+              },
+              "southwest" : {
+                 "lat" : -3.786253880291502,
+                 "lng" : 102.2521113197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Pantai Tapak Paderi",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1200,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106046708661194260365\"\u003eAdriansyah Putera\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwKWGQnPC5vSC13GHpqkoUmL1LFp7wZdEOEJbZZyUeyl15ZHa7AFcWMn0ab0aA9P5qSNsTiZzWG9zohmaOcR-z-9BW586NgUAcWksradSZtMC0G5tN7lMWDYM7am6KNbFJ_PszyeRFMUO01-u7xIBPofWEMWysn0Lpw4mDcswOq1x7OV",
+              "width" : 1600
+           }
+        ],
+        "place_id" : "ChIJL9dYb9avNi4R2vvNkPO7Dys",
+        "plus_code" : {
+           "compound_code" : "6783+29 Kebun Keling, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846783+29"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJL9dYb9avNi4R2vvNkPO7Dys",
+        "scope" : "GOOGLE",
+        "types" : [ "maritim" ],
+        "user_ratings_total" : 340,
+        "vicinity" : "Kebun Keling"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7887117,
+              "lng" : 102.250701
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.787446169708498,
+                 "lng" : 102.2519849802915
+              },
+              "southwest" : {
+                 "lat" : -3.790144130291503,
+                 "lng" : 102.2492870197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "name" : "Thomas Parr Monument",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114174562675331030308\"\u003eHaska Zani\u003c/a\u003e"
+              ],
+              "photo_reference" : "ATtYBwK7iBCkhpCg7RZCrcW3L-n6v8qIlf_b37Hj2ediOutrV2YcGozmceqDk_kMq7KXt4ocDLn7pE7ZxukLQ4XQK8WhI-YWwdH-1B61QgpzHCU5sxUi0rk7y_TbcqokJsPJ3c7atQthlgrqQvaGZvkIoWpHz74Ij498JYOsAgnxlJly2c_Z",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJz4OFutmvNi4R1QDybOAnwJA",
+        "plus_code" : {
+           "compound_code" : "6762+G7 Malabero, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846762+G7"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJz4OFutmvNi4R1QDybOAnwJA",
+        "scope" : "GOOGLE",
+        "types" : [ "sejarah" ],
+        "user_ratings_total" : 383,
+        "vicinity" : "Malabero"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : -3.7808484,
+              "lng" : 102.2615962
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : -3.779581319708498,
+                 "lng" : 102.2631893802915
+              },
+              "southwest" : {
+                 "lat" : -3.782279280291502,
+                 "lng" : 102.2604914197085
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "name" : "Taman Pantai Jakat",
+        "place_id" : "ChIJIZwo1tuxNi4RF_heIiCj5X4",
+        "plus_code" : {
+           "compound_code" : "6796+MJ Pasar Bengkulu, Bengkulu City, Bengkulu, Indonesia",
+           "global_code" : "6P846796+MJ"
+        },
+        "rating" : 3,
+        "reference" : "ChIJIZwo1tuxNi4RF_heIiCj5X4",
+        "scope" : "GOOGLE",
+        "types" : [ "maritim" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "Pasar Bengkulu"
+     }
+    ],
+    "status" : "OK"
+ }
+ 

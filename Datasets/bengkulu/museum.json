@@ -42,7 +42,7 @@
          "rating" : 4.5,
          "reference" : "ChIJSc8Y4NivNi4RgzpKJwqhLxc",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 186,
          "vicinity" : "Pasar Jitra"
       },
@@ -73,7 +73,7 @@
          },
          "reference" : "ChIJi2qGYMKxNi4R5HmDfph-x8U",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Jalan Lettu Zulkifli No.98, RT.14/RW.04, Tengah Padang"
       },
       {
@@ -117,7 +117,7 @@
          "rating" : 4.6,
          "reference" : "ChIJNecFGhiwNi4RumdM9A6TDdM",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 797,
          "vicinity" : "Jalan Fatmawati, Penurunan"
       },
@@ -159,7 +159,7 @@
          "rating" : 5,
          "reference" : "ChIJh71mv-WxNi4RG37eO6QsX10",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "religi","sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jl. Jemb. Pantai Panjang, Nusa Indah"
       },
@@ -201,7 +201,7 @@
          "rating" : 5,
          "reference" : "ChIJk_fbsLOvNi4R_Ul_nMaWH0s",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "Kebun Keling"
       },
@@ -243,114 +243,9 @@
          "rating" : 4.5,
          "reference" : "ChIJVVVVJS2wNi4RX-qKfADfFNw",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "maritim" ],
          "user_ratings_total" : 33,
          "vicinity" : "Pasar Bengkulu"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.796193,
-               "lng" : 102.273231
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.794807069708497,
-                  "lng" : 102.2745184302915
-               },
-               "southwest" : {
-                  "lat" : -3.797505030291501,
-                  "lng" : 102.2718204697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Anjungan Yansel",
-         "place_id" : "ChIJJcQeFT6wNi4RUAJUTLeqfOE",
-         "plus_code" : {
-            "compound_code" : "673F+G7 Sawah Lebar, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P84673F+G7"
-         },
-         "reference" : "ChIJJcQeFT6wNi4RUAJUTLeqfOE",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "vicinity" : "JL. Jati RT 001/08, 127, Bengkulu, 38227, Sawah Lebar"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.8084167,
-               "lng" : 102.2627012
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.807067719708499,
-                  "lng" : 102.2640501802915
-               },
-               "southwest" : {
-                  "lat" : -3.809765680291503,
-                  "lng" : 102.2613522197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Kota Bengkulu",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 3000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/111181886022350988894\"\u003eMohammad Zainal\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwJ-7NSTMRGjX6tM-t-2IEYGyg8OczPgTx1hA5s6xO9VGKktK8e3PJFI3KKK3Y_7EmTWva01wvJdRY1lQyP64BDSZxFdIZOlP46vgtiTncr9834YlB1giTFP1iR2oSK49hJI2Hsgc6VJaFPXlWy-vsW-5Y1MFuddOzJ9NSYwtmx_g9bm",
-               "width" : 4000
-            }
-         ],
-         "place_id" : "ChIJ95uv3ASwNi4RQ_r0wyRt1gU",
-         "plus_code" : {
-            "compound_code" : "57R7+J3 Lempuing, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P8457R7+J3"
-         },
-         "rating" : 4.6,
-         "reference" : "ChIJ95uv3ASwNi4RQ_r0wyRt1gU",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 120,
-         "vicinity" : "Jalan Jembatan Pantai Panjang, Lempuing"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.8032411,
-               "lng" : 102.2736104
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.801760719708498,
-                  "lng" : 102.2750895802915
-               },
-               "southwest" : {
-                  "lat" : -3.804458680291502,
-                  "lng" : 102.2723916197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Ahli Pompa Air",
-         "place_id" : "ChIJm7bJN0uxNi4Ry7qzeBtBVRw",
-         "plus_code" : {
-            "compound_code" : "57WF+PC Kebun Kenanga, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P8457WF+PC"
-         },
-         "reference" : "ChIJm7bJN0uxNi4Ry7qzeBtBVRw",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "vicinity" : "Jalan Flamboyan Raya No.11 No.21, Kebun Kenanga"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -382,7 +277,7 @@
          },
          "reference" : "ChIJu3n5sXGxNi4R2eU_zWH2oX0",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Kebun Kenanga"
       }
    ],

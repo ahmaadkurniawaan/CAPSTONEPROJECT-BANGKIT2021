@@ -39,7 +39,7 @@
          "rating" : 4.7,
          "reference" : "ChIJHUgTYCyTPWgRcBYoZXJHmCQ",
          "scope" : "GOOGLE",
-         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "types" : [ "religi" ],
          "user_ratings_total" : 3,
          "vicinity" : "Unnamed Road, Logom"
       }

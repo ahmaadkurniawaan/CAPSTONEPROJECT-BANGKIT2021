@@ -43,7 +43,7 @@
          "rating" : 4.4,
          "reference" : "ChIJCQ3niBHsODARddjcQvLizzM",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 29,
          "vicinity" : "Jalan Mess Time Ruang Tengah, Blang Kolak I"
       },
@@ -88,7 +88,7 @@
          "rating" : 4.1,
          "reference" : "ChIJlwXQd2fsODARyY_3-S98eak",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 7,
          "vicinity" : "Jongok Bathin"
       },
@@ -133,7 +133,7 @@
          "rating" : 4.2,
          "reference" : "ChIJXf1rD1DsODARURnfHEr7cys",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 37,
          "vicinity" : "Mendale"
       },
@@ -168,7 +168,7 @@
          "rating" : 4.1,
          "reference" : "ChIJ7Rzy3BuTODARlZwrH9mDiTY",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 19,
          "vicinity" : "GOR BENER MERIAH, Blang Sentang"
       },
@@ -212,7 +212,7 @@
          },
          "reference" : "ChIJRVcVU8jpODARqb_UXj_l26E",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Karang Bayur"
       },
       {
@@ -242,7 +242,7 @@
          },
          "reference" : "ChIJTS3mRM7rODARLRThxyCCM1U",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Unnamed Road, Tansaril"
       },
       {
@@ -273,7 +273,7 @@
          "rating" : 5,
          "reference" : "ChIJSSo9AP_rODARqFSdi_VZfXE",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : ["sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Unnamed Road, Bukit Pepanyi"
       },
@@ -314,7 +314,7 @@
          },
          "reference" : "ChIJ6fi8yjXtODARLWyI9MrUEpc",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Jalan Yos Sudarso No.10, Takengon Barat"
       },
       {
@@ -344,7 +344,7 @@
          },
          "reference" : "ChIJ9cd4uxbtODAR-FAXwmo8iQY",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Kute Lot"
       },
       {
@@ -375,7 +375,7 @@
          "rating" : 3,
          "reference" : "ChIJ79pKnYjsODARYoVjNERWFhI",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Bukit Ewih Tami Delem"
       },
@@ -420,7 +420,7 @@
          "rating" : 4,
          "reference" : "ChIJW_jXKRLsODARycygwvPibRk",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 75,
          "vicinity" : "Jalan Mess Time Ruang, Blang Kolak I"
       },
@@ -452,7 +452,7 @@
          "rating" : 3,
          "reference" : "ChIJD4RozRDsODAR9r93pF3KOy8",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Sengeda, Takengon Timur"
       },
@@ -494,7 +494,7 @@
          "rating" : 4,
          "reference" : "ChIJ7QgBh8PtODARBjeq_olGoZk",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Bukit"
       },
@@ -539,7 +539,7 @@
          "rating" : 4.7,
          "reference" : "ChIJLQtTfWnsODARXyV8cQ7C6fY",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 9,
          "vicinity" : "Lot Kala"
       },
@@ -581,7 +581,7 @@
          "rating" : 4.5,
          "reference" : "ChIJwa-x7QKVODARma1p9DfCTuc",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : ["sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "Rimba Raya,Pintu Rime Gayo, Simpang Balek"
       },
@@ -623,7 +623,7 @@
          "rating" : 5,
          "reference" : "ChIJ1WrQD1DsODARq_1xL70pxTo",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "Mendale"
       },
@@ -665,7 +665,7 @@
          "rating" : 5,
          "reference" : "ChIJU5fbo0mVODARYKHvQ5o-xmU",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "East Suka Makmur"
       },
@@ -707,7 +707,7 @@
          "rating" : 3,
          "reference" : "ChIJrxpTJsG_ODARyYgGK6ynzqw",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 2,
          "vicinity" : "merden, Pondok Balik"
       },
@@ -749,7 +749,7 @@
          "rating" : 3.7,
          "reference" : "ChIJoXhxL6SVODARQOB5lH2-_0s",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 19,
          "vicinity" : "Bandar Lampahan"
       },
@@ -790,7 +790,7 @@
          },
          "reference" : "ChIJZ5WlX-WTODAR__EdMyBqgug",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Bale Atu"
       }
    ],

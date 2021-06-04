@@ -25,10 +25,7 @@
          "reference" : "ChIJm6BnmCGwNi4R4fR4j5fZDcc",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "vicinity" : "Pasar Melintang"
       },
@@ -56,10 +53,7 @@
          "reference" : "ChIJm6BnmCGwNi4Rp310_lcbBaM",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "vicinity" : "Pasar Melintang"
       },
@@ -87,10 +81,7 @@
          "reference" : "ChIJ0TV0mCGwNi4RMonrnRFnL50",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "vicinity" : "Air Pelai, Seluma Bengkulu Selatan, Pasar Melintang"
       }

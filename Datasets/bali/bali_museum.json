@@ -43,7 +43,7 @@
          "rating" : 4.5,
          "reference" : "ChIJU_Y875490i0RJ4yuoaj6Tj8",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "lodging", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 677,
          "vicinity" : "Jalan Raya Pengosekan Ubud, MAS"
       },
@@ -89,11 +89,7 @@
          "reference" : "ChIJb4jiebsY0i0RX-ReSWsmjOw",
          "scope" : "GOOGLE",
          "types" : [
-            "art_gallery",
-            "museum",
-            "point_of_interest",
-            "store",
-            "establishment"
+            "budaya"
          ],
          "user_ratings_total" : 3,
          "vicinity" : "Jalan Raya Bayad-Tampaksiring Br. Bayad, Kedisan"
@@ -139,7 +135,7 @@
          "rating" : 4.4,
          "reference" : "ChIJCwul24KQ0S0RZhc-QjVeCbA",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 143,
          "vicinity" : "Jalan Veteran No.23, Paket Agung"
       },
@@ -184,7 +180,7 @@
          "rating" : 4.8,
          "reference" : "ChIJP-EzOj0n0i0Rlp5NTyfZ8CQ",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 10,
          "vicinity" : "Bangli"
       },
@@ -229,7 +225,7 @@
          "rating" : 4.2,
          "reference" : "ChIJFU_mJ4OQ0S0R9SOUJsOCMp0",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah", "budaya" ],
          "user_ratings_total" : 57,
          "vicinity" : "Jalan Gajah Mada, Kampung Singaraja"
       },
@@ -271,7 +267,7 @@
          "rating" : 4.3,
          "reference" : "ChIJh6wR0P4v0i0ReYPW7RecG14",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 7,
          "vicinity" : "Jalan Raya Timpag, Timpag"
       },
@@ -316,99 +312,9 @@
          "rating" : 3.7,
          "reference" : "ChIJFR4ApsiW0S0R5Nci7qTCuBE",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah","budaya" ],
          "user_ratings_total" : 19,
          "vicinity" : "Jalan Raya Bungkulan, Bungkulan"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.078848299999999,
-               "lng" : 115.1701156
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.077545569708498,
-                  "lng" : 115.1714709302915
-               },
-               "southwest" : {
-                  "lat" : -8.080243530291501,
-                  "lng" : 115.1687729697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Pasraman ATMAN BUDDHI DENTA CIWABUDDHA",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 2176,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117201480174152122067\"\u003eKetut Prasada\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwJlRZDvc5aAy-WrZHao6rneBKbjv3-A_JAlALMVXJ-2CH1GoAsz8983UBGEyebV1EKZjX5T5Jdno96jPIjU869IOuquX7STwKn9Zi1GfB6iouffAcxgWzG7S_uz-h6ELooVZraMxQY2gc9Fxg58CPzoLtR341wVAGp3K_OrWwpjZxAN",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJmyBt4rmW0S0Re0wbT2FJnK4",
-         "plus_code" : {
-            "compound_code" : "W5CC+F2 Kubutambahan, Buleleng Regency, Bali, Indonesia",
-            "global_code" : "6P3QW5CC+F2"
-         },
-         "rating" : 4.6,
-         "reference" : "ChIJmyBt4rmW0S0Re0wbT2FJnK4",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 8,
-         "vicinity" : "Kubutambahan"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.380923200000002,
-               "lng" : 115.2792018
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.379635919708498,
-                  "lng" : 115.2805291802915
-               },
-               "southwest" : {
-                  "lat" : -8.382333880291503,
-                  "lng" : 115.2778312197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "I Made Suparsa INKAI Dojo Genijaya",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116840627768277309448\"\u003eDUEG CREATIVE\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKgdfO4dB-nXczbNGjV6bFaVlV0JsqAblB7pkdMdTUJ0uMMrQ_uKm4t6Dyn9enOfnyLCyqMxKYacHIVwG9FUoW9vcVCNa8XExL4b4z2qAfqekcPzheMcuCO-MEVMwqov5k9ZF1vmOfA99Emo_vS9kw7w8U6z7xMzcw7XOR7wLq11p8o",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJYa0u6d4h0i0Rh5fiXCkEih4",
-         "plus_code" : {
-            "compound_code" : "J79H+JM Taro, Gianyar, Bali, Indonesia",
-            "global_code" : "6P3QJ79H+JM"
-         },
-         "rating" : 3.8,
-         "reference" : "ChIJYa0u6d4h0i0Rh5fiXCkEih4",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 5,
-         "vicinity" : "Jalan Raya Taro Kaja, Taro"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -438,51 +344,9 @@
          "rating" : 5,
          "reference" : "ChIJRR8sIigw0i0RAGhLz4zW55g",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 4,
          "vicinity" : "Megati, Selemadeg Timur, Bantas"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.502265099999999,
-               "lng" : 115.0393291
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.500932019708497,
-                  "lng" : 115.0406929302915
-               },
-               "southwest" : {
-                  "lat" : -8.503629980291501,
-                  "lng" : 115.0379949697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Balai Banjar Dinas Munggu",
-         "photos" : [
-            {
-               "height" : 2304,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101979165535228120910\"\u003eRiandwiputraa\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwKB7AXb_oK4IGbgt31amPzOhiPaW9DspAS8H4EFUn1tkIELGxJbaYbDo6fQoJubDOg2brR4SBGtIhBAU-KJaFU-DqcSkkBg8cy2TR0XqCL8mn7_AvBlDWJR8gpcqoUW5BEjdgSCvLhsh6aVcVPMgOr4NKH6w8PgXfOhjhZZHof0iO07",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJnxjft9Ax0i0RDqJerY2_Roc",
-         "plus_code" : {
-            "compound_code" : "F2XQ+3P Serampingan, Tabanan Regency, Bali, Indonesia",
-            "global_code" : "6P3QF2XQ+3P"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJnxjft9Ax0i0RDqJerY2_Roc",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 15,
-         "vicinity" : "Jalan Serampingan, Sarampingan"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -525,7 +389,7 @@
          "rating" : 5,
          "reference" : "ChIJM9vWJgoi0i0RNxkMdGqXmjM",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Pakudui, Kedisan"
       },
@@ -567,7 +431,7 @@
          "rating" : 4.7,
          "reference" : "ChIJSyOKyewi0i0RxqDCAXMQBag",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "user_ratings_total" : 28,
          "vicinity" : "Jalan Raya Keliki, Keliki"
       },
@@ -609,7 +473,7 @@
          "rating" : 4.2,
          "reference" : "ChIJM719BPE80i0RThX2jVuPqgg",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 6,
          "vicinity" : "Banjar Abiansemal Lodtunduh Ubud Abiansemal Abiansemal Badung Bali, Abiansemal"
       },
@@ -651,7 +515,7 @@
          "rating" : 4.2,
          "reference" : "ChIJyVeJJlyT0S0RvFa_ob3gROQ",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "user_ratings_total" : 79,
          "vicinity" : "Jalan Airsanih - Tejakula, Pacung"
       },
@@ -696,7 +560,7 @@
          "rating" : 4.2,
          "reference" : "ChIJ9UwCzIMi0i0RY_2HelJN6JA",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya" ],
          "user_ratings_total" : 6,
          "vicinity" : "Jalan Raya Tegallalang, Tegallalang"
       },
@@ -741,7 +605,7 @@
          "rating" : 4.6,
          "reference" : "ChIJewxI5Vg60i0RStqXAEtoVog",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 363,
          "vicinity" : "Jalan Gunung Agung No.5, Dajan Peken"
       },
@@ -786,7 +650,7 @@
          "rating" : 4.5,
          "reference" : "ChIJ9eEG4rJgei4RXAgfDABWo2Q",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "user_ratings_total" : 987,
          "vicinity" : "Jalan Raya Penelokan, Batur Selatan"
       },
@@ -828,54 +692,9 @@
          "rating" : 4.6,
          "reference" : "ChIJRSJMVF0Y0i0Rnm86-ZGbltk",
          "scope" : "GOOGLE",
-         "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah"],
          "user_ratings_total" : 313,
          "vicinity" : "Jalan Pejeng Kaja - Tampak Siring No.751, Sanding"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -8.4832889,
-               "lng" : 115.2801039
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -8.481907469708499,
-                  "lng" : 115.2812475802915
-               },
-               "southwest" : {
-                  "lat" : -8.484605430291504,
-                  "lng" : 115.2785496197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
-         "name" : "Bima Urbia Factory",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 4160,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/103508742396494448507\"\u003ebima urbia\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwIn_Bp31Z75zUyd7ZqKYjE21rRowa-mq-1hHslmc3ZrO-hiZL02HDEFI1bDNfTqQVR7QD23b5dYtuFOvA87BsOwQw2MxejwNf5E-Iy3vY1N6hcQcGoBAQJusqwPMYJgwxI9xIL6ySCEurGuU1q8BYqYPT_lyKjKyelSsTXlMV6tNotx",
-               "width" : 3120
-            }
-         ],
-         "place_id" : "ChIJUdsEL6si0i0Rt769GMhaB18",
-         "plus_code" : {
-            "compound_code" : "G78J+M2 Tegallalang, Gianyar, Bali, Indonesia",
-            "global_code" : "6P3QG78J+M2"
-         },
-         "rating" : 5,
-         "reference" : "ChIJUdsEL6si0i0Rt769GMhaB18",
-         "scope" : "GOOGLE",
-         "types" : [ "museum", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 4,
-         "vicinity" : "Jalan Raya Banjar Gentong, Tegallalang"
       }
    ],
    "status" : "OK"

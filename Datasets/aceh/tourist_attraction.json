@@ -43,7 +43,7 @@
          "rating" : 4.5,
          "reference" : "ChIJAxY7DKTrODARutWX2KO6Swk",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 2372,
          "vicinity" : "Takengon, Ulu Nuih, Bebesen, Ulu Nuih"
       },
@@ -88,7 +88,7 @@
          "rating" : 4.2,
          "reference" : "ChIJXf1rD1DsODARURnfHEr7cys",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 37,
          "vicinity" : "Mendale"
       },
@@ -133,7 +133,7 @@
          "rating" : 4.2,
          "reference" : "ChIJaXFmPpXxODARyemPZnxuJ5Q",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 160,
          "vicinity" : "Bamil Nosar"
       },
@@ -178,7 +178,7 @@
          "rating" : 4.5,
          "reference" : "ChIJnUEQ0v_wODARSl8QFV7s2dw",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 137,
          "vicinity" : "Jl. Takengon - Bintang, Kec. Bintang, Mengaya"
       },
@@ -223,7 +223,7 @@
          "rating" : 4.7,
          "reference" : "ChIJnSrIkezrODAR4y11HMKwV4A",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 3,
          "vicinity" : "Bies Penentanan"
       },
@@ -265,7 +265,7 @@
          "rating" : 4,
          "reference" : "ChIJxwO8wPjrODARvaHHFRtX-_k",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 22,
          "vicinity" : "Ulu Nuih"
       },
@@ -310,7 +310,7 @@
          "rating" : 4.2,
          "reference" : "ChIJGZnaIZrrODAR7A2cX6eKpV8",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 517,
          "vicinity" : "Tensaren"
       },
@@ -351,7 +351,7 @@
          },
          "reference" : "ChIJJwc2uEnrODARogbfH9NVOHg",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "vicinity" : "Unnamed Road, Sadong Juru Mudi"
       },
       {
@@ -392,7 +392,7 @@
          "rating" : 3.5,
          "reference" : "ChIJT3gnsTbrODAR4NsAX_T6ROI",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 2,
          "vicinity" : "Jalan ke Pantan Terong, Tensaren"
       },
@@ -437,52 +437,9 @@
          "rating" : 3.8,
          "reference" : "ChIJj5R5rWHpODAR3-HdH7YKFT0",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 41,
          "vicinity" : "Karang Bayur"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : 4.5964744,
-               "lng" : 96.80420839999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 4.597792330291502,
-                  "lng" : 96.8054331802915
-               },
-               "southwest" : {
-                  "lat" : 4.595094369708497,
-                  "lng" : 96.8027352197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "KPK",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1080,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/100765521468731970535\"\u003eRian BL9260G\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLDyF-dVxNS_JxccFPrNFOUyuWnTq08TRpSlHLiPySmEuQg_8UsxZsAtgbYWYsOf4YlNZSkuhsT3TDoLpGcYtNKEOz55sLlvFKfjACST3bWcsqfSBvYaycvAG64uQhAFxbuQLcOrNRg-ezbnyQqATtxWJHBPabQDgSFCQIAUdC4X0Ho",
-               "width" : 1920
-            }
-         ],
-         "place_id" : "ChIJETqz5J_pODARb5saaDZOjAs",
-         "plus_code" : {
-            "compound_code" : "HRW3+HM Simpang Kelaping, Central Aceh, Aceh, Indonesia",
-            "global_code" : "6MPRHRW3+HM"
-         },
-         "reference" : "ChIJETqz5J_pODARb5saaDZOjAs",
-         "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
-         "vicinity" : "Simpang Kelaping"
       },
       {
          "business_status" : "OPERATIONAL",
@@ -524,7 +481,7 @@
          },
          "reference" : "ChIJhUr95fDpODARsDUb2JdYLLI",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "vicinity" : "Simpang Kelaping"
       },
       {
@@ -568,11 +525,7 @@
          "rating" : 4.5,
          "reference" : "ChIJZ8JPiG3pODAR7RypylxCLxY",
          "scope" : "GOOGLE",
-         "types" : [
-            "tourist_attraction",
-            "travel_agency",
-            "point_of_interest",
-            "establishment"
+         "types" : ["cagar_alam"
          ],
          "user_ratings_total" : 272,
          "vicinity" : "Lukup Badak Jalan, Atang Jungket, Kayu Kul"
@@ -618,7 +571,7 @@
          "rating" : 4.3,
          "reference" : "ChIJEwSaU2jpODARMbDgyVS5K-Y",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 476,
          "vicinity" : "Simpang Kelaping"
       },
@@ -662,7 +615,7 @@
          },
          "reference" : "ChIJ-xLf2pDpODARSaxjaBnZrvU",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "vicinity" : "Unnamed Road, Simpang Kelaping"
       },
       {
@@ -703,7 +656,7 @@
          "rating" : 5,
          "reference" : "ChIJsTDJIc_pODARJShS6UXE8kA",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 3,
          "vicinity" : "JL. Simpang Kelaping - Lukup Badak, Kala Nareh"
       },
@@ -748,7 +701,7 @@
          "rating" : 2.5,
          "reference" : "ChIJa3AyLlbpODAR-RPmzzvFbac",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 2,
          "vicinity" : "Kute Lintang"
       },
@@ -793,7 +746,7 @@
          "rating" : 5,
          "reference" : "ChIJC9phhezpODARyZX7iZb9z3w",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 2,
          "vicinity" : "Asir Asir"
       },
@@ -838,7 +791,7 @@
          "rating" : 4.4,
          "reference" : "ChIJue4L1KruODAR03IPYRpwEK4",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 82,
          "vicinity" : "Asir Asir"
       },
@@ -880,7 +833,7 @@
          "rating" : 5,
          "reference" : "ChIJzyArU3bBODARQ2QJzVp-aDo",
          "scope" : "GOOGLE",
-         "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+         "types" : [ "cagar_alam" ],
          "user_ratings_total" : 1,
          "vicinity" : "Jalan Angkup - Rusip, Genting Gerbang"
       }

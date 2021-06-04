@@ -5,91 +5,6 @@
          "business_status" : "OPERATIONAL",
          "geometry" : {
             "location" : {
-               "lat" : -3.790093400000001,
-               "lng" : 102.2564335
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.788749019708498,
-                  "lng" : 102.2577784802915
-               },
-               "southwest" : {
-                  "lat" : -3.791446980291502,
-                  "lng" : 102.2550805197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "fisky juliandra",
-         "photos" : [
-            {
-               "height" : 405,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/100875651716650905100\"\u003efisky juliandra\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwJlbZIqnXSZAi5BHo6zBXWI0qOzVTXOq5JmSJjR84yTttdDarcS7jJ1-QLQfhKmx1CuyiWAN362GIsl83s1CghUVo0Pu-9fQVjme6-WXC4beA-y1WykQQ9GGanq8f0Huek0mvurjOsMRA5PxJZzlxOUIqf8Fjw-bUqLqGNNgUMEiz0z",
-               "width" : 720
-            }
-         ],
-         "place_id" : "ChIJRVGcE66xNi4RX6p6wOknlWk",
-         "plus_code" : {
-            "compound_code" : "6754+XH Kebun Ros, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P846754+XH"
-         },
-         "reference" : "ChIJRVGcE66xNi4RX6p6wOknlWk",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "vicinity" : "Jalan KH. Ahmad Dahlan RT.05/RW.02, KEl.Kebun"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.7875562,
-               "lng" : 102.2595033
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.786315269708497,
-                  "lng" : 102.2608350302915
-               },
-               "southwest" : {
-                  "lat" : -3.789013230291502,
-                  "lng" : 102.2581370697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "YURIKART",
-         "opening_hours" : {
-            "open_now" : false
-         },
-         "photos" : [
-            {
-               "height" : 4000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109171752506742443704\"\u003ehendra irawan\u003c/a\u003e"
-               ],
-               "photo_reference" : "ATtYBwLuP8jiea0w7aOpTSxwh4tnDqo3gyNZrWPWYq4B3Zsyn4avBjhmiqgJ7hjIZVOZzPp9Dk_qxHcit4AFSC4yIAWjnIkj-kQoPwQVlzK76NiOAXYi46dC7aiuNO5clUcGpQAbHeLegr8fZlQc6YXpvddJQ3_txvpJRBIuuRkUenvsSH3Z",
-               "width" : 2250
-            }
-         ],
-         "place_id" : "ChIJr9PaZk-xNi4R2FlaHUvUm1o",
-         "plus_code" : {
-            "compound_code" : "6765+XR Tengah Padang, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P846765+XR"
-         },
-         "rating" : 5,
-         "reference" : "ChIJr9PaZk-xNi4R2FlaHUvUm1o",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 4,
-         "vicinity" : "Gang Iskandar 11, Tengah Padang"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
                "lat" : -3.7954009,
                "lng" : 102.2664499
             },
@@ -114,7 +29,7 @@
          "rating" : 3,
          "reference" : "ChIJF4JRLD2wNi4RjFKiNciEFno",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "budaya","sejarah" ],
          "user_ratings_total" : 1,
          "vicinity" : "JL. Koto Jaya Mukomuko, 38365, Belakang Pondok"
       },
@@ -155,72 +70,10 @@
          },
          "reference" : "ChIJC0YXXjuwNi4RECtExQ52SXI",
          "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
+         "types" : [ "sejarah" ],
          "vicinity" : "Pasar Minggu Baru 2nd Floor, Jl Pasar Minggu Baru, No. 63, Belakang Pondok"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.795777499999999,
-               "lng" : 102.2689478
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.794342019708497,
-                  "lng" : 102.2701280302915
-               },
-               "southwest" : {
-                  "lat" : -3.797039980291502,
-                  "lng" : 102.2674300697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Gallery Pelangi Fashion",
-         "place_id" : "ChIJ1TG6Cz2wNi4RKiqPSWUkpyo",
-         "plus_code" : {
-            "compound_code" : "6739+MH Padang Jati, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P846739+MH"
-         },
-         "reference" : "ChIJ1TG6Cz2wNi4RKiqPSWUkpyo",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "vicinity" : "Jalan Basuki Rahmat No.8, Padang Jati"
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "geometry" : {
-            "location" : {
-               "lat" : -3.7819208,
-               "lng" : 102.2677984
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : -3.780522669708497,
-                  "lng" : 102.2690974802915
-               },
-               "southwest" : {
-                  "lat" : -3.783220630291502,
-                  "lng" : 102.2663995197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-         "name" : "Distortion TattoStudio",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "place_id" : "ChIJkVPJ9i2xNi4ROJSMf6omoiw",
-         "plus_code" : {
-            "compound_code" : "6799+64 Kampung Kelawi, Bengkulu City, Bengkulu, Indonesia",
-            "global_code" : "6P846799+64"
-         },
-         "reference" : "ChIJkVPJ9i2xNi4ROJSMf6omoiw",
-         "scope" : "GOOGLE",
-         "types" : [ "art_gallery", "point_of_interest", "establishment" ],
-         "vicinity" : "Kampung Kelawi"
       }
+
    ],
    "status" : "OK"
 }

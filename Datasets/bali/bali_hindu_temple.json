@@ -44,11 +44,7 @@
          "reference" : "ChIJB4M3rQs90i0RG8xbNY04VoU",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 172,
          "vicinity" : "Jalan Monkey Forest, Ubud"
@@ -95,10 +91,7 @@
          "reference" : "ChIJA_ASr4OQ0S0R2_4l79TSRg0",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 31,
          "vicinity" : "Jl. Mayor Metra Paket Agung, Liligundi"
@@ -142,10 +135,7 @@
          "reference" : "ChIJCYx_u6FA0i0RzkvmBKY813E",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 35,
          "vicinity" : "Jalan Sutomo No.6, Pemecutan Kaja"
@@ -192,11 +182,7 @@
          "reference" : "ChIJAUB625A70i0R7crEj_IvJq8",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 5983,
          "vicinity" : "Jalan Ayodya No.10, Mengwi"
@@ -243,11 +229,7 @@
          "reference" : "ChIJtTFh4PQY0i0RwewUdwFaolM",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 13345,
          "vicinity" : "Jalan Tirta, Manukaya"
@@ -294,11 +276,7 @@
          "reference" : "ChIJAy_WdOkm0i0R1OJxI3XgUJI",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "park",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 20,
          "vicinity" : "Banjar Dinas Pagi, Senganan"
@@ -342,10 +320,7 @@
          "reference" : "ChIJ9f8W2QKG0S0RelXb-wJBb10",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 67,
          "vicinity" : "Jalan Danau Tamblingan, Munduk"
@@ -389,10 +364,7 @@
          "reference" : "ChIJt5aYXFGP0S0RM-ZbgjBNSD0",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 9,
          "vicinity" : "Banyuatis"
@@ -436,10 +408,7 @@
          "reference" : "ChIJt8mdALSG0S0RYEuI1YtqEY4",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 2,
          "vicinity" : "Kedis"
@@ -486,11 +455,7 @@
          "reference" : "ChIJVwisn2yJ0S0RUxvb5GhlJBg",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+             "religi","sejarah"
          ],
          "user_ratings_total" : 24700,
          "vicinity" : "Danau Beratan, Candikuning"
@@ -537,11 +502,7 @@
          "reference" : "ChIJSUBnb6VA0i0RhfvVfeZ3Gc4",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 1437,
          "vicinity" : "Jalan Penatahan - Wongayagede, Wongaya Gede"
@@ -585,10 +546,7 @@
          "reference" : "ChIJ1wAYcE8n0i0Ra_Nq_m2N-38",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 76,
          "vicinity" : "Near Unnamed Rd. Br. Apit Yeh, Ds, Bangli"
@@ -635,10 +593,7 @@
          "reference" : "ChIJddywc9En0i0RLXee5bFE76U",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 8,
          "vicinity" : "Jalan Jurusan Kerambitan Batukaru, Wongaya Gede"
@@ -682,11 +637,7 @@
          "reference" : "ChIJZU7caDub0S0R9i1YCxuozvg",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "tourist_attraction",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi","sejarah"
          ],
          "user_ratings_total" : 3,
          "vicinity" : "Anturan"
@@ -730,10 +681,7 @@
          "reference" : "ChIJvVOmwd0m0i0RMmcV2rGA2Tw",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 1,
          "vicinity" : "Keridan,, Senganan"
@@ -777,10 +725,7 @@
          "reference" : "ChIJ20gECt0m0i0RvZfolS2rX00",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 2,
          "vicinity" : "Keridan, Senganan"
@@ -824,10 +769,7 @@
          "reference" : "ChIJa3pT39wm0i0RyNQBVAEASh8",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 1,
          "vicinity" : "Senganan"
@@ -871,10 +813,7 @@
          "reference" : "ChIJn4aDiDmD0S0Rr01qquSISjg",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 2,
          "vicinity" : "Br. Lebah, Dencarik,, Dencarik"
@@ -918,10 +857,7 @@
          "reference" : "ChIJa7C65GWK0S0R1IOP3S1vnR0",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 3,
          "vicinity" : "Br, Jalan Bukian, Pelaga"
@@ -965,10 +901,7 @@
          "reference" : "ChIJx1VM58cm0i0RWmRbGdKt0Ss",
          "scope" : "GOOGLE",
          "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
+            "religi"
          ],
          "user_ratings_total" : 15,
          "vicinity" : "Susut, Sulahan"
